@@ -11,6 +11,15 @@ RSS_FEEDS = [
     {"name": "Yahoo!ニュース 国内",    "url": "https://news.yahoo.co.jp/rss/topics/domestic.xml",           "category": "国内"},
     {"name": "Yahoo!ニュース 国際",    "url": "https://news.yahoo.co.jp/rss/topics/world.xml",              "category": "国際"},
     {"name": "ニューズウィーク日本版", "url": "https://www.newsweekjapan.jp/feed/index.rss",                "category": "国際"},
+    # ── ライブドアニュース ────────────────────────────────────
+    {"name": "ライブドアニュース 主要",  "url": "https://news.livedoor.com/topics/rss/top.xml",             "category": "総合"},
+    {"name": "ライブドアニュース 経済",  "url": "https://news.livedoor.com/topics/rss/eco.xml",             "category": "経済"},
+    {"name": "ライブドアニュース 国内",  "url": "https://news.livedoor.com/topics/rss/dom.xml",             "category": "国内"},
+    # ── 大和総研 ──────────────────────────────────────────────
+    {"name": "大和総研 経済分析",        "url": "https://www.dir.co.jp/feed/economics.atom",                "category": "経済"},
+    {"name": "大和総研 金融資本市場",    "url": "https://www.dir.co.jp/feed/capital-mkt.atom",              "category": "経済"},
+    {"name": "大和総研 政策分析",        "url": "https://www.dir.co.jp/feed/policy-analysis.atom",          "category": "経済"},
+    {"name": "大和総研 コラム",          "url": "https://www.dir.co.jp/feed/column.atom",                   "category": "経済"},
     # ── Reddit ────────────────────────────────────────────────
     {"name": "Reddit r/japan",         "url": "https://www.reddit.com/r/japan.rss",                         "category": "SNS"},
     {"name": "Reddit r/worldnews",     "url": "https://www.reddit.com/r/worldnews.rss",                     "category": "SNS"},
