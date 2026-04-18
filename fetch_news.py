@@ -20,6 +20,8 @@ RSS_FEEDS = [
     {"name": "大和総研 金融資本市場",    "url": "https://www.dir.co.jp/feed/capital-mkt.atom",              "category": "経済"},
     {"name": "大和総研 政策分析",        "url": "https://www.dir.co.jp/feed/policy-analysis.atom",          "category": "経済"},
     {"name": "大和総研 コラム",          "url": "https://www.dir.co.jp/feed/column.atom",                   "category": "経済"},
+    {"name": "大和総研 テクノロジー",   "url": "https://www.dir.co.jp/feed/technology.atom",               "category": "テクノロジー"},
+    {"name": "大和総研 税制",           "url": "https://www.dir.co.jp/feed/tax.atom",                      "category": "経済"},
     # ── Reddit ────────────────────────────────────────────────
     {"name": "Reddit r/japan",         "url": "https://www.reddit.com/r/japan.rss",                         "category": "SNS"},
     {"name": "Reddit r/worldnews",     "url": "https://www.reddit.com/r/worldnews.rss",                     "category": "SNS"},
