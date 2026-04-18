@@ -4,8 +4,12 @@ import urllib.request
 from datetime import datetime, timezone
 
 RSS_FEEDS = [
-    {"name": "朝日新聞",           "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf", "category": "総合"},
-    {"name": "Reuters Japan",      "url": "https://jp.reuters.com/rssFeed/topNews",      "category": "国際"},
+    {"name": "朝日新聞",               "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf",          "category": "総合"},
+    {"name": "Reuters Japan",          "url": "https://jp.reuters.com/rssFeed/topNews",                     "category": "国際"},
+    {"name": "Yahoo!ニュース 主要",    "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml",          "category": "総合"},
+    {"name": "Yahoo!ニュース 国内",    "url": "https://news.yahoo.co.jp/rss/topics/domestic.xml",           "category": "国内"},
+    {"name": "Yahoo!ニュース 国際",    "url": "https://news.yahoo.co.jp/rss/topics/world.xml",              "category": "国際"},
+    {"name": "ニューズウィーク日本版", "url": "https://www.newsweekjapan.jp/feed/index.rss",                "category": "国際"},
 ]
 
 def fetch_rss(feed):
