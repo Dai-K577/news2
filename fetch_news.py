@@ -16,8 +16,14 @@ RSS_FEEDS = [
     {"name": "Reddit r/worldnews",     "url": "https://www.reddit.com/r/worldnews.rss",                     "category": "SNS"},
     {"name": "Reddit r/technology",    "url": "https://www.reddit.com/r/technology.rss",                    "category": "テクノロジー"},
     {"name": "Reddit r/science",       "url": "https://www.reddit.com/r/science.rss",                       "category": "サイエンス"},
-    # ── RSSHub (デプロイ後に有効化) ───────────────────────────
-    # {"name": "Bluesky Trending",     "url": "https://YOUR_RSSHUB.vercel.app/bluesky/user/bsky.app",       "category": "SNS"},
+    # ── YouTube（公式RSS） ────────────────────────────────────
+    {"name": "高橋洋一チャンネル",     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCECfnRv8lSbn90zCAJWC7cg", "category": "YouTube"},
+    {"name": "虎ノ門ニュース",         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCuSPai4fj2nvwcCeyfq2sIA", "category": "YouTube"},
+    {"name": "静岡朝日テレビ",         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvF5vIejmf-H_XSluaBldfg", "category": "YouTube"},
+    {"name": "えいしゅう博士",         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4wMRvFkrG1H81EPDA0zsIg", "category": "YouTube"},
+    # ── Instagram（RSSHub経由） ───────────────────────────────
+    {"name": "elizabeth_amomof4",      "url": "https://rsshub-5n1hl18np-dai-k577s-projects.vercel.app/instagram/user/elizabeth_amomof4",  "category": "Instagram"},
+    {"name": "_takako.suzuki_",        "url": "https://rsshub-5n1hl18np-dai-k577s-projects.vercel.app/instagram/user/_takako.suzuki_",    "category": "Instagram"},
 ]
 
 def fetch_rss(feed):
