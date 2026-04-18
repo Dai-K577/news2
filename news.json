@@ -1,7 +1,15 @@
 {
-  "updated": "2026-04-18 19:55 UTC",
-  "total": 154,
+  "updated": "2026-04-18 22:04 UTC",
+  "total": 114,
   "news": [
+    {
+      "title": "北朝鮮のミサイル EEZ外に落下か",
+      "link": "https://news.yahoo.co.jp/pickup/6576768?source=rss",
+      "description": "",
+      "pubDate": "Sat, 18 Apr 2026 21:53:13 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "イラン軍事組織が商船攻撃 英当局",
       "link": "https://news.yahoo.co.jp/pickup/6576765?source=rss",
@@ -15,14 +23,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6576746?source=rss",
       "description": "",
       "pubDate": "Sat, 18 Apr 2026 10:48:49 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "田中眞紀子氏 一度だけ見た父の涙",
-      "link": "https://news.yahoo.co.jp/pickup/6576749?source=rss",
-      "description": "",
-      "pubDate": "Sat, 18 Apr 2026 11:42:12 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -131,6 +131,14 @@
       "category": "国内"
     },
     {
+      "title": "北朝鮮のミサイル EEZ外に落下か",
+      "link": "https://news.yahoo.co.jp/pickup/6576768?source=rss",
+      "description": "",
+      "pubDate": "Sat, 18 Apr 2026 21:53:13 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "イラン 海峡は「厳格な管理下に」",
       "link": "https://news.yahoo.co.jp/pickup/6576753?source=rss",
       "description": "",
@@ -173,14 +181,6 @@
     {
       "title": "G7 重要鉱物の供給網強化で一致",
       "link": "https://news.yahoo.co.jp/pickup/6576689?source=rss",
-      "description": "",
-      "pubDate": "Sat, 18 Apr 2026 01:16:46 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "米政府 UFO関連文書第一弾公開へ",
-      "link": "https://news.yahoo.co.jp/pickup/6576688?source=rss",
       "description": "",
       "pubDate": "Sat, 18 Apr 2026 01:16:46 GMT",
       "source": "Yahoo!ニュース 国際",
@@ -283,10 +283,10 @@
       "category": "経済"
     },
     {
-      "title": "「現代文明の血液」と呼ばれている…ナフサの供給危機、逃げられない",
-      "link": "https://news.livedoor.com/article/detail/31031152/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31031152/\">記事を読む</a>",
-      "pubDate": "Sat, 18 Apr 2026 08:00:00 +0900",
+      "title": "「石化ショック」が日本を直撃 ナフサ危機が日本に最も深刻な理由",
+      "link": "https://news.livedoor.com/article/detail/31037920/",
+      "description": "<a href=\"https://news.livedoor.com/article/detail/31037920/\">記事を読む</a>",
+      "pubDate": "Sun, 19 Apr 2026 06:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -913,326 +913,6 @@
       "pubDate": "Wed, 07 Jan 2026 14:00:00 +0900",
       "source": "大和総研 税制",
       "category": "経済"
-    },
-    {
-      "title": "4/18LIVE！テレビの裏側とL.A.みやげ話　消費税1％案/イラン/原発核のゴミ/自衛隊国歌斉唱",
-      "link": "https://www.youtube.com/watch?v=W6_-CG3Dlzs",
-      "description": "",
-      "pubDate": "2026-04-18T10:56:52+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "4/18LIVE！テレビの裏側とL.A.みやげ話　消費税1％案/イラン/原発核のゴミ/自衛隊国歌斉唱 📱",
-      "link": "https://www.youtube.com/watch?v=zAhm-l5ps1A",
-      "description": "",
-      "pubDate": "2026-04-18T12:41:29+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1489回　ソニー･ホンダEV断念に日経がアホ社説",
-      "link": "https://www.youtube.com/watch?v=y6Lz6wk7by4",
-      "description": "",
-      "pubDate": "2026-04-18T01:57:42+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "4/16 LAより擬似LIVE！大谷投手勝利＆自衛隊国家問題＆玉川発言etc...",
-      "link": "https://www.youtube.com/watch?v=Mcv4n97I2rQ",
-      "description": "",
-      "pubDate": "2026-04-17T07:55:17+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1488回　どうしても減税をしたくない勢力「システムが･･･」　そんなのは嘘です",
-      "link": "https://www.youtube.com/watch?v=i9uTzFKvmWU",
-      "description": "",
-      "pubDate": "2026-04-15T09:01:00+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "4/14　L.A.より擬似LIVE！原油高対策で円高は大間違い！赤沢大臣叱られる",
-      "link": "https://www.youtube.com/watch?v=BnQKt9nhaLQ",
-      "description": "",
-      "pubDate": "2026-04-15T07:05:50+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1487回　どうなる消費税減税　国民会議は財務省のトラップだらけ",
-      "link": "https://www.youtube.com/watch?v=kwQXrfvDmoE",
-      "description": "",
-      "pubDate": "2026-04-13T13:56:36+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "【音声不具合につき再UP】4/11 LIVE!イラン停戦、高市内閣と今井参与、消費減税ピンチ？",
-      "link": "https://www.youtube.com/watch?v=SxXTegDIgME",
-      "description": "",
-      "pubDate": "2026-04-14T22:05:40+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1486回　中国が南鳥島にちょっかいを出してきた！レアアースの基礎知識",
-      "link": "https://www.youtube.com/watch?v=chbanCgekoo",
-      "description": "",
-      "pubDate": "2026-04-13T09:17:56+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1485回　中山美穂の20億円遺産を相続放棄　相続税が異常に高い日本",
-      "link": "https://www.youtube.com/watch?v=_vzeJWHGVMc",
-      "description": "",
-      "pubDate": "2026-04-12T04:01:01+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "【理論崩壊】中国と国連が支離滅裂な勧告を出してきたことがアイヌ・琉球問題について話している時にわかりました（虎ノ門ニュース切り抜き）",
-      "link": "https://www.youtube.com/watch?v=ALOBTMb7Pvg",
-      "description": "",
-      "pubDate": "2026-04-18T14:34:09+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【地上波番組が謝罪】高市総理とトランプ大統領を叩きたいあのテレビ局の人物がイランのホルムズ海峡危機をめぐってやらかしたことを柳ヶ瀬さんが話してくれました（虎ノ門ニュース切り抜き）",
-      "link": "https://www.youtube.com/watch?v=pTRvK3zrXX4",
-      "description": "",
-      "pubDate": "2026-04-18T07:45:43+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】丸山穂高×柳ヶ瀬裕文 2026/4/17(金)",
-      "link": "https://www.youtube.com/watch?v=V2BmchFlH6w",
-      "description": "",
-      "pubDate": "2026-04-17T12:24:59+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【参政党の真実】国民会議に不参加となった本当の理由と政党としての存在意義　須田慎一郎×神谷宗幣（参政党代表）",
-      "link": "https://www.youtube.com/watch?v=irgGE5D4qL4",
-      "description": "",
-      "pubDate": "2026-04-17T10:37:09+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【告発と訴訟】自民党のあの大物議員が推し進める謎の利権の正体に迫る 【番組コラボ：虎ノ門ニュース×センキョタイムズ】",
-      "link": "https://www.youtube.com/watch?v=_ko_GETmwbY",
-      "description": "",
-      "pubDate": "2026-04-16T06:08:12+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】須田慎一郎×三枝玄太郎×三橋貴明 2026/4/14(火)",
-      "link": "https://www.youtube.com/watch?v=xqTY8vWo7io",
-      "description": "",
-      "pubDate": "2026-04-14T17:01:53+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【緊急配信】※韓国大統領がまた失言※トランプ大統領とイランの殴り合い交渉が行われる中、李在明大統領がまたやらかしました（柳ヶ瀬裕文×虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=I8spGBZq0RI",
-      "description": "",
-      "pubDate": "2026-04-14T07:17:51+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【辺野古の転覆事故】竹田恒泰さんがあの政党の平和学習に関する発言について話してくれました（虎ノ門ニュース切り抜き）",
-      "link": "https://www.youtube.com/watch?v=Buzq_EmlzDk",
-      "description": "",
-      "pubDate": "2026-04-13T22:31:08+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【トンデモ報道で釈明】髙橋洋一さんが中東情勢による石油危機を煽った地上波を高市総理が直接訂正した事件について話してくれました（虎ノ門ニュース切り抜き）",
-      "link": "https://www.youtube.com/watch?v=dq_RwyfUZAE",
-      "description": "",
-      "pubDate": "2026-04-13T04:33:56+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【米・イラン・イスラエル戦争】日本では報道されない世界情勢 伊藤貫 × 武田邦彦 （虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=fTfTnwHKM1A",
-      "description": "",
-      "pubDate": "2026-04-13T17:24:55+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "なぜ？　田久保前市長の裁判遅れるかも/自民内部でも反論続々/500種からどう選ぶ…早くもランドセル商戦/静岡茶を世界に　5分でわかる今週の静岡",
-      "link": "https://www.youtube.com/watch?v=k6LHxNgRta4",
-      "description": "",
-      "pubDate": "2026-04-18T11:46:36+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "鑑真ゆかりの地だけに植えられた珍しい花「ケイカ」が見頃　静岡・長泉町の井上靖文学館",
-      "link": "https://www.youtube.com/watch?v=HqL-olDbqTg",
-      "description": "",
-      "pubDate": "2026-04-18T09:15:34+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "静岡県内の特殊詐欺などの被害額は過去最多の７０億円！　久田誠本部長が特殊詐欺対策の推進などを指示",
-      "link": "https://www.youtube.com/watch?v=5ep97g-tmKk",
-      "description": "",
-      "pubDate": "2026-04-18T09:30:50+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "水難事故に注意！　静岡市の安倍川に水難事故への注意を促す横断幕が設置",
-      "link": "https://www.youtube.com/watch?v=kwZVdl_TkLg",
-      "description": "",
-      "pubDate": "2026-04-18T10:23:14+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "児童・生徒９２００人分の個人情報を保護者の許可を得ずにＰＴＡの役員に提供　静岡市の小中学校",
-      "link": "https://www.youtube.com/watch?v=lyuwqlG0eeU",
-      "description": "",
-      "pubDate": "2026-04-18T08:09:45+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "飲酒運転による事故を防ごう　沼津市の繁華街近くで警察が検問を実施",
-      "link": "https://www.youtube.com/watch?v=AqGMZ8NkSz8",
-      "description": "",
-      "pubDate": "2026-04-18T07:49:54+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ゆかいな議事録】漫才を地上波初放送！山本期日前＆長島聡之が放送事故覚悟で政治ネタに挑む今野忍記者も漫才参戦⁉「タイムマシーンで選挙予想を変えたい」／期日前「テレビでは一生漫才できないと思ってました」",
-      "link": "https://www.youtube.com/watch?v=E6CHWLJMFI4",
-      "description": "",
-      "pubDate": "2026-04-18T09:48:21+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "奇跡の500円ランチ 赤字覚悟！激安なのにボリューム満点【SATV特集】",
-      "link": "https://www.youtube.com/watch?v=Gm9Q6m9RFQY",
-      "description": "",
-      "pubDate": "2026-04-18T07:30:48+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "家康の命日…19代目当主の徳川家広さんらが参列し久能山東照宮で御例祭　静岡市",
-      "link": "https://www.youtube.com/watch?v=KxKYKbRzh5Q",
-      "description": "",
-      "pubDate": "2026-04-18T07:06:48+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "【期日前×今野忍】高橋洋一さん代打まさかの山本期日前⁉トランプパキスタンへキーマン「ムニール元帥」／中道40万円支給30人は誰に？惜敗率ランキング／ゆかいな議事録が漫才地上波初披露…やはりカットか⁉",
-      "link": "https://www.youtube.com/watch?v=i1Ja-bc-3_A",
-      "description": "",
-      "pubDate": "2026-04-18T07:38:28+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】これが富士山で考えられる史上最悪の状況で、明日起きてもおかしくない理由！",
-      "link": "https://www.youtube.com/watch?v=wwjEYJlYM7I",
-      "description": "",
-      "pubDate": "2026-04-18T10:01:27+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ライブ】南海トラフでスロースリップが判明しました！（2026年4月17日）",
-      "link": "https://www.youtube.com/watch?v=AtFyzKelC0Y",
-      "description": "",
-      "pubDate": "2026-04-18T07:35:43+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "羊蹄山で地震が急増！",
-      "link": "https://www.youtube.com/shorts/pZqSTZugUtY",
-      "description": "",
-      "pubDate": "2026-04-17T21:10:53+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】日本企業が4倍速で重レアアースを精錬することに成功！南鳥島に強い追い風に！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=bsBfglR7DRY",
-      "description": "",
-      "pubDate": "2026-04-17T07:41:29+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【朗報！】沖ノ鳥島の大量レアメタルを国が発表！商業化へ動き出しました！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=Fh9KAoBQz24",
-      "description": "",
-      "pubDate": "2026-04-16T08:04:37+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ライブ】今後も三陸沖地震注意な理由！わかりやすく解説します！（2026年4月14日）",
-      "link": "https://www.youtube.com/watch?v=ECKQI3pg5tk",
-      "description": "",
-      "pubDate": "2026-04-15T07:45:50+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】INPEXが人工燃料の生産に成功し商業化へ動き出しました！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=F0AjLeKrJ9M",
-      "description": "",
-      "pubDate": "2026-04-17T17:56:43+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報】新日本繊維が石炭灰からからレアアース回収に成功！日本がレアアース産出国になるかもしれません！",
-      "link": "https://www.youtube.com/watch?v=XtHApYxkMos",
-      "description": "",
-      "pubDate": "2026-04-14T08:19:42+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ライブ】北海道の阿寒湖に大量のマグマ蓄積か！？北海道大が発表しました！（2026年4月12日）",
-      "link": "https://www.youtube.com/watch?v=W6ZTkTWjE0s",
-      "description": "",
-      "pubDate": "2026-04-14T15:28:11+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】南鳥島レアアースの成功の可能性！価格20倍になってもうまくいく説！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=G973_zvFF20",
-      "description": "",
-      "pubDate": "2026-04-18T11:57:25+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
     }
   ]
 }
