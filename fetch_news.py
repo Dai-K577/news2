@@ -4,8 +4,6 @@ import urllib.request
 from datetime import datetime, timezone
 
 RSS_FEEDS = [
-    {"name": "NHKニュース",        "url": "https://www.nhk.or.jp/rss/news/cat0.xml",    "category": "国内"},
-    {"name": "NHK国際",            "url": "https://www.nhk.or.jp/rss/news/cat6.xml",    "category": "国際"},
     {"name": "朝日新聞",           "url": "https://www.asahi.com/rss/asahi/newsheadlines.rdf", "category": "総合"},
     {"name": "Reuters Japan",      "url": "https://jp.reuters.com/rssFeed/topNews",      "category": "国際"},
 ]
