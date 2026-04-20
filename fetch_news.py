@@ -1,7 +1,9 @@
 import json
 import xml.etree.ElementTree as ET
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+
+JST = timezone(timedelta(hours=9))
 
 RSS_FEEDS = [
     # ── ニュースメディア ──────────────────────────────────────
@@ -84,7 +86,7 @@ def main():
         print(f"  -> {len(items)} items")
 
     output = {
-        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "updated": datetime.now(JST).strftime("%Y-%m-%d %H:%M JST"),
         "total": len(all_news),
         "news": all_news
     }
