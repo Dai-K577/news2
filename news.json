@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28 00:25 JST",
+  "updated": "2026-04-28 06:35 JST",
   "total": 168,
   "news": [
     {
@@ -15,14 +15,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6577873?source=rss",
       "description": "",
       "pubDate": "Mon, 27 Apr 2026 11:24:53 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "村田製作所 8.8万件情報流出恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6577869?source=rss",
-      "description": "",
-      "pubDate": "Mon, 27 Apr 2026 10:16:59 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -51,6 +43,14 @@
       "category": "総合"
     },
     {
+      "title": "りくりゅうや吉田鋼太郎 紫綬褒章",
+      "link": "https://news.yahoo.co.jp/pickup/6577892?source=rss",
+      "description": "",
+      "pubDate": "Mon, 27 Apr 2026 21:26:43 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "純烈・酒井の所有馬 圧勝デビュー",
       "link": "https://news.yahoo.co.jp/pickup/6577888?source=rss",
       "description": "",
@@ -59,10 +59,10 @@
       "category": "総合"
     },
     {
-      "title": "USGドラム脱退 活動休止を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6577885?source=rss",
+      "title": "人気バンドの活動休止 今年相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6577891?source=rss",
       "description": "",
-      "pubDate": "Mon, 27 Apr 2026 13:17:13 GMT",
+      "pubDate": "Mon, 27 Apr 2026 21:09:07 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -71,14 +71,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6577857?source=rss",
       "description": "",
       "pubDate": "Mon, 27 Apr 2026 08:07:33 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "首相 電気・ガスの節約要請を否定",
-      "link": "https://news.yahoo.co.jp/pickup/6577813?source=rss",
-      "description": "",
-      "pubDate": "Mon, 27 Apr 2026 02:21:11 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -127,6 +119,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6577843?source=rss",
       "description": "",
       "pubDate": "Mon, 27 Apr 2026 05:34:36 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "りくりゅうや吉田鋼太郎 紫綬褒章",
+      "link": "https://news.yahoo.co.jp/pickup/6577892?source=rss",
+      "description": "",
+      "pubDate": "Mon, 27 Apr 2026 21:26:43 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -395,14 +395,6 @@
       "category": "経済"
     },
     {
-      "title": "カメラに光学照準器を装着可能に 希望小売価格は1430円",
-      "link": "https://news.livedoor.com/article/detail/31112974/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31112974/\">記事を読む</a>",
-      "pubDate": "Mon, 27 Apr 2026 15:40:20 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "コールマンがSALEに 4月30日から",
       "link": "https://news.livedoor.com/article/detail/31079277/",
       "description": "<a href=\"https://news.livedoor.com/article/detail/31079277/\">記事を読む</a>",
@@ -435,14 +427,6 @@
       "category": "経済"
     },
     {
-      "title": "食用油、6月に再び値上げ 円安や中東情勢など影響",
-      "link": "https://news.livedoor.com/article/detail/31114598/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31114598/\">記事を読む</a>",
-      "pubDate": "Mon, 27 Apr 2026 19:07:01 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "本日の上場来高値更新 アドバンテスト、東京エレクトロンなど25銘柄",
       "link": "https://news.livedoor.com/article/detail/31115287/",
       "description": "<a href=\"https://news.livedoor.com/article/detail/31115287/\">記事を読む</a>",
@@ -451,10 +435,26 @@
       "category": "経済"
     },
     {
+      "title": "欧州の「産業加速法案」は投資障壁となる 中国が表明",
+      "link": "https://news.livedoor.com/article/detail/31116079/",
+      "description": "<a href=\"https://news.livedoor.com/article/detail/31116079/\">記事を読む</a>",
+      "pubDate": "Mon, 27 Apr 2026 23:03:46 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
       "title": "日産、新型「キックス」をまもなく正式発表か ディーラーでは先行予約開始",
       "link": "https://news.livedoor.com/article/detail/31109557/",
       "description": "<a href=\"https://news.livedoor.com/article/detail/31109557/\">記事を読む</a>",
       "pubDate": "Mon, 27 Apr 2026 08:42:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "ほんこん 消費税0%に怒り露わ",
+      "link": "https://news.livedoor.com/article/detail/31117391/",
+      "description": "ざっくり言うと<br />\n      <ul>\n        <li>ほんこんが25日の番組で、進まない消費減税への怒りをあらわにした</li>\n        <li>「減税って我々の金やん!それをまた返すだけやろ」と指摘</li>\n        <li>「なんでそれを国会で言ってくれへんのかな」と怒りを露わにした</li>\n      </ul>\n      <a href=\"https",
+      "pubDate": "Tue, 28 Apr 2026 05:30:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -1030,7 +1030,7 @@
       "title": "1495回　遂に私の後継者が現れた？サナエノミクスのキーマンが語る高市成長戦略とは？",
       "link": "https://www.youtube.com/watch?v=-ScuPCx1K-g",
       "description": "",
-      "pubDate": "2026-04-27T13:13:42+00:00",
+      "pubDate": "2026-04-27T19:35:54+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1046,7 +1046,7 @@
       "title": "【スマホ版】4/25LIVE！消費税減税･相続税･憲法改正/自民青山＆国民玉木&参政安藤出演 📱",
       "link": "https://www.youtube.com/watch?v=h-pXe0fWepk",
       "description": "",
-      "pubDate": "2026-04-26T20:24:20+00:00",
+      "pubDate": "2026-04-27T18:01:36+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1230,7 +1230,7 @@
       "title": "「次は幕内優勝、その先には大関・横綱の道を」　熱海富士が関脇に昇進　静岡県出身力士として戦後初の快挙",
       "link": "https://www.youtube.com/watch?v=ec6RcJcDXic",
       "description": "",
-      "pubDate": "2026-04-27T10:29:32+00:00",
+      "pubDate": "2026-04-27T21:24:25+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1334,7 +1334,7 @@
       "title": "【緊急！】本日、三陸沖地震でM7.7の大地震が発生！この後、M9巨大地震の可能性について検討します！",
       "link": "https://www.youtube.com/watch?v=7zK8oVmvTCE",
       "description": "",
-      "pubDate": "2026-04-23T02:51:40+00:00",
+      "pubDate": "2026-04-27T21:33:50+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
@@ -1342,7 +1342,7 @@
       "title": "【ライブ】先ほど青森で震度５強の地震が発生！（2026年4月20日）",
       "link": "https://www.youtube.com/watch?v=rYtlyprpSA4",
       "description": "",
-      "pubDate": "2026-04-21T18:49:22+00:00",
+      "pubDate": "2026-04-27T17:24:01+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     }
