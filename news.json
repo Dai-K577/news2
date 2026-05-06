@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-07 01:11 JST",
-  "total": 169,
+  "updated": "2026-05-07 06:43 JST",
+  "total": 168,
   "news": [
     {
       "title": "連休明けの五月病 気を付けること",
@@ -11,18 +11,10 @@
       "category": "総合"
     },
     {
-      "title": "米イラン 覚書合意近づくと情報筋",
-      "link": "https://news.yahoo.co.jp/pickup/6579073?source=rss",
+      "title": "NY株終値612ドル高 戦闘終結期待",
+      "link": "https://news.yahoo.co.jp/pickup/6579094?source=rss",
       "description": "",
-      "pubDate": "Wed, 06 May 2026 12:23:34 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "感染疑い カナリア首長は入港拒否",
-      "link": "https://news.yahoo.co.jp/pickup/6579085?source=rss",
-      "description": "",
-      "pubDate": "Wed, 06 May 2026 14:11:29 GMT",
+      "pubDate": "Wed, 06 May 2026 21:28:43 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -43,10 +35,18 @@
       "category": "総合"
     },
     {
-      "title": "「不適切行為」コープみらい謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6579055?source=rss",
+      "title": "集団感染疑い ヒトへ感染の型確認",
+      "link": "https://news.yahoo.co.jp/pickup/6579093?source=rss",
       "description": "",
-      "pubDate": "Wed, 06 May 2026 10:04:02 GMT",
+      "pubDate": "Wed, 06 May 2026 21:20:52 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "大谷26打席ぶり安打 新パフォ披露",
+      "link": "https://news.yahoo.co.jp/pickup/6579092?source=rss",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 21:06:25 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -155,6 +155,14 @@
       "category": "国際"
     },
     {
+      "title": "集団感染疑い ヒトへ感染の型確認",
+      "link": "https://news.yahoo.co.jp/pickup/6579093?source=rss",
+      "description": "",
+      "pubDate": "Wed, 06 May 2026 21:20:52 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "感染疑い カナリア首長は入港拒否",
       "link": "https://news.yahoo.co.jp/pickup/6579085?source=rss",
       "description": "",
@@ -167,14 +175,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6579075?source=rss",
       "description": "",
       "pubDate": "Wed, 06 May 2026 12:56:24 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "集団感染 3人死亡した船の生活は",
-      "link": "https://news.yahoo.co.jp/pickup/6579065?source=rss",
-      "description": "",
-      "pubDate": "Wed, 06 May 2026 11:22:35 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -295,14 +295,6 @@
       "link": "https://www.j-cast.com/trend/2026/05/06514399.html",
       "description": "<p>映像関連製品の販売を手がけるSAEDA（広島市）は、オリジナルブランド「BECKS」のカメラシリーズ「B-Quest」から、コンパクトデジタルカメラ「BQ1」を2026年5月7日に発売する。</p>",
       "pubDate": "Wed, 06 May 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
-      "title": "ほっともっと「旨辛アジアフェア」　第2弾は「麻辣湯弁当」と「ガパオライス」",
-      "link": "https://www.j-cast.com/trend/2026/05/05514389.html",
-      "description": "<p>持ち帰り弁当チェーン「Hotto Motto（ほっともっと）」を展開するプレナス（東京都中央区）は、「麻辣湯（マーラータン）弁当」「ガパオライス」など4商品を2026年5月8日に発売する。</p>",
-      "pubDate": "Tue, 05 May 2026 18:00:00 +0900",
       "source": "J-CASTトレンド",
       "category": "総合"
     },
@@ -435,14 +427,6 @@
       "category": "経済"
     },
     {
-      "title": "シニア世代のSNS利用は「60代で9割超」アンケート調査で判明",
-      "link": "https://news.livedoor.com/article/detail/31188900/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31188900/\">記事を読む</a>",
-      "pubDate": "Wed, 06 May 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "ホンダの新型スポーツコンパクト「スーパーワン」先行予約が開始",
       "link": "https://news.livedoor.com/article/detail/31190877/",
       "description": "<a href=\"https://news.livedoor.com/article/detail/31190877/\">記事を読む</a>",
@@ -459,18 +443,26 @@
       "category": "経済"
     },
     {
-      "title": "外国為替市場の円相場 一時155円台前半に急上昇…追加の円買い介入か",
-      "link": "https://news.livedoor.com/article/detail/31191176/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31191176/\">記事を読む</a>",
-      "pubDate": "Wed, 06 May 2026 14:55:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "日本政府が「円買い」の為替介入 160円ラインを死守する姿勢を示す",
       "link": "https://news.livedoor.com/article/detail/31191160/",
       "description": "<a href=\"https://news.livedoor.com/article/detail/31191160/\">記事を読む</a>",
       "pubDate": "Wed, 06 May 2026 14:50:51 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "「世界最高の医療機関」に選ばれた総合病院 すい臓がんAIを開発したと発表",
+      "link": "https://news.livedoor.com/article/detail/31194112/",
+      "description": "<a href=\"https://news.livedoor.com/article/detail/31194112/\">記事を読む</a>",
+      "pubDate": "Wed, 06 May 2026 22:15:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "日本の為替介入をアナリストが分析「原因特定は時期尚早」",
+      "link": "https://news.livedoor.com/article/detail/31194495/",
+      "description": "<a href=\"https://news.livedoor.com/article/detail/31194495/\">記事を読む</a>",
+      "pubDate": "Thu, 07 May 2026 00:05:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
