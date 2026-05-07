@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-08 03:00 JST",
-  "total": 169,
+  "updated": "2026-05-08 06:32 JST",
+  "total": 168,
   "news": [
     {
       "title": "ガソリン補助金 3月1800億円支出",
@@ -19,10 +19,10 @@
       "category": "総合"
     },
     {
-      "title": "バス事故 高校が会社側の説明否定",
-      "link": "https://news.yahoo.co.jp/pickup/6579206?source=rss",
+      "title": "バス事故 男は二種免許を所持せず",
+      "link": "https://news.yahoo.co.jp/pickup/6579213?source=rss",
       "description": "",
-      "pubDate": "Thu, 07 May 2026 13:44:43 GMT",
+      "pubDate": "Thu, 07 May 2026 21:10:24 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -59,10 +59,10 @@
       "category": "総合"
     },
     {
-      "title": "43歳・冨永愛 約20年ぶりに出産",
-      "link": "https://news.yahoo.co.jp/pickup/6579158?source=rss",
+      "title": "危険スイングに「退場」検討 NPB",
+      "link": "https://news.yahoo.co.jp/pickup/6579214?source=rss",
       "description": "",
-      "pubDate": "Thu, 07 May 2026 07:17:46 GMT",
+      "pubDate": "Thu, 07 May 2026 21:20:39 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -299,14 +299,6 @@
       "category": "総合"
     },
     {
-      "title": "足で電源と風量調節が操作できる扇風機　シロカ「しゃがみま扇」",
-      "link": "https://www.j-cast.com/trend/2026/05/06514261.html",
-      "description": "<p>生活家電などを手がける<a href=\"https://www.siroca.co.jp/\" target=\"_blank\">シロカ</a>（東京都千代田区）は、「DCリビング扇風機 しゃがみま扇 SF-DB151」を2026年5月15日に発売する。</p>",
-      "pubDate": "Wed, 06 May 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "<p><br /><br />「折り紙」を販売する自動販売機がツイッター上で話題となっている。<br /><br />手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。<br /><br />レパートリーは数えきれないほど<br /><br />愛媛県内子町…\n</p>\n         <p><a href=\"http://j-t",
@@ -459,10 +451,10 @@
       "category": "経済"
     },
     {
-      "title": "「ロキソニン」や胃腸薬など、最大で40％値上げ実施へ 第一三共ヘルスケア",
-      "link": "https://news.livedoor.com/article/detail/31200813/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31200813/\">記事を読む</a>",
-      "pubDate": "Thu, 07 May 2026 15:25:00 +0900",
+      "title": "老後のお金や生活費が足りるのか不安... 年金の疑問に専門家が回答",
+      "link": "https://news.livedoor.com/article/detail/31203688/",
+      "description": "<a href=\"https://news.livedoor.com/article/detail/31203688/\">記事を読む</a>",
+      "pubDate": "Thu, 07 May 2026 20:30:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -473,6 +465,14 @@
       "pubDate": "Thu, 07 May 2026 07:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "上司に妊娠を報告すると暴言「時期選んでから妊娠しなさいよ」女性が絶句",
+      "link": "https://news.livedoor.com/article/detail/31195758/",
+      "description": "ざっくり言うと<br />\n      <ul>\n        <li>東京都の40代女性が結婚を報告した際、上司は祝福せずため息をついた</li>\n        <li>妊娠報告では「今妊娠する時期じゃない」と暴言を吐かれたという</li>\n        <li>有給も数日しか貰えず、残りは捨てる形で産前休暇に入ったとのこと</li>\n      </ul>\n      <a href=\"",
+      "pubDate": "Thu, 07 May 2026 06:00:50 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "ホテル客室で焼き肉、火災報知器が作動「損害賠償」を請求される可能性",
@@ -501,7 +501,7 @@
     {
       "title": "福島県のマイクロバス死亡事故 プロ以外の運転は「結構あった」と現役教師",
       "link": "https://news.livedoor.com/article/detail/31202470/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31202470/\">記事を読む</a>",
+      "description": "ざっくり言うと<br />\n      <ul>\n        <li>福島県郡山市のバス事故で、男子生徒1人がバスから外に投げ出され死亡した</li>\n        <li>学校側は運転手付きの貸し切りバスではなく、レンタカーのみを依頼したそう</li>\n        <li>中型マイクロバスなら、プロではない顧問が運転するケースは多かったという</li>\n      </ul>\n    ",
       "pubDate": "Thu, 07 May 2026 18:20:35 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -543,14 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/31201857/",
       "description": "<a href=\"https://news.livedoor.com/article/detail/31201857/\">記事を読む</a>",
       "pubDate": "Thu, 07 May 2026 17:25:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "阪神高速に飲酒チャリが誤進入 運転免許停止処分になる可能性も",
-      "link": "https://news.livedoor.com/article/detail/31202070/",
-      "description": "<a href=\"https://news.livedoor.com/article/detail/31202070/\">記事を読む</a>",
-      "pubDate": "Thu, 07 May 2026 17:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1275,6 +1267,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【速報！】先ほど、茨城県で震度３の地震が発生！わかりやすく解説します！",
+      "link": "https://www.youtube.com/watch?v=uB1WQU-27Rw",
+      "description": "",
+      "pubDate": "2026-05-07T19:24:55+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
       "title": "【ライブ】本日、四国で地震が発生！生放送で解説します！（2026年5月7日）",
       "link": "https://www.youtube.com/watch?v=xwp0B__DsMQ",
       "description": "",
@@ -1343,14 +1343,6 @@
       "link": "https://www.youtube.com/shorts/18EbB-qgHC8",
       "description": "",
       "pubDate": "2026-05-02T07:34:46+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】十和田湖がふくらみ地震が急増していることが判明！巨大噴火の可能性について解説します！",
-      "link": "https://www.youtube.com/watch?v=a-GMmYziusA",
-      "description": "",
-      "pubDate": "2026-05-07T12:40:50+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     }
