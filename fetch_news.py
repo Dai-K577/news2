@@ -1,9 +1,20 @@
 import json
+import re
+import html as html_lib
 import xml.etree.ElementTree as ET
 import urllib.request
 from datetime import datetime, timezone, timedelta
 
 JST = timezone(timedelta(hours=9))
+
+def strip_html(text: str) -> str:
+    """HTMLタグ・エンティティを除去してプレーンテキストに変換"""
+    if not text:
+        return ""
+    text = re.sub(r"<[^>]+>", "", text)   # 完全タグを除去
+    text = re.sub(r"<[^>]*$", "", text)    # 末尾の未閉じタグを除去
+    text = html_lib.unescape(text)         # &amp; などをデコード
+    return " ".join(text.split())          # 空白を正規化
 
 RSS_FEEDS = [
     # ── ニュースメディア ──────────────────────────────────────
@@ -59,7 +70,7 @@ def fetch_rss(feed):
             desc  = item.findtext("description", "").strip()
             pub   = item.findtext("pubDate", "").strip()
             if title and link:
-                items.append({"title": title, "link": link, "description": desc[:200], "pubDate": pub, "source": feed["name"], "category": feed["category"]})
+                items.append({"title": title, "link": link, "description": strip_html(desc)[:200], "pubDate": pub, "source": feed["name"], "category": feed["category"]})
 
         # Atom
         if not items:
@@ -70,7 +81,7 @@ def fetch_rss(feed):
                 desc  = entry.findtext("{http://www.w3.org/2005/Atom}summary", "").strip()
                 pub   = entry.findtext("{http://www.w3.org/2005/Atom}updated", "").strip()
                 if title and link:
-                    items.append({"title": title, "link": link, "description": desc[:200], "pubDate": pub, "source": feed["name"], "category": feed["category"]})
+                    items.append({"title": title, "link": link, "description": strip_html(desc)[:200], "pubDate": pub, "source": feed["name"], "category": feed["category"]})
 
         return items
     except Exception as e:

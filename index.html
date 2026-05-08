@@ -186,7 +186,6 @@
     font-weight: 700;
     line-height: 1.55;
     margin-bottom: 10px;
-    flex: 1;
   }
   .card-title a {
     color: inherit;
@@ -214,6 +213,7 @@
     border-bottom: 1px solid var(--rule);
     padding-bottom: 2px;
     align-self: flex-start;
+    margin-top: auto;
     transition: color .15s, border-color .15s;
   }
   .card-link:hover { color: var(--accent); border-color: var(--accent); }
@@ -330,7 +330,11 @@
 
   function stripHtml(html) {
     if (!html) return '';
-    return html.replace(/<[^>]*>/g, '').replace(/&[a-z]+;/gi, ' ').trim();
+    return html
+      .replace(/<[^>]*>/g, '')   // 完全タグを除去
+      .replace(/<[^>]*$/, '')    // 末尾の未閉じタグを除去
+      .replace(/&[a-z]+;/gi, ' ')
+      .trim();
   }
 
   function renderCards(items) {
