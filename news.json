@@ -1,28 +1,20 @@
 {
-  "updated": "2026-05-15 01:25 JST",
-  "total": 169,
+  "updated": "2026-05-15 06:55 JST",
+  "total": 168,
   "news": [
+    {
+      "title": "緊急事態条項 与野党議論に温度差",
+      "link": "https://news.yahoo.co.jp/pickup/6580186?source=rss",
+      "description": "",
+      "pubDate": "Thu, 14 May 2026 21:35:35 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "米中会談「親密」アピール 狙いは",
       "link": "https://news.yahoo.co.jp/pickup/6580182?source=rss",
       "description": "",
       "pubDate": "Thu, 14 May 2026 15:02:05 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "大阪メトロ 万博EVバス損失計上",
-      "link": "https://news.yahoo.co.jp/pickup/6580180?source=rss",
-      "description": "",
-      "pubDate": "Thu, 14 May 2026 14:27:19 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "栃木の強盗殺人事件 背後に匿流か",
-      "link": "https://news.yahoo.co.jp/pickup/6580179?source=rss",
-      "description": "",
-      "pubDate": "Thu, 14 May 2026 14:26:39 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -59,26 +51,34 @@
       "category": "総合"
     },
     {
-      "title": "賀来賢人 英語で話しセルフ通訳",
-      "link": "https://news.yahoo.co.jp/pickup/6580172?source=rss",
+      "title": "オリ・舜平大が今季絶望か 肘手術",
+      "link": "https://news.yahoo.co.jp/pickup/6580184?source=rss",
       "description": "",
-      "pubDate": "Thu, 14 May 2026 13:21:40 GMT",
+      "pubDate": "Thu, 14 May 2026 21:13:03 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "蒼井優 18年ぶり地上波連ドラ主演",
+      "link": "https://news.yahoo.co.jp/pickup/6580185?source=rss",
+      "description": "",
+      "pubDate": "Thu, 14 May 2026 21:20:38 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "緊急事態条項 与野党議論に温度差",
+      "link": "https://news.yahoo.co.jp/pickup/6580186?source=rss",
+      "description": "",
+      "pubDate": "Thu, 14 May 2026 21:35:35 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "米中会談で台湾焦点 日本どう影響",
       "link": "https://news.yahoo.co.jp/pickup/6580140?source=rss",
       "description": "",
       "pubDate": "Thu, 14 May 2026 10:30:13 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "再審見直し 自民と法務省痛み分け",
-      "link": "https://news.yahoo.co.jp/pickup/6580072?source=rss",
-      "description": "",
-      "pubDate": "Thu, 14 May 2026 02:33:30 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -171,10 +171,10 @@
       "category": "国際"
     },
     {
-      "title": "キャサリン妃が伊訪問 市民大歓声",
-      "link": "https://news.yahoo.co.jp/pickup/6580088?source=rss",
+      "title": "ウ大統領元側近拘束 資金洗浄疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6580187?source=rss",
       "description": "",
-      "pubDate": "Thu, 14 May 2026 04:05:46 GMT",
+      "pubDate": "Thu, 14 May 2026 21:51:31 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -299,14 +299,6 @@
       "category": "総合"
     },
     {
-      "title": "紀州産南高梅を使用　無添加の「夏梅」と「夏梅ソーダ」チョーヤ梅酒",
-      "link": "https://www.j-cast.com/trend/2026/05/13514589.html",
-      "description": "チョーヤ梅酒は、梅果汁入りの清涼飲料「CHOYA 夏梅（なつうめ）」など数量限定の2商品を2026年5月12日から順次発売する。",
-      "pubDate": "Wed, 13 May 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -419,18 +411,26 @@
       "category": "経済"
     },
     {
-      "title": "日清製粉が商品数の縮小を検討予定 中東情勢の悪化で調達コストが上昇",
-      "link": "https://news.livedoor.com/article/detail/31270779/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 14 May 2026 20:21:45 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "カルビー「ポテチ」など値上げへ",
       "link": "https://news.livedoor.com/article/detail/31266801/",
       "description": "記事を読む",
       "pubDate": "Thu, 14 May 2026 14:18:37 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "四国と本州の交流人口は増加傾向 経営自立のカギを握る鉄道事業の今後",
+      "link": "https://news.livedoor.com/article/detail/31272770/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 15 May 2026 04:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "「一貫した品質」で評価低さ",
+      "link": "https://news.livedoor.com/article/detail/31271547/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 14 May 2026 22:18:46 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -451,10 +451,10 @@
       "category": "経済"
     },
     {
-      "title": "クロマグロ 高知・宿毛湾で大量に回遊…わずか1週間で県の漁獲量上限に",
-      "link": "https://news.livedoor.com/article/detail/31265891/",
+      "title": "制作現場のリスク管理や品質管理を強化 各局が進めるAI活用の具体例相次ぐ",
+      "link": "https://news.livedoor.com/article/detail/31273312/",
       "description": "記事を読む",
-      "pubDate": "Thu, 14 May 2026 13:00:02 +0900",
+      "pubDate": "Fri, 15 May 2026 05:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -463,14 +463,6 @@
       "link": "https://news.livedoor.com/article/detail/31269076/",
       "description": "ざっくり言うと BMWジャパンは15日、「X3 M50 xDrive」に特別仕様車を追加した 最大の特徴は、特別な艶消しマットカラーを採用している点 SNSでは「速そう!」「かなり走りそう」といった声が上がっている 記事を読む",
       "pubDate": "Thu, 14 May 2026 17:30:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "民間機とは一線を画す「電動飛行機」の正体 北九州で実証試験",
-      "link": "https://news.livedoor.com/article/detail/31271193/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 14 May 2026 21:12:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -1086,7 +1078,7 @@
       "title": "1504回　私立大学250校削減?! 補助金止めて学生に配れ！",
       "link": "https://www.youtube.com/watch?v=ylilkE-089k",
       "description": "",
-      "pubDate": "2026-05-08T09:01:25+00:00",
+      "pubDate": "2026-05-12T10:36:07+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1166,7 +1158,7 @@
       "title": "【虎ノ門ニュース】髙橋洋一×丸山穂高 2026/5/15(金)",
       "link": "https://www.youtube.com/watch?v=1wSu1icR7XA",
       "description": "",
-      "pubDate": "2026-05-14T04:53:37+00:00",
+      "pubDate": "2026-05-14T21:25:10+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1278,7 +1270,7 @@
       "title": "【ライブ】岩手県で震度４地震が発生！生放送で解説します！（2026年5月14日）",
       "link": "https://www.youtube.com/watch?v=AHhcZsYyfZ0",
       "description": "",
-      "pubDate": "2026-05-14T14:51:40+00:00",
+      "pubDate": "2026-05-14T21:40:13+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
