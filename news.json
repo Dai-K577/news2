@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-20 23:29 JST",
-  "total": 170,
+  "updated": "2026-05-21 02:48 JST",
+  "total": 169,
   "news": [
     {
       "title": "習氏 中露は軍国主義復活に反対",
@@ -19,14 +19,6 @@
       "category": "総合"
     },
     {
-      "title": "エボラ世界拡大リスク低い WHO",
-      "link": "https://news.yahoo.co.jp/pickup/6581026?source=rss",
-      "description": "",
-      "pubDate": "Wed, 20 May 2026 13:50:15 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "栃木強殺 被害者の飼い犬も殺害か",
       "link": "https://news.yahoo.co.jp/pickup/6581029?source=rss",
       "description": "",
@@ -35,10 +27,18 @@
       "category": "総合"
     },
     {
-      "title": "爆破予告騒動 東大生当事者ら語る",
-      "link": "https://news.yahoo.co.jp/pickup/6580984?source=rss",
+      "title": "クマ追い払おうとし 女性転び骨折",
+      "link": "https://news.yahoo.co.jp/pickup/6581030?source=rss",
       "description": "",
-      "pubDate": "Wed, 20 May 2026 09:24:41 GMT",
+      "pubDate": "Wed, 20 May 2026 14:38:08 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "キリン「一番搾り」など値下げ",
+      "link": "https://news.yahoo.co.jp/pickup/6581000?source=rss",
+      "description": "",
+      "pubDate": "Wed, 20 May 2026 10:23:50 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -307,14 +307,6 @@
       "category": "総合"
     },
     {
-      "title": "「ハローキティ」が奇跡のプロポーションに　カプセルトイフィギュア",
-      "link": "https://www.j-cast.com/trend/2026/05/19514795.html",
-      "description": "タカラトミーグループのタカラトミーアーツ（東京都葛飾区）は、サンリオのキャラクター「ハローキティ」のカプセルトイフィギュア「ハローキティ スタイルアップフィギュアコレクション」を、2026年5月下旬から全国のカプセル自販機で順次発売する。",
-      "pubDate": "Tue, 19 May 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -403,10 +395,10 @@
       "category": "総合"
     },
     {
-      "title": "シゴデキがやる「掛け算」の返信、3回に1回は文末に気遣いのひと言を",
-      "link": "https://news.livedoor.com/article/detail/31322721/",
+      "title": "新AIモデル「Gemini Omni」発表",
+      "link": "https://news.livedoor.com/article/detail/31328767/",
       "description": "記事を読む",
-      "pubDate": "Wed, 20 May 2026 11:15:00 +0900",
+      "pubDate": "Wed, 20 May 2026 22:11:21 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -443,10 +435,10 @@
       "category": "経済"
     },
     {
-      "title": "日清オイリオ 業務用食用油の一部商品、7月から販売休止へ",
-      "link": "https://news.livedoor.com/article/detail/31322750/",
+      "title": "AIコーディングツールは手放せない 実用したり開発したりしているのは",
+      "link": "https://news.livedoor.com/article/detail/31329296/",
       "description": "記事を読む",
-      "pubDate": "Wed, 20 May 2026 11:21:00 +0900",
+      "pubDate": "Thu, 21 May 2026 00:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -483,6 +475,14 @@
       "category": "経済"
     },
     {
+      "title": "MDMAを施用した疑い 新潟市の16歳女子高校生と21歳の男を逮捕",
+      "link": "https://news.livedoor.com/article/detail/31328770/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 20 May 2026 22:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "オカヤドカリを箱詰めにし発送しようとしたか ベトナム国籍の男女4人逮捕",
       "link": "https://news.livedoor.com/article/detail/31326837/",
       "description": "記事を読む",
@@ -501,7 +501,7 @@
     {
       "title": "嫌味を言う人が自ら離れていくための対処法 カウンセラーが解説",
       "link": "https://news.livedoor.com/article/detail/31326363/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 嫌味を言う人が自ら離れていく「対処法」をカウンセラーが解説した 反応をつまらなくする、抑止力を育てる、声のトーンを落とすなど 「それ嫌味ですよね」と直接聞き返すアプローチも挙げている 記事を読む",
       "pubDate": "Wed, 20 May 2026 17:24:14 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -551,14 +551,6 @@
       "link": "https://news.livedoor.com/article/detail/31327598/",
       "description": "記事を読む",
       "pubDate": "Wed, 20 May 2026 19:27:34 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "元取締役が特別背任の容疑で逮捕「スーパー玉出」が謝罪・説明",
-      "link": "https://news.livedoor.com/article/detail/31326780/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 20 May 2026 18:08:05 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
