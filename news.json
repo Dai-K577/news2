@@ -1,52 +1,52 @@
 {
-  "updated": "2026-05-21 21:00 JST",
-  "total": 170,
+  "updated": "2026-05-22 00:30 JST",
+  "total": 169,
   "news": [
     {
-      "title": "首相を支援 340人超の巨大議連",
-      "link": "https://news.yahoo.co.jp/pickup/6581128?source=rss",
+      "title": "補正予算3兆円程度で調整へ 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6581145?source=rss",
       "description": "",
-      "pubDate": "Thu, 21 May 2026 10:23:26 GMT",
+      "pubDate": "Thu, 21 May 2026 13:09:21 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "エチレン生産3.6%増 稼働率最低",
-      "link": "https://news.yahoo.co.jp/pickup/6581130?source=rss",
+      "title": "露司令部攻撃し100人死傷 ウ主張",
+      "link": "https://news.yahoo.co.jp/pickup/6581158?source=rss",
       "description": "",
-      "pubDate": "Thu, 21 May 2026 10:34:23 GMT",
+      "pubDate": "Thu, 21 May 2026 14:45:25 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "殺した日燃やした 動物園職員供述",
-      "link": "https://news.yahoo.co.jp/pickup/6581140?source=rss",
+      "title": "兵庫の民家に母娘遺体 他殺と断定",
+      "link": "https://news.yahoo.co.jp/pickup/6581156?source=rss",
       "description": "",
-      "pubDate": "Thu, 21 May 2026 11:44:10 GMT",
+      "pubDate": "Thu, 21 May 2026 14:27:48 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "物価高で居酒屋悲鳴 値上げ望む客",
-      "link": "https://news.yahoo.co.jp/pickup/6581138?source=rss",
+      "title": "NHK受信契約巡り 岐阜知事が要請",
+      "link": "https://news.yahoo.co.jp/pickup/6581146?source=rss",
       "description": "",
-      "pubDate": "Thu, 21 May 2026 11:24:37 GMT",
+      "pubDate": "Thu, 21 May 2026 13:02:33 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "トラック同士衝突 1人死亡1人重体",
-      "link": "https://news.yahoo.co.jp/pickup/6581139?source=rss",
+      "title": "村上世彰氏長女 近鉄GHD大株主に",
+      "link": "https://news.yahoo.co.jp/pickup/6581147?source=rss",
       "description": "",
-      "pubDate": "Thu, 21 May 2026 11:32:19 GMT",
+      "pubDate": "Thu, 21 May 2026 13:06:28 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "1歳で希少がん 声殺して泣いた母",
-      "link": "https://news.yahoo.co.jp/pickup/6581135?source=rss",
+      "title": "基地近くで100人超騒ぐ 住民苦情",
+      "link": "https://news.yahoo.co.jp/pickup/6581152?source=rss",
       "description": "",
-      "pubDate": "Thu, 21 May 2026 10:49:20 GMT",
+      "pubDate": "Thu, 21 May 2026 13:43:37 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -59,12 +59,20 @@
       "category": "総合"
     },
     {
-      "title": "藤原貴弘さん43歳で死去 追悼の声",
-      "link": "https://news.yahoo.co.jp/pickup/6581136?source=rss",
+      "title": "椎名林檎ワールド全開 校歌誕生",
+      "link": "https://news.yahoo.co.jp/pickup/6581157?source=rss",
       "description": "",
-      "pubDate": "Thu, 21 May 2026 10:50:37 GMT",
+      "pubDate": "Thu, 21 May 2026 14:32:56 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "補正予算3兆円程度で調整へ 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6581145?source=rss",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 13:09:21 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "首相を支援 340人超の巨大議連",
@@ -99,14 +107,6 @@
       "category": "国内"
     },
     {
-      "title": "夏の電気ガス補助 5000億円で調整",
-      "link": "https://news.yahoo.co.jp/pickup/6581074?source=rss",
-      "description": "",
-      "pubDate": "Thu, 21 May 2026 03:44:48 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "税額控除 当面給付に一本化の方向",
       "link": "https://news.yahoo.co.jp/pickup/6581052?source=rss",
       "description": "",
@@ -129,6 +129,14 @@
       "pubDate": "Thu, 21 May 2026 09:43:09 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
+    },
+    {
+      "title": "露司令部攻撃し100人死傷 ウ主張",
+      "link": "https://news.yahoo.co.jp/pickup/6581158?source=rss",
+      "description": "",
+      "pubDate": "Thu, 21 May 2026 14:45:25 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
     },
     {
       "title": "米大統領 イランとの交渉最終段階",
@@ -183,14 +191,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6581020?source=rss",
       "description": "",
       "pubDate": "Wed, 20 May 2026 12:50:56 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "知らない人と買い物 韓国の節約術",
-      "link": "https://news.yahoo.co.jp/pickup/6581016?source=rss",
-      "description": "",
-      "pubDate": "Wed, 20 May 2026 12:31:35 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -307,14 +307,6 @@
       "category": "総合"
     },
     {
-      "title": "「アボカド海老カツバーガー」など限定2メニュー　モスバーガー",
-      "link": "https://www.j-cast.com/trend/2026/05/20514845.html",
-      "description": "モスバーガーは、期間限定メニュー「アボカド海老カツバーガー ～国産バジルマヨ～」、数量限定メニュー「『モスの匠味（たくみ）』海老エビフライバーガー ～くし切りレモン添え～」を、2026年5月20日～7月中旬まで発売する。",
-      "pubDate": "Wed, 20 May 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -323,42 +315,74 @@
       "category": "総合"
     },
     {
-      "title": "大谷翔平が今季8号の先頭打者アーチ 海外ファン「オオタニが帰ってきた！」",
-      "link": "https://news.livedoor.com/article/detail/31337302/",
+      "title": "兵庫県たつの市の住宅で見つかった母と娘の遺体 殺人事件と断定",
+      "link": "https://news.livedoor.com/article/detail/31338435/",
       "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 20:02:49 +0900",
+      "pubDate": "Thu, 21 May 2026 23:09:41 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "トラクターに挟まれている37歳男性を発見、その後死亡 徳之島",
-      "link": "https://news.livedoor.com/article/detail/31337564/",
+      "title": "愛知県の国道で「逆走してきた車と正面衝突した」と通報、4人を病院に搬送",
+      "link": "https://news.livedoor.com/article/detail/31336919/",
       "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 20:26:17 +0900",
+      "pubDate": "Thu, 21 May 2026 19:13:43 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "日曜劇場「VIVANT」意味深投稿23日目はチンギス「頼りになるお方」の声",
-      "link": "https://news.livedoor.com/article/detail/31333495/",
+      "title": "台湾で過去にネズミにかまれた男性がハンタウイルス感染 すでに症状は改善",
+      "link": "https://news.livedoor.com/article/detail/31318895/",
       "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 12:53:24 +0900",
+      "pubDate": "Tue, 19 May 2026 20:10:17 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "HANA、LAイベントでの集合写真をアップ 衣装の肌見せの多さに賛否",
-      "link": "https://news.livedoor.com/article/detail/31337320/",
+      "title": "モルディブの洞窟網でダイバー5人死亡 危険性を高めたのが悪天候",
+      "link": "https://news.livedoor.com/article/detail/31337242/",
       "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 19:35:54 +0900",
+      "pubDate": "Thu, 21 May 2026 19:47:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "日笠陽子、骨折の際に自作の添え木を制作 医者に驚かれ「スカウトされた」",
-      "link": "https://news.livedoor.com/article/detail/31335518/",
-      "description": "ざっくり言うと ABEMAの「声優と夜あそび火」の公式レポートが到着した 日笠陽子は、ズボンに引っかかって転倒し骨折したことを告白 応急処置を見た医師から「看護とかそっちの道の方ですか?」と質問された 記事を読む",
-      "pubDate": "Thu, 21 May 2026 16:50:58 +0900",
+      "title": "片岡鶴太郎が夏の装いを披露「静かなラスボス感、カッコよすぎます」の声",
+      "link": "https://news.livedoor.com/article/detail/31334020/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 13:54:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "はなまるうどん 肉特化の特別店",
+      "link": "https://news.livedoor.com/article/detail/31338152/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 22:12:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ノンアル選ぶ理由 傾向に変化?",
+      "link": "https://news.livedoor.com/article/detail/31313287/",
+      "description": "ざっくり言うと ランチでリフレッシュのために選ぶ人もいる「キリン グリーンズフリー」 食べログ百名店に選ばれる人気店では注文数が前年同月比で約1.5倍に ノンアルユーザーへの調査でも\"前向きな理由\"で選択する傾向が見られた 記事を読む",
+      "pubDate": "Wed, 20 May 2026 10:00:09 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ウクライナがロシア連邦保安局司令部の施設を攻撃 約100人が死傷か",
+      "link": "https://news.livedoor.com/article/detail/31338255/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 22:36:25 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "禁忌薬に指定されていた薬を誤って投与 気管支ぜんそくで入院した男性死亡",
+      "link": "https://news.livedoor.com/article/detail/31337104/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 19:42:08 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -371,50 +395,10 @@
       "category": "総合"
     },
     {
-      "title": "報道番組「やめてほしい」司会者TOP10を発表、1位は宮根誠司",
-      "link": "https://news.livedoor.com/article/detail/31332507/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 11:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "鈴木おさむ氏、フキハラに持論「職場において一番厄介なハラスメント」",
-      "link": "https://news.livedoor.com/article/detail/31335327/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 16:28:26 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "矢井田瞳、山里亮太と大学で同級生だった「オシャレで有名でした」",
-      "link": "https://news.livedoor.com/article/detail/31334267/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 14:19:08 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "札幌のスーパーではごみ袋が売り切れる事態 ナフサをめぐり不安が広がる",
-      "link": "https://news.livedoor.com/article/detail/31335136/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 16:07:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "バーガーキング 新潟県に7年ぶりの新店舗…6月11日にオープンへ",
       "link": "https://news.livedoor.com/article/detail/31332317/",
       "description": "記事を読む",
       "pubDate": "Thu, 21 May 2026 11:07:17 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "「ネットパトロールが業務に」アイドル事務所の仕事が一変していた",
-      "link": "https://news.livedoor.com/article/detail/31330829/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 07:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -459,10 +443,26 @@
       "category": "経済"
     },
     {
-      "title": "「1000円の壁」外食業界で明暗分かれる 関係者見解「低価格業態に客集中」",
-      "link": "https://news.livedoor.com/article/detail/31331546/",
-      "description": "ざっくり言うと 最近は外食チェーンの客離れが起き始めていると、ゲンダイが伝えた ココイチは客離れが顕著で、24年の10%超の値上げが要因とされているそう 「実質賃金以上に値上がりしているため、消費者も限界を迎えた」と関係者 記事を読む",
-      "pubDate": "Thu, 21 May 2026 09:26:00 +0900",
+      "title": "韓国サムスン電子、土壇場でストライキ回避へ 莫大なボーナス支給か",
+      "link": "https://news.livedoor.com/article/detail/31338194/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 21:05:51 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "3月暴落→5月最高値更新 なぜS&P500はここまで強いのか本当の理由を解説",
+      "link": "https://news.livedoor.com/article/detail/31336098/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 18:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "大手チェーンの中では「安さが売り」だが…はま寿司に「客離れ」の懸念あり",
+      "link": "https://news.livedoor.com/article/detail/31332825/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 11:30:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -475,12 +475,44 @@
       "category": "経済"
     },
     {
-      "title": "巨大廃墟だらけ 広島・福山市の山奥に眠る、温泉街の末路がヤバすぎた",
-      "link": "https://news.livedoor.com/article/detail/31305574/",
-      "description": "ざっくり言うと SHO【Traveler】が、広島県にかつて存在した「本郷温泉」について伝えた 60年代には団体旅行客で栄えたが、70年代に入ると衰退の道を辿ったという 2016年に最後の旅館「末吉旅館」が閉館し、本郷温泉はすべての宿が消滅した 記事を読む",
-      "pubDate": "Wed, 20 May 2026 17:15:34 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "title": "旭山動物園の焼却炉で妻の遺体を損壊か「首を絞めて殺した」など新供述",
+      "link": "https://news.livedoor.com/article/detail/31337933/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 21:42:21 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "大阪市港区にある弁天町駅周辺の商店街 シャッター街となった背景",
+      "link": "https://news.livedoor.com/article/detail/31324744/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 18:11:04 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "栃木県の強盗殺人事件 少年4人は実行役と見張り役で役割を分担か",
+      "link": "https://news.livedoor.com/article/detail/31336090/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 17:52:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "ネット診断では半数が勘違いも？「大人の発達障害」の診断基準",
+      "link": "https://news.livedoor.com/article/detail/31336140/",
+      "description": "ざっくり言うと 「大人の発達障害」の診断基準について精神科医らが動画で解説した ネット診断でADHDだと思い込み、半数が違うと診断される現状を説明 「あくまでも子どもの頃から障害が現れていることが診断に必要」だとした 記事を読む",
+      "pubDate": "Thu, 21 May 2026 18:03:20 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "謎の風邪は大型連休明けに急増か、病院「ウイルス名特定できず」",
+      "link": "https://news.livedoor.com/article/detail/31337101/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 21 May 2026 19:02:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "「うつ病の人」が避けたほうがいい食べ物や飲み物 医師が解説",
@@ -493,7 +525,7 @@
     {
       "title": "曹洞宗大本山永平寺で元修行僧わいせつ隠蔽か 自首の申し出も再考を求める",
       "link": "https://news.livedoor.com/article/detail/31337245/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 曹洞宗大本山永平寺で元修行僧が10代女性の体を触ったとされる事件 元修行僧側が自首すると申し出たところ、寺側が再考を求めていたという 元修行僧は自首せず、19日に不同意わいせつ容疑で逮捕された 記事を読む",
       "pubDate": "Thu, 21 May 2026 19:51:24 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -519,46 +551,6 @@
       "link": "https://news.livedoor.com/article/detail/31336733/",
       "description": "記事を読む",
       "pubDate": "Thu, 21 May 2026 19:01:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "大分のビーチにアカシュモクザメ 3日間確認されずマリンスポーツ禁止を解除",
-      "link": "https://news.livedoor.com/article/detail/31337112/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 19:16:13 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "知人男性の耳を切り落とすなどしたか、山口組系幹部ら逮捕 福岡",
-      "link": "https://news.livedoor.com/article/detail/31336605/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 18:44:27 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "旭山動物園で妻の遺体を焼却 飼育員の男が「妻の首を絞めて殺した」と供述",
-      "link": "https://news.livedoor.com/article/detail/31336757/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 19:02:13 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「逆走してきた車と正面衝突」と通報、70代女性と20代男性が重傷 愛知",
-      "link": "https://news.livedoor.com/article/detail/31336414/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 18:23:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "女性研究者に複数回のセクハラ行為 大阪大学の50代男性准教授を諭旨解雇",
-      "link": "https://news.livedoor.com/article/detail/31336271/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 17:56:12 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1123,6 +1115,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【日韓首脳会談の本当の狙い】韓国で大絶賛された高市外交と中国を追い詰める結果になったその内容とは・・・（須田慎一郎の虎ノ門ニュース）",
+      "link": "https://www.youtube.com/watch?v=MFHcpbI-ovo",
+      "description": "",
+      "pubDate": "2026-05-21T12:40:39+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
       "title": "【中国が敵国認定】※米中首脳会談※ 須田慎一郎がトランプ政権に提言しているシンクタンク研究員に徹底取材 。アメリカが中国に敵国宣言（虎ノ門ニュース切り抜き）",
       "link": "https://www.youtube.com/watch?v=TJbXuSnWsEM",
       "description": "",
@@ -1195,18 +1195,26 @@
       "category": "YouTube"
     },
     {
-      "title": "【緊急速報】※中国経済が事態急変※ 石油不足で航空便の欠航続出…習近平体制が揺らぐ経済崩壊と米中首脳会談でトランプが使う最強のカードについて（須田慎一郎の虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=1UMKnmcT6LM",
+      "title": "“高市総理の応援団”「国力研究会」に静岡県内の自民議員全員が入会　「逆に参加しない理由はない」",
+      "link": "https://www.youtube.com/watch?v=r6C1Jw2xDTw",
       "description": "",
-      "pubDate": "2026-05-12T10:27:46+00:00",
-      "source": "虎ノ門ニュース",
+      "pubDate": "2026-05-21T14:55:47+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "静岡のお茶で映画をPR　お茶で染めた暖簾にスターウォーズのキャラクター　静岡市",
+      "link": "https://www.youtube.com/watch?v=0Dn5Ax-kiRs",
+      "description": "",
+      "pubDate": "2026-05-21T13:18:52+00:00",
+      "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
       "title": "「国際お茶の日」気軽に抹茶を！ワンコインでお茶とお菓子を楽しむ　静岡市",
       "link": "https://www.youtube.com/watch?v=Emj03ijcbnI",
       "description": "",
-      "pubDate": "2026-05-21T11:51:26+00:00",
+      "pubDate": "2026-05-21T12:35:15+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1214,7 +1222,7 @@
       "title": "1万5000㎥の不適切な盛り土を行政代執行で撤去へ　静岡県「危険性の除去を早期に図る」",
       "link": "https://www.youtube.com/watch?v=NIU-D7Ym6hw",
       "description": "",
-      "pubDate": "2026-05-21T12:00:01+00:00",
+      "pubDate": "2026-05-21T12:09:15+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1222,7 +1230,7 @@
       "title": "日米「さくらの女王」が中学生と交流　100年以上前に平和と親善の象徴として桜を贈ったのが縁　静岡市",
       "link": "https://www.youtube.com/watch?v=6B-PBBlcLQc",
       "description": "",
-      "pubDate": "2026-05-21T11:57:34+00:00",
+      "pubDate": "2026-05-21T12:06:48+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1230,7 +1238,7 @@
       "title": "【田子の月】5000円以上お得！月一開催スイーツの規格外品＆切れ端が激安販売【SATV特集】",
       "link": "https://www.youtube.com/watch?v=FluugC63inY",
       "description": "",
-      "pubDate": "2026-05-21T11:00:34+00:00",
+      "pubDate": "2026-05-21T12:01:07+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1267,26 +1275,10 @@
       "category": "YouTube"
     },
     {
-      "title": "神社の屋根の銅板窃盗相次ぐ　同一グループの犯行か#shorts",
-      "link": "https://www.youtube.com/shorts/-eDisOvRngE",
-      "description": "",
-      "pubDate": "2026-05-21T07:13:53+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "「ミサイル撃つな」抗議デモの中『米軍国道越え射撃訓練』　苦渋の決断…年2回以内の条件で受け入れ　陸自・東富士演習場",
-      "link": "https://www.youtube.com/watch?v=4wqEgpOm50g",
-      "description": "",
-      "pubDate": "2026-05-21T07:09:14+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
       "title": "【速報！】これが南海トラフで考えられる史上最悪の状況です！わかりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=WeKYBfbhfM4",
       "description": "",
-      "pubDate": "2026-05-21T10:23:46+00:00",
+      "pubDate": "2026-05-21T12:16:45+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
@@ -1310,7 +1302,7 @@
       "title": "【速報】先ほど、沖縄本島近海の鹿児島奄美南部で震度５強の地震が発生！速報をお伝えします。",
       "link": "https://www.youtube.com/watch?v=_qb1A5pK-_U",
       "description": "",
-      "pubDate": "2026-05-20T08:31:42+00:00",
+      "pubDate": "2026-05-21T13:34:04+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
