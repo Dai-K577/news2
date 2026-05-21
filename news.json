@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22 00:30 JST",
+  "updated": "2026-05-22 04:40 JST",
   "total": 169,
   "news": [
     {
@@ -427,26 +427,10 @@
       "category": "経済"
     },
     {
-      "title": "関西電力を除く大手電力9社、6月値上がり 中東影響、都市ガスは全4社",
-      "link": "https://news.livedoor.com/article/detail/31335512/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 18:19:40 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "NTTドコモが通信品質対策として基地局の建設を加速",
       "link": "https://news.livedoor.com/article/detail/31335274/",
       "description": "記事を読む",
       "pubDate": "Thu, 21 May 2026 15:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "韓国サムスン電子、土壇場でストライキ回避へ 莫大なボーナス支給か",
-      "link": "https://news.livedoor.com/article/detail/31338194/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 21:05:51 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -459,10 +443,26 @@
       "category": "経済"
     },
     {
-      "title": "大手チェーンの中では「安さが売り」だが…はま寿司に「客離れ」の懸念あり",
-      "link": "https://news.livedoor.com/article/detail/31332825/",
+      "title": "「アサシンクリード ブラックフラッグ RE:シンクロ」発売へ",
+      "link": "https://news.livedoor.com/article/detail/31338761/",
       "description": "記事を読む",
-      "pubDate": "Thu, 21 May 2026 11:30:00 +0900",
+      "pubDate": "Fri, 22 May 2026 01:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "米株式市場が上げに転じるもドル円は158円台に 再び介入警戒水準へ接近",
+      "link": "https://news.livedoor.com/article/detail/31339106/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 22 May 2026 03:12:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "「1000円の壁」外食業界で明暗分かれる 関係者見解「低価格業態に客集中」",
+      "link": "https://news.livedoor.com/article/detail/31331546/",
+      "description": "ざっくり言うと 最近は外食チェーンの客離れが起き始めていると、ゲンダイが伝えた ココイチは客離れが顕著で、24年の10%超の値上げが要因とされているそう 「実質賃金以上に値上がりしているため、消費者も限界を迎えた」と関係者 記事を読む",
+      "pubDate": "Thu, 21 May 2026 09:26:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -1118,7 +1118,7 @@
       "title": "【日韓首脳会談の本当の狙い】韓国で大絶賛された高市外交と中国を追い詰める結果になったその内容とは・・・（須田慎一郎の虎ノ門ニュース）",
       "link": "https://www.youtube.com/watch?v=MFHcpbI-ovo",
       "description": "",
-      "pubDate": "2026-05-21T12:40:39+00:00",
+      "pubDate": "2026-05-21T17:30:38+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
