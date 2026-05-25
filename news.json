@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26 04:12 JST",
+  "updated": "2026-05-26 06:59 JST",
   "total": 168,
   "news": [
     {
@@ -7,14 +7,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6581679?source=rss",
       "description": "",
       "pubDate": "Mon, 25 May 2026 12:43:16 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "米イラン 高濃縮ウランの扱いで溝",
-      "link": "https://news.yahoo.co.jp/pickup/6581691?source=rss",
-      "description": "",
-      "pubDate": "Mon, 25 May 2026 13:57:00 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -43,26 +35,34 @@
       "category": "総合"
     },
     {
-      "title": "スズキ 一部店でオイル交換に遅れ",
-      "link": "https://news.yahoo.co.jp/pickup/6581692?source=rss",
+      "title": "団地で大量の止水栓盗まれる 神戸",
+      "link": "https://news.yahoo.co.jp/pickup/6581696?source=rss",
       "description": "",
-      "pubDate": "Mon, 25 May 2026 14:20:29 GMT",
+      "pubDate": "Mon, 25 May 2026 21:17:53 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "G阿部慎之助監督を逮捕 暴行疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6581690?source=rss",
+      "title": "G阿部監督を釈放 暴行疑いで逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6581698?source=rss",
       "description": "",
-      "pubDate": "Mon, 25 May 2026 13:38:01 GMT",
+      "pubDate": "Mon, 25 May 2026 21:47:09 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "G球団社長 阿部監督逮捕受け謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6581694?source=rss",
+      "title": "村上が18号 リーグトップ再浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6581695?source=rss",
       "description": "",
-      "pubDate": "Mon, 25 May 2026 15:20:28 GMT",
+      "pubDate": "Mon, 25 May 2026 21:07:32 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "くるま 映画監督としてブレイクは",
+      "link": "https://news.yahoo.co.jp/pickup/6581697?source=rss",
+      "description": "",
+      "pubDate": "Mon, 25 May 2026 21:29:15 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -371,7 +371,7 @@
       "category": "総合"
     },
     {
-      "title": "銀座のスプレー噴射で19人搬送、トリアージに専門家「地下鉄サリン彷彿」",
+      "title": "銀座でスプレーが噴射される事件が発生「地下鉄サリンを彷彿させる」",
       "link": "https://news.livedoor.com/article/detail/31367914/",
       "description": "記事を読む",
       "pubDate": "Mon, 25 May 2026 20:00:00 +0900",
@@ -403,10 +403,10 @@
       "category": "経済"
     },
     {
-      "title": "ナフサの価格高騰、供給の目詰まりが叫ばれる現状 長野智子が語る",
-      "link": "https://news.livedoor.com/article/detail/31368684/",
+      "title": "カルビーのポテトチップスなど14商品が「白黒包装」きょうから",
+      "link": "https://news.livedoor.com/article/detail/31363584/",
       "description": "記事を読む",
-      "pubDate": "Mon, 25 May 2026 22:31:23 +0900",
+      "pubDate": "Mon, 25 May 2026 11:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,9 +467,17 @@
       "category": "経済"
     },
     {
+      "title": "奈良市の住宅で発生した強盗傷害事件で京都府内の男子高校生ら3人を逮捕",
+      "link": "https://news.livedoor.com/article/detail/31366146/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 25 May 2026 16:33:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "「東京クールビズ」の一環、ハーフパンツ着用推奨に賛否両論",
       "link": "https://news.livedoor.com/article/detail/31362200/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 東京都が暑さ対策で、ハーフパンツ着用も推奨と表明した件が注目されている 都職員がハーフパンツ姿で勤務している様子が報じられ賛否両論が起きている マナー専門家は、会社規則やTPOに応じた判断が重要だと指摘した 記事を読む",
       "pubDate": "Mon, 25 May 2026 07:15:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -485,7 +493,7 @@
     {
       "title": "巨人・阿部慎之助監督を逮捕、娘に暴行か「ショックだ」驚きと怒りの声殺到",
       "link": "https://news.livedoor.com/article/detail/31368781/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 巨人の阿部慎之助監督が、娘に暴行を加えた疑いで現行犯逮捕された SNSでは「正直信じられない」「ショックだ」など、驚きと怒りの声が殺到 さらに「巨人史上最大の不祥事じゃないか」などのコメントも寄せられた 記事を読む",
       "pubDate": "Mon, 25 May 2026 23:06:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -501,7 +509,7 @@
     {
       "title": "「食べてないのに太る」背景に自分で気づいていない「食習慣」が隠れている",
       "link": "https://news.livedoor.com/article/detail/31363548/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 「そんなに食べていないのに太る」という食習慣について医師が解説している 食事の量を多くとりすぎたり、間食したりすると高インスリン状態が持続する 膵臓に休む時間を与え、余分なインスリンを出さないことが重要なポイント 記事を読む",
       "pubDate": "Mon, 25 May 2026 11:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -525,7 +533,7 @@
     {
       "title": "兵庫母娘殺害 指名手配の男は手配前に警察に「人殺した」と話すも拘束せず",
       "link": "https://news.livedoor.com/article/detail/31367650/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 5月19日、兵庫県たつの市で親子が刃物で刺され死亡した事件 警察は24日、10年ほど前に家の隣に住んでいた42歳の男を指名手配した 16日、容疑者が「人を殺した」と話していたが警察は拘束しなかったという 記事を読む",
       "pubDate": "Mon, 25 May 2026 19:27:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -535,14 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/31367668/",
       "description": "記事を読む",
       "pubDate": "Mon, 25 May 2026 18:52:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "愛子さま、ラオス側から贈られた民族衣装を着用「とてもお似合い」の声",
-      "link": "https://news.livedoor.com/article/detail/31365990/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 25 May 2026 16:15:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
