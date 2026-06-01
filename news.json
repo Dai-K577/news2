@@ -1,12 +1,20 @@
 {
-  "updated": "2026-06-01 23:45 JST",
-  "total": 169,
+  "updated": "2026-06-02 04:49 JST",
+  "total": 168,
   "news": [
     {
       "title": "台風 西日本など中心に天気大荒れ",
       "link": "https://news.yahoo.co.jp/pickup/6582602?source=rss",
       "description": "",
       "pubDate": "Mon, 01 Jun 2026 13:49:44 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "台風 沖縄で少なくとも12人けが",
+      "link": "https://news.yahoo.co.jp/pickup/6582607?source=rss",
+      "description": "",
+      "pubDate": "Mon, 01 Jun 2026 15:01:47 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -19,18 +27,10 @@
       "category": "総合"
     },
     {
-      "title": "イランが米との連絡停止 現地報道",
-      "link": "https://news.yahoo.co.jp/pickup/6582603?source=rss",
+      "title": "イランが米との協議停止 現地報道",
+      "link": "https://news.yahoo.co.jp/pickup/6582606?source=rss",
       "description": "",
-      "pubDate": "Mon, 01 Jun 2026 13:58:17 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "河口湖で遊泳中 18歳が溺れて死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6582604?source=rss",
-      "description": "",
-      "pubDate": "Mon, 01 Jun 2026 14:03:28 GMT",
+      "pubDate": "Mon, 01 Jun 2026 14:56:48 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -131,10 +131,10 @@
       "category": "国内"
     },
     {
-      "title": "イランが米との連絡停止 現地報道",
-      "link": "https://news.yahoo.co.jp/pickup/6582603?source=rss",
+      "title": "イランが米との協議停止 現地報道",
+      "link": "https://news.yahoo.co.jp/pickup/6582606?source=rss",
       "description": "",
-      "pubDate": "Mon, 01 Jun 2026 13:58:17 GMT",
+      "pubDate": "Mon, 01 Jun 2026 14:56:48 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -299,14 +299,6 @@
       "category": "総合"
     },
     {
-      "title": "AIが視聴トレンドを解析、いま見るべき番組にたどり着ける　ワイヤレステレビチューナー",
-      "link": "https://www.j-cast.com/trend/2026/05/31515144.html",
-      "description": "デジタル機器などを扱うピクセラ（大阪市）は、ワイヤレステレビチューナー「PoiTele（ポイテレ） XIT-3000WP」を、2026年6月5日に全国の家電量販店およびインターネット通販などで発売する。",
-      "pubDate": "Sun, 31 May 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -333,7 +325,7 @@
     {
       "title": "ロングコートダディの堂前透が生配信で結婚報告 相方の兎は困惑",
       "link": "https://news.livedoor.com/article/detail/31430510/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと ロングコートダディの堂前透が1日、YouTubeの生配信で結婚を報告した 突然「結婚しました」と報告し、「誰がです?」と戸惑う兎 「僕がです」と答える堂前に、「堂前が?」「おめでとねー」と祝福した 記事を読む",
       "pubDate": "Mon, 01 Jun 2026 22:25:25 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
@@ -403,10 +395,10 @@
       "category": "経済"
     },
     {
-      "title": "孫正義社長、仏でAIデータ向けセンター建設を計画か 約14兆円を投資へ",
-      "link": "https://news.livedoor.com/article/detail/31430218/",
+      "title": "マン島TTを記念した限定モデル 生産台数は115台のみ",
+      "link": "https://news.livedoor.com/article/detail/31430413/",
       "description": "記事を読む",
-      "pubDate": "Mon, 01 Jun 2026 21:33:00 +0900",
+      "pubDate": "Mon, 01 Jun 2026 22:10:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -435,10 +427,10 @@
       "category": "経済"
     },
     {
-      "title": "商品包装を白黒に簡素化した日用品や飲食料品 ドン・キホーテが販売開始",
-      "link": "https://news.livedoor.com/article/detail/31428375/",
+      "title": "Apple Payでも「タッチでVisa割キャンペーン」全国で実施へ",
+      "link": "https://news.livedoor.com/article/detail/31430359/",
       "description": "記事を読む",
-      "pubDate": "Mon, 01 Jun 2026 18:18:36 +0900",
+      "pubDate": "Mon, 01 Jun 2026 20:47:28 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -459,10 +451,10 @@
       "category": "経済"
     },
     {
-      "title": "ASUSが「ROG Xbox Ally X20」を発表 発売時期や価格は未定",
-      "link": "https://news.livedoor.com/article/detail/31429656/",
-      "description": "ざっくり言うと ASUSは1日、「ROG Xbox Ally X20」を発表した 同社のゲーミングブランド「ROG」の20周年を記念しての発売となる 通常モデルと変わらないが、筐体が半透明のものへと変更されている 記事を読む",
-      "pubDate": "Mon, 01 Jun 2026 19:18:23 +0900",
+      "title": "AI開発を手がける米新興企業アンソロピック 新規株式公開を申請",
+      "link": "https://news.livedoor.com/article/detail/31431397/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 02 Jun 2026 01:44:40 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
