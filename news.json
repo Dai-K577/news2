@@ -1,20 +1,44 @@
 {
-  "updated": "2026-06-03 03:29 JST",
-  "total": 169,
+  "updated": "2026-06-03 07:53 JST",
+  "total": 168,
   "news": [
     {
-      "title": "台風6号 各地の警戒期間や注意点",
-      "link": "https://news.yahoo.co.jp/pickup/6582716?source=rss",
+      "title": "和歌山県の古座川に氾濫特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6582727?source=rss",
       "description": "",
-      "pubDate": "Tue, 02 Jun 2026 13:23:09 GMT",
+      "pubDate": "Tue, 02 Jun 2026 20:53:33 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "東京などで線状降水帯発生の恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6582723?source=rss",
+      "title": "静岡県伊豆に線状降水帯 警戒を",
+      "link": "https://news.yahoo.co.jp/pickup/6582733?source=rss",
       "description": "",
-      "pubDate": "Tue, 02 Jun 2026 14:46:28 GMT",
+      "pubDate": "Tue, 02 Jun 2026 22:34:27 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "台風6号 東海や関東で大雨ピーク",
+      "link": "https://news.yahoo.co.jp/pickup/6582731?source=rss",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 22:22:22 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "全国の鉄道・フライト 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6571062?source=rss",
+      "description": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
+      "pubDate": "Tue, 02 Jun 2026 21:52:00 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "セブン 全国2万店から過大徴収",
+      "link": "https://news.yahoo.co.jp/pickup/6582728?source=rss",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 21:32:22 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,34 +51,10 @@
       "category": "総合"
     },
     {
-      "title": "クマ襲撃 従業員を追いかける映像",
-      "link": "https://news.yahoo.co.jp/pickup/6582721?source=rss",
-      "description": "",
-      "pubDate": "Tue, 02 Jun 2026 14:34:21 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "2万羽が焼け死んだ養鶏場 客続々",
       "link": "https://news.yahoo.co.jp/pickup/6582717?source=rss",
       "description": "",
       "pubDate": "Tue, 02 Jun 2026 13:22:16 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "名鉄広見線 新可児-御嵩なぜ廃止",
-      "link": "https://news.yahoo.co.jp/pickup/6582709?source=rss",
-      "description": "",
-      "pubDate": "Tue, 02 Jun 2026 11:29:16 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "江南スタイルの歌手書類送検 韓国",
-      "link": "https://news.yahoo.co.jp/pickup/6582701?source=rss",
-      "description": "",
-      "pubDate": "Tue, 02 Jun 2026 10:40:28 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -67,10 +67,18 @@
       "category": "総合"
     },
     {
-      "title": "台風6号 各地の警戒期間や注意点",
-      "link": "https://news.yahoo.co.jp/pickup/6582716?source=rss",
+      "title": "台風6号 和歌山県南部に上陸",
+      "link": "https://news.yahoo.co.jp/pickup/6582725?source=rss",
       "description": "",
-      "pubDate": "Tue, 02 Jun 2026 13:23:09 GMT",
+      "pubDate": "Tue, 02 Jun 2026 19:59:07 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "台風6号 東海や関東で大雨ピーク",
+      "link": "https://news.yahoo.co.jp/pickup/6582731?source=rss",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 22:22:22 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -107,14 +115,6 @@
       "category": "国内"
     },
     {
-      "title": "知事選 自民「久々」勝利に安堵感",
-      "link": "https://news.yahoo.co.jp/pickup/6582623?source=rss",
-      "description": "",
-      "pubDate": "Mon, 01 Jun 2026 23:59:16 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "早紀江さん 滋さんに「ごめんね」",
       "link": "https://news.yahoo.co.jp/pickup/6582690?source=rss",
       "description": "",
@@ -129,6 +129,14 @@
       "pubDate": "Tue, 02 Jun 2026 00:56:43 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
+    },
+    {
+      "title": "イランで「内部亀裂」交渉が難航",
+      "link": "https://news.yahoo.co.jp/pickup/6582730?source=rss",
+      "description": "",
+      "pubDate": "Tue, 02 Jun 2026 22:13:32 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
     },
     {
       "title": "米イスラエル両首脳に緊張 背景は",
@@ -171,14 +179,6 @@
       "category": "国際"
     },
     {
-      "title": "米フロリダ州がOpenAIを提訴",
-      "link": "https://news.yahoo.co.jp/pickup/6582619?source=rss",
-      "description": "",
-      "pubDate": "Mon, 01 Jun 2026 23:23:40 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "江南スタイルの歌手書類送検 韓国",
       "link": "https://news.yahoo.co.jp/pickup/6582701?source=rss",
       "description": "",
@@ -193,6 +193,14 @@
       "pubDate": "Tue, 02 Jun 2026 08:17:31 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
+    },
+    {
+      "title": "広島カープ・小園海斗のモデル妻、脚ながっ...ショーパン×サッカーユニ姿　「すごく可愛い」「綺麗すぎて滅！」",
+      "link": "https://www.j-cast.com/2026/06/03515288.html",
+      "description": "プロ野球・広島東洋カープの小園海斗選手（25）の妻でモデルの渡辺リサさん（24）が2026年5月11日、自身のインスタグラムを更新。サッカー観戦コーデを披露した。",
+      "pubDate": "Wed, 03 Jun 2026 07:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
     },
     {
       "title": "大地真央、変わらぬ美貌に衝撃...ゴージャスな毛皮コート＆ドレス姿　「美しすぎる」「魅力的なマダム」",
@@ -227,18 +235,18 @@
       "category": "総合"
     },
     {
-      "title": "小泉進次郎防衛相、外交時の英語スピーチに称賛相次ぐ　「笑いも取ってる！」「覚醒した感がある」",
-      "link": "https://www.j-cast.com/2026/06/02515301.html",
-      "description": "小泉進次郎防衛相が2026年5月31日、シンガポールで開催されたアジア安全保障会議（シャングリラ会合）に登壇し、英語での対談姿がSNS上で称賛を集めている。",
-      "pubDate": "Tue, 02 Jun 2026 19:13:47 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "小泉進次郎防衛相、外交時の英語スピーチに称賛相次ぐ　「笑いも取ってる！」「覚醒した感がある」",
+      "link": "https://www.j-cast.com/2026/06/02515301.html",
+      "description": "小泉進次郎防衛相が2026年5月31日、シンガポールで開催されたアジア安全保障会議（シャングリラ会合）に登壇し、英語での対談姿がSNS上で称賛を集めている。",
+      "pubDate": "Tue, 02 Jun 2026 19:13:47 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -267,14 +275,6 @@
       "category": "総合"
     },
     {
-      "title": "「押し問答では、共感は広がらない」は誰に向けた言葉か　中道・泉健太議員「他者の追及」めぐり思いつづる",
-      "link": "https://www.j-cast.com/2026/06/02515270.html",
-      "description": "中道改革連合の泉健太衆院議員が2026年6月2日、「他者の追及」をめぐる思いをXでつづった。",
-      "pubDate": "Tue, 02 Jun 2026 17:30:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -299,14 +299,6 @@
       "category": "総合"
     },
     {
-      "title": "ワイモバイルから「かんたんスマホ5」　「家族サポート」など搭載",
-      "link": "https://www.j-cast.com/trend/2026/06/01515222.html",
-      "description": "ソフトバンクは、「ワイモバイル」ブランドから、ZTE製のスマートフォン（スマホ）「かんたんスマホ5」を2026年6月4日に発売する。シニアユーザーの安心かつ快適なスマホの使用や、日々の健康作りに役立つ機能を豊富に搭載する。",
-      "pubDate": "Mon, 01 Jun 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -315,98 +307,106 @@
       "category": "総合"
     },
     {
-      "title": "関東甲信、3日明け方から夕方にかけて線状降水帯が発生する可能性",
-      "link": "https://news.livedoor.com/article/detail/31441100/",
+      "title": "河川敷に砲弾のようなものを発見 自衛隊が回収し使用済みの照明弾と判明",
+      "link": "https://news.livedoor.com/article/detail/31443058/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 23:20:04 +0900",
+      "pubDate": "Wed, 03 Jun 2026 07:39:01 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "花田優一の自宅が盗難被害「ご自覚のある方は返してください」",
-      "link": "https://news.livedoor.com/article/detail/31441002/",
+      "title": "大分ひき逃げ事件、情報提供数の減少続く 県警「身近に潜んでいるかも」",
+      "link": "https://news.livedoor.com/article/detail/31442413/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 22:55:20 +0900",
+      "pubDate": "Wed, 03 Jun 2026 06:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "東京など関東でも線状降水帯の恐れ 大雨災害の危険度が急激に高まる可能",
-      "link": "https://news.livedoor.com/article/detail/31441106/",
+      "title": "ハーフパンツでの勤務解禁 すね毛論争で浮き彫りになった「男女格差」",
+      "link": "https://news.livedoor.com/article/detail/31442543/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 23:21:03 +0900",
+      "pubDate": "Wed, 03 Jun 2026 06:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「冬前までの戦闘終結」ゼレンスキー氏の側近が目標は現実的との認識示す",
-      "link": "https://news.livedoor.com/article/detail/31440997/",
+      "title": "石丸伸二氏の本音に波紋「これが都知事を目指した人の発言なのか」",
+      "link": "https://news.livedoor.com/article/detail/31442386/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 22:59:01 +0900",
+      "pubDate": "Wed, 03 Jun 2026 06:00:12 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "マツコがマイケル・ジャクソン級スターが誕生しないと推測「SNSが大きい」",
-      "link": "https://news.livedoor.com/article/detail/31440873/",
+      "title": "アクセルとブレーキを踏み間違えたか 60代男性運転の乗用車が衝突",
+      "link": "https://news.livedoor.com/article/detail/31443010/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 22:24:23 +0900",
+      "pubDate": "Wed, 03 Jun 2026 07:30:03 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "食事ほぼとらず水抜き？ヘアメイクが明かす松本潤の嵐最終公演の舞台裏",
-      "link": "https://news.livedoor.com/article/detail/31440718/",
+      "title": "嵐を讃えた中村仁美に一部の嵐ファンが拒否反応「発言忘れてへんで」",
+      "link": "https://news.livedoor.com/article/detail/31437222/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 21:37:07 +0900",
+      "pubDate": "Tue, 02 Jun 2026 15:30:42 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ひろゆき氏が堀江貴文氏との共演を巡り言及「なんか今迷走してるから…」",
-      "link": "https://news.livedoor.com/article/detail/31440161/",
-      "description": "ざっくり言うと ひろゆき氏が2日までにYouTubeチャンネルで堀江貴文氏に関して語った 共演の話題になると、堀江氏について「なんか今迷走してるから」と言及 「堀江さんと絡んでいる人、ヤバい人多くないですか？」などと苦笑していた 記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 20:29:18 +0900",
+      "title": "尾碕真花の退所トラブル泥沼化…事務所に突きつけた条件と犯罪文言の証拠",
+      "link": "https://news.livedoor.com/article/detail/31442037/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 03 Jun 2026 05:00:01 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "栃木の強盗殺人事件 海外に逃亡の男はカンボジアに向かった可能性",
-      "link": "https://news.livedoor.com/article/detail/31440570/",
+      "title": "台風6号、東海や関東に最接近し大雨ピークに 線状降水帯発生の恐れも",
+      "link": "https://news.livedoor.com/article/detail/31442819/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 21:31:00 +0900",
+      "pubDate": "Wed, 03 Jun 2026 07:02:24 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "神奈川で海で女児2人含む男女4人が死亡 無理心中などの可能性も視野に捜査",
-      "link": "https://news.livedoor.com/article/detail/31440720/",
+      "title": "「女目線でも嫌すぎる設計」男性には使いづらい恐怖のトイレが話題",
+      "link": "https://news.livedoor.com/article/detail/31442843/",
       "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 22:00:00 +0900",
+      "pubDate": "Wed, 03 Jun 2026 06:55:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "51歳独身のチュートリアル・徳井義実「恋愛マスター」扱いに本音",
-      "link": "https://news.livedoor.com/article/detail/31440211/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 20:42:49 +0900",
+      "title": "アレン様 自身の預金額明かす「ほぼすっからかん」預貯金がない理由も語る",
+      "link": "https://news.livedoor.com/article/detail/31442009/",
+      "description": "ざっくり言うと アレン様が2日、藤本美貴のYouTubeチャンネルに出演した 預貯金はほぼないそうで、証拠に銀行口座を見せたこともあると告白 お金がなくなってくると凄いペースで仕事を入れ出すと明かした 記事を読む",
+      "pubDate": "Wed, 03 Jun 2026 04:50:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "楽天銀行とJRE BANKは「両方持てる」2つの口座を開設するとメリットあり",
+      "link": "https://news.livedoor.com/article/detail/31430279/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 01 Jun 2026 21:40:01 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "セブン-イレブン カップ再利用費過大徴収…全国の店舗から十数億円規模か",
+      "link": "https://news.livedoor.com/article/detail/31441759/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 03 Jun 2026 04:48:06 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
     },
     {
       "title": "年収1400万円の座を捨て独立したら、わずか8カ月で…冷酷な現実に直面",
       "link": "https://news.livedoor.com/article/detail/31432171/",
       "description": "記事を読む",
       "pubDate": "Mon, 01 Jun 2026 07:15:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "「SpaceX」上場の熱狂、日本株に波及 宇宙関連3銘柄の過熱と実力",
-      "link": "https://news.livedoor.com/article/detail/31436840/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 14:14:33 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -435,34 +435,10 @@
       "category": "経済"
     },
     {
-      "title": "高市首相、ナフサから作る化学製品について「年度越え供給継続が可能」",
-      "link": "https://news.livedoor.com/article/detail/31439296/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 19:04:41 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "元ジュノンボーイ・30代年収240万円男性が語る「舞台俳優」の年収事情",
       "link": "https://news.livedoor.com/article/detail/31437812/",
       "description": "記事を読む",
       "pubDate": "Tue, 02 Jun 2026 16:38:14 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "台風6号の影響で物流に遅れ 鹿児島や宮崎などで集配停止も",
-      "link": "https://news.livedoor.com/article/detail/31440860/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 22:23:01 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "持っておくと便利な「マグネットバスルームスマートフォンスタンド」",
-      "link": "https://news.livedoor.com/article/detail/31441320/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -473,6 +449,70 @@
       "pubDate": "Wed, 03 Jun 2026 02:04:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "日産の特別仕様車「ジュークパルス」発表 上級志向の特別仕様車",
+      "link": "https://news.livedoor.com/article/detail/31437298/",
+      "description": "ざっくり言うと 日産ヨーロッパが7日、特別仕様車「ジュークパルス」を発表した ジュークは、欧州に軸足を置いて開発されたコンパクトクロスオーバーSUV 現行モデルは、2019年のフルモデルチェンジを受けた2代目にあたる 記事を読む",
+      "pubDate": "Tue, 02 Jun 2026 15:45:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "Makuake Sherwood薪ストーブ登場",
+      "link": "https://news.livedoor.com/pr_article/detail/31441782/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 03 Jun 2026 02:18:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "IHIの子会社 JAXAに不正請求",
+      "link": "https://news.livedoor.com/article/detail/31440456/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 02 Jun 2026 21:08:20 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "神奈川で海で女児2人含む男女4人が死亡 無理心中などの可能性も視野に捜査",
+      "link": "https://news.livedoor.com/article/detail/31440720/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 02 Jun 2026 22:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "闇バイトやトクリュウ、報道されているのに知らない若者がいる？",
+      "link": "https://news.livedoor.com/article/detail/31437833/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 02 Jun 2026 16:31:41 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "関東甲信、3日明け方から夕方にかけて線状降水帯が発生する可能性",
+      "link": "https://news.livedoor.com/article/detail/31441100/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 02 Jun 2026 23:20:04 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "石丸伸二氏の本音に波紋「これが都知事を目指した人の発言なのか」",
+      "link": "https://news.livedoor.com/article/detail/31442386/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 03 Jun 2026 06:00:12 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "東海道新幹線 3日始発から午前中の列車を中心に長時間の運転見合わせか",
+      "link": "https://news.livedoor.com/article/detail/31439990/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 02 Jun 2026 20:14:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "「ADHDの薬」で生じる可能性がある副作用と注意点 医師が解説",
@@ -503,54 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/31439000/",
       "description": "記事を読む",
       "pubDate": "Tue, 02 Jun 2026 18:30:11 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "福岡市立の中学校の給食で緑茶が提供「お茶を飲んだ後に食べるとおいしい」",
-      "link": "https://news.livedoor.com/article/detail/31438882/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 18:16:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "台風6号が3日に首都圏を直撃へ 通勤、通学などに影響が出るおそれ",
-      "link": "https://news.livedoor.com/article/detail/31439715/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 19:26:21 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "線状降水帯の直前予測と発生情報に不具合 高知西部で予測発表できず",
-      "link": "https://news.livedoor.com/article/detail/31440160/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 22:46:48 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "福島のマンホール事故 意識不明だった70歳作業員が低酸素脳症で新たに死亡",
-      "link": "https://news.livedoor.com/article/detail/31439294/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 18:58:49 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "日常的に徹底した紫外線対策…「実年齢より若く見える人」の共通点",
-      "link": "https://news.livedoor.com/article/detail/31439686/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 02 Jun 2026 10:30:48 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "杉並区で川で発見されたCA女性の遺体に2人の体液が…昭和の事件",
-      "link": "https://news.livedoor.com/article/detail/31424132/",
-      "description": "ざっくり言うと 1959年に東京都杉並区の川で遺体が発見された事件を文春が伝えた 被害者はCAの27歳女性で、遺体から2人の男性の体液が検出されたという 捜査で女性に「結婚を前提としない相談相手」がいたことなどが判明したそう 記事を読む",
-      "pubDate": "Mon, 01 Jun 2026 10:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1118,7 +1110,7 @@
       "title": "【虎ノ門ニュース】須田慎一郎×北村晴男×石橋文登 2026/6/2(火)",
       "link": "https://www.youtube.com/watch?v=leRN6cQPKUA",
       "description": "",
-      "pubDate": "2026-06-02T18:21:32+00:00",
+      "pubDate": "2026-06-02T22:34:35+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
