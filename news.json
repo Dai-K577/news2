@@ -1,28 +1,44 @@
 {
-  "updated": "2026-06-07 19:59 JST",
+  "updated": "2026-06-07 22:15 JST",
   "total": 168,
   "news": [
     {
-      "title": "各地で梅雨入り 雨量見通しと備え",
-      "link": "https://news.yahoo.co.jp/pickup/6583315?source=rss",
+      "title": "湾岸諸国復興にイラン資産 米検討",
+      "link": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
       "description": "",
-      "pubDate": "Sun, 07 Jun 2026 08:26:35 GMT",
+      "pubDate": "Sun, 07 Jun 2026 12:04:34 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "エボラ陰謀論も 偽情報対策が課題",
-      "link": "https://news.yahoo.co.jp/pickup/6583308?source=rss",
+      "title": "「新型軍国主義」で日中応酬過熱",
+      "link": "https://news.yahoo.co.jp/pickup/6583339?source=rss",
       "description": "",
-      "pubDate": "Sun, 07 Jun 2026 07:51:20 GMT",
+      "pubDate": "Sun, 07 Jun 2026 11:54:08 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "アーケード街にクマ出没 宇都宮",
-      "link": "https://news.yahoo.co.jp/pickup/6583319?source=rss",
+      "title": "少年が川で溺れて死亡 福岡・八女",
+      "link": "https://news.yahoo.co.jp/pickup/6583338?source=rss",
       "description": "",
-      "pubDate": "Sun, 07 Jun 2026 08:54:21 GMT",
+      "pubDate": "Sun, 07 Jun 2026 11:50:02 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "京都男児殺害 報道過熱していたか",
+      "link": "https://news.yahoo.co.jp/pickup/6583343?source=rss",
+      "description": "",
+      "pubDate": "Sun, 07 Jun 2026 12:37:09 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "名古屋死亡ひき逃げ事件 男を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6583345?source=rss",
+      "description": "",
+      "pubDate": "Sun, 07 Jun 2026 12:57:49 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,34 +51,18 @@
       "category": "総合"
     },
     {
-      "title": "トヨタ超えたい 中国勢がHV注力",
-      "link": "https://news.yahoo.co.jp/pickup/6583330?source=rss",
+      "title": "サヨナラ機でけん制死 竜監督怒り",
+      "link": "https://news.yahoo.co.jp/pickup/6583335?source=rss",
       "description": "",
-      "pubDate": "Sun, 07 Jun 2026 10:12:06 GMT",
+      "pubDate": "Sun, 07 Jun 2026 11:19:55 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "OpenAIがChatGPTを刷新へ 報道",
-      "link": "https://news.yahoo.co.jp/pickup/6583325?source=rss",
+      "title": "ムロが店で客と2時間会話 断れず",
+      "link": "https://news.yahoo.co.jp/pickup/6583341?source=rss",
       "description": "",
-      "pubDate": "Sun, 07 Jun 2026 09:31:14 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "就活チョロい AI使い5社内定22歳",
-      "link": "https://news.yahoo.co.jp/pickup/6583273?source=rss",
-      "description": "",
-      "pubDate": "Sun, 07 Jun 2026 01:41:24 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "DeNA監督が遅延行為で退場 騒然",
-      "link": "https://news.yahoo.co.jp/pickup/6583331?source=rss",
-      "description": "",
-      "pubDate": "Sun, 07 Jun 2026 10:35:24 GMT",
+      "pubDate": "Sun, 07 Jun 2026 12:07:18 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -91,10 +91,26 @@
       "category": "国内"
     },
     {
+      "title": "「新型軍国主義」で日中応酬過熱",
+      "link": "https://news.yahoo.co.jp/pickup/6583339?source=rss",
+      "description": "",
+      "pubDate": "Sun, 07 Jun 2026 11:54:08 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "陸自 国内最大の火力演習を実施",
       "link": "https://news.yahoo.co.jp/pickup/6583310?source=rss",
       "description": "",
       "pubDate": "Sun, 07 Jun 2026 07:51:18 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "京都男児殺害 報道過熱していたか",
+      "link": "https://news.yahoo.co.jp/pickup/6583343?source=rss",
+      "description": "",
+      "pubDate": "Sun, 07 Jun 2026 12:37:09 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -115,34 +131,18 @@
       "category": "国内"
     },
     {
-      "title": "内申書が子の主体性奪う? 懸念は",
-      "link": "https://news.yahoo.co.jp/pickup/6583284?source=rss",
+      "title": "湾岸諸国復興にイラン資産 米検討",
+      "link": "https://news.yahoo.co.jp/pickup/6583340?source=rss",
       "description": "",
-      "pubDate": "Sun, 07 Jun 2026 03:50:41 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "差別止めようとした弁護士 標的に",
-      "link": "https://news.yahoo.co.jp/pickup/6583278?source=rss",
-      "description": "",
-      "pubDate": "Sun, 07 Jun 2026 03:03:33 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
+      "pubDate": "Sun, 07 Jun 2026 12:04:34 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
     },
     {
       "title": "習氏が訪朝へ 露への接近けん制か",
       "link": "https://news.yahoo.co.jp/pickup/6583225?source=rss",
       "description": "",
       "pubDate": "Sat, 06 Jun 2026 12:29:38 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "イランが湾岸地域へ攻撃 米が迎撃",
-      "link": "https://news.yahoo.co.jp/pickup/6583191?source=rss",
-      "description": "",
-      "pubDate": "Sat, 06 Jun 2026 08:30:56 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -179,20 +179,28 @@
       "category": "国際"
     },
     {
-      "title": "米‌政府がAI企業株取得を検討",
-      "link": "https://news.yahoo.co.jp/pickup/6583146?source=rss",
-      "description": "",
-      "pubDate": "Sat, 06 Jun 2026 01:57:35 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "ラオス洞窟2人不明 捜索打ち切り",
       "link": "https://news.yahoo.co.jp/pickup/6583264?source=rss",
       "description": "",
       "pubDate": "Sun, 07 Jun 2026 00:30:02 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
+    },
+    {
+      "title": "人口制限是非 スイスで国民投票へ",
+      "link": "https://news.yahoo.co.jp/pickup/6583334?source=rss",
+      "description": "",
+      "pubDate": "Sun, 07 Jun 2026 11:20:30 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "ジャガー横田の19歳イケメン長男、美容室へ行って「スッキリして良い感じ」　幸せ家族3ショットがステキ",
+      "link": "https://www.j-cast.com/2026/06/07515373.html",
+      "description": "女子プロレスラー・ジャガー横田さん（64）の夫で医師の木下博勝氏（58）が、インスタグラムで、「JJ」こと長男の大維志（たいし）さん（19）との家族ショットを公開した。",
+      "pubDate": "Sun, 07 Jun 2026 20:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
     },
     {
       "title": "消費税減税「食料品1％」は金持ち優遇になる　「レジ改修→2年後には元に戻す」コストは誰が負担するの？",
@@ -227,18 +235,18 @@
       "category": "総合"
     },
     {
-      "title": "ある日突然「危険です」「事故につながる」と言われ...給湯器を25万円で交換　この金額は本当に妥当だったのか",
-      "link": "https://www.j-cast.com/2026/06/07515298.html",
-      "description": "「給湯器が古くなっていて危険です。今すぐ交換した方が良いです」突然訪問してきた業者からこう言われ、工事費込みで25万円の契約を迫られたら、どう判断すればいいのだろうか。",
-      "pubDate": "Sun, 07 Jun 2026 17:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "ある日突然「危険です」「事故につながる」と言われ...給湯器を25万円で交換　この金額は本当に妥当だったのか",
+      "link": "https://www.j-cast.com/2026/06/07515298.html",
+      "description": "「給湯器が古くなっていて危険です。今すぐ交換した方が良いです」突然訪問してきた業者からこう言われ、工事費込みで25万円の契約を迫られたら、どう判断すればいいのだろうか。",
+      "pubDate": "Sun, 07 Jun 2026 17:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -263,14 +271,6 @@
       "link": "https://www.j-cast.com/2026/06/07515372.html",
       "description": "俳優の大地真央さん（70）が2026年6月2日、自身のインスタグラムを更新。12歳年下でインテリアデザイナーの夫・森田恭通さん（58）と船上のランチを楽しむ様子を披露した。",
       "pubDate": "Sun, 07 Jun 2026 15:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "女子ゴルフの都玲華、肩出しオールインワン私服コーデでかわいさ限界突破　「ほんまに綺麗」「可愛すぎます！」",
-      "link": "https://www.j-cast.com/2026/06/07515339.html",
-      "description": "女子プロゴルファーの都玲華選手（22）が2026年6月2日、自身のインスタグラムを更新。オールインワンの肩出しコーデを披露した。",
-      "pubDate": "Sun, 07 Jun 2026 14:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -307,18 +307,66 @@
       "category": "総合"
     },
     {
-      "title": "16歳の高校生とみられる男性川で溺れ心肺停止「川で男性が溺れた」と119番",
-      "link": "https://news.livedoor.com/article/detail/31483327/",
+      "title": "ヘディング1回でも脳に影響「損傷のサイン」サッカーにはらむ危険",
+      "link": "https://news.livedoor.com/article/detail/31479519/",
       "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 19:13:00 +0900",
+      "pubDate": "Sun, 07 Jun 2026 08:30:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "10代女性リュックサック奪われる 警察が強盗事件として男の行方追う",
-      "link": "https://news.livedoor.com/article/detail/31483251/",
+      "title": "死亡ひき逃げ事件で男逮捕 歩行者の女性をはねて約200メートル引きずったか",
+      "link": "https://news.livedoor.com/article/detail/31484004/",
       "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 19:11:01 +0900",
+      "pubDate": "Sun, 07 Jun 2026 21:23:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "有吉弘行 歯みがきをしたことがない芸人に驚き「それで虫歯もないんだよ」",
+      "link": "https://news.livedoor.com/article/detail/31484031/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 21:41:55 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "飯豊連峰の山中で遭難した男性発見「当初計画のルートと違う道に入った」",
+      "link": "https://news.livedoor.com/article/detail/31483976/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 21:25:48 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "岸谷蘭丸、渋谷区の「ゴミ政策」を一喝「くだらないなと思ってしまう」",
+      "link": "https://news.livedoor.com/article/detail/31483339/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 19:23:44 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "Loppiで障害発生 チケットの発券、入金などできずSNS悲鳴",
+      "link": "https://news.livedoor.com/article/detail/31483850/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 20:56:58 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "自民党総裁選で小泉進次郎氏への批評動画 首相秘書から相談と作成者",
+      "link": "https://news.livedoor.com/article/detail/31483849/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 21:38:17 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ファーストサマーウイカ やってみたい仕事明かす「ルートがわからない…」",
+      "link": "https://news.livedoor.com/article/detail/31483744/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 20:39:16 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -331,58 +379,10 @@
       "category": "総合"
     },
     {
-      "title": "ジャッジを欠くヤンキースがイ・ジョンフ獲得報道「魅力的なトレードだ」",
-      "link": "https://news.livedoor.com/article/detail/31483156/",
+      "title": "「捜索されている」別の登山客から言われ遭難に気付く 登山中の男性を救助",
+      "link": "https://news.livedoor.com/article/detail/31483690/",
       "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 18:31:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "元SKE48の19歳が脳梗塞に、鈴木愛來が顔出しで壮絶経験を告白",
-      "link": "https://news.livedoor.com/article/detail/31483116/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 18:47:12 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "伊豆大島の港で釣り人が行方不明",
-      "link": "https://news.livedoor.com/article/detail/31482880/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 18:07:21 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "朝起きたら一面が灰色 桜島で7日朝連続噴火で市街地に多量の降灰",
-      "link": "https://news.livedoor.com/article/detail/31483054/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 18:27:45 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "どれだけ大声で泣いたかで勝敗、横綱には地元産のお米贈られる",
-      "link": "https://news.livedoor.com/article/detail/31482982/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 18:21:17 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "岡山市の姉妹都市・米サンノゼ市で盗難に遭った「桃太郎像」復活へ",
-      "link": "https://news.livedoor.com/article/detail/31482807/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 17:56:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "戸田恵梨香 恩師との約20年ぶり再会に涙「一番大事にした方がいいものは」",
-      "link": "https://news.livedoor.com/article/detail/31482774/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 18:00:00 +0900",
+      "pubDate": "Sun, 07 Jun 2026 20:29:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -427,10 +427,10 @@
       "category": "経済"
     },
     {
-      "title": "中堅国立大から大手マスコミ5社内定 AIを駆使した22歳の「チョロい」就活",
-      "link": "https://news.livedoor.com/article/detail/31479806/",
+      "title": "外銀内定者の「出身校」の共通点",
+      "link": "https://news.livedoor.com/article/detail/31464501/",
       "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 08:54:17 +0900",
+      "pubDate": "Sun, 07 Jun 2026 11:59:33 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,6 +467,62 @@
       "category": "経済"
     },
     {
+      "title": "腹痛で「白い大便が出た」28歳女性死亡、夫婦の「あまりに過激な趣味」",
+      "link": "https://news.livedoor.com/article/detail/31472078/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 05 Jun 2026 10:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "福岡県の川で高校生とみられる男性が溺れる 救助も心肺停止の状態",
+      "link": "https://news.livedoor.com/article/detail/31483327/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 19:13:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "たまごの食べ過ぎで現れる症状 動脈硬化や体重増加・肥満など",
+      "link": "https://news.livedoor.com/article/detail/31470668/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 05 Jun 2026 14:30:26 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "朝起きたら一面が灰色 桜島で7日朝連続噴火で市街地に多量の降灰",
+      "link": "https://news.livedoor.com/article/detail/31483054/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 18:27:45 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "男児の酸素チューブが外れ脳に重い障害 大学病院側に約1億円の支払い命じる",
+      "link": "https://news.livedoor.com/article/detail/31470315/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 05 Jun 2026 22:14:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "伊豆大島の港で釣り人が行方不明",
+      "link": "https://news.livedoor.com/article/detail/31482880/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 18:07:21 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "どれだけ大声で泣いたかで勝敗、横綱には地元産のお米贈られる",
+      "link": "https://news.livedoor.com/article/detail/31482982/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 07 Jun 2026 18:21:17 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "14歳女子中学生を逮捕、60代女性の顔にスプレーかけて財布奪った疑い",
       "link": "https://news.livedoor.com/article/detail/31482307/",
       "description": "記事を読む",
@@ -487,62 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/31480138/",
       "description": "記事を読む",
       "pubDate": "Sun, 07 Jun 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "銀行の支店に高齢者が運転する車が突っ込む 運転操作を誤ったか",
-      "link": "https://news.livedoor.com/article/detail/31481860/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 15:17:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "78歳男性を軽自動車ではねてケガさせ逃走か 現場へ戻ってきた男を逮捕",
-      "link": "https://news.livedoor.com/article/detail/31481702/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 14:54:03 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "南スーダンから調達の原油が日本に到着 中東情勢の悪化後初",
-      "link": "https://news.livedoor.com/article/detail/31481429/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 14:01:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "USJ内を個人が勝手に有料案内「偽のプライベートツアー」に注意喚起",
-      "link": "https://news.livedoor.com/article/detail/31481055/",
-      "description": "ざっくり言うと USJが個人が勝手に企画した「偽のプライベートツアー」に注意喚起した SNS上には「元クルーが案内」「一緒に行動」などをうたったツアーの募集も 運営元は「金銭トラブルに発展する可能性も高い」と懸念している 記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 12:48:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "長野県で夫が妻をバットで殴打し殺害した容疑で逮捕 夫は容疑を認める",
-      "link": "https://news.livedoor.com/article/detail/31480940/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 12:13:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "パトカーに追跡された自転車が車と衝突、男性が意識不明 運転手が逃走か",
-      "link": "https://news.livedoor.com/article/detail/31480797/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 12:06:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "京都府南丹市の男児殺害事件の報道「過熱」か「妥当」か",
-      "link": "https://news.livedoor.com/article/detail/31480791/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 07 Jun 2026 12:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1267,6 +1267,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【ライブ】東海で地震が発生！生放送で解説します！（2026年6月7日）",
+      "link": "https://www.youtube.com/watch?v=KN2ltzeUE9o",
+      "description": "",
+      "pubDate": "2026-06-07T13:07:30+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
       "title": "【速報！】なんと沖縄と小笠原諸島の海底に5180.5万トンの大量メタルが存在することを経産省が発表！わかりやすく解説します！！",
       "link": "https://www.youtube.com/watch?v=4vV5I6XzFhY",
       "description": "",
@@ -1335,14 +1343,6 @@
       "link": "https://www.youtube.com/watch?v=SvPY6mvnp_c",
       "description": "",
       "pubDate": "2026-06-03T06:32:20+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】ついに南鳥島レアアース泥の精錬に成功したことを東大教授が発表！わかりやすく解説します！！",
-      "link": "https://www.youtube.com/watch?v=R5NDToAe8JA",
-      "description": "",
-      "pubDate": "2026-06-03T06:32:43+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     }
