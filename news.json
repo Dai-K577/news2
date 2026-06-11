@@ -1,70 +1,78 @@
 {
-  "updated": "2026-06-11 11:15 JST",
-  "total": 168,
+  "updated": "2026-06-11 16:20 JST",
+  "total": 171,
   "news": [
     {
-      "title": "米軍 イランへの新たな攻撃を終了",
-      "link": "https://news.yahoo.co.jp/pickup/6583784?source=rss",
+      "title": "官房長官 中東情勢の悪化を懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6583799?source=rss",
       "description": "",
-      "pubDate": "Thu, 11 Jun 2026 02:11:13 GMT",
+      "pubDate": "Thu, 11 Jun 2026 04:43:04 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "再審見直し案 政府・与党が修正へ",
-      "link": "https://news.yahoo.co.jp/pickup/6583762?source=rss",
+      "title": "河野洋平氏死去 韓国首相が追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6583815?source=rss",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 22:57:51 GMT",
+      "pubDate": "Thu, 11 Jun 2026 07:10:17 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "河野洋平氏が死去 党派超え悼む声",
-      "link": "https://news.yahoo.co.jp/pickup/6583770?source=rss",
+      "title": "高校生の遺体 殺人疑い視野に捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6583807?source=rss",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 23:58:07 GMT",
+      "pubDate": "Thu, 11 Jun 2026 05:44:45 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "海岸漂着の謎ホース 中国製と判明",
-      "link": "https://news.yahoo.co.jp/pickup/6583778?source=rss",
+      "title": "暴行死 当時18歳男に懲役20年求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6583809?source=rss",
       "description": "",
-      "pubDate": "Thu, 11 Jun 2026 01:16:11 GMT",
+      "pubDate": "Thu, 11 Jun 2026 06:12:13 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "靴下の国内生産 存続の危機に直面",
-      "link": "https://news.yahoo.co.jp/pickup/6583779?source=rss",
+      "title": "セクハラ辞職 田川市前市長出馬へ",
+      "link": "https://news.yahoo.co.jp/pickup/6583813?source=rss",
       "description": "",
-      "pubDate": "Thu, 11 Jun 2026 01:26:28 GMT",
+      "pubDate": "Thu, 11 Jun 2026 06:58:43 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ドジャース 大谷降板後に逆転負け",
-      "link": "https://news.yahoo.co.jp/pickup/6583782?source=rss",
+      "title": "校舎からコンクリ片落下 生徒負傷",
+      "link": "https://news.yahoo.co.jp/pickup/6583814?source=rss",
       "description": "",
-      "pubDate": "Thu, 11 Jun 2026 01:52:13 GMT",
+      "pubDate": "Thu, 11 Jun 2026 07:07:31 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "大谷が9回に豪快12号 敵地騒然",
-      "link": "https://news.yahoo.co.jp/pickup/6583783?source=rss",
+      "title": "ガッツ石松さんが死去 76歳",
+      "link": "https://news.yahoo.co.jp/pickup/6583811?source=rss",
       "description": "",
-      "pubDate": "Thu, 11 Jun 2026 01:54:38 GMT",
+      "pubDate": "Thu, 11 Jun 2026 06:28:34 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「宇宙兄弟」完結 連載18年半に幕",
-      "link": "https://news.yahoo.co.jp/pickup/6583772?source=rss",
+      "title": "退場処分 阪神・藤川監督に制裁金",
+      "link": "https://news.yahoo.co.jp/pickup/6583808?source=rss",
       "description": "",
-      "pubDate": "Thu, 11 Jun 2026 00:28:16 GMT",
+      "pubDate": "Thu, 11 Jun 2026 05:58:35 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "官房長官 中東情勢の悪化を懸念",
+      "link": "https://news.yahoo.co.jp/pickup/6583799?source=rss",
+      "description": "",
+      "pubDate": "Thu, 11 Jun 2026 04:43:04 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "再審見直し案 政府・与党が修正へ",
@@ -83,18 +91,10 @@
       "category": "国内"
     },
     {
-      "title": "皇族数確保策 立法府総意まとまる",
-      "link": "https://news.yahoo.co.jp/pickup/6583704?source=rss",
+      "title": "「立法府の総意」歓迎と懸念の声",
+      "link": "https://news.yahoo.co.jp/pickup/6583789?source=rss",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 07:49:56 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「立法府の総意」共産党など反発",
-      "link": "https://news.yahoo.co.jp/pickup/6583739?source=rss",
-      "description": "",
-      "pubDate": "Wed, 10 Jun 2026 13:19:28 GMT",
+      "pubDate": "Thu, 11 Jun 2026 02:41:49 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -115,18 +115,18 @@
       "category": "国内"
     },
     {
-      "title": "元衆議院議長 河野洋平氏が死去",
-      "link": "https://news.yahoo.co.jp/pickup/6583722?source=rss",
+      "title": "幼児の顔にケーキ 罪に問われる?",
+      "link": "https://news.yahoo.co.jp/pickup/6583804?source=rss",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 09:54:19 GMT",
+      "pubDate": "Thu, 11 Jun 2026 05:05:40 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
     {
-      "title": "糖質カット炊飯器 国の控訴を棄却",
-      "link": "https://news.yahoo.co.jp/pickup/6583682?source=rss",
+      "title": "壁ぺったんもダメ?保育士ら困惑",
+      "link": "https://news.yahoo.co.jp/pickup/6583793?source=rss",
       "description": "",
-      "pubDate": "Wed, 10 Jun 2026 04:59:22 GMT",
+      "pubDate": "Thu, 11 Jun 2026 03:31:32 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -155,6 +155,14 @@
       "category": "国際"
     },
     {
+      "title": "河野洋平氏死去 韓国首相が追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6583815?source=rss",
+      "description": "",
+      "pubDate": "Thu, 11 Jun 2026 07:10:17 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "ウクライナ軍 マリウポリ港を攻撃",
       "link": "https://news.yahoo.co.jp/pickup/6583738?source=rss",
       "description": "",
@@ -167,14 +175,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6583753?source=rss",
       "description": "",
       "pubDate": "Wed, 10 Jun 2026 21:40:17 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "「好況」の平壌 地方は今も生活苦",
-      "link": "https://news.yahoo.co.jp/pickup/6583743?source=rss",
-      "description": "",
-      "pubDate": "Wed, 10 Jun 2026 13:46:26 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -195,42 +195,42 @@
       "category": "国際"
     },
     {
-      "title": "「え、すごいです！」51歳芸人、「食事の改善のみ」で1か月ー9㎏超報告　痩せた姿に反響「シュッとしてかっこよく」",
-      "link": "https://www.j-cast.com/2026/06/11515504.html",
-      "description": "お笑いコンビ「COWCOW」の善し（よし）さん（51）が、2026年6月9日にインスタグラムを更新し、1か月で10キロ近くの減量を達成したことを明かした。",
-      "pubDate": "Thu, 11 Jun 2026 11:00:00 +0900",
+      "title": "野村修也氏、首相陣営中傷動画問題について私見　「後は、サナエトークンと紐づくかどうかが問題になるだけ」",
+      "link": "https://www.j-cast.com/2026/06/11515522.html",
+      "description": "法学者で弁護士の野村修也氏が2026年6月10日にXを更新。高市早苗首相陣営が誹謗中傷動画の作成と拡散を外部に依頼していた疑惑について、自身の見解を明かした。",
+      "pubDate": "Thu, 11 Jun 2026 15:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "6代目・中村勘九郎の妻...前田愛、ラベンダー色の夏ワンピで「可愛いすぎ」「お綺麗」　着物姿と雰囲気変わって",
-      "link": "https://www.j-cast.com/2026/06/11515421.html",
-      "description": "俳優の前田愛さん（42）が2026年6月4日、自身のインスタグラムを更新。さわやかなノースリーブのワンピース姿を披露した。",
-      "pubDate": "Thu, 11 Jun 2026 08:00:00 +0900",
+      "title": "皇族数確保の「立法府の総意」は国民の総意なのか？玉川徹氏が指摘　女性天皇・女系天皇めぐって",
+      "link": "https://www.j-cast.com/2026/06/11515518.html",
+      "description": "衆参両院の議長・副議長は与野党13党派代表と皇室数確保策について協議し、「女性皇族が皇室に残る」「旧宮家の男系男子を養子として皇族に迎える」という2案を「了」とする「立法府の総意」をまとめた。",
+      "pubDate": "Thu, 11 Jun 2026 14:45:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "紀平梨花＆西山真瑚ペア、仲良し2ショットがステキ限界突破　「りかしん明治神宮へ」「心も身体もリフレッシュ」",
-      "link": "https://www.j-cast.com/2026/06/11515457.html",
-      "description": "フィギュアスケート女子で全日本選手権2連覇の実績を持ち、現在はアイスダンスへと転向した紀平梨花選手（23）が2026年6月8日、自身のインスタグラムを更新。アイスダンスでペアを組む西山真瑚選手（24）との2ショットを披露した。",
-      "pubDate": "Thu, 11 Jun 2026 07:00:00 +0900",
+      "title": "高市首相が取材対応中に小声で「だるっ」...X拡散情報を内閣広報官Xが否定「総理にも確認」",
+      "link": "https://www.j-cast.com/2026/06/11515524.html",
+      "description": "内閣広報官の公式Xは2026年6月10日、X上で拡散されていた、高市早苗首相が取材対応中に小声で「だるっ」と呟いたとする情報について、「ちょっと大丈夫かな」という発言だったと否定した。",
+      "pubDate": "Thu, 11 Jun 2026 14:34:04 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "モデルみたい...山本由伸、爆イケなサングラス＆きらりネックレスで移動中ショット　大谷翔平は真剣表情見せる",
-      "link": "https://www.j-cast.com/2026/06/10515479.html",
-      "description": "ロサンゼルス・ドジャースが2026年6月9日（日本時間）にインスタグラムを更新し、大谷翔平選手（31）をはじめとするドジャースの選手たちが飛行機移動するところをとらえたショットを公開した。",
-      "pubDate": "Wed, 10 Jun 2026 20:30:00 +0900",
+      "title": "【ドジャース】キム・ヘソン、マイナー打率.323で再昇格アピール...「3Aでは物足りない」地元メディア猛プッシュ",
+      "link": "https://www.j-cast.com/2026/06/11515523.html",
+      "description": "韓国メディア「メディアペン」（ウェブ版）が2026年6月11日、米マイナーリーグで打撃好調な韓国出身キム・ヘソン内野手（27）について、「3Aでは物足りない」と報じた。",
+      "pubDate": "Thu, 11 Jun 2026 14:07:48 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "「痴漢されたら被害者だろ」整形アイドル轟ちゃんが反発　痴漢被害めぐる「指摘」に驚きあらわ",
-      "link": "https://www.j-cast.com/2026/06/10515507.html",
-      "description": "チャンネル登録者数95万人超のYouTuber「整形アイドル轟ちゃん」が2026年6月10日にXを更新。自身の痴漢被害を巡る発言について「いつまでも被害者の位置に自分を置いてしまっている」とする指摘に対し、轟ちゃんは反発し、自身の見解を示した。",
-      "pubDate": "Wed, 10 Jun 2026 19:59:20 +0900",
+      "title": "高市首相の答弁修正は、なぜこんなに時間がかかったのか　ひろゆき氏指摘にツッコミ→「もっとかかってた」",
+      "link": "https://www.j-cast.com/2026/06/11515520.html",
+      "description": "ひろゆきこと実業家の西村博之氏が2026年6月10日にXを更新。しかし、自身の投稿内容について、誤りを指摘される一幕があった。",
+      "pubDate": "Thu, 11 Jun 2026 13:45:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -243,34 +243,34 @@
       "category": "総合"
     },
     {
-      "title": "高市首相が答弁訂正、週刊誌報道の「4月3日付の回答」事務所からと認める　秘書「勘違いをした」",
-      "link": "https://www.j-cast.com/2026/06/10515506.html",
-      "description": "高市早苗首相が2026年6月10日の衆院法務委員会で、5日の答弁から一転し、「週刊現代に引用されている4月3日付の回答については高市事務所から回答した内容であるということでしたので、その点は訂正します」と述べた。",
-      "pubDate": "Wed, 10 Jun 2026 19:39:29 +0900",
+      "title": "「あんスタ」声優、ファンとの不倫騒動謝罪　「私の無責任な行動によるもの」、妻も声明",
+      "link": "https://www.j-cast.com/2026/06/11515521.html",
+      "description": "人気スマートフォンゲーム「あんさんぶるスターズ！！」のキャラクター・瀬名泉の声を務める声優の伊藤マサミさんが2026年6月11日に公式Xで自身の不倫騒動を謝罪した。",
+      "pubDate": "Thu, 11 Jun 2026 13:30:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "結婚発表の「東大王」林輝幸氏、妻の「一般 女性」直筆署名が話題　経緯に「お茶目な奥様」「最高にセンスある」",
-      "link": "https://www.j-cast.com/2026/06/10515505.html",
-      "description": "クイズ番組「東大王」（TBS系）等に出演し「ジャスコ林」の愛称で知られているクイズ制作会社「Q星群」代表の林輝幸さんが、2026年6月10日にXで、前日に結婚を発表した際に注目を集めていた「直筆署名」について、妻の発案だったと明かした。",
-      "pubDate": "Wed, 10 Jun 2026 19:11:15 +0900",
+      "title": "国民・玉木雄一郎代表、「ショート動画等の配信だけで勝てるほど選挙は甘くありません」　「面識」の松井氏との関係説明",
+      "link": "https://www.j-cast.com/2026/06/11515519.html",
+      "description": "国民民主党の玉木雄一郎代表が2026年6月10日、「中傷動画を発信していたと報道されている松井健氏と私との関係について」との声明を公開した。",
+      "pubDate": "Thu, 11 Jun 2026 13:15:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "「本来は法律婚をしたかった」　TBS山本恵里伽アナが事実婚公表、理由に名前への思い「名字を変えずに家族に」",
-      "link": "https://www.j-cast.com/2026/06/10515503.html",
-      "description": "TBSの山本恵里伽アナウンサー（32）が、2026年6月9日放送のラジオ番組「荻上チキ・Session」（TBSラジオ）で、事実婚したことを公表した。事実婚を選択した理由を説明するなかで山本アナは、選択的夫婦別姓が認められていれば、「私たちは法律婚を選んでいました」と明かした。",
-      "pubDate": "Wed, 10 Jun 2026 17:25:00 +0900",
+      "title": "へずまりゅう議員「YouTubeから永久追放」報告　元迷惑系で「自分がしてきたことが悪い」",
+      "link": "https://www.j-cast.com/2026/06/11515517.html",
+      "description": "元迷惑系YouTuberで奈良市議会議員・へずまりゅう氏が2026年6月10日、YouTubeで動画を投稿できなくなったとして「永久追放を喰らいました」とXで報告した。",
+      "pubDate": "Thu, 11 Jun 2026 12:58:02 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "プロゴルフの試合中に赤ちゃんが泣き出しプレー中断　観戦マナー問うSNSの声に選手たちがキッパリ",
-      "link": "https://www.j-cast.com/2026/06/10515501.html",
-      "description": "プロゴルファーの香妻陣一朗選手が2026年6月10日、Xで赤ちゃんや子ども連れでのゴルフ観戦について、持論をつづった。",
-      "pubDate": "Wed, 10 Jun 2026 17:15:00 +0900",
+      "title": "枝野幸男氏、秘書のオンライン会議出席認めた高市首相を猛批判　「議会制民主主義は成り立ちません」",
+      "link": "https://www.j-cast.com/2026/06/11515516.html",
+      "description": "中道改革連合の前衆院議員で弁護士の枝野幸男氏が2026年6月11日にXを更新。高市早苗首相陣営の誹謗中傷動画疑惑問題を巡り、自民党批判を展開した。",
+      "pubDate": "Thu, 11 Jun 2026 12:30:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -281,6 +281,30 @@
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CAST会社ウォッチ",
       "category": "経済"
+    },
+    {
+      "title": "猫をかたどった充電ケースにふわふわの毛並みのような加工　ワイヤレスイヤホン",
+      "link": "https://www.j-cast.com/trend/2026/06/11515510.html",
+      "description": "音響機器などを扱うラディウス（東京都中央区）は、\"猫\"がモチーフの完全ワイヤレスイヤホン「NEKO true wireless earphones HP-C28BTF ふわふわフロッキーver.」を2026年6月19日に発売する。",
+      "pubDate": "Thu, 11 Jun 2026 12:00:00 +0900",
+      "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "写真家・KAGAYA氏の星空やオーロラの作品　光を透過するジグソーパズルに",
+      "link": "https://www.j-cast.com/trend/2026/05/12514590.html",
+      "description": "各種パズルなどを手がけるやのまん（東京都台東区）は、光を透過するジグソーパズル各種を、2026年5月下旬に全国の玩具店およびインターネット通販などで発売する。いずれも、星空写真家・KAGAYA氏の星空やオーロラの作品を使用している。",
+      "pubDate": "Tue, 12 May 2026 19:30:00 +0900",
+      "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "メッシにエムバペ...サッカー4人のスター選手とコラボ　「レゴエディション」各種",
+      "link": "https://www.j-cast.com/trend/2026/04/19513819.html",
+      "description": "レゴジャパンは、サッカー界の4人のスター選手とコラボレーションしたレゴセット「レゴエディション」シリーズ各種を、2026年5月1日から順次発売する。",
+      "pubDate": "Sun, 19 Apr 2026 12:00:00 +0900",
+      "source": "J-CASTトレンド",
+      "category": "総合"
     },
     {
       "title": "独自のAIアプリ＆光学ドライブ搭載　ノートPC「FMV Note A」3モデル",
@@ -307,154 +331,90 @@
       "category": "総合"
     },
     {
-      "title": "「つい買ってしまう」罠だ…アマゾンに「1-Click注文」の仕組みあり",
-      "link": "https://news.livedoor.com/article/detail/31505492/",
+      "title": "神奈川県の住宅ガレージで車内に練炭入り七輪 小中学生を含む親子3人が死亡",
+      "link": "https://news.livedoor.com/article/detail/31520153/",
       "description": "記事を読む",
-      "pubDate": "Wed, 10 Jun 2026 11:00:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 15:58:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "アメリカ国民の大半 北中米W杯に対する世論調査で「TV観戦しない」",
-      "link": "https://news.livedoor.com/article/detail/31516165/",
+      "title": "闇バイトの計画中止に腹を立て監禁か 実行役グループの男ら3人が逮捕",
+      "link": "https://news.livedoor.com/article/detail/31520152/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 09:59:26 +0900",
+      "pubDate": "Thu, 11 Jun 2026 15:58:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "香川県高松市で信号無視をした疑いの少年を逮捕 調べに対し容疑を認める",
-      "link": "https://news.livedoor.com/article/detail/31516703/",
+      "title": "相模原市の河川敷で女子高校生が死亡 事件に巻き込まれたとみて捜査",
+      "link": "https://news.livedoor.com/article/detail/31520047/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 10:48:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 15:43:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "北乃きい、Instagram更新 近影に対し反響「覚醒された」「さらに美女化」",
-      "link": "https://news.livedoor.com/article/detail/31515819/",
+      "title": "ひろゆき氏がXを更新、ヒカルを絶賛「有言実行力はマジですごい」",
+      "link": "https://news.livedoor.com/article/detail/31519985/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 09:08:28 +0900",
+      "pubDate": "Thu, 11 Jun 2026 15:36:16 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ドジャース・大谷翔平 悪夢襲う…後続投手の被弾で自身7勝目が消えた",
-      "link": "https://news.livedoor.com/article/detail/31516460/",
+      "title": "中道の伊佐進一氏、高市首相の動画疑惑追及後に「ボコボコにやられている」",
+      "link": "https://news.livedoor.com/article/detail/31516786/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 10:22:51 +0900",
+      "pubDate": "Thu, 11 Jun 2026 11:00:41 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "親の介護で「やってしまいがちな3つの過ち」情けとお金は親のためならず？",
-      "link": "https://news.livedoor.com/article/detail/31515530/",
+      "title": "アンパンマン役の戸田恵子「必ず収録前にラジオ体操をしています」",
+      "link": "https://news.livedoor.com/article/detail/31517791/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 08:15:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 12:10:33 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "漫画「宇宙兄弟」が完結 18年の歴史に幕…アニメや実写映画にもなった",
-      "link": "https://news.livedoor.com/article/detail/31515170/",
+      "title": "相模原市で女子高生の遺体を発見 神奈川県警が知人の19歳男性から聴取",
+      "link": "https://news.livedoor.com/article/detail/31519368/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 07:24:32 +0900",
+      "pubDate": "Thu, 11 Jun 2026 14:38:35 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ベテラン教員が1カ月で休職・退職へ…小学2年生の振る舞いに驚き",
-      "link": "https://news.livedoor.com/article/detail/31516155/",
+      "title": "新宿区のホテルから行為などを配信し、視聴者に閲覧させたか 男女3人を逮捕",
+      "link": "https://news.livedoor.com/article/detail/31519472/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 06:10:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 14:51:01 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "家電量販大手同士で経営統合に基本合意 きっかけはヤマダHD会長の一声か",
-      "link": "https://news.livedoor.com/article/detail/31515175/",
+      "title": "「かけ子やるか」と言って20代男性を監禁し暴行か、暴力団組員ら6人逮捕",
+      "link": "https://news.livedoor.com/article/detail/31519914/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 07:00:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 15:25:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "伊藤洋輝 バイエルンから退団の可能性浮上…ラ・リーガ行きが有力か",
-      "link": "https://news.livedoor.com/article/detail/31515940/",
+      "title": "若林正恭の「青天」直木賞の候補作に選出「じゃない方芸人」を脱却へ期待",
+      "link": "https://news.livedoor.com/article/detail/31519596/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 09:10:02 +0900",
+      "pubDate": "Thu, 11 Jun 2026 15:05:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
-    },
-    {
-      "title": "東武浅草駅の名物「激狭ホーム」先端に立ち入るための厳しすぎる条件",
-      "link": "https://news.livedoor.com/article/detail/31514946/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 07:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "焦って「50年ローン」を組む若者が陥る「罠」と「絶対NGな買い方」",
-      "link": "https://news.livedoor.com/article/detail/31515345/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 08:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
     },
     {
       "title": "Meta社 Instagramの有料プラン「Instagram Plus」を提供開始",
       "link": "https://news.livedoor.com/article/detail/31515590/",
       "description": "記事を読む",
       "pubDate": "Thu, 11 Jun 2026 08:20:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "脱サラし、ビル清掃業として独立…45歳で早期退職の男性が現実語った",
-      "link": "https://news.livedoor.com/article/detail/31510197/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 10 Jun 2026 18:11:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "「スペースX」の上場で…投信に影響は発生するのか？専門家の見解は",
-      "link": "https://news.livedoor.com/article/detail/31510422/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 10 Jun 2026 18:25:27 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "家電量販大手同士で経営統合に基本合意 きっかけはヤマダHD会長の一声か",
-      "link": "https://news.livedoor.com/article/detail/31515175/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 07:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "家計の手取りが増える…金融教育家が試算した「夫婦の稼ぎ方」の黄金比率",
-      "link": "https://news.livedoor.com/article/detail/31515135/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 07:15:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "親の介護で「やってしまいがちな3つの過ち」情けとお金は親のためならず？",
-      "link": "https://news.livedoor.com/article/detail/31515530/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 08:15:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "資さんうどんが海外初出店「限定メニューあり」台湾・台北に1号店",
-      "link": "https://news.livedoor.com/article/detail/31516078/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 09:46:26 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,84 +427,156 @@
       "category": "経済"
     },
     {
-      "title": "河野洋平元衆院議長が死去、89歳 長男の河野太郎元外相が発表",
-      "link": "https://news.livedoor.com/article/detail/31516457/",
+      "title": "東京･奥多摩で発見された「変死体」犯人はクマ以外の「人喰い生物」か",
+      "link": "https://news.livedoor.com/article/detail/31516397/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 10:28:33 +0900",
+      "pubDate": "Thu, 11 Jun 2026 10:15:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "山形・東根市の特産「東根さくらんぼ」東京・豊洲市場で1キロ150万円落札",
+      "link": "https://news.livedoor.com/article/detail/31517004/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 11:11:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "企業は無視できない…傷病手当金が示す、深刻な「メンタル危機」の実態は",
+      "link": "https://news.livedoor.com/article/detail/31517173/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 11:28:31 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "物価高騰の余波、地酒にも到来…新潟の専門食品店が試飲価格値上げ",
+      "link": "https://news.livedoor.com/article/detail/31517775/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 11:55:39 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "「独身税」既婚者は負担が多い？支払う金額が高くなる場合を解説",
+      "link": "https://news.livedoor.com/article/detail/31518633/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 13:00:21 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "新幹線で「子ども指定席料金7000円」をケチった代償？「地獄の2時間半」",
+      "link": "https://news.livedoor.com/article/detail/31518977/",
+      "description": "ざっくり言うと 東京から新大阪までの新幹線の子ども指定席料金は約7000円である件 2時間半ほどならと親が未就学児を膝の上に乗せて節約する家庭もある しかし代償として「地獄の時間」を過ごし、激しく後悔する可能性もあるそう 記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 13:30:12 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "資産2億円・75歳父が急死…父から母への「生涯をかけた恐怖の復讐」",
+      "link": "https://news.livedoor.com/article/detail/31517450/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 11:30:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "「朝の短時間だけで1日が完結する」デイトレで元手35万→3.8億円に",
+      "link": "https://news.livedoor.com/article/detail/31504893/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 10 Jun 2026 09:55:36 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "片付けようとしたら「触るな！」持ち主から理不尽な怒号…対処法は",
+      "link": "https://news.livedoor.com/article/detail/31516576/",
+      "description": "ざっくり言うと 空港や観光地で不要になったスーツケースが放置される問題が深刻化している あるカフェ経営者は、店先に放置されたスーツケースを片付けようとしたが、 持ち主が「勝手に触るな!」と怒り出し、スマホで撮影してきたという 記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 10:18:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "池袋の無人販売店で「払ったふり万引き」QR決済装い商品持ち去りか 店移転",
-      "link": "https://news.livedoor.com/article/detail/31516020/",
+      "title": "江別大学生暴行死で当時18歳の特定少年に懲役20年求刑 判決は6月25日",
+      "link": "https://news.livedoor.com/article/detail/31519336/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 09:40:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 14:26:01 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "ベテラン教員が1カ月で休職・退職へ…小学2年生の振る舞いに驚き",
-      "link": "https://news.livedoor.com/article/detail/31516155/",
+      "title": "「マッポゲーム」と称し虚偽通報「刺激欲しかった」仲間に危険走行させたか",
+      "link": "https://news.livedoor.com/article/detail/31519275/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 06:10:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 14:11:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "警察官に対し「殺すぞ」と脅迫…公務妨害疑いで57歳男が逮捕される 香川",
-      "link": "https://news.livedoor.com/article/detail/31515399/",
+      "title": "Def Tech・Microこと西宮佑騎被告 拘禁刑2年、執行猶予4年の判決下る",
+      "link": "https://news.livedoor.com/article/detail/31518778/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 08:06:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 13:32:01 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "愛知・名古屋市でマイクロバス事故 名古屋地検、85歳運転手を鑑定留置へ",
-      "link": "https://news.livedoor.com/article/detail/31516510/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 10:29:56 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "高知黒潮ホテル 日韓国交正常化60周年記念碑を撤去…謝罪と経緯報告",
-      "link": "https://news.livedoor.com/article/detail/31515542/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 08:02:48 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "税務署の20代女性職員 風俗副業で処分「地下アイドルの推し活費用に…」",
-      "link": "https://news.livedoor.com/article/detail/31515224/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 07:30:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "スマホなし旅行も? Z世代に異変",
-      "link": "https://news.livedoor.com/article/detail/31514977/",
+      "title": "「バカ高い」東京23区での火葬料金 小池百合子都知事が「英断」下すか",
+      "link": "https://news.livedoor.com/article/detail/31515119/",
       "description": "記事を読む",
       "pubDate": "Thu, 11 Jun 2026 07:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "富山県富山市内の高校の女子生徒用部室に「のぞき目的」で侵入か 男逮捕",
-      "link": "https://news.livedoor.com/article/detail/31515562/",
+      "title": "北海道・江別で大学生暴行死 被告が質問に回答「死刑か無期だと思う」",
+      "link": "https://news.livedoor.com/article/detail/31517568/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 08:28:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 11:55:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "両陛下のオランダ訪問は予定がら空き？「ゆっくり休んで」気遣いか",
-      "link": "https://news.livedoor.com/article/detail/31515720/",
+      "title": "神奈川県相模原市の河川敷で発見の女子高生の遺体 知人の少年に殺人容疑か",
+      "link": "https://news.livedoor.com/article/detail/31518921/",
       "description": "記事を読む",
-      "pubDate": "Thu, 11 Jun 2026 08:30:00 +0900",
+      "pubDate": "Thu, 11 Jun 2026 13:48:01 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
+    },
+    {
+      "title": "高市首相が取材対応中に小声で「だるっ」と呟いた？内閣広報官公式Xが否定",
+      "link": "https://news.livedoor.com/article/detail/31519356/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 14:34:04 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "「荷物の機械に挟まっている」消防へ通報…男性、意識不明の重体 滋賀",
+      "link": "https://news.livedoor.com/article/detail/31518785/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 13:16:09 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "息子監禁場所は「神のお告げの取次者」名乗る主犯の男が所有していた建物か",
+      "link": "https://news.livedoor.com/article/detail/31517756/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 11 Jun 2026 12:06:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "2026年6月金融政策決定会合プレビュー",
+      "link": "https://www.dir.co.jp/report/research/economics/japan/20260611_025821.html",
+      "description": "◆日本銀行の植田和男総裁は2026年6月3日の講演において、物価上振れリスクへの対応を優先する姿勢を明確にした。これは事実上の利上げシグナルとみられ、6月15、16日の金融政策決定会合では政策金利1.00％への引き上げが決定されるだろう。インフレ期待の上昇や賃金と物価の循環的な上昇の継続などを踏まえると、利上げの遅れはビハインド・ザ・カーブに陥るリスクを高める。6月利上げの次の利上げは26年12月",
+      "pubDate": "Thu, 11 Jun 2026 15:15:00 +0900",
+      "source": "大和総研 経済分析",
+      "category": "経済"
     },
     {
       "title": "中国：物価高をピッグサイクルが救う？",
@@ -615,14 +647,6 @@
       "link": "https://www.dir.co.jp/report/research/economics/japan/20260604_025797.html",
       "description": "◆原油価格の高騰を受け、企業物価が上昇している。原材料コストの増加は企業収益を下押しする要因だが、近年は価格転嫁環境が改善したことで、その影響は一定程度抑えられるとみられる。 ◆原油の供給制約による減産にも注意が必要だが、現状は素材産業への影響が中心となっている。他方、中東向け自動車輸出が大きく減少しており、これに原油高の影響を合わせると、2026年4-6月期の経常利益を前期比で2.3％pt程度下",
       "pubDate": "Thu, 04 Jun 2026 13:10:00 +0900",
-      "source": "大和総研 経済分析",
-      "category": "経済"
-    },
-    {
-      "title": "消費データブック（2026/6/3号）",
-      "link": "https://www.dir.co.jp/report/research/economics/japan/20260603_025796.html",
-      "description": "◆2026年4月の消費は3月から財・サービスともに増加した。財については、百貨店、アパレル、家電大型専門店（大和総研による季節調整値）の販売額や新車販売台数（同）が前月から増加した一方、スーパー、コンビニは小幅に減少した。サービスについては、外食産業売上高の伸び率が拡大した。宿泊者数は前月から小幅に増加した。一方、新幹線や航空機の輸送量の前年比伸び率が低下した。 ◆5月の消費は4月から小幅に増加し",
-      "pubDate": "Wed, 03 Jun 2026 15:25:00 +0900",
       "source": "大和総研 経済分析",
       "category": "経済"
     },
@@ -1110,7 +1134,7 @@
       "title": "【文春砲が破綻】※緊急速報※ 週刊文春が報じた高市陣営のズーム会議音声データがめちゃくちゃでした（須田慎一郎の虎ノ門ニュース）",
       "link": "https://www.youtube.com/watch?v=zo3OmNyKZHI",
       "description": "",
-      "pubDate": "2026-06-11T01:41:59+00:00",
+      "pubDate": "2026-06-11T07:14:53+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1187,6 +1211,38 @@
       "category": "YouTube"
     },
     {
+      "title": "原付バイクとトラックが衝突しバイクのベトナム人技能実習生死亡#shorts",
+      "link": "https://www.youtube.com/shorts/qqu_KgOOps8",
+      "description": "",
+      "pubDate": "2026-06-11T03:49:42+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "自衛隊などが円滑に利用できる特定利用空港　静岡空港を特定利用空港に指定したいと国から打診",
+      "link": "https://www.youtube.com/watch?v=e2UMNPvrmKU",
+      "description": "",
+      "pubDate": "2026-06-11T03:46:59+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "ペン型拳銃所持の暴力団員を金庫強盗関与で再逮捕　秘匿アプリで実行役に指示　実行役と面識なし",
+      "link": "https://www.youtube.com/watch?v=Rqd4cprO1Po",
+      "description": "",
+      "pubDate": "2026-06-11T03:41:21+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "国道1号バイパスでトラックと原付が衝突　原付のベトナム人女性が死亡　５３歳の男を逮捕　静岡・沼津市",
+      "link": "https://www.youtube.com/watch?v=Xhsp4jed8w8",
+      "description": "",
+      "pubDate": "2026-06-11T07:15:34+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
       "title": "ショート動画のスクショで6人の命奪う　新名神6人死亡事故の被告　初公判で起訴内容認める#shorts",
       "link": "https://www.youtube.com/shorts/grMpwaEdLo0",
       "description": "",
@@ -1198,7 +1254,7 @@
       "title": "【ＪＲ東海道線】深夜のレール交換工事に密着してみた#shorts",
       "link": "https://www.youtube.com/shorts/CGexSk3oHNY",
       "description": "",
-      "pubDate": "2026-06-11T01:18:09+00:00",
+      "pubDate": "2026-06-11T06:40:14+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1222,47 +1278,15 @@
       "title": "消防隊員が夏に備えて暑さに体を慣らす「暑熱順化」訓練　SATVの新人記者も体験　静岡市",
       "link": "https://www.youtube.com/watch?v=0tChiHQ9Q-I",
       "description": "",
-      "pubDate": "2026-06-10T11:54:36+00:00",
+      "pubDate": "2026-06-11T06:34:57+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "【緊迫の現場】深夜のJR東海道線レール交換工事　制限時間は❝空白の100分❞　知られざる鉄道の裏側に密着【SATV特集】",
+      "title": "【密着】終電後『空白の100分』に何が…JR東海・レール交換工事の緊迫の舞台裏　長さ45mレール交換作業　鉄道の安全支える技術者たち【SATV特集】",
       "link": "https://www.youtube.com/watch?v=WAmuZftEkxs",
       "description": "",
-      "pubDate": "2026-06-10T11:00:35+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "【期日前✖井柳教授】皇室典範「立法府の総意」まとまる！議長会見生中継／中道合流・県議選・静岡市長選…番組尺無視⁉２人のマニアックトークが止まらない／期日前の「ふじのくに」アクセントに全県民が突っ込む！",
-      "link": "https://www.youtube.com/watch?v=MAzRie18PyE",
-      "description": "",
-      "pubDate": "2026-06-10T14:08:43+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "静岡市長選は来春…難波市長と自民党の関係は？自民静岡支部大会を公務で欠席「静岡市議会のドン」を直撃",
-      "link": "https://www.youtube.com/watch?v=HxtA_xPh8uc",
-      "description": "",
-      "pubDate": "2026-06-10T11:41:02+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "袋井市の家族ら6人死亡　前を見ず料理動画のスクショ撮影に夢中　渋滞最後列に82kmで突っ込む　被告の女は起訴内容認める　三重・津地裁",
-      "link": "https://www.youtube.com/watch?v=eOzR0fr2xlM",
-      "description": "",
-      "pubDate": "2026-06-10T12:00:33+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "田久保前市長、追送検の3容疑は不起訴　弁護士「予想していた」　副議長「他もある。裁判で結果が出ればいい」　静岡・伊東市",
-      "link": "https://www.youtube.com/watch?v=HzFcA5WvWxE",
-      "description": "",
-      "pubDate": "2026-06-10T11:14:11+00:00",
+      "pubDate": "2026-06-11T06:35:46+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1310,7 +1334,7 @@
       "title": "【ライブ】東海で地震が発生！生放送で解説します！（2026年6月7日）",
       "link": "https://www.youtube.com/watch?v=KN2ltzeUE9o",
       "description": "",
-      "pubDate": "2026-06-08T06:52:20+00:00",
+      "pubDate": "2026-06-11T05:05:41+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
