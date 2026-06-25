@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25 22:57 JST",
-  "total": 169,
+  "updated": "2026-06-26 02:02 JST",
+  "total": 166,
   "news": [
     {
       "title": "皇室典範改正案要綱 与野党に賛否",
@@ -11,26 +11,18 @@
       "category": "総合"
     },
     {
-      "title": "最低賃金の目標 先延ばしで調整",
-      "link": "https://news.yahoo.co.jp/pickup/6585655?source=rss",
+      "title": "認知症の行方不明者 昨年1.7万人",
+      "link": "https://news.yahoo.co.jp/pickup/6585665?source=rss",
       "description": "",
-      "pubDate": "Thu, 25 Jun 2026 11:51:51 GMT",
+      "pubDate": "Thu, 25 Jun 2026 13:06:54 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "スクールバス絡む事故 12人搬送",
-      "link": "https://news.yahoo.co.jp/pickup/6585666?source=rss",
+      "title": "スクールバス逆走し事故 12人搬送",
+      "link": "https://news.yahoo.co.jp/pickup/6585674?source=rss",
       "description": "",
-      "pubDate": "Thu, 25 Jun 2026 13:07:57 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "江別暴行死判決 量刑の違い分析",
-      "link": "https://news.yahoo.co.jp/pickup/6585670?source=rss",
-      "description": "",
-      "pubDate": "Thu, 25 Jun 2026 13:36:17 GMT",
+      "pubDate": "Thu, 25 Jun 2026 14:41:18 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -63,6 +55,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6585656?source=rss",
       "description": "",
       "pubDate": "Thu, 25 Jun 2026 11:56:08 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "未開封のマリオ4.8億円で落札 米",
+      "link": "https://news.yahoo.co.jp/pickup/6585672?source=rss",
+      "description": "",
+      "pubDate": "Thu, 25 Jun 2026 14:01:59 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -307,19 +307,51 @@
       "category": "総合"
     },
     {
-      "title": "「カルピスサワー」リニューアル　苦味を抑えてカルピスらしさ実現",
-      "link": "https://www.j-cast.com/trend/2026/06/24515818.html",
-      "description": "アサヒビールは、RTD（Ready to Drink）のロングセラーブランド「カルピスサワー」をリニューアルし、2026年6月30日に発売する。",
-      "pubDate": "Wed, 24 Jun 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "W杯日本代表のアウェイユニが普段着として大バズ 売り上げ驚異の29倍",
+      "link": "https://news.livedoor.com/article/detail/31657746/",
+      "description": "ざっくり言うと W杯日本代表ユニフォームの売り上げが好調だとアディダスが明かした アウェイユニフォームは前回カタール大会比で約29倍の売り上げを記録 日常着として取り入れる「ブロークコアスタイル」もトレンドに 記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 22:10:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「青い鯉のぼり」を燃やし物議 MILLENNIUM PARADEのデザイン担当者が謝罪",
+      "link": "https://news.livedoor.com/article/detail/31649419/",
+      "description": "MILLENNIUM PARADEの新曲ジャケットが差し替えられた 青い鯉のぼりを連想させるとの指摘を受けデザイン変更となった 担当の森洸大氏は知識不足を認め長文の声明で謝罪した 記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 08:56:11 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「色んな意味で気をつけて」札幌で上階の女性に脅迫文書投函し58歳男を逮捕",
+      "link": "https://news.livedoor.com/article/detail/31647533/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 04:10:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「イブラヒモビッチが日本代表を絶賛」は本当？SNSで話題もソース不明",
+      "link": "https://news.livedoor.com/article/detail/31633192/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 23 Jun 2026 18:01:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "堀田真由が「さらりとデビュー」",
+      "link": "https://news.livedoor.com/article/detail/31321590/",
+      "description": "ざっくり言うと 堀田真由さんが出演する三菱UFJ eスマート証券の新CMが6月20日から放送開始 ランチタイムでの会話中、さらりと投資デビューを明かす等身大の姿が印象的 MUFGの安心感に加え、手数料・クレカ積立などおトクな内容にも注目 記事を読む",
+      "pubDate": "Fri, 19 Jun 2026 12:00:21 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -363,58 +395,10 @@
       "category": "総合"
     },
     {
-      "title": "車いすVチューバーの七竈ななさん死去 今後の収益は障害者支援活動に寄付",
-      "link": "https://news.livedoor.com/article/detail/31651952/",
-      "description": "ざっくり言うと Vチューバーの七竈ななさんが6月21日に死去したと遺族が公表した 下肢機能障害を持つ「車いすVチューバー」として精力的に活動していた 今後の収益は故人の遺志により障害者支援活動へ寄付されるとのこと 記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 12:24:24 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "北海道江別市・集団暴行死 「減刑はやむを得ない」との判決にネット大炎上",
-      "link": "https://news.livedoor.com/article/detail/31655615/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 18:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ベネズエラでM7クラスの地震2回 建物倒壊で死者1万人を超える可能性",
-      "link": "https://news.livedoor.com/article/detail/31653193/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 14:15:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "最低賃金1500円を先送り「遅くとも30年代前半のできる限り早期」達成目標",
-      "link": "https://news.livedoor.com/article/detail/31657336/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 21:18:42 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "横浜高校・村田浩明監督、神奈川新聞社の取材に「事実無根」一部報道受け",
-      "link": "https://news.livedoor.com/article/detail/31657334/",
-      "description": "ざっくり言うと 横浜高校野球部の村田浩明監督に関する報道が波紋を呼んでいる NEWSポストセブンの記事内容について村田監督は事実無根と否定した 同校は弁護士や警察に相談しながら法的措置を検討しているという 記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 21:10:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "通信大手4社 携帯通信に影響なし",
       "link": "https://news.livedoor.com/article/detail/31649169/",
       "description": "記事を読む",
       "pubDate": "Thu, 25 Jun 2026 08:26:19 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "倒産寸前の広島農園が豆苗に賭け、年商132億円企業へ成長",
-      "link": "https://news.livedoor.com/article/detail/31648743/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 07:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -459,20 +443,44 @@
       "category": "経済"
     },
     {
-      "title": "超異色 チルアウトの消せる広告",
-      "link": "https://news.livedoor.com/article/detail/31505657/",
-      "description": "ざっくり言うと CHILL OUT（チルアウト）が6月1日より、「秒で消せるバナー広告」を展開 「×印」の位置を目立つようにデザインし、消されることを目的としている さらに、PR記事でもお金をかけて「消してください」とアピールしている 記事を読む",
-      "pubDate": "Fri, 12 Jun 2026 12:00:16 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "セブン-イレブンの「揚げ物半額フェア」なぜ炎上？元テレビ局員が見解示す",
       "link": "https://news.livedoor.com/article/detail/31643808/",
       "description": "記事を読む",
       "pubDate": "Wed, 24 Jun 2026 17:55:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "中高生ら9人をサイバー犯罪で立件 ウイルス取得や賭博などの容疑",
+      "link": "https://news.livedoor.com/article/detail/31657499/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 21:28:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "大阪でスクールバスが事故 10人超搬送、車とバイクも",
+      "link": "https://news.livedoor.com/article/detail/31657840/",
+      "description": "ざっくり言うと 大阪府河内長野市でスクールバスなど3台が絡む事故が発生した バスとバイクと乗用車が衝突し、10人超が病院に搬送されたという 現場には雨の中ガラスが散乱し、複数人が路上に座り込んでいた 記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 23:48:43 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "2000匹のたぬきが暮らす「たぬき島」島根県の隠岐諸島にある知夫里島を紹介",
+      "link": "https://news.livedoor.com/article/detail/31651711/",
+      "description": "ざっくり言うと 島根県の隠岐諸島にある知夫里島を紹介する動画が公開された 人口約600人の島にタヌキが2000匹以上生息するという楽園で 牛やカラスと共存するタヌキの姿など島の自然が記録されている 記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 12:23:23 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "鉄道架線のような場所で作業員がダンス 批判が相次ぎ工事会社が謝罪",
+      "link": "https://news.livedoor.com/article/detail/31655921/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 18:27:26 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "亡き兄から「譲られた」彼女と再会 病院でげっそりしていた",
@@ -483,18 +491,18 @@
       "category": "国内"
     },
     {
-      "title": "大阪で100m引きずられ宅配業者が重傷か 車奪われしがみつく瞬間がカメラに",
-      "link": "https://news.livedoor.com/article/detail/31656563/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 19:30:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "高熱を訴え受診した女性、医師に両乳首をつままれる 厳しく批判",
       "link": "https://news.livedoor.com/article/detail/31654703/",
       "description": "ざっくり言うと 医師のひかつ先生がYouTubeで怪しい医師の見抜き方を解説した 服の上からの聴診は音が聞こえず実は意味がないとひかつ先生は指摘する おかしいと感じたら声を上げ患者自身が身を守ることが重要だとした 記事を読む",
       "pubDate": "Thu, 25 Jun 2026 17:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "大阪で100m引きずられ宅配業者が重傷か 車奪われしがみつく瞬間がカメラに",
+      "link": "https://news.livedoor.com/article/detail/31656563/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 25 Jun 2026 19:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -519,38 +527,6 @@
       "link": "https://news.livedoor.com/article/detail/31655941/",
       "description": "記事を読む",
       "pubDate": "Thu, 25 Jun 2026 18:39:22 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "東海道新幹線が27日に運休の可能性 台風7号の接近による影響",
-      "link": "https://news.livedoor.com/article/detail/31655809/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 18:25:57 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "鹿児島5歳児不明、スーパーボランティアが現地入りを迷う事情「体力的に」",
-      "link": "https://news.livedoor.com/article/detail/31653891/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 15:25:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "冷凍庫から切断遺体が見つかった事件、部屋で遺体が切断された可能性 神戸",
-      "link": "https://news.livedoor.com/article/detail/31655011/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 17:11:22 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "台風7号と8号の2つの台風が接近、気象庁などが呼びかけ「早めの避難行動」",
-      "link": "https://news.livedoor.com/article/detail/31654193/",
-      "description": "ざっくり言うと 台風7号・8号と梅雨前線が重なり広範囲で大雨のおそれがある 27日にかけて警報級の雨が続く見込みで気象庁などが会見を開いた 明るい時間帯に早めの避難行動を取るよう気象庁などが呼びかけている 記事を読む",
-      "pubDate": "Thu, 25 Jun 2026 16:09:01 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1118,7 +1094,7 @@
       "title": "【青汁王子がノーボーダー溝口氏の会話音声データを暴露】高市陣営のサナエトークン問題が全て崩壊するかもしれません【須田慎一郎の虎ノ門ニュース】",
       "link": "https://www.youtube.com/watch?v=2btAvNHpOV0",
       "description": "",
-      "pubDate": "2026-06-25T13:41:05+00:00",
+      "pubDate": "2026-06-25T15:30:50+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1278,15 +1254,15 @@
       "title": "【ライブ】先ほど、岩手沖で震度4の地震が発生！生放送で解説します！（2026年6月25日）",
       "link": "https://www.youtube.com/watch?v=ygsWkdMCGH0",
       "description": "",
-      "pubDate": "2026-06-25T13:50:09+00:00",
+      "pubDate": "2026-06-25T13:57:58+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
     {
-      "title": "【速報】この後、三陸沖M8大地震と津波の可能性！分かりやすく解説します！",
+      "title": "【速報】本日、岩手沖と南米でM7連続大地震が発生！この後、M8大地震と津波の可能性について解説します！",
       "link": "https://www.youtube.com/watch?v=Dgre0vzCLEk",
       "description": "",
-      "pubDate": "2026-06-25T12:44:25+00:00",
+      "pubDate": "2026-06-25T14:35:20+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
