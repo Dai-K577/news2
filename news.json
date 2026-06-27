@@ -1,7 +1,23 @@
 {
-  "updated": "2026-06-28 03:59 JST",
-  "total": 168,
+  "updated": "2026-06-28 06:51 JST",
+  "total": 167,
   "news": [
+    {
+      "title": "青森・岩手で震度5弱 津波なし",
+      "link": "https://news.yahoo.co.jp/pickup/6585939?source=rss",
+      "description": "",
+      "pubDate": "Sat, 27 Jun 2026 20:30:59 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "28日 雨が止んでも土砂災害に警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6585937?source=rss",
+      "description": "",
+      "pubDate": "Sat, 27 Jun 2026 14:15:17 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "太平洋防衛へ無人潜水艇 政府検討",
       "link": "https://news.yahoo.co.jp/pickup/6585938?source=rss",
@@ -11,10 +27,10 @@
       "category": "総合"
     },
     {
-      "title": "28日 雨が止んでも土砂災害に警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6585937?source=rss",
+      "title": "中露爆撃機が日本周辺を共同飛行",
+      "link": "https://news.yahoo.co.jp/pickup/6585941?source=rss",
       "description": "",
-      "pubDate": "Sat, 27 Jun 2026 14:15:17 GMT",
+      "pubDate": "Sat, 27 Jun 2026 20:55:28 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,26 +51,10 @@
       "category": "総合"
     },
     {
-      "title": "川に車転落 流されそうな2歳救助",
-      "link": "https://news.yahoo.co.jp/pickup/6585926?source=rss",
-      "description": "",
-      "pubDate": "Sat, 27 Jun 2026 12:11:53 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "イチロー氏の走り 末續氏ガチ採点",
       "link": "https://news.yahoo.co.jp/pickup/6585933?source=rss",
       "description": "",
       "pubDate": "Sat, 27 Jun 2026 13:41:45 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "香取慎吾 SNSのコメント全部見る",
-      "link": "https://news.yahoo.co.jp/pickup/6585923?source=rss",
-      "description": "",
-      "pubDate": "Sat, 27 Jun 2026 11:36:56 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -65,6 +65,14 @@
       "pubDate": "Sat, 27 Jun 2026 10:22:00 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "青森・岩手で震度5弱 津波なし",
+      "link": "https://news.yahoo.co.jp/pickup/6585939?source=rss",
+      "description": "",
+      "pubDate": "Sat, 27 Jun 2026 20:30:59 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "政府「骨太方針」で日銀けん制へ",
@@ -87,14 +95,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6585937?source=rss",
       "description": "",
       "pubDate": "Sat, 27 Jun 2026 14:15:17 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "異例のダブル台風 列島各地で被害",
-      "link": "https://news.yahoo.co.jp/pickup/6585903?source=rss",
-      "description": "",
-      "pubDate": "Sat, 27 Jun 2026 09:27:42 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -155,10 +155,10 @@
       "category": "国際"
     },
     {
-      "title": "中露の軍 日本海など戦略合同飛行",
-      "link": "https://news.yahoo.co.jp/pickup/6585925?source=rss",
+      "title": "中露爆撃機が日本周辺を共同飛行",
+      "link": "https://news.yahoo.co.jp/pickup/6585941?source=rss",
       "description": "",
-      "pubDate": "Sat, 27 Jun 2026 12:09:51 GMT",
+      "pubDate": "Sat, 27 Jun 2026 20:55:28 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -291,19 +291,27 @@
       "category": "総合"
     },
     {
-      "title": "各ポートに最適な電力を自動で分配する機能搭載　バッファローのUSB充電器3モデル",
-      "link": "https://www.j-cast.com/trend/2026/06/26515896.html",
-      "description": "パソコンおよびスマートフォンなどの周辺機器を手がけるバッファロー（東京都千代田区）は、USB PD（Power Delivery）対応の充電器3モデルを、2026年7月上旬に通販サイト「Amazon」で発売する。",
-      "pubDate": "Fri, 26 Jun 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "地震速報（05:21）",
+      "link": "https://news.livedoor.com/article/detail/31677874/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 28 Jun 2026 05:23:40 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "自転車配達員が検証、UberEatsの運転可能時間12時間でいくら稼げるのか",
+      "link": "https://news.livedoor.com/article/detail/31676671/",
+      "description": "ざっくり言うと UberEatsの運転可能時間12時間を全受けで使い切る検証動画が公開された 29件の配達をこなし売上は2万1,729円、時給換算で1,731円という結果に 日曜日という条件が影響しており、平日では厳しくなる可能性も示唆している 記事を読む",
+      "pubDate": "Sat, 27 Jun 2026 21:37:59 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -347,14 +355,6 @@
       "category": "総合"
     },
     {
-      "title": "自転車配達員が検証、UberEatsの運転可能時間12時間でいくら稼げるのか",
-      "link": "https://news.livedoor.com/article/detail/31676671/",
-      "description": "ざっくり言うと UberEatsの運転可能時間12時間を全受けで使い切る検証動画が公開された 29件の配達をこなし売上は2万1,729円、時給換算で1,731円という結果に 日曜日という条件が影響しており、平日では厳しくなる可能性も示唆している 記事を読む",
-      "pubDate": "Sat, 27 Jun 2026 21:37:59 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "「またダブル台風か」7月上旬に発生予想の台風9号・10号候補を徹底解説",
       "link": "https://news.livedoor.com/article/detail/31676734/",
       "description": "ざっくり言うと 気象予報士の松浦悠真氏がYouTubeで台風情報を解説した 7月上旬にフィリピン東方の熱帯低気圧が台風9号・10号になる見込みで 東側の熱帯低気圧が特に発達しやすく南西諸島では強風に注意が必要だという 記事を読む",
@@ -375,14 +375,6 @@
       "link": "https://news.livedoor.com/article/detail/31676666/",
       "description": "ざっくり言うと 中村敬斗のソックス問題に中国メディア「済南時報」が注目した スウェーデン戦での審判判定に一貫性がなかったと同紙が指摘し 前2試合や同じ試合の田中碧との扱いの差に疑問の声が上がっている 記事を読む",
       "pubDate": "Sat, 27 Jun 2026 21:03:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "未明に車で自転車の男性と衝突しケガさせ逃走か 警察職員の55歳男を逮捕",
-      "link": "https://news.livedoor.com/article/detail/31676590/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 27 Jun 2026 21:16:33 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
