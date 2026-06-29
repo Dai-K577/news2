@@ -1,20 +1,28 @@
 {
-  "updated": "2026-06-30 04:29 JST",
+  "updated": "2026-06-30 07:02 JST",
   "total": 166,
   "news": [
-    {
-      "title": "W杯 日本がブラジルに1-2で敗北",
-      "link": "https://news.yahoo.co.jp/pickup/6586169?source=rss",
-      "description": "",
-      "pubDate": "Mon, 29 Jun 2026 19:06:20 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
     {
       "title": "NY円 一時39年半ぶりの円安水準",
       "link": "https://news.yahoo.co.jp/pickup/6586160?source=rss",
       "description": "",
       "pubDate": "Mon, 29 Jun 2026 14:42:31 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "NYダウ 終値で初の5万2000ドル台",
+      "link": "https://news.yahoo.co.jp/pickup/6586175?source=rss",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 21:21:03 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "JAL補助金不正受給 2億円返還へ",
+      "link": "https://news.yahoo.co.jp/pickup/6586176?source=rss",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 21:36:39 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,22 +35,6 @@
       "category": "総合"
     },
     {
-      "title": "八田容疑者を目撃 半数近くが関東",
-      "link": "https://news.yahoo.co.jp/pickup/6586135?source=rss",
-      "description": "",
-      "pubDate": "Mon, 29 Jun 2026 10:43:08 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "児童139人がおう吐や下痢 足立区",
-      "link": "https://news.yahoo.co.jp/pickup/6586161?source=rss",
-      "description": "",
-      "pubDate": "Mon, 29 Jun 2026 14:57:39 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "客が乗務員室で機器触る 近鉄釈明",
       "link": "https://news.yahoo.co.jp/pickup/6586157?source=rss",
       "description": "",
@@ -51,18 +43,26 @@
       "category": "総合"
     },
     {
-      "title": "上田綺世 プレミアリーグ移籍浮上",
-      "link": "https://news.yahoo.co.jp/pickup/6586155?source=rss",
+      "title": "W杯 日本がブラジルに1-2で敗北",
+      "link": "https://news.yahoo.co.jp/pickup/6586169?source=rss",
       "description": "",
-      "pubDate": "Mon, 29 Jun 2026 13:46:28 GMT",
+      "pubDate": "Mon, 29 Jun 2026 19:06:20 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "亀梨&みな実結婚 直筆署名に注目",
-      "link": "https://news.yahoo.co.jp/pickup/6586145?source=rss",
+      "title": "堂安 言葉詰まらせ「力不足です」",
+      "link": "https://news.yahoo.co.jp/pickup/6586174?source=rss",
       "description": "",
-      "pubDate": "Mon, 29 Jun 2026 11:45:51 GMT",
+      "pubDate": "Mon, 29 Jun 2026 21:11:33 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "森保Jがブラジルに惜敗 SNS反応",
+      "link": "https://news.yahoo.co.jp/pickup/6586172?source=rss",
+      "description": "",
+      "pubDate": "Mon, 29 Jun 2026 20:29:23 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -307,18 +307,50 @@
       "category": "総合"
     },
     {
+      "title": "田中みな実と結婚、亀梨和也が直筆署名入り文書を公表「達筆すぎる」と話題",
+      "link": "https://news.livedoor.com/article/detail/31689576/",
+      "description": "ざっくり言うと 亀梨和也と田中みな実の結婚・妊娠がオフィシャルサイトで公表された 直筆署名入りの文書が「字もイケメン」とSNSで大きな反響を呼んだ 美容誌企画での共演をきっかけに親交を深めたと伝えられている 記事を読む",
+      "pubDate": "Mon, 29 Jun 2026 16:08:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "森保監督がブラジル戦を総括「監督の力が足りなくて申し訳ない」",
       "link": "https://news.livedoor.com/article/detail/31693861/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと W杯北中米大会でサッカー日本代表がブラジルに1対2で逆転負けした 先制するも後半に追いつかれ、アディショナルタイムに勝ち越しを許した 森保一監督は「監督の力が足りなくて申し訳ない」と試合後に語った 記事を読む",
       "pubDate": "Tue, 30 Jun 2026 04:10:03 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「本当に勝ちたかった」NHKで実況した小宮山晃義アナは涙声に",
+      "link": "https://news.livedoor.com/article/detail/31693947/",
+      "description": "ざっくり言うと W杯でブラジルに1対2で敗れた日本代表の戦いを本田圭佑が解説した 本田は「周囲がちゃんと評価しないといけない」と冷静な分析を求めた 日本は5大会連続で決勝トーナメント1回戦敗退という結果に終わった 記事を読む",
+      "pubDate": "Tue, 30 Jun 2026 04:27:39 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ベンチで見届けた久保建英 日本敗戦に涙目で天を仰ぐ",
+      "link": "https://news.livedoor.com/article/detail/31693929/",
+      "description": "ざっくり言うと 北中米W杯でサッカー日本代表がブラジルに1-2で逆転負けした 佐野海舟の先制点で前半をリードも後半に追いつかれ決勝点を奪われた 久保建英はベンチから涙目で天を仰ぎ悔しさをにじませた 記事を読む",
+      "pubDate": "Tue, 30 Jun 2026 04:32:01 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「日本サッカーは間違いなくアジア最強」韓国ファンからも称賛の声",
+      "link": "https://news.livedoor.com/article/detail/31693918/",
+      "description": "ざっくり言うと 日本代表がW杯1回戦でブラジルと対戦し1-2で逆転負けした 佐野海舟の先制ゴールも後半にカゼミーロらに追いつかれ敗退となった 韓国ファンはSNSで「アジア最強で間違いない」と日本を称えた 記事を読む",
+      "pubDate": "Tue, 30 Jun 2026 04:15:14 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
       "title": "森保ジャパンvsブラジル 1ー2で日本は敗れベスト32で敗退",
       "link": "https://news.livedoor.com/article/detail/31693490/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 30 Jun 2026 04:02:11 +0900",
+      "description": "ざっくり言うと 森保ジャパンは日本時間30日、W杯決勝T1回戦でブラジルと対戦した 日本は前半に佐野海舟の代表初ゴールで先制するも、後半11分に同点弾を献上 アディショナルタイムに勝ち越し点を許し敗戦、ベスト32で敗退となった 記事を読む",
+      "pubDate": "Tue, 30 Jun 2026 05:24:11 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -349,40 +381,8 @@
     {
       "title": "日本先制！小宮山晃義アナの「4は？」に本田圭佑が即答「ワオ」",
       "link": "https://news.livedoor.com/article/detail/31693557/",
-      "description": "ざっくり言うと W杯決勝T1回戦の日本対ブラジル戦でNHK BSが本田圭佑を解説に起用した 佐野海舟の先制ゴールに本田が「ワオ」を連発し大興奮する場面が話題となった 小宮山アナとの「4は？」問答でも「ワオ」と答え、お馴染みの語録が誕生した 記事を読む",
-      "pubDate": "Tue, 30 Jun 2026 02:40:39 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "本田圭佑、ブラジル客席の大歓声に「おぉ、うるせー」",
-      "link": "https://news.livedoor.com/article/detail/31693416/",
-      "description": "ざっくり言うと 北中米W杯でブラジルと対戦する日本の試合をNHK BSが中継した 本田圭佑が解説で「サポーターのバランスが8：2でブラジル」と指摘 本田はオランダ戦やチュニジア戦でも独特の本田節で話題を集めていた 記事を読む",
-      "pubDate": "Tue, 30 Jun 2026 01:46:58 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "森保ジャパンがブラジルと決戦 中村敬斗は通常通り短い靴下で臨む",
-      "link": "https://news.livedoor.com/article/detail/31693467/",
       "description": "記事を読む",
-      "pubDate": "Tue, 30 Jun 2026 02:09:49 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ブラジル戦の本田圭佑語録 オリコンがリアルタイムで更新中",
-      "link": "https://news.livedoor.com/article/detail/31693437/",
-      "description": "ざっくり言うと FIFAワールドカップ2026でブラジル戦の中継に本田圭佑が登場した NHK（BS）の生中継で本田が「本田語録」を次々と連発している 同時間帯にフジテレビでも中継されるが本田語録への注目が高い 記事を読む",
-      "pubDate": "Tue, 30 Jun 2026 02:11:44 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "本田圭佑、中村敬斗の靴下問題に言及「変にルールが厳しすぎる」",
-      "link": "https://news.livedoor.com/article/detail/31692663/",
-      "description": "ざっくり言うと 本田圭佑がYouTubeで中村敬斗の靴下問題に言及した 最初はダメージジーンズ風のファッションだと思ったと本田が明かした 靴下ルールは厳しすぎると持論を述べ、自己責任でよいと主張した 記事を読む",
-      "pubDate": "Mon, 29 Jun 2026 22:20:03 +0900",
+      "pubDate": "Tue, 30 Jun 2026 02:40:39 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -449,6 +449,14 @@
       "pubDate": "Mon, 29 Jun 2026 06:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "皇室典範改正案 養子の対象を巡り日本維新の会からも異論で調整難航",
+      "link": "https://news.livedoor.com/article/detail/31692157/",
+      "description": "ざっくり言うと 皇室典範改正案をめぐり与野党間の調整が難航している 維新が養子対象「15歳以上」の規定に異論を相次いで示し 立憲・水岡氏は「だまし討ちのようで怒りを禁じ得ない」と批判した 記事を読む",
+      "pubDate": "Mon, 29 Jun 2026 20:58:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "広島県で土の中から男性遺体発見 29歳男が別の事件の共犯で口封じか",
@@ -519,14 +527,6 @@
       "link": "https://news.livedoor.com/article/detail/31691309/",
       "description": "記事を読む",
       "pubDate": "Mon, 29 Jun 2026 19:15:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "青森県で男性が死亡、クマに襲われたか 行方不明になっている男性の可能性",
-      "link": "https://news.livedoor.com/article/detail/31691408/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 29 Jun 2026 19:22:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
