@@ -1,36 +1,36 @@
 {
-  "updated": "2026-07-02 22:24 JST",
-  "total": 170,
+  "updated": "2026-07-03 01:43 JST",
+  "total": 169,
   "news": [
     {
-      "title": "ウ首都に大規模攻撃 18人死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6586514?source=rss",
+      "title": "8日から各地で「かなりの高温」か",
+      "link": "https://news.yahoo.co.jp/pickup/6586524?source=rss",
       "description": "",
-      "pubDate": "Thu, 02 Jul 2026 12:09:57 GMT",
+      "pubDate": "Thu, 02 Jul 2026 13:26:13 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "東京都が手足口病の警報 2年ぶり",
-      "link": "https://news.yahoo.co.jp/pickup/6586508?source=rss",
+      "title": "ハンタ集団感染 WHOが収束宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6586531?source=rss",
       "description": "",
-      "pubDate": "Thu, 02 Jul 2026 11:09:07 GMT",
+      "pubDate": "Thu, 02 Jul 2026 14:15:35 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "16歳ら逮捕 羽田強盗未遂関与か",
-      "link": "https://news.yahoo.co.jp/pickup/6586515?source=rss",
+      "title": "小学校火災 ストーブも私物と教員",
+      "link": "https://news.yahoo.co.jp/pickup/6586526?source=rss",
       "description": "",
-      "pubDate": "Thu, 02 Jul 2026 12:26:52 GMT",
+      "pubDate": "Thu, 02 Jul 2026 13:29:46 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "県職員 生活保護受給者にうそか",
-      "link": "https://news.yahoo.co.jp/pickup/6586523?source=rss",
+      "title": "タイで11歳運転の車暴走 9人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6586532?source=rss",
       "description": "",
-      "pubDate": "Thu, 02 Jul 2026 13:08:18 GMT",
+      "pubDate": "Thu, 02 Jul 2026 14:29:30 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -43,6 +43,14 @@
       "category": "総合"
     },
     {
+      "title": "日本代表 11月ブラジル再戦決定的",
+      "link": "https://news.yahoo.co.jp/pickup/6586533?source=rss",
+      "description": "",
+      "pubDate": "Thu, 02 Jul 2026 14:46:09 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "本田圭佑が代表監督意欲 協会言及",
       "link": "https://news.yahoo.co.jp/pickup/6586518?source=rss",
       "description": "",
@@ -51,18 +59,10 @@
       "category": "総合"
     },
     {
-      "title": "森保監督 会見で続投明言せず",
-      "link": "https://news.yahoo.co.jp/pickup/6586512?source=rss",
+      "title": "せいやMCの番組物議 テレ東言及",
+      "link": "https://news.yahoo.co.jp/pickup/6586479?source=rss",
       "description": "",
-      "pubDate": "Thu, 02 Jul 2026 12:27:50 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "フジ 佐藤二朗ドラマ報道巡り声明",
-      "link": "https://news.yahoo.co.jp/pickup/6586443?source=rss",
-      "description": "",
-      "pubDate": "Thu, 02 Jul 2026 03:01:20 GMT",
+      "pubDate": "Thu, 02 Jul 2026 08:13:48 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -147,10 +147,10 @@
       "category": "国際"
     },
     {
-      "title": "ベネズエラ地震1週間 死者2千人超",
-      "link": "https://news.yahoo.co.jp/pickup/6586410?source=rss",
+      "title": "ハンタ集団感染 WHOが収束宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6586531?source=rss",
       "description": "",
-      "pubDate": "Wed, 01 Jul 2026 22:34:25 GMT",
+      "pubDate": "Thu, 02 Jul 2026 14:15:35 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -171,18 +171,18 @@
       "category": "国際"
     },
     {
-      "title": "スペイン 熱波で1000人以上死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6586395?source=rss",
-      "description": "",
-      "pubDate": "Wed, 01 Jul 2026 13:35:47 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "香港返還から29年 市民は冷めた目",
       "link": "https://news.yahoo.co.jp/pickup/6586496?source=rss",
       "description": "",
       "pubDate": "Thu, 02 Jul 2026 09:30:47 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "タイで11歳運転の車暴走 9人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6586532?source=rss",
+      "description": "",
+      "pubDate": "Thu, 02 Jul 2026 14:29:30 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -307,14 +307,6 @@
       "category": "総合"
     },
     {
-      "title": "「銀河鉄道999」の「999号」が「プラレール」に　鉄郎・メーテル・車掌のフィギュア付き",
-      "link": "https://www.j-cast.com/trend/2026/07/01515981.html",
-      "description": "タカラトミーは、鉄道玩具「プラレール」から、アニメ「銀河鉄道999」に登場する「999号」をイメージした「プラレール 銀河鉄道999 999号」を、2026年7月18日に全国の玩具店およびインターネット通販などで発売する。",
-      "pubDate": "Wed, 01 Jul 2026 12:01:57 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -323,7 +315,55 @@
       "category": "総合"
     },
     {
-      "title": "小学校火災、教員が私物の電気ストーブやサーキュレーター持ち込み",
+      "title": "N党の立花孝志氏ら3人が書類送検 みんつく党首への名誉毀損疑い",
+      "link": "https://news.livedoor.com/article/detail/31724697/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 22:23:07 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "山田裕貴がヱビス新CMで熱演",
+      "link": "https://news.livedoor.com/article/detail/31683906/",
+      "description": "ざっくり言うと 山田裕貴が出演するヱビスビールの新TVCM「夏祭り」篇が7月1日に全国で公開 日本の夏を舞台に、変わることなく受け継がれてきた幸せを願う気持ちを描く 自然体な山田裕貴の姿を映すメイキング映像やインタビュー映像も公開された 記事を読む",
+      "pubDate": "Wed, 01 Jul 2026 12:00:58 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "WHO クルーズ船でのハンタウイルスの集団感染を巡り収束宣言",
+      "link": "https://news.livedoor.com/article/detail/31724744/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 22:35:26 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "タイ 11歳が運転し暴走、9人死亡",
+      "link": "https://news.livedoor.com/article/detail/31724770/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 22:36:40 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "投資家・桐谷広人氏が退院を報告「6月29日に届いた郵便物は279通」",
+      "link": "https://news.livedoor.com/article/detail/31724537/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 21:52:09 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "トー横キッズたちの現実と「本音」取材したヒコロヒーもショック",
+      "link": "https://news.livedoor.com/article/detail/31723027/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 19:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "東京都北区の小学校火災 教員が私物の電気ストーブを持ち込んでいたと判明",
       "link": "https://news.livedoor.com/article/detail/31724488/",
       "description": "記事を読む",
       "pubDate": "Thu, 02 Jul 2026 21:53:16 +0900",
@@ -351,54 +391,6 @@
       "link": "https://news.livedoor.com/article/detail/31722951/",
       "description": "記事を読む",
       "pubDate": "Thu, 02 Jul 2026 18:55:14 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ロバート秋山「一番好きな昭和のお菓子」に共演者大盛り上がり",
-      "link": "https://news.livedoor.com/article/detail/31724266/",
-      "description": "ざっくり言うと ロバート秋山竜次が2日放送の「アメトーーク！」に出演し昭和お菓子を語った 秋山が一番好きな昭和のお菓子としてブルボンのシルベーヌを紹介した 大久保佳代子や相武紗季もシルベーヌへの思い出を懐かしそうに語っていた 記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 21:10:53 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "市配布の殺虫剤を3歳児が誤飲 ペットボトル小分けで宮城県警が捜査",
-      "link": "https://news.livedoor.com/article/detail/31724143/",
-      "description": "ざっくり言うと 宮城県石巻市で市配布の殺虫剤を3歳児が誤飲し重体となった事故が発生した 県警が石巻署に専従班を設置し、市の過失の有無を慎重に調べている 殺虫剤が町内会でペットボトルに小分けされた実態を市は把握していなかったという 記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 21:06:17 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ブルボンがスナック菓子2万2000袋を自主回収 エビ成分が混入か",
-      "link": "https://news.livedoor.com/article/detail/31724074/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 21:01:05 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "森保一監督「少し休んで、そこから」自らの去就について言及",
-      "link": "https://news.livedoor.com/article/detail/31723046/",
-      "description": "ざっくり言うと W杯北中米大会で敗退した日本代表が帰国し森保監督が会見を開いた 森保監督は自身の去就について「今は振り返りまで決まっている」と述べた JFAはアジア杯を見据えた異例の1年契約をオファーする見通しとされる 記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 18:57:35 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "警官名乗る男「資金調査のため」80代男性が約1億6500万円騙し取られる 愛知",
-      "link": "https://news.livedoor.com/article/detail/31724013/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 20:24:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "先行はお得? プライムデーを解説",
-      "link": "https://news.livedoor.com/article/detail/31630304/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 01 Jul 2026 13:52:43 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -445,7 +437,7 @@
     {
       "title": "サンマルクカフェが285店舗まで減った理由 核心は「規模拡大」への固執",
       "link": "https://news.livedoor.com/article/detail/31722389/",
-      "description": "ざっくり言うと サンマルクカフェの大量閉店の背景をYouTubeチャンネルが解説した ピーク時400店超から285店に減った主因は規模拡大への固執だという チョコクロ強化や出来立てメニュー拡充でV字回復を遂げつつあるとのこと 記事を読む",
+      "description": "ざっくり言うと サンマルクカフェの大量閉店の背景を元テレビ局員が解説した 最大の理由は「目標を規模の拡大に置いてしまった」ことだという 現在は「チョコクロ」の強化などで見事な復活を遂げつつあると語った 記事を読む",
       "pubDate": "Thu, 02 Jul 2026 18:07:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
@@ -459,18 +451,18 @@
       "category": "経済"
     },
     {
-      "title": "「仕事、全然楽しくない」アスベスト除去作業担う特殊作業員 実情明かした",
-      "link": "https://news.livedoor.com/article/detail/31716227/",
-      "description": "ざっくり言うと YouTubeチャンネル「街角給与明細」が特殊作業員にインタビューした動画を公開した アスベスト除去を担う33歳男性の月収は47～48万円であることが明かされた 貯金額は「0円」と告白し、稼いだお金は飲食に使っているとのこと 記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 07:00:00 +0900",
+      "title": "先行はお得? プライムデーを解説",
+      "link": "https://news.livedoor.com/article/detail/31630304/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 01 Jul 2026 13:52:43 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "doda新診断 予想外の結果に驚き",
-      "link": "https://news.livedoor.com/article/detail/31374729/",
-      "description": "ざっくり言うと 転職サービス「doda」が新概念「ワーク〈ライク〉バランス」を発表した やるべきコトとやりたいコトをいかに調和させるかを問い直すものだという 自分の現在地を12モードで診断できるコンテンツを編集部が試している 記事を読む",
-      "pubDate": "Fri, 29 May 2026 12:00:13 +0900",
+      "title": "「仕事、全然楽しくない」アスベスト除去作業担う特殊作業員 実情明かした",
+      "link": "https://news.livedoor.com/article/detail/31716227/",
+      "description": "ざっくり言うと YouTubeチャンネル「街角給与明細」が特殊作業員にインタビューした動画を公開した アスベスト除去を担う33歳男性の月収は47～48万円であることが明かされた 貯金額は「0円」と告白し、稼いだお金は飲食に使っているとのこと 記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 07:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -483,10 +475,42 @@
       "category": "経済"
     },
     {
-      "title": "北海道大が大学院の30代の男性助教を停職 電車内で女性に痴漢行為か",
-      "link": "https://news.livedoor.com/article/detail/31723198/",
+      "title": "小学校火災「私服乾かしていた」",
+      "link": "https://news.livedoor.com/article/detail/31724715/",
       "description": "記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 19:25:13 +0900",
+      "pubDate": "Thu, 02 Jul 2026 22:29:20 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "9人の児童に対する10の罪で起訴 性加害を繰り返した柔道塾元塾長",
+      "link": "https://news.livedoor.com/article/detail/31723601/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 19:30:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "警官名乗る男「資金調査のため」80代男性が約1億6500万円騙し取られる 愛知",
+      "link": "https://news.livedoor.com/article/detail/31724013/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 20:24:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "「もう死ぬしかないやん」などと1000回以上送信か 復縁迫った男",
+      "link": "https://news.livedoor.com/article/detail/31722699/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 18:32:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "「極端な高温へのばく露」認知症の発症および死亡リスクを高める可能性",
+      "link": "https://news.livedoor.com/article/detail/31724093/",
+      "description": "ざっくり言うと 日本の高齢者5万人超を対象とした調査について医師が解説した 「長期間の極端な高温への繰り返しのばく露」と認知症に関して調査 1～3年間で猛暑にさらされた期間が多いほど発症および死亡リスクが高かったという 記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 11:45:21 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -495,6 +519,22 @@
       "link": "https://news.livedoor.com/article/detail/31714147/",
       "description": "ざっくり言うと メディカルドック監修医が乳がんの予防法について詳しく解説した 禁煙・節酒・運動習慣・乳製品や大豆の摂取が予防に有効とされる 再発予防には禁煙・体重管理・身体活動の維持が重要とされている 記事を読む",
       "pubDate": "Wed, 01 Jul 2026 14:00:08 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "北海道大が大学院の30代の男性助教を停職 電車内で女性に痴漢行為か",
+      "link": "https://news.livedoor.com/article/detail/31723198/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 19:25:13 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "うつぶせ寝と眼圧上昇の罠 緑内障やそのリスクがある場合は要注意",
+      "link": "https://news.livedoor.com/article/detail/31717631/",
+      "description": "ざっくり言うと うつぶせ寝によって眼圧が上昇する可能性について医師が解説した 複数の研究で報告があり、緑内障やそのリスクがある場合は要注意とのこと 失われた視野を回復させることは難しく、症状が現れる前の定期検診が重要だという 記事を読む",
+      "pubDate": "Thu, 02 Jul 2026 01:15:45 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -509,55 +549,7 @@
     {
       "title": "「妊娠させてくれれば多額の報酬を渡す」70代男性が290万円の詐欺被害 三重",
       "link": "https://news.livedoor.com/article/detail/31722011/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 17:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「きょうは必ず当たる」宝くじ引き当てる詐欺 鑑定料と騙し約750万円搾取か",
-      "link": "https://news.livedoor.com/article/detail/31723417/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 19:38:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "近畿・北海道・東北など 7月8～9日から「かなりの高温」に警戒",
-      "link": "https://news.livedoor.com/article/detail/31721124/",
-      "description": "ざっくり言うと 気象庁が7月2日、高温に関する早期天候情報を複数地方に発表した 北陸・近畿・東北・北海道・東海で7月8～9日頃から平年を大幅に上回る見込み 農作物管理や熱中症対策など健康管理への注意を気象庁が呼びかけている 記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 16:07:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "うつぶせ寝と眼圧上昇の罠 緑内障やそのリスクがある場合は要注意",
-      "link": "https://news.livedoor.com/article/detail/31717631/",
-      "description": "ざっくり言うと うつぶせ寝によって眼圧が上昇する可能性について医師が解説した 複数の研究で報告があり、緑内障やそのリスクがある場合は要注意とのこと 失われた視野を回復させることは難しく、症状が現れる前の定期検診が重要だという 記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 01:15:45 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "天皇ご一家 W杯リアルタイム観戦",
-      "link": "https://news.livedoor.com/article/detail/31722637/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 18:18:34 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "新潟県で保育園の給食に異物混入 米飯の中に白いかたまりが混ざる",
-      "link": "https://news.livedoor.com/article/detail/31722098/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 17:35:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "東京ディズニーリゾートで事前告知なく販売 高額取引相次ぐカード",
-      "link": "https://news.livedoor.com/article/detail/31721852/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 三重県の70代男性が約290万円を詐取される被害に遭った 「妊娠させてくれれば多額の報酬を渡す」とのネット投稿がきっかけだという 「優れた遺伝子を持っている人に妊娠の手伝いをお願い」などと持ちかけられたそう 記事を読む",
       "pubDate": "Thu, 02 Jul 2026 17:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -1286,7 +1278,7 @@
       "title": "【ライブ】先ほどM4.6 の深発地震が発生！生放送で解説します！（2026年7月2日）",
       "link": "https://www.youtube.com/watch?v=JBlVIeXquEg",
       "description": "",
-      "pubDate": "2026-07-02T12:34:16+00:00",
+      "pubDate": "2026-07-02T14:29:40+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
@@ -1294,7 +1286,7 @@
       "title": "【速報！】本日、茨城沖で謎の地震が発生！これは人工地震と考えられる理由！わかりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=TlyZMoqe9FM",
       "description": "",
-      "pubDate": "2026-07-02T12:57:09+00:00",
+      "pubDate": "2026-07-02T15:13:15+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
