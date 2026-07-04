@@ -1,100 +1,108 @@
 {
-  "updated": "2026-07-04 06:53 JST",
+  "updated": "2026-07-04 10:43 JST",
   "total": 168,
   "news": [
     {
+      "title": "九州で非常に激しい雨 災害に警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6586666?source=rss",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 00:42:11 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ウ東部要衝を「制圧」と露が発表",
+      "link": "https://news.yahoo.co.jp/pickup/6586656?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 23:49:49 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "政治二極化 米国で進む「部族化」",
+      "link": "https://news.yahoo.co.jp/pickup/6586662?source=rss",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 00:18:30 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "5大学に「契約学科」企業と連携へ",
+      "link": "https://news.yahoo.co.jp/pickup/6586655?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 23:45:52 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "大手企業と中小 消えぬ賃上げ格差",
+      "link": "https://news.yahoo.co.jp/pickup/6586653?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 23:28:08 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "速報W杯 コロンビアvs.ガーナ",
+      "link": "https://news.yahoo.co.jp/pickup/6586672?source=rss",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 01:32:03 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "W杯 アルゼンチンが死闘制し16強",
+      "link": "https://news.yahoo.co.jp/pickup/6586669?source=rss",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 00:48:08 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "橋本愛の所属事務所 中傷には措置",
+      "link": "https://news.yahoo.co.jp/pickup/6586657?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 23:58:40 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "九州で非常に激しい雨 災害に警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6586666?source=rss",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 00:42:11 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "消費税減税 取りまとめ不透明に",
+      "link": "https://news.yahoo.co.jp/pickup/6586668?source=rss",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 01:13:23 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "5大学に「契約学科」企業と連携へ",
+      "link": "https://news.yahoo.co.jp/pickup/6586655?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 23:45:52 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "国会の正常化 来週以降に持ち越し",
       "link": "https://news.yahoo.co.jp/pickup/6586625?source=rss",
       "description": "",
       "pubDate": "Fri, 03 Jul 2026 12:05:52 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "故ハメネイ師のひつぎ公開 イラン",
-      "link": "https://news.yahoo.co.jp/pickup/6586620?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 11:15:15 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ロシア 日本から燃料の輸入画策か",
-      "link": "https://news.yahoo.co.jp/pickup/6586639?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 14:30:11 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "サバ入り箱崩れ下敷き 作業員死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6586629?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 13:12:35 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「黒いチョウ」急増 市が注意喚起",
-      "link": "https://news.yahoo.co.jp/pickup/6586613?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 09:29:38 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "大坂なおみ ウィンブルドン初16強",
-      "link": "https://news.yahoo.co.jp/pickup/6586635?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 13:44:38 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "森保監督の発言 韓国側は一斉速報",
-      "link": "https://news.yahoo.co.jp/pickup/6586634?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 13:46:23 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "橋本愛の所属事務所 声明を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6586640?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 14:56:44 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "国会の正常化 来週以降に持ち越し",
-      "link": "https://news.yahoo.co.jp/pickup/6586625?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 12:05:52 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
     {
-      "title": "国際卓越大に京大認定へ 3校目",
-      "link": "https://news.yahoo.co.jp/pickup/6586556?source=rss",
+      "title": "在留手数料減額要件厳しく 指針案",
+      "link": "https://news.yahoo.co.jp/pickup/6586651?source=rss",
       "description": "",
-      "pubDate": "Fri, 03 Jul 2026 01:00:20 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "日印「蜜月」演出 対中国は温度差",
-      "link": "https://news.yahoo.co.jp/pickup/6586548?source=rss",
-      "description": "",
-      "pubDate": "Thu, 02 Jul 2026 23:44:40 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "厚労相の事務所数 公選法違反疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6586562?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 02:23:44 GMT",
+      "pubDate": "Fri, 03 Jul 2026 23:16:31 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -103,14 +111,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6586573?source=rss",
       "description": "",
       "pubDate": "Fri, 03 Jul 2026 03:34:10 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "皇室典範改正案 宮内庁がコメント",
-      "link": "https://news.yahoo.co.jp/pickup/6586492?source=rss",
-      "description": "",
-      "pubDate": "Thu, 02 Jul 2026 09:17:17 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -129,6 +129,38 @@
       "pubDate": "Fri, 03 Jul 2026 08:48:58 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
+    },
+    {
+      "title": "政治二極化 米国で進む「部族化」",
+      "link": "https://news.yahoo.co.jp/pickup/6586662?source=rss",
+      "description": "",
+      "pubDate": "Sat, 04 Jul 2026 00:18:30 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "ウ東部要衝を「制圧」と露が発表",
+      "link": "https://news.yahoo.co.jp/pickup/6586656?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 23:49:49 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "米独立記念日 熱波でイベ中止続く",
+      "link": "https://news.yahoo.co.jp/pickup/6586650?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 23:03:47 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "ペルー大統領選 ケイコ氏が当選",
+      "link": "https://news.yahoo.co.jp/pickup/6586644?source=rss",
+      "description": "",
+      "pubDate": "Fri, 03 Jul 2026 22:24:34 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
     },
     {
       "title": "ロシア 日本から燃料の輸入画策か",
@@ -155,38 +187,6 @@
       "category": "国際"
     },
     {
-      "title": "ウ首都に大規模攻撃 20人超死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6586534?source=rss",
-      "description": "",
-      "pubDate": "Thu, 02 Jul 2026 21:07:29 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "半年ぶりの休養 ウ東部で兵士交代",
-      "link": "https://news.yahoo.co.jp/pickup/6586569?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 03:20:10 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "米NYで42℃観測 当局が猛暑警報",
-      "link": "https://news.yahoo.co.jp/pickup/6586577?source=rss",
-      "description": "",
-      "pubDate": "Fri, 03 Jul 2026 04:39:10 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "タイで11歳運転の車暴走 9人死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6586532?source=rss",
-      "description": "",
-      "pubDate": "Thu, 02 Jul 2026 14:29:30 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "セブンイレブンがナイキ提訴 米",
       "link": "https://news.yahoo.co.jp/pickup/6586565?source=rss",
       "description": "",
@@ -195,10 +195,50 @@
       "category": "国際"
     },
     {
+      "title": "ヒカキン、超高級新居は「迷路みたいなんすよ」8年ぶり引っ越し　シューズインクローゼット、廊下も高級品だらけ",
+      "link": "https://www.j-cast.com/2026/07/04516055.html",
+      "description": "チャンネル登録者数1980万人の人気YouTuber・ヒカキンさんが、2026年6月28日に公式YouTubeチャンネルにアップした「【2部屋紹介】ヒカキン新居ルームツアー2026【8年ぶりの引っ越し】」で、引っ越ししたことを報告。豪華な新居の全貌が明かされた。",
+      "pubDate": "Sat, 04 Jul 2026 10:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "紀平梨花＆西山真瑚ペア、仲良し2ショットで笑顔＆「息ぴったり！」練習中　「がんばれ！」「りかしん大好き」",
+      "link": "https://www.j-cast.com/2026/07/04515891.html",
+      "description": "フィギュアスケート女子で全日本選手権2連覇の実績を持ち、現在はアイスダンスへと転向した紀平梨花選手（23）が2026年6月23日、自身のインスタグラムを更新。アイスダンスでペアを組む西山真瑚選手（24）との2ショットを披露した。",
+      "pubDate": "Sat, 04 Jul 2026 09:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "韓国サッカー監督袋叩き...国会、警察まで乗り出す異常　長嶋一茂、玉川徹両氏も呆れる",
+      "link": "https://www.j-cast.com/2026/07/04516084.html",
+      "description": "サッカーW杯1次リーグで敗退した韓国・洪明甫（ホン・ミョンボ）前代表監督への韓国内の非難は、とうとう国会公聴会、警察捜査にまで発展しそうだ。スポーツプロデューサーの長嶋一茂さんは2026年7月3日放送の「羽鳥慎一モーニングショー」（テレビ朝日系）で、「政治家たちの責任転換じゃないか」と眉をしかめた。",
+      "pubDate": "Sat, 04 Jul 2026 08:45:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "サッカー・ハーランドの美女モデル恋人、ミニスカ×黒キャミ私服コーデでパシャリ　すらり神スタイル炸裂",
+      "link": "https://www.j-cast.com/2026/07/04516070.html",
+      "description": "サッカーワールドカップ北中米大会でノルウェー代表として活躍するアーリング・ハーランド選手（25、マンチェスターC）の恋人で、モデルのイザベル・ヨハンセンさん（22）が2026年6月30日、自身のインスタグラムを更新。黒キャミ×ミニスカのコーデショットを披露した。",
+      "pubDate": "Sat, 04 Jul 2026 08:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "元NHK中川安奈アナ、ドット柄ショーパン×白の日本代表ユニ姿　W杯の現地観戦「弾丸ヒューストン旅」振り返る",
       "link": "https://www.j-cast.com/2026/07/03516081.html",
       "description": "NHKを退局しフリーアナウンサーに転身した中川安奈さん（32）が2026年7月1日、自身のインスタグラムを更新。美スタイル際立つドット柄ショーパン姿を披露した。",
       "pubDate": "Fri, 03 Jul 2026 21:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
+      "link": "http://j-town.net/news/localnews/241949.html",
+      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
+      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -239,46 +279,6 @@
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "社民・福島瑞穂党首の朝食にまたもやツッコミ　サバはおいしそう...でも欠けた茶碗、器の並べ方も変？",
-      "link": "https://www.j-cast.com/2026/07/03516076.html",
-      "description": "社民党党首の福島瑞穂参院議員が2026年7月2日にXで公開した「和朝食」の写真をめぐり、SNSで思わぬツッコミが相次いでいる。",
-      "pubDate": "Fri, 03 Jul 2026 16:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "日本が羨ましい！プレミア複数クラブが中村敬斗に興味...英BBC報道に「大ブレイク目前」韓国メディア羨望",
-      "link": "https://www.j-cast.com/2026/07/03516075.html",
-      "description": "英公共放送BBCが2026年7月2日、サッカーのイングランド・プレミアリーグの複数クラブが、日本代表MF中村敬斗（スタッド・ランス、25）に興味を示しているとウェブサイトで報じた。",
-      "pubDate": "Fri, 03 Jul 2026 14:55:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "長友佑都、W杯帰国後の「正直驚いた」エピソード明かす　ファン大反響「なんていい話」「熱すぎます」",
-      "link": "https://www.j-cast.com/2026/07/03516074.html",
-      "description": "サッカー日本代表のDF長友佑都選手（39）が2026年7月3日にXを更新し、北中米ワールドカップ（W杯）から帰国した際に「正直驚いた」エピソードを明かした。この投稿を受け、「熱すぎますね」「期待しかない」などの声が寄せられている。",
-      "pubDate": "Fri, 03 Jul 2026 14:40:20 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "中道・小川代表、高市首相に呼びかけ　「出てきてください、予算委員会に」",
-      "link": "https://www.j-cast.com/2026/07/03516073.html",
-      "description": "中道改革連合の小川淳也代表が2026年7月2日にXを更新。高市早苗首相に対し、予算委員会に出席するよう動画で呼びかけた。",
-      "pubDate": "Fri, 03 Jul 2026 13:51:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
-      "link": "http://j-town.net/news/localnews/241949.html",
-      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
-      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CAST会社ウォッチ",
       "category": "経済"
     },
@@ -307,84 +307,100 @@
       "category": "総合"
     },
     {
-      "title": "ハラスメント騒動の佐藤二朗「精神的に落ち込み」静養に入る？",
-      "link": "https://news.livedoor.com/article/detail/31733956/",
-      "description": "ざっくり言うと ハラスメント騒動の渦中にある佐藤二朗についてFLASHが伝えた 同誌の3日の取材によると精神的に落ち込み、静養に入る模様だという 佐藤を知る関係者は「今はそっとしておいてあげたい」と話しているそう 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 20:07:38 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "法定速度違反で検挙された山本太郎代表 高速道で「危険運転」か",
-      "link": "https://news.livedoor.com/article/detail/31733996/",
+      "title": "アラフィフを襲う「男性更年期」",
+      "link": "https://news.livedoor.com/article/detail/31737333/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 20:25:41 +0900",
+      "pubDate": "Sat, 04 Jul 2026 10:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ゆうパックが10月から平均1割値上げへ クリックポストや資材も対象",
-      "link": "https://news.livedoor.com/article/detail/31731720/",
+      "title": "日頃の業務態度がやばい…「退職まであと数年のおじさん」に頭を抱える男性",
+      "link": "https://news.livedoor.com/article/detail/31736164/",
+      "description": "ざっくり言うと 職場の退職間近の同僚について30代男性がキャリコネニュースに投稿した 業務依頼を断られ、YouTubeやGoogleマップを1時間近く使う様子が問題視される 仕事を振られなくなった結果、周囲の負担が増し人事異動を切望しているとのこと 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 06:00:42 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "スガシカオ 番組内で過去の職業を明かす「地下アイドルの…」",
+      "link": "https://news.livedoor.com/article/detail/31736464/",
+      "description": "ざっくり言うと スガシカオが4日放送のMBS『痛快！明石家電視台』に出演する 大学卒業後に地下アイドルの付き人をしていたという意外な経歴が明らかに 極貧生活を経て音楽の道へ進んだ過去や稲川淳二との関係性も語られる 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "塩貝健人「撤回しようとは思わない」発言がブラジルで再び話題に",
+      "link": "https://news.livedoor.com/article/detail/31737116/",
+      "description": "ざっくり言うと 日本代表FW塩貝健人の発言が再びブラジルで話題となっていると報じられた 塩貝はW杯敗退後も「発言を撤回しない」「悪いことをしたとは思わない」と明言した 海外メディアは「謝罪なし」と皮肉を込め、再び挑発したと伝えている 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 08:54:01 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "佐藤二朗、4月に削除した投稿は今回の事態に対する「匂わせ」だったか",
+      "link": "https://news.livedoor.com/article/detail/31734132/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 16:47:21 +0900",
+      "pubDate": "Fri, 03 Jul 2026 20:35:38 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "YouTuberヒカルが志らくに入門「立川さぎ志」で8月明治座デビュー",
-      "link": "https://news.livedoor.com/article/detail/31733791/",
-      "description": "ざっくり言うと 落語家の立川志らくがYouTuber・ヒカルを客分の弟子として迎える 高座名は立川さぎ志で、8月3日に東京・明治座で初公演を実施へ 志らくは「才能のある若者のやる気を受け止めるのが年長者の役目」としている 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 20:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "講談社が「はたらく細胞」著者・清水茜氏に謝罪「適切に履行できず」",
-      "link": "https://news.livedoor.com/article/detail/31733027/",
+      "title": "「スニーファー」を履く人が急増",
+      "link": "https://news.livedoor.com/article/detail/31737334/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 18:44:41 +0900",
+      "pubDate": "Sat, 04 Jul 2026 10:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「お昼何?」75%がプレッシャー",
-      "link": "https://news.livedoor.com/article/detail/31498913/",
-      "description": "ざっくり言うと 夏休みのごはん準備にプレッシャーを感じるママは約75％と判明 冷凍庫の使い勝手が心の余裕に直結、満足度で約1.8倍の差が出ていた パナソニック冷蔵庫HYタイプの最新冷凍室が、悩み解決のヒントに 記事を読む",
-      "pubDate": "Tue, 30 Jun 2026 12:00:59 +0900",
+      "title": "駅構内の広場で体育座り 修学旅行中の写真が炎上し学校のアカウント停止",
+      "link": "https://news.livedoor.com/article/detail/31732607/",
+      "description": "ざっくり言うと 都内荒川区の中学校がXに投稿した修学旅行の写真がSNSで拡散した 生徒が駅構内の床に座る写真に賛否が集まり、荒川区が謝罪を公表した 学校アカウントは停止され、教育委員会もSNS運用方針の見直しを進める 記事を読む",
+      "pubDate": "Fri, 03 Jul 2026 18:15:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ドジャース限定4万枚のルフィトレカにファン殺到 1枚16万円で米記者も仰天",
-      "link": "https://news.livedoor.com/article/detail/31732472/",
-      "description": "ざっくり言うと ドジャースが「ONE PIECE Night」を開催し大きな話題を呼んだ 先着4万人に配布された麦わら帽子とルフィのトレーディングカードが注目を集め カードは野球殿堂の公式コレクションに収蔵されることになったという 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 17:33:00 +0900",
+      "title": "カーボベルデ代表DFロペス スーパーゴール決めた「歴史に残る得点」",
+      "link": "https://news.livedoor.com/article/detail/31737210/",
+      "description": "ざっくり言うと W杯北中米大会でカボベルデがアルゼンチンと対戦し延長戦に突入した 延長前半13分にDFロペスカブラルが左サイドから右足でスーパーゴールを決め同点 ネットでは「W杯史に残るゴール」「今大会のベストゴール」と称賛の声が続出した 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 09:31:55 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "サーティワンが「どうぶつの森」コラボで謝罪 多くの店舗で品切れ",
-      "link": "https://news.livedoor.com/article/detail/31734177/",
-      "description": "ざっくり言うと サーティワンが『どうぶつの森』との初コラボキャンペーンを展開中だ 注文が殺到し「どうぶつの森 スペシャルセット」が多くの店舗で完売に 公式サイトで3日に謝罪文を掲載し、他商品の在庫切れも伝えている 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 21:05:30 +0900",
+      "title": "アルゼンチン代表、ベスト16進出…カーボベルデに大苦戦も退けた 北中米W杯",
+      "link": "https://news.livedoor.com/article/detail/31737220/",
+      "description": "ざっくり言うと 北中米W杯ラウンド16でアルゼンチンとカーボベルデが激闘を繰り広げた 39歳のメッシがW杯8試合連続ゴールという新記録を樹立したとのこと アルゼンチンが3対2で勝利し、7月7日のエジプト戦への進出を決めている 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 09:44:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ハラスメント報道の佐藤二朗に「降板通達」フジテレビの対応に批判の声",
-      "link": "https://news.livedoor.com/article/detail/31734315/",
+      "title": "アパートから現金930万円など盗んだか「案件屋」とみられる男を逮捕",
+      "link": "https://news.livedoor.com/article/detail/31734211/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 21:00:00 +0900",
+      "pubDate": "Fri, 03 Jul 2026 21:10:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "椎名林檎と成田悠輔のホテル密会報道 以前に見せていた椎名への崇拝ぶり",
-      "link": "https://news.livedoor.com/article/detail/31734134/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 21:00:11 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
+      "title": "「ミュトス」が日本で使えなくなる？異例の厳しい措置がされていた",
+      "link": "https://news.livedoor.com/article/detail/31727651/",
+      "description": "ざっくり言うと アンソロピック社の新型AIが米政府の輸出管理対象となり外国人提供停止となった 竹田恒泰氏は動画で、同社の軍事利用禁止方針がトランプ氏を激怒させた可能性を指摘 竹田氏はMythosが世界最強クラスの破壊AIとなる可能性にも言及している 記事を読む",
+      "pubDate": "Fri, 03 Jul 2026 10:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "退職前後のねんきん定期便を比べてみたら…会社を早期退職した人に悲劇",
+      "link": "https://news.livedoor.com/article/detail/31728892/",
+      "description": "ざっくり言うと 50代おひとりさまのちゃあが早期退職後の年金額をYouTubeで公開した 52歳退職で月額が16万4243円から14万638円へと減少したという 減少分は自己資産で補填しつつ複数収入源を目指すと語っているとのこと 記事を読む",
+      "pubDate": "Fri, 03 Jul 2026 12:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
     },
     {
       "title": "Amazon音楽聞き放題が4カ月無料",
@@ -419,6 +435,14 @@
       "category": "経済"
     },
     {
+      "title": "チルアウトの「消せる」広告話題",
+      "link": "https://news.livedoor.com/article/detail/31505657/",
+      "description": "ざっくり言うと CHILL OUT（チルアウト）が6月1日より、「秒で消せるバナー広告」を展開 「×印」の位置を目立つようにデザインし、消されることを目的としている さらに、PR記事でもお金をかけて「消してください」とアピールしている 記事を読む",
+      "pubDate": "Fri, 12 Jun 2026 12:00:16 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
       "title": "「使わない方がいい ろくなもんじゃない」Temuの利用に危険性…警鐘鳴らす",
       "link": "https://news.livedoor.com/article/detail/31722303/",
       "description": "ざっくり言うと 竹田恒泰氏がYouTubeでTemuの危険性について強く警鐘を鳴らした EUがTemuにデジタルサービス法違反で約370億円の制裁金を課したと紹介 安全基準不合格の充電器や化学物質入り玩具など具体的リスクを指摘した 記事を読む",
@@ -443,106 +467,82 @@
       "category": "経済"
     },
     {
-      "title": "長期金利が一時2.81％と約30年ぶりの高水準、住宅ローンへの影響も懸念",
-      "link": "https://news.livedoor.com/article/detail/31731449/",
+      "title": "養子届偽造か 元プロボクシング世界王者の薬師寺保栄さんを在宅起訴",
+      "link": "https://news.livedoor.com/article/detail/31732796/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 16:18:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "かつて日本最大級だった街 現在はヤバい状態に「行ったらアカン」",
-      "link": "https://news.livedoor.com/article/detail/31722292/",
-      "description": "ざっくり言うと 「ゆっくり遺産の探検隊」が、神戸「新開地」の歴史を動画で解説した 最盛期は劇場24館がひしめき、年間400万人が訪れた一大娯楽街だったという その後衰退の道を辿るが、現在は新たな文化発信地として再生を続けている 記事を読む",
-      "pubDate": "Thu, 02 Jul 2026 17:57:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "AIエージェントがランサムウェア攻撃を全自動で実行、世界初の事例を確認",
-      "link": "https://news.livedoor.com/article/detail/31730651/",
-      "description": "ざっくり言うと AIエージェントがランサムウェア攻撃を自動実行した事例をSysdigが報告した 「JadePuffer」と命名されたAIが脆弱性を悪用しデータを暗号化して身代金を要求 攻撃失敗から31秒で再突入するなど、AIの自律的な修正能力が確認されている 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 14:46:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "チルアウトの「消せる」広告話題",
-      "link": "https://news.livedoor.com/article/detail/31505657/",
-      "description": "ざっくり言うと CHILL OUT（チルアウト）が6月1日より、「秒で消せるバナー広告」を展開 「×印」の位置を目立つようにデザインし、消されることを目的としている さらに、PR記事でもお金をかけて「消してください」とアピールしている 記事を読む",
-      "pubDate": "Fri, 12 Jun 2026 12:00:16 +0900",
+      "pubDate": "Fri, 03 Jul 2026 18:45:19 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "横浜の女性市議が会見 同市議会の谷田部市議から「強引に力ずくでキス」",
-      "link": "https://news.livedoor.com/article/detail/31733689/",
+      "title": "DV父の「ありがとう」を無視した数日後に死亡 娘の複雑な葛藤",
+      "link": "https://news.livedoor.com/article/detail/31342175/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 19:54:00 +0900",
+      "pubDate": "Fri, 22 May 2026 12:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "ポケカ窃盗多発 背景に闇バイト?",
-      "link": "https://news.livedoor.com/article/detail/31734556/",
+      "title": "「お昼何?」75%がプレッシャー",
+      "link": "https://news.livedoor.com/article/detail/31498913/",
+      "description": "ざっくり言うと 夏休みのごはん準備にプレッシャーを感じるママは約75％と判明 冷凍庫の使い勝手が心の余裕に直結、満足度で約1.8倍の差が出ていた パナソニック冷蔵庫HYタイプの最新冷凍室が、悩み解決のヒントに 記事を読む",
+      "pubDate": "Tue, 30 Jun 2026 12:00:59 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "ボビー・オロゴン被告を起訴 知人女性に性的暴行を加えた罪で",
+      "link": "https://news.livedoor.com/article/detail/31736773/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 21:36:00 +0900",
+      "pubDate": "Sat, 04 Jul 2026 07:51:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "郵便局でクマよけスプレー噴射か 逮捕のベトナム人「職場で配布された」",
-      "link": "https://news.livedoor.com/article/detail/31734501/",
+      "title": "高市早苗首相のインド2兆円投資に冷ややかな声「優先順位が違うだろ」",
+      "link": "https://news.livedoor.com/article/detail/31736448/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 21:54:29 +0900",
+      "pubDate": "Sat, 04 Jul 2026 06:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "小豆島沖の瀬戸内海をイノシシがスイスイ泳ぐ 高松海保が動画撮影",
-      "link": "https://news.livedoor.com/article/detail/31731651/",
+      "title": "不倫の代償に夫限界「13年経ってこんな仕打ち」妻が経済的な主導権を握る",
+      "link": "https://news.livedoor.com/article/detail/31736889/",
+      "description": "ざっくり言うと 52歳の会社員男性が13年前の不倫発覚後、妻に家計管理を全権委ねた事例を紹介 手取り83万円でも小遣い月3万円、帰宅時にレシートと財布を毎回確認されるという 弁護士の山村暢彦氏は不倫の代償でも「無制限の支配」は認められないと助言している 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 08:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "山本太郎代表が速度超過で一発免停、党内から「説明責任」を要求される",
+      "link": "https://news.livedoor.com/article/detail/31736220/",
+      "description": "ざっくり言うと れいわ新選組が山本太郎代表の速度超過と処分を6月3日に発表した 昨年10月に149キロ走行でオービス撮影され罰金9万円と90日免停となった 党内では不満が続出しており、混乱に歯止めがかかりそうにないとみられる 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 06:00:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "猛毒を持つ淡水エイを用水路で発見「こいつ日本に生息してないやつやろ？」",
+      "link": "https://news.livedoor.com/article/detail/31736241/",
+      "description": "ざっくり言うと 高知県土佐市の用水路でブラジル固有の毒を持つ淡水エイが発見された 発見されたのはポルカドットスティングレイとみられ、死んでいた状態だった 飼い主が遺棄した可能性が高く、飼育者のモラルが問われる事態となっている 記事を読む",
+      "pubDate": "Sat, 04 Jul 2026 06:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "日本郵便「ゆうパック」を3年ぶり値上げへ 平均でおよそ10％",
+      "link": "https://news.livedoor.com/article/detail/31733760/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 16:38:00 +0900",
+      "pubDate": "Fri, 03 Jul 2026 20:09:01 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "フェリーから乗客の男性が転落か 車も荷物も船内に残されたまま",
-      "link": "https://news.livedoor.com/article/detail/31733226/",
-      "description": "ざっくり言うと 鹿児島新港発の貨物フェリーで乗客男性1人の行方が不明となった 西之表市在住の58歳男性は車・財布・携帯を船内に残したまま姿を消したとみられる 種子島海上保安署が巡視船4隻とヘリで捜索中で、海中転落の可能性もあるという 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 19:14:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "薬師寺保栄を在宅起訴 20代女性との養子縁組届を偽造し提出か",
-      "link": "https://news.livedoor.com/article/detail/31732734/",
+      "title": "神戸・切断遺体遺棄、冷蔵庫の電源が切れたことで冷凍遺体が溶けて事件発覚",
+      "link": "https://news.livedoor.com/article/detail/31736213/",
       "description": "記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 18:19:34 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "防衛省のLUUP導入 SNSには危機管理についての批判が殺到",
-      "link": "https://news.livedoor.com/article/detail/31733927/",
-      "description": "ざっくり言うと 防衛省が7月1日、市ヶ谷庁舎にLUUPの電動キックボード等を導入した 位置情報の外部流出やテロ利用のリスクをSNSで指摘する声が相次いでいる LUUPは4月にアプリDL数600万超、6月には都内で死亡事故も起きている 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 19:01:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "飲食店経営者夫婦の殺害事件「指示役」と「仲介役」に懲役30年判決",
-      "link": "https://news.livedoor.com/article/detail/31733881/",
-      "description": "ざっくり言うと 栃木・那須町の夫婦殺害事件で東京地裁が7月3日に初の判決公判を開いた 指示役の佐々木光被告と仲介役の平山綾拳被告にそれぞれ懲役30年が言い渡された 裁判長は両被告を「発案者でも首謀者でもない」と述べ無期懲役の求刑を退けた 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 20:20:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "熟年離婚を望む人の約4割が「具体的な計画や準備」男女別では女性が多い",
-      "link": "https://news.livedoor.com/article/detail/31730772/",
-      "description": "ざっくり言うと 熟年離婚を望む40～59歳の約4割が具体的な準備を進めているとの調査結果が出た 女性や共働き世帯で準備率が高く、経済的自立が行動を後押しする傾向がみられる 離婚タイミングは「子どもの独立後」が約5割で最多、定年退職後が続いている 記事を読む",
-      "pubDate": "Fri, 03 Jul 2026 15:00:00 +0900",
+      "pubDate": "Sat, 04 Jul 2026 06:00:21 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1195,10 +1195,10 @@
       "category": "YouTube"
     },
     {
-      "title": "将棋の王位戦七番勝負が４日開幕　藤井聡太六冠と伊東匠二冠が意気込み語る　浜松市中区",
+      "title": "将棋の王位戦七番勝負が４日開幕　藤井聡太六冠と伊藤匠二冠が意気込み語る　浜松市中区",
       "link": "https://www.youtube.com/watch?v=rDHy1zJ5m6Q",
       "description": "",
-      "pubDate": "2026-07-03T10:50:17+00:00",
+      "pubDate": "2026-07-04T00:41:28+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
