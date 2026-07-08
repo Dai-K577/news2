@@ -1,15 +1,7 @@
 {
-  "updated": "2026-07-08 22:23 JST",
-  "total": 169,
+  "updated": "2026-07-09 01:23 JST",
+  "total": 168,
   "news": [
-    {
-      "title": "台風9号 10～11日に先島諸島接近",
-      "link": "https://news.yahoo.co.jp/pickup/6587209?source=rss",
-      "description": "",
-      "pubDate": "Wed, 08 Jul 2026 10:18:13 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
     {
       "title": "皇族数確保策 審議「中継入り」に",
       "link": "https://news.yahoo.co.jp/pickup/6587218?source=rss",
@@ -19,50 +11,58 @@
       "category": "総合"
     },
     {
-      "title": "スペインと貿易停止 米大統領指示",
-      "link": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
+      "title": "米 ウにパトリオット生産を容認へ",
+      "link": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 11:18:05 GMT",
+      "pubDate": "Wed, 08 Jul 2026 14:50:23 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "カツアゲ告発県議 逆に百万円受領",
-      "link": "https://news.yahoo.co.jp/pickup/6587223?source=rss",
+      "title": "米大統領 イランと日本言い間違え",
+      "link": "https://news.yahoo.co.jp/pickup/6587233?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 13:19:50 GMT",
+      "pubDate": "Wed, 08 Jul 2026 14:37:14 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "アパートに刺し傷ある男性 死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6587213?source=rss",
+      "title": "全東信が破産 2万店超に未入金か",
+      "link": "https://news.yahoo.co.jp/pickup/6587232?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 11:33:51 GMT",
+      "pubDate": "Wed, 08 Jul 2026 14:26:25 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "三笘薫選手が事故 赤信号で進入か",
-      "link": "https://news.yahoo.co.jp/pickup/6587221?source=rss",
+      "title": "検事 元容疑者の女性と不適切交際",
+      "link": "https://news.yahoo.co.jp/pickup/6587225?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 12:36:42 GMT",
+      "pubDate": "Wed, 08 Jul 2026 13:19:10 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "坂本勇人 阪神ファン11歳に神対応",
-      "link": "https://news.yahoo.co.jp/pickup/6587222?source=rss",
+      "title": "3台が絡む正面衝突事故 女性死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6587231?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 12:47:11 GMT",
+      "pubDate": "Wed, 08 Jul 2026 14:18:04 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "テレ東 映画「ケロロ」巡り謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6587224?source=rss",
+      "title": "三笘選手事故 双方赤信号で進行か",
+      "link": "https://news.yahoo.co.jp/pickup/6587230?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 13:12:39 GMT",
+      "pubDate": "Wed, 08 Jul 2026 14:05:15 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "MF鎌田大地 クラブと契約延長",
+      "link": "https://news.yahoo.co.jp/pickup/6587229?source=rss",
+      "description": "",
+      "pubDate": "Wed, 08 Jul 2026 13:49:40 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -131,6 +131,14 @@
       "category": "国内"
     },
     {
+      "title": "米 ウにパトリオット生産を容認へ",
+      "link": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
+      "description": "",
+      "pubDate": "Wed, 08 Jul 2026 14:50:23 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "スペインと貿易停止 米大統領指示",
       "link": "https://news.yahoo.co.jp/pickup/6587215?source=rss",
       "description": "",
@@ -147,18 +155,10 @@
       "category": "国際"
     },
     {
-      "title": "攻撃被害続く ホルムズ通航量減少",
-      "link": "https://news.yahoo.co.jp/pickup/6587176?source=rss",
+      "title": "米大統領 イランと日本言い間違え",
+      "link": "https://news.yahoo.co.jp/pickup/6587233?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 07:26:22 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "米軍がイラン攻撃 商船攻撃に対抗",
-      "link": "https://news.yahoo.co.jp/pickup/6587128?source=rss",
-      "description": "",
-      "pubDate": "Wed, 08 Jul 2026 00:02:02 GMT",
+      "pubDate": "Wed, 08 Jul 2026 14:37:14 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -179,18 +179,18 @@
       "category": "国際"
     },
     {
-      "title": "NY高層ビル崩落の恐れ 周辺避難",
-      "link": "https://news.yahoo.co.jp/pickup/6587127?source=rss",
+      "title": "中国SLBM 事前通知の透明性は",
+      "link": "https://news.yahoo.co.jp/pickup/6587227?source=rss",
       "description": "",
-      "pubDate": "Tue, 07 Jul 2026 23:42:54 GMT",
+      "pubDate": "Wed, 08 Jul 2026 13:34:22 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
     {
-      "title": "ハンガリー 公共放送「うそ」謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6587143?source=rss",
+      "title": "NY高層ビル崩落の恐れ 周辺避難",
+      "link": "https://news.yahoo.co.jp/pickup/6587127?source=rss",
       "description": "",
-      "pubDate": "Wed, 08 Jul 2026 02:47:48 GMT",
+      "pubDate": "Tue, 07 Jul 2026 23:42:54 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -299,19 +299,67 @@
       "category": "総合"
     },
     {
-      "title": "摂取カロリーを自動で測定、記録　シャープ初のスマートウォッチ",
-      "link": "https://www.j-cast.com/trend/2026/07/07516105.html",
-      "description": "シャープは、同社初だというスマートウォッチ「からだメイト Watch MH-W01」を2026年7月9日に発売する。生体データの解析に定評のあるHEALBE Corporationの「FLOWテクノロジー」を活用して開発したという。",
-      "pubDate": "Tue, 07 Jul 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "カレー好きがファミマル絶賛の訳",
+      "link": "https://news.livedoor.com/article/detail/31666909/",
+      "description": "ざっくり言うと ファミマルがカレー論争をめぐり、スパイス派か定番派か調査を実施した これを受けて、ライブドア編集部ではそれぞれのファミマルカレーを試食 「帰りに買う」という声があがるほど、カレー好きも納得のクオリティだった 記事を読む",
+      "pubDate": "Tue, 30 Jun 2026 12:00:59 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "鑑定団好きが高じて骨董品収集 フジテレビ番組で鑑定したら驚きの1000万円",
+      "link": "https://news.livedoor.com/article/detail/31776540/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 08 Jul 2026 21:29:06 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「満たされない現代人」のリアル",
+      "link": "https://news.livedoor.com/article/detail/31374729/",
+      "description": "ざっくり言うと 転職サービス「doda」が新概念「ワーク〈ライク〉バランス」を発表した やるべきコトとやりたいコトをいかに調和させるかを問い直すものだという 自分の現在地を12モードで診断できるコンテンツを編集部が試している 記事を読む",
+      "pubDate": "Fri, 29 May 2026 12:00:13 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "大野智サロン 番号ランダム付与",
+      "link": "https://news.livedoor.com/article/detail/31775827/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 08 Jul 2026 19:29:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ガンダムシリーズ完全新作アニメが制作決定 7月24日配信で詳細発表",
+      "link": "https://news.livedoor.com/article/detail/31776730/",
+      "description": "ざっくり言うと ガンダムシリーズの新作アニメ情報が7月24日に全世界へ向けて解禁される バンダイナムコフィルムワークスが公式YouTubeで午前3時より同時配信すると発表した SDCC会場ではパネルイベントやガンダムブース出展、ワークショップも予定されている 記事を読む",
+      "pubDate": "Wed, 08 Jul 2026 22:09:09 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "鎌田大地がクリスタルパレスと1年契約延長「また一緒にトロフィーを」",
+      "link": "https://news.livedoor.com/article/detail/31776644/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 08 Jul 2026 21:40:12 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "三笘薫選手が都内で人身事故 自転車と衝突も双方が赤信号で進入か",
+      "link": "https://news.livedoor.com/article/detail/31776792/",
+      "description": "ざっくり言うと 三笘薫選手が8日午前、東京・板橋区で自転車と衝突事故を起こした 三笘選手は歩行者用信号の青に気をとられ赤信号で交差点に進入したとみられる 自転車側の48歳女性も赤信号で車道を走行しており、警視庁が経緯を調べている 記事を読む",
+      "pubDate": "Wed, 08 Jul 2026 22:19:00 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -323,74 +371,18 @@
       "category": "総合"
     },
     {
+      "title": "アルゼンチン巡る疑惑の判定が波紋、ブラジル紙「露骨な強盗」",
+      "link": "https://news.livedoor.com/article/detail/31776144/",
+      "description": "ざっくり言うと 北中米W杯でアルゼンチンがエジプトに逆転勝利した試合が物議を醸している エジプトのゴールがVAR介入後に取り消され、疑惑の判定とみられている ブラジル大手紙「Lance!」はファンの批判の声を多数取り上げて報じた 記事を読む",
+      "pubDate": "Wed, 08 Jul 2026 20:11:01 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "「tower」の便利グッズがSALEに",
       "link": "https://news.livedoor.com/article/detail/31761471/",
       "description": "記事を読む",
       "pubDate": "Tue, 07 Jul 2026 13:27:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "UNDER ARMOURがAmazonで半額に",
-      "link": "https://news.livedoor.com/article/detail/31769994/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 10:47:33 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "佐藤二朗のハラスメント騒動にフジテレビが新声明「2人とも被害者」の声",
-      "link": "https://news.livedoor.com/article/detail/31776555/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 21:10:04 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ベビーシッターを不正入国させた疑いで逮捕、37歳女性を不起訴処分",
-      "link": "https://news.livedoor.com/article/detail/31776578/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 21:38:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「有吉の壁」公式Xが意味深告知 15日放送回で「大切なお知らせ」",
-      "link": "https://news.livedoor.com/article/detail/31776515/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 21:08:39 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "唇縫合の被害者は自ら身を寄せ同居 他の住人も犯行に関与か",
-      "link": "https://news.livedoor.com/article/detail/31775948/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 19:50:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "携帯キャリア大手「060」から始まる番号の開始を延期にすると発表",
-      "link": "https://news.livedoor.com/article/detail/31775228/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 18:42:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "アンジャッシュ児嶋 食にうとかったのに「渡部と間違えているんだろうと」",
-      "link": "https://news.livedoor.com/article/detail/31776156/",
-      "description": "ざっくり言うと アンジャッシュ児嶋一哉がテレビ東京の深夜番組にゲスト出演した 農業番組オファーは「渡部と間違えているはず」と最初は思ったそう 渡部建が謹慎中だったため自分への依頼と気づいたと明かし笑わせた 記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 20:12:42 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "三笘薫、赤信号を無視して人身事故か 自転車の48歳女性が軽傷",
-      "link": "https://news.livedoor.com/article/detail/31775189/",
-      "description": "ざっくり言うと 三笘薫が6月8日、東京都板橋区で車を運転中に人身事故を起こした 赤信号を無視して交差点に進入し、自転車の48歳女性と衝突したという 女性は全治2週間の軽傷で、三笘は歩行者信号に気を取られたとのこと 記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 18:34:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -494,7 +486,7 @@
       "title": "50代男性が意識不明で搬送、腹に刺し傷あり事件の可能性もあるとみて捜査",
       "link": "https://news.livedoor.com/article/detail/31775796/",
       "description": "記事を読む",
-      "pubDate": "Wed, 08 Jul 2026 21:10:25 +0900",
+      "pubDate": "Wed, 08 Jul 2026 23:09:05 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1038,7 +1030,7 @@
       "title": "1544回　議員定数削減断念！あまりに世間とずれている国会",
       "link": "https://www.youtube.com/watch?v=n3aIcWRVbuM",
       "description": "",
-      "pubDate": "2026-07-08T09:00:04+00:00",
+      "pubDate": "2026-07-08T14:38:57+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1222,7 +1214,7 @@
       "title": "「果汁たっぷり。上品な甘みが口いっぱいに」…アールスメロン収穫　1本に1玉…栄養集中させ甘味蓄える",
       "link": "https://www.youtube.com/watch?v=aPEVs3ylY_Q",
       "description": "",
-      "pubDate": "2026-07-08T10:44:30+00:00",
+      "pubDate": "2026-07-08T13:27:41+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1275,10 +1267,10 @@
       "category": "YouTube"
     },
     {
-      "title": "【速報！】大規模太陽フレアが発生したことをNASAが発表！わかりやすく解説します！",
+      "title": "【速報！】大規模Xランク太陽フレアが発生したことをNASAが発表！わかりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=6DNQBeCE6HM",
       "description": "",
-      "pubDate": "2026-07-08T12:33:36+00:00",
+      "pubDate": "2026-07-08T14:30:58+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
