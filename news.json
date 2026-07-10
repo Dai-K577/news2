@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-11 01:49 JST",
-  "total": 167,
+  "updated": "2026-07-11 04:12 JST",
+  "total": 166,
   "news": [
     {
       "title": "台風 石垣島など丸1日暴風域恐れ",
@@ -43,6 +43,14 @@
       "category": "総合"
     },
     {
+      "title": "速報W杯 スペインvs.ベルギー",
+      "link": "https://news.yahoo.co.jp/pickup/6587440?source=rss",
+      "description": "",
+      "pubDate": "Fri, 10 Jul 2026 18:56:07 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "村主章枝さん 国際結婚を公表",
       "link": "https://news.yahoo.co.jp/pickup/6587475?source=rss",
       "description": "",
@@ -55,14 +63,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6587477?source=rss",
       "description": "",
       "pubDate": "Fri, 10 Jul 2026 15:02:38 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "渡部建ライブ巡り騒動 制作側謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6587469?source=rss",
-      "description": "",
-      "pubDate": "Fri, 10 Jul 2026 12:40:41 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -447,14 +447,6 @@
       "link": "https://news.livedoor.com/article/detail/31794747/",
       "description": "記事を読む",
       "pubDate": "Fri, 10 Jul 2026 19:32:35 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "改正個人情報保護法が成立、AI開発向けに個人情報取得の規制を緩和",
-      "link": "https://news.livedoor.com/article/detail/31796723/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 11 Jul 2026 00:44:24 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
