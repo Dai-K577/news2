@@ -1,20 +1,28 @@
 {
-  "updated": "2026-07-12 21:48 JST",
-  "total": 166,
+  "updated": "2026-07-13 00:46 JST",
+  "total": 164,
   "news": [
     {
-      "title": "13日 西日本中心に猛暑日続出か",
-      "link": "https://news.yahoo.co.jp/pickup/6587708?source=rss",
+      "title": "戦う政治家発言も 国会運営実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6587722?source=rss",
       "description": "",
-      "pubDate": "Sun, 12 Jul 2026 11:23:20 GMT",
+      "pubDate": "Sun, 12 Jul 2026 13:49:50 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ミャンマー外相 ASEAN会合出席",
-      "link": "https://news.yahoo.co.jp/pickup/6587712?source=rss",
+      "title": "ウクライナ 内閣改造で首相交代へ",
+      "link": "https://news.yahoo.co.jp/pickup/6587720?source=rss",
       "description": "",
-      "pubDate": "Sun, 12 Jul 2026 11:55:09 GMT",
+      "pubDate": "Sun, 12 Jul 2026 13:13:59 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "生食用鶏肉 ガイドライン初策定へ",
+      "link": "https://news.yahoo.co.jp/pickup/6587717?source=rss",
+      "description": "",
+      "pubDate": "Sun, 12 Jul 2026 12:36:20 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,26 +35,18 @@
       "category": "総合"
     },
     {
-      "title": "暴力で患者怒らせ 面白がり撮影か",
-      "link": "https://news.yahoo.co.jp/pickup/6587704?source=rss",
+      "title": "セクハラ辞任の前市長落選 田川市",
+      "link": "https://news.yahoo.co.jp/pickup/6587726?source=rss",
       "description": "",
-      "pubDate": "Sun, 12 Jul 2026 10:49:09 GMT",
+      "pubDate": "Sun, 12 Jul 2026 14:18:45 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "緑茶飲料 収益面で板挟み状態",
-      "link": "https://news.yahoo.co.jp/pickup/6587699?source=rss",
+      "title": "バレー女子ミラクル 選手の目に涙",
+      "link": "https://news.yahoo.co.jp/pickup/6587724?source=rss",
       "description": "",
-      "pubDate": "Sun, 12 Jul 2026 09:29:10 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "小田凱人 ウィンブルドン2連覇",
-      "link": "https://news.yahoo.co.jp/pickup/6587710?source=rss",
-      "description": "",
-      "pubDate": "Sun, 12 Jul 2026 11:30:42 GMT",
+      "pubDate": "Sun, 12 Jul 2026 14:06:53 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -71,6 +71,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6587708?source=rss",
       "description": "",
       "pubDate": "Sun, 12 Jul 2026 11:23:20 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "戦う政治家発言も 国会運営実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6587722?source=rss",
+      "description": "",
+      "pubDate": "Sun, 12 Jul 2026 13:49:50 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -103,14 +111,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6587718?source=rss",
       "description": "",
       "pubDate": "Sun, 12 Jul 2026 12:37:56 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "勤務医の残業 年960時間超が15%",
-      "link": "https://news.yahoo.co.jp/pickup/6587625?source=rss",
-      "description": "",
-      "pubDate": "Sat, 11 Jul 2026 23:53:38 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -155,10 +155,10 @@
       "category": "国際"
     },
     {
-      "title": "モジタバ師「復讐を誓う」と表明",
-      "link": "https://news.yahoo.co.jp/pickup/6587611?source=rss",
+      "title": "ウクライナ 内閣改造で首相交代へ",
+      "link": "https://news.yahoo.co.jp/pickup/6587720?source=rss",
       "description": "",
-      "pubDate": "Sat, 11 Jul 2026 14:48:01 GMT",
+      "pubDate": "Sun, 12 Jul 2026 13:13:59 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -291,14 +291,6 @@
       "category": "総合"
     },
     {
-      "title": "「初音ミク」の音声で測定ナビゲート、応援もしてくれる　タニタの音声血圧計",
-      "link": "https://www.j-cast.com/trend/2026/07/11516191.html",
-      "description": "体重計などの計測器メーカーのタニタ（東京都板橋区）は、バーチャルシンガー「初音ミク」コラボレーションの上腕式音声血圧計「BP-CU」の予約受付を、2026年9月7日15時まで「タニタオンラインショップ」で行っている。発送は27年3月中旬以降の予定。",
-      "pubDate": "Sat, 11 Jul 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -307,10 +299,26 @@
       "category": "総合"
     },
     {
-      "title": "イノシシに襲われ高齢男性2人がけが…安曇野市の現場周辺で5件の目撃",
-      "link": "https://news.livedoor.com/article/detail/31807618/",
+      "title": "約3年半で売れ行きが「半減」販売店に聞いたトヨタ・プリウスの現状",
+      "link": "https://news.livedoor.com/article/detail/31804663/",
+      "description": "ざっくり言うと 現行プリウスの月平均登録台数が発売から約3年で半減したと報じられた 他のトヨタ車へのハイブリッド普及と個性的デザインが販売減の主因とみられる 一方でPHEV・Gは補助金85万円適用で実質ハイブリッドGより29万円安くなる 記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 11:10:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ビールの売り子が凄絶な舞台裏を語る 1杯あたりのインセンティブを暴露",
+      "link": "https://news.livedoor.com/article/detail/31804174/",
       "description": "記事を読む",
-      "pubDate": "Sun, 12 Jul 2026 21:00:00 +0900",
+      "pubDate": "Sun, 12 Jul 2026 08:44:23 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "有吉弘行 いつかMCをやりたい番組「あの番組って幸せすぎるね」",
+      "link": "https://news.livedoor.com/article/detail/31807944/",
+      "description": "ざっくり言うと 有吉弘行が12日放送のラジオ番組で「NHKのど自慢」への愛を語った 「幸せすぎる番組」と絶賛し、いつかMCを務めたいという夢を明かした 伝統的にNHKアナウンサーが担う司会への憧れを率直に口にしていた 記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 22:07:31 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -323,6 +331,46 @@
       "category": "総合"
     },
     {
+      "title": "元総務省消防庁長官が登山中に体調不良で倒れ死亡 病死の可能性",
+      "link": "https://news.livedoor.com/article/detail/31807943/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 22:12:16 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "新たな台風候補が発生へ？「逆走台風」のような進路をとる可能性",
+      "link": "https://news.livedoor.com/article/detail/31807653/",
+      "description": "ざっくり言うと 気象予報士の松浦悠真氏がYouTubeで新たな台風候補について解説した フィリピン東の熱帯擾乱「97W」が寒冷渦と相互作用し西進する「逆走台風」 2018年台風12号と類似した進路で西日本・東日本へ影響する可能性があるという 記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 21:08:34 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "W杯イングランド4強も不協和音、ベリンガムが監督発言に「どうでもいいよ」",
+      "link": "https://news.livedoor.com/article/detail/31807732/",
+      "description": "ざっくり言うと 北中米W杯準々決勝でイングランドがノルウェーに延長2―1で勝利した 2得点のベリンガムが監督の辛口評価に「どうでもいい」と公然と反論 過去にも衝突歴があり1966年以来の優勝へ向け不安材料がくすぶる 記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 21:12:03 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "GARMIN（ガーミン）が最大27%OFF",
+      "link": "https://news.livedoor.com/article/detail/31804148/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 09:20:15 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "イノシシに襲われ高齢男性2人がけが…安曇野市の現場周辺で5件の目撃",
+      "link": "https://news.livedoor.com/article/detail/31807618/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 21:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "FIFA会長の衝撃発言に困惑「もはやワールドカップの意味ってなんだよ」",
       "link": "https://news.livedoor.com/article/detail/31806890/",
       "description": "ざっくり言うと FIFAのインファンティーノ会長が、W杯のさらなる規模拡大を示唆した 北中米W杯の48カ国参加を「大きな成功」と評価し、64カ国への拡大にも積極的な姿勢 海外ファンからは「W杯やるのに1年かかるようになる」など懐疑的な意見が寄せられた 記事を読む",
@@ -331,66 +379,18 @@
       "category": "総合"
     },
     {
-      "title": "「豊臣兄弟」元乃木坂・樋口日奈がサプライズ大河初出演 登場50秒もSNS驚き",
-      "link": "https://news.livedoor.com/article/detail/31807615/",
-      "description": "ざっくり言うと NHK大河ドラマ「豊臣兄弟！」第27話に樋口日奈がサプライズ出演した 乃木坂46元メンバーの樋口日奈が「黒幕」信澄の母・ちよ役で大河初出演 登場シーンは約50秒ながら本能寺の変の発端となる重要な役どころだった 記事を読む",
-      "pubDate": "Sun, 12 Jul 2026 20:45:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
+      "title": "楽天経済圏など「3つの大きな改悪」控える状況で…確認すべき要点を解説",
+      "link": "https://news.livedoor.com/article/detail/31795138/",
+      "description": "ざっくり言うと ポイ活YouTuber「おにまるちゃんねる」が最新のチャージルートを解説した 楽天関連やエポスカードなどで、ポイント還元が相次いで改悪されるという 唯一の対策として、au PAYカードのオートチャージ最大1.5％還元復活を紹介した 記事を読む",
+      "pubDate": "Fri, 10 Jul 2026 19:40:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
     },
     {
       "title": "Amazon 40％OFF以上の即ポチ商品",
       "link": "https://news.livedoor.com/article/detail/31804266/",
       "description": "記事を読む",
       "pubDate": "Sun, 12 Jul 2026 09:37:57 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "Amazonプライムデー、AirPodsやFire TV Stickなど人気ガジェットが特価",
-      "link": "https://news.livedoor.com/article/detail/31804573/",
-      "description": "ざっくり言うと Amazon プライムデーが7月13日まで開催中で注目を集めている AirPods ProやFire TV Stickなど最大48%オフで販売中である 1万円以上の購入でポイント還元率がアップするキャンペーンも実施中 記事を読む",
-      "pubDate": "Sun, 12 Jul 2026 10:40:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ウィンブルドン車いす男子シングルス 小田凱人が大会連覇を達成",
-      "link": "https://news.livedoor.com/article/detail/31807481/",
-      "description": "ざっくり言うと テニスのウィンブルドン車いす男子で小田凱人が2連覇を果たした 4大大会6連勝は2016年の正式採用以降、男子では初の記録である 全豪・全仏・ウィンブルドンを制し、年間グランドスラムに王手をかけた 記事を読む",
-      "pubDate": "Sun, 12 Jul 2026 20:21:20 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "1日20回ほど「早く死んでくれないかな」インフルエンサーが語る祖母の介護",
-      "link": "https://news.livedoor.com/article/detail/31804473/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 12 Jul 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「大丈夫」には4つの意味が存在？在日韓国人が語る日本語の難しさ",
-      "link": "https://news.livedoor.com/article/detail/31799186/",
-      "description": "ざっくり言うと 在日9年の韓国人工学博士パクくんが日本語の壁を動画で解説した 「検討します」はほぼNOなど、言葉と本音の乖離が最大の難関だという 曖昧さは相手を傷つけない配慮であり日本社会の知恵だと彼は考察する 記事を読む",
-      "pubDate": "Sat, 11 Jul 2026 12:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「もう1回結婚しないで独身したいかも」結婚生活巡る丸山桂里奈の胸中",
-      "link": "https://news.livedoor.com/article/detail/31806557/",
-      "description": "ざっくり言うと 丸山桂里奈が11日配信のYouTubeで、夫婦生活への本音を告白した 親交の深いホラン千秋に「絶対熟年離婚すると思う」と相談していたことがあるという 動画では「もう1回結婚しないで独身したいかも」など打ち明けていたと芸能担当記者 記事を読む",
-      "pubDate": "Sun, 12 Jul 2026 17:25:04 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "楽天経済圏など「3つの大きな改悪」控える状況で…確認すべき要点を解説",
-      "link": "https://news.livedoor.com/article/detail/31795138/",
-      "description": "ざっくり言うと ポイ活YouTuber「おにまるちゃんねる」が最新のチャージルートを解説した 楽天関連やエポスカードなどで、ポイント還元が相次いで改悪されるという 唯一の対策として、au PAYカードのオートチャージ最大1.5％還元復活を紹介した 記事を読む",
-      "pubDate": "Fri, 10 Jul 2026 19:40:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -435,25 +435,17 @@
       "category": "経済"
     },
     {
-      "title": "doda新診断やった予想外の結果",
-      "link": "https://news.livedoor.com/article/detail/31374729/",
-      "description": "ざっくり言うと 転職サービス「doda」が新概念「ワーク〈ライク〉バランス」を発表した やるべきコトとやりたいコトをいかに調和させるかを問い直すものだという 自分の現在地を12モードで診断できるコンテンツを編集部が試している 記事を読む",
-      "pubDate": "Fri, 29 May 2026 12:00:13 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "日産が6年ぶりに刷新した新型キックスが発売、販売店への問い合わせが急増",
-      "link": "https://news.livedoor.com/article/detail/31807399/",
-      "description": "ざっくり言うと 日産が6年ぶりにフルモデルチェンジした新型キックスを6月18日より発売した 最新第3世代e-POWERを搭載し燃費25.7km/Lを実現、デザインも刷新されている ディーラーには先代オーナーや新規客が多数来場し、反響は好調とのこと 記事を読む",
-      "pubDate": "Sun, 12 Jul 2026 20:10:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "title": "元総務省消防庁長官が登山中に体調不良で倒れ死亡 病死の可能性",
+      "link": "https://news.livedoor.com/article/detail/31807943/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 12 Jul 2026 22:12:16 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "「大好きだった祖母はもう死んだ」インフルエンサーが語る在宅介護の現実",
       "link": "https://news.livedoor.com/article/detail/31804469/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 認知症の祖母の在宅介護を経験したインフルエンサーの男性を文春が取材 母はストレスで突発性難聴を発症し、自身も不眠症になり睡眠導入剤に頼っていたという 自分も母も、1日20回くらい「早く死んでくれないかな」 と思っていたそう 記事を読む",
       "pubDate": "Sun, 12 Jul 2026 10:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -469,7 +461,7 @@
     {
       "title": "「大丈夫」には4つの意味が存在？在日韓国人が語る日本語の難しさ",
       "link": "https://news.livedoor.com/article/detail/31799186/",
-      "description": "ざっくり言うと 在日9年の韓国人工学博士パクくんが日本語の壁を動画で解説した 「検討します」はほぼNOなど、言葉と本音の乖離が最大の難関だという 曖昧さは相手を傷つけない配慮であり日本社会の知恵だと彼は考察する 記事を読む",
+      "description": "ざっくり言うと 日本語の難しさと奥深さについて在日韓国人の男性がYouTubeで解説した 「検討します」など、文字通りの意味と本音が乖離している実情を紹介 日本語の回りくどさや曖昧さは円滑に生きていくための「知恵」ではないかと考察した 記事を読む",
       "pubDate": "Sat, 11 Jul 2026 12:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -511,14 +503,6 @@
       "link": "https://news.livedoor.com/article/detail/31806337/",
       "description": "記事を読む",
       "pubDate": "Sun, 12 Jul 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "冷凍庫の使い勝手で約1.8倍の差",
-      "link": "https://news.livedoor.com/article/detail/31498913/",
-      "description": "ざっくり言うと 夏休みのごはん準備にプレッシャーを感じるママは約75％と判明 冷凍庫の使い勝手が心の余裕に直結、満足度で約1.8倍の差が出ていた パナソニック冷蔵庫HYタイプの最新冷凍室が、悩み解決のヒントに 記事を読む",
-      "pubDate": "Tue, 30 Jun 2026 12:00:59 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
