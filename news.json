@@ -1,20 +1,28 @@
 {
-  "updated": "2026-07-20 22:42 JST",
-  "total": 169,
+  "updated": "2026-07-21 01:18 JST",
+  "total": 167,
   "news": [
     {
-      "title": "42都府県に熱中症警戒アラート",
-      "link": "https://news.yahoo.co.jp/pickup/6588679?source=rss",
+      "title": "中露 日本のEEZ内で実弾演習",
+      "link": "https://news.yahoo.co.jp/pickup/6588686?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 12:43:06 GMT",
+      "pubDate": "Mon, 20 Jul 2026 14:12:12 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "消費減税 自民要職経験者が慎重論",
-      "link": "https://news.yahoo.co.jp/pickup/6588677?source=rss",
+      "title": "ハマス 新最高指導者にハイヤ氏",
+      "link": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 12:34:59 GMT",
+      "pubDate": "Mon, 20 Jul 2026 13:53:56 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "イラン攻撃で米兵死亡 19歳と25歳",
+      "link": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
+      "description": "",
+      "pubDate": "Mon, 20 Jul 2026 14:55:37 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,26 +35,26 @@
       "category": "総合"
     },
     {
-      "title": "港の岸壁で倒れていた男性 死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6588680?source=rss",
+      "title": "市長産休入り 妊娠後も多忙な日々",
+      "link": "https://news.yahoo.co.jp/pickup/6588685?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 13:08:47 GMT",
+      "pubDate": "Mon, 20 Jul 2026 14:03:56 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "労災認定に7年 過酷だったと遺族",
-      "link": "https://news.yahoo.co.jp/pickup/6588638?source=rss",
+      "title": "FIFAランキング W杯終え大幅変更",
+      "link": "https://news.yahoo.co.jp/pickup/6588692?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 07:19:42 GMT",
+      "pubDate": "Mon, 20 Jul 2026 15:23:16 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "トランプ氏 また表彰台にとどまる",
-      "link": "https://news.yahoo.co.jp/pickup/6588631?source=rss",
+      "title": "「カグラバチ」来週連載再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6588691?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 06:19:05 GMT",
+      "pubDate": "Mon, 20 Jul 2026 15:11:08 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -55,14 +63,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6588676?source=rss",
       "description": "",
       "pubDate": "Mon, 20 Jul 2026 12:19:32 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ダブルインパクト 滝音が優勝",
-      "link": "https://news.yahoo.co.jp/pickup/6588681?source=rss",
-      "description": "",
-      "pubDate": "Mon, 20 Jul 2026 13:08:44 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -99,10 +99,10 @@
       "category": "国内"
     },
     {
-      "title": "人身売買罪の適用低調 立件難しく",
-      "link": "https://news.yahoo.co.jp/pickup/6588629?source=rss",
+      "title": "中露 日本のEEZ内で実弾演習",
+      "link": "https://news.yahoo.co.jp/pickup/6588686?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 06:02:40 GMT",
+      "pubDate": "Mon, 20 Jul 2026 14:12:12 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -139,6 +139,14 @@
       "category": "国際"
     },
     {
+      "title": "イラン攻撃で米兵死亡 19歳と25歳",
+      "link": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
+      "description": "",
+      "pubDate": "Mon, 20 Jul 2026 14:55:37 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "米国の対イラン攻撃 範囲が拡大",
       "link": "https://news.yahoo.co.jp/pickup/6588597?source=rss",
       "description": "",
@@ -147,18 +155,10 @@
       "category": "国際"
     },
     {
-      "title": "英国 バーナム氏が新首相に就任",
-      "link": "https://news.yahoo.co.jp/pickup/6588671?source=rss",
+      "title": "露軍 ウ南部で民間貨物船を攻撃",
+      "link": "https://news.yahoo.co.jp/pickup/6588688?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 11:57:16 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "日比海洋交渉入り合意 中国猛反発",
-      "link": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
-      "description": "",
-      "pubDate": "Sun, 19 Jul 2026 13:01:32 GMT",
+      "pubDate": "Mon, 20 Jul 2026 14:12:01 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -171,26 +171,26 @@
       "category": "国際"
     },
     {
-      "title": "日ウ企業間の技術協力 露が批判",
-      "link": "https://news.yahoo.co.jp/pickup/6588544?source=rss",
+      "title": "英国 バーナム氏が新首相に就任",
+      "link": "https://news.yahoo.co.jp/pickup/6588671?source=rss",
       "description": "",
-      "pubDate": "Sun, 19 Jul 2026 10:26:29 GMT",
+      "pubDate": "Mon, 20 Jul 2026 11:57:16 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
     {
-      "title": "物流センターで2日延焼続く 韓国",
-      "link": "https://news.yahoo.co.jp/pickup/6588628?source=rss",
+      "title": "ハマス 新最高指導者にハイヤ氏",
+      "link": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
       "description": "",
-      "pubDate": "Mon, 20 Jul 2026 05:43:12 GMT",
+      "pubDate": "Mon, 20 Jul 2026 13:53:56 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
     {
-      "title": "韓国「犬肉禁止」施行へ 現場葛藤",
-      "link": "https://news.yahoo.co.jp/pickup/6588543?source=rss",
+      "title": "日比海洋交渉入り合意 中国猛反発",
+      "link": "https://news.yahoo.co.jp/pickup/6588562?source=rss",
       "description": "",
-      "pubDate": "Sun, 19 Jul 2026 10:31:29 GMT",
+      "pubDate": "Sun, 19 Jul 2026 13:01:32 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -299,19 +299,27 @@
       "category": "総合"
     },
     {
-      "title": "憧れの女優は小松菜奈、大阪の16歳がグランプリに　「bijoux新人発掘オーディション2026」リポート",
-      "link": "https://www.j-cast.com/trend/2026/07/19516430.html",
-      "description": "「bijoux新人発掘オーディション2026 supported by KeyHolder Group / サイバーエージェントグループ」のグランプリ受賞者が、2026年7月11日に決まった。受賞したのは、大阪府出身の手島柚葉さん（16）だ。",
-      "pubDate": "Sun, 19 Jul 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "カズレーザー学生時代に嫌いだった授業告白「できる人の態度が嫌」",
+      "link": "https://news.livedoor.com/article/detail/31871646/",
+      "description": "ざっくり言うと カズレーザーが学生時代に嫌いだった授業についてYouTubeで語った 球技や水泳が苦手で「できないから嫌いになる」と体育への不満を吐露 大学でフェンシングに打ち込んだ経験から、種目の偏りに持論を展開した 記事を読む",
+      "pubDate": "Mon, 20 Jul 2026 19:34:37 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "中露 日本のEEZで実弾演習を実施",
+      "link": "https://news.livedoor.com/article/detail/31872537/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 20 Jul 2026 22:51:36 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -379,22 +387,6 @@
       "category": "総合"
     },
     {
-      "title": "東ティモールで日本人1人を拘束",
-      "link": "https://news.livedoor.com/article/detail/31872158/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 20 Jul 2026 21:15:56 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "寺地拳四朗が涙の日本選手8人目3階級制覇 ゴンサレスに判定で勝利",
-      "link": "https://news.livedoor.com/article/detail/31871914/",
-      "description": "ざっくり言うと 寺地拳四朗が日本選手8人目の世界3階級制覇を6月20日に達成した ゴンサレスを3―0の判定で下し、2度のダウンを奪う完勝を収めた 今後は日本初となる3階級での2団体統一王者を目標に掲げている 記事を読む",
-      "pubDate": "Mon, 20 Jul 2026 20:43:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "普段の通勤電車が「180度違う役割に変貌」当初の目的と異なる路線が存在",
       "link": "https://news.livedoor.com/article/detail/31862086/",
       "description": "ざっくり言うと YouTubeチャンネル「鉄道ビジネスカジュアル 交通」が動画を公開した 当初の目的から180度異なる役割に変貌した鉄道路線の歴史を解説している 貨物線計画が通勤路線に大出世した事例や軍事目的路線なども取り上げられる 記事を読む",
@@ -415,14 +407,6 @@
       "link": "https://news.livedoor.com/article/detail/31862273/",
       "description": "ざっくり言うと 53歳男性が老後不安から貯金200万円を新NISAに全額投入した 手元現金がゼロの状態で愛車修理50万円が必要となり含み損で売却 FPは投資前に生活防衛資金100～200万円の確保が必須と助言している 記事を読む",
       "pubDate": "Sun, 19 Jul 2026 07:15:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "ホンダがZR-Vを一部改良、ガソリン車廃止しハイブリッド専用モデルに",
-      "link": "https://news.livedoor.com/article/detail/31872102/",
-      "description": "ざっくり言うと ホンダが2026年3月27日、人気SUV「ZR-V」の一部改良を発表した 最大の変更点はガソリン車廃止でハイブリッド専用となり燃費22.1km/Lを達成 特別仕様車「CROSS TOURING」を新たに追加し選択肢がさらに広がっている 記事を読む",
-      "pubDate": "Mon, 20 Jul 2026 21:10:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -473,6 +457,14 @@
       "pubDate": "Mon, 20 Jul 2026 17:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "熱中症警戒アラートは今年最多43地域 明日21日は東海で40度",
+      "link": "https://news.livedoor.com/article/detail/31871032/",
+      "description": "ざっくり言うと 7月21日は太平洋高気圧が勢力を強め東海中心に猛烈な暑さとなる見込み 名古屋・岐阜で40℃と今年初の酷暑日となる可能性があるとのことだ 午後は関東を中心にゲリラ雷雨が発生する恐れもあると気象情報は伝えている 記事を読む",
+      "pubDate": "Mon, 20 Jul 2026 18:08:03 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "沈黙や不機嫌で相手を精神的に支配「サイレントモラハラ」の実態と危険性",
@@ -543,14 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/31870144/",
       "description": "記事を読む",
       "pubDate": "Mon, 20 Jul 2026 15:22:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "三重でわなにかかったツキノワグマを「緊急銃猟」で駆除 東海地方では初",
-      "link": "https://news.livedoor.com/article/detail/31870488/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 20 Jul 2026 16:33:13 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1195,6 +1179,38 @@
       "category": "YouTube"
     },
     {
+      "title": "創部初のシード藤枝東　早すぎる敗退　中村監督「これまでの100年はサッカーの歴史だったが、野球も勝負できる」",
+      "link": "https://www.youtube.com/watch?v=og7asYMWPPg",
+      "description": "",
+      "pubDate": "2026-07-20T14:51:19+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "聖隷エース高部は２番手で登板　4回被安打ゼロ　自己最速150キロをマーク",
+      "link": "https://www.youtube.com/watch?v=XxdjjSbtUss",
+      "description": "",
+      "pubDate": "2026-07-20T14:18:11+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "伝統校同士・静岡VS島田商　島商キャプテンが同点ホームランも…　公式戦白星がなかった3年生、最後の夏に仲間とつかんだ2勝",
+      "link": "https://www.youtube.com/watch?v=TzakkHYTDMg",
+      "description": "",
+      "pubDate": "2026-07-20T14:38:05+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "ノーシード藤枝明誠が春の王者・知徳を破る　知徳主将「このメンバーで甲子園に行きたかった」",
+      "link": "https://www.youtube.com/watch?v=YvM7YD7pnbg",
+      "description": "",
+      "pubDate": "2026-07-20T14:44:08+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
       "title": "【リニア】静岡工区着工にGOサイン…静岡県とJR東海が協定締結　開業は早くて2036年以降か　市町トップ「何かあった場合は素早く情報提供を」「何より重要なのは水資源の確保」",
       "link": "https://www.youtube.com/watch?v=C0J6ND6kOQg",
       "description": "",
@@ -1214,7 +1230,7 @@
       "title": "【期日前✖今野忍】安野貴博党首が初出演！国政政党化1年チームみらいの未来とは？副首都なぜ賛成？統一選で静岡は擁立？まさかの答えにざわつく／W杯スペイン優勝！予想外した期日前サッカー解説者を引責辞任表明",
       "link": "https://www.youtube.com/watch?v=FHG6t8fsFC4",
       "description": "",
-      "pubDate": "2026-07-20T12:55:55+00:00",
+      "pubDate": "2026-07-20T14:43:27+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1239,38 +1255,6 @@
       "link": "https://www.youtube.com/watch?v=_YSRVO6bVPk",
       "description": "",
       "pubDate": "2026-07-20T05:36:39+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "3度目のパワハラ認定で警察署長が依願退職へ#shorts",
-      "link": "https://www.youtube.com/shorts/b4KxldNNyz4",
-      "description": "",
-      "pubDate": "2026-07-20T06:40:43+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "伊東オレンジビーチで海開き　安全祈願祭で関係者が利用者の安全と夏のにぎわい祈る",
-      "link": "https://www.youtube.com/watch?v=nNXMtl9KMeQ",
-      "description": "",
-      "pubDate": "2026-07-20T06:45:32+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "海の資源を守り育てるマダイ稚魚放流事業に賛同　ネッツトヨタ静岡が静岡県漁業振興基金に協力金",
-      "link": "https://www.youtube.com/watch?v=G44ruR7n8Bk",
-      "description": "",
-      "pubDate": "2026-07-20T06:34:47+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "サッカーグラウンドで周囲に生えていた高さ２０メートルの木が倒れる　幼児２人を含む７人が重軽傷　静岡・御殿場市",
-      "link": "https://www.youtube.com/watch?v=gqV8NlBSW4U",
-      "description": "",
-      "pubDate": "2026-07-20T06:50:37+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
