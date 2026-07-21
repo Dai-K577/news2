@@ -1,12 +1,36 @@
 {
-  "updated": "2026-07-21 22:10 JST",
-  "total": 170,
+  "updated": "2026-07-22 01:12 JST",
+  "total": 167,
   "news": [
     {
-      "title": "22日は関東も40℃の酷暑日予想",
-      "link": "https://news.yahoo.co.jp/pickup/6588807?source=rss",
+      "title": "石破氏 消費減税見直しも選択肢",
+      "link": "https://news.yahoo.co.jp/pickup/6588817?source=rss",
       "description": "",
-      "pubDate": "Tue, 21 Jul 2026 11:40:30 GMT",
+      "pubDate": "Tue, 21 Jul 2026 12:36:40 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "露への大学生ら短期派遣 再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6588829?source=rss",
+      "description": "",
+      "pubDate": "Tue, 21 Jul 2026 14:05:19 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "明石歩道橋事故 25年前の救助活動",
+      "link": "https://news.yahoo.co.jp/pickup/6588828?source=rss",
+      "description": "",
+      "pubDate": "Tue, 21 Jul 2026 13:56:10 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "学習放獣したクマが出没 殺処分",
+      "link": "https://news.yahoo.co.jp/pickup/6588793?source=rss",
+      "description": "",
+      "pubDate": "Tue, 21 Jul 2026 09:35:37 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -19,34 +43,18 @@
       "category": "総合"
     },
     {
-      "title": "霧島市遺体 身元特定に数日見込み",
-      "link": "https://news.yahoo.co.jp/pickup/6588821?source=rss",
+      "title": "梨5000個盗まれ「栽培辞めます」",
+      "link": "https://news.yahoo.co.jp/pickup/6588825?source=rss",
       "description": "",
-      "pubDate": "Tue, 21 Jul 2026 12:48:44 GMT",
+      "pubDate": "Tue, 21 Jul 2026 13:21:50 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "首相の「0～3時間睡眠」投稿 波紋",
-      "link": "https://news.yahoo.co.jp/pickup/6588770?source=rss",
+      "title": "佐藤輝明の弟 目指す「背番号1」",
+      "link": "https://news.yahoo.co.jp/pickup/6588831?source=rss",
       "description": "",
-      "pubDate": "Tue, 21 Jul 2026 08:00:03 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "脊髄iPS移植4年観察 副作用なし",
-      "link": "https://news.yahoo.co.jp/pickup/6588797?source=rss",
-      "description": "",
-      "pubDate": "Tue, 21 Jul 2026 09:52:15 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "悔しい 日本人はW杯主審できず",
-      "link": "https://news.yahoo.co.jp/pickup/6588814?source=rss",
-      "description": "",
-      "pubDate": "Tue, 21 Jul 2026 12:17:52 GMT",
+      "pubDate": "Tue, 21 Jul 2026 14:47:27 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -59,26 +67,10 @@
       "category": "総合"
     },
     {
-      "title": "23年死去KANさん 公式HP再始動",
-      "link": "https://news.yahoo.co.jp/pickup/6588808?source=rss",
-      "description": "",
-      "pubDate": "Tue, 21 Jul 2026 11:45:42 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "22日は関東も40℃の酷暑日予想",
       "link": "https://news.yahoo.co.jp/pickup/6588807?source=rss",
       "description": "",
       "pubDate": "Tue, 21 Jul 2026 11:40:30 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "政府「骨太の方針」を閣議決定",
-      "link": "https://news.yahoo.co.jp/pickup/6588742?source=rss",
-      "description": "",
-      "pubDate": "Tue, 21 Jul 2026 03:48:55 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -119,6 +111,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6588760?source=rss",
       "description": "",
       "pubDate": "Tue, 21 Jul 2026 07:05:07 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "露への大学生ら短期派遣 再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6588829?source=rss",
+      "description": "",
+      "pubDate": "Tue, 21 Jul 2026 14:05:19 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -307,14 +307,6 @@
       "category": "総合"
     },
     {
-      "title": "リンガーハットとCoCo壱番屋の定番メニューを再現　タテ型カップ麺2種",
-      "link": "https://www.j-cast.com/trend/2026/07/20516410.html",
-      "description": "エースコックは、リンガーハットおよびCoCo壱番屋とコラボレーションしたタテ型カップ麺2商品を2026年7月20日に発売。",
-      "pubDate": "Mon, 20 Jul 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -323,74 +315,34 @@
       "category": "総合"
     },
     {
-      "title": "東京都内で261人が熱中症疑いで救急搬送 2022年以来最多",
-      "link": "https://news.livedoor.com/article/detail/31880756/",
+      "title": "有吉弘行が21日にXを更新「言い訳多いな」「謝りたくないなら…」",
+      "link": "https://news.livedoor.com/article/detail/31881098/",
       "description": "記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 21:39:23 +0900",
+      "pubDate": "Tue, 21 Jul 2026 22:43:18 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "海岸でウミガメの産卵が確認されるも周辺には工事現場 作業中断で対応協議",
-      "link": "https://news.livedoor.com/article/detail/31880735/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 21:16:30 +0900",
+      "title": "「名探偵コナン ハイウェイの堕天使」公開102日間で興収136.2億円を突破",
+      "link": "https://news.livedoor.com/article/detail/31878034/",
+      "description": "ざっくり言うと 劇場版『名探偵コナン ハイウェイの堕天使』の興収が発表された 公開102日間で興収136.2億円を突破したことが明らかになっている コナン映画は4年連続で興収100億円超えという邦画史上初の記録を更新中 記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 16:03:49 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "鬼越トマホーク・良ちゃんがYouTubeでも渡部建へ謝罪「怒りにまかせて…」",
-      "link": "https://news.livedoor.com/article/detail/31880414/",
-      "description": "ざっくり言うと 鬼越トマホークがYouTubeでアンジャッシュ渡部建氏への投稿を謝罪した 良ちゃんは「怒りにまかせてポストした」と認め、笑いの範囲を超えたと反省 制作会社「OMIYAGE」も確認不足を認め、渡部側・鬼越側双方に陳謝している 記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 20:35:34 +0900",
+      "title": "「軍隊×飯テロ」異例作が大バズ",
+      "link": "https://news.livedoor.com/article/detail/31573732/",
+      "description": "ざっくり言うと ディズニープラスで配信されている「伝説のキッチン・ソルジャー」 6月16日に最終回を迎え、イッキ見需要が高まっているという 炊事兵の成長を描く「軍隊×料理ドラマ」で、多くの視聴者の心をつかんだ 記事を読む",
+      "pubDate": "Mon, 15 Jun 2026 09:41:15 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "W杯スペイン代表が投稿した表彰式の写真 米大統領を加工で消した？",
-      "link": "https://news.livedoor.com/article/detail/31880699/",
-      "description": "ざっくり言うと 北中米ワールドカップでスペインがアルゼンチンを破り優勝を果たした 公式Xに投稿した記念写真からトランプ大統領の姿が消えていると話題に 表彰式では退くよう促されても壇上に残り続けた一幕があったとのこと 記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 21:03:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "韓国外務省の職員最大1万件の個人情報がサイバー攻撃で流出か",
-      "link": "https://news.livedoor.com/article/detail/31880410/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 20:37:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "韓国外交官らの情報がサイバー攻撃で流出した可能性 最大約1万件",
-      "link": "https://news.livedoor.com/article/detail/31880638/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 21:16:25 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "自民党でトレカ議連設立へ 偽造や大量購入問題を踏まえルール整備を図る",
-      "link": "https://news.livedoor.com/article/detail/31878881/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 17:36:07 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ダブルインパクト ネタ中の演出や音声巡り「ミス」指摘 日テレ不体裁認める",
-      "link": "https://news.livedoor.com/article/detail/31880659/",
-      "description": "ざっくり言うと 日テレ賞レース番組で暗転や音声トラブルとみられる不備が発生した 日テレは「制作上の不備で放送上不体裁があった」と事実を認めた 蛙亭はFINAL3位、ななまがりは敗退し、滝音が優勝を果たした 記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 21:08:52 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "北陸製菓「いかりのまえーバー」発売へ ポケモンたちが大集合",
-      "link": "https://news.livedoor.com/article/detail/31871364/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 20 Jul 2026 19:09:27 +0900",
+      "title": "集団暴行死 頭部と顔は「出血していないところがないくらい」と解剖医",
+      "link": "https://news.livedoor.com/article/detail/31878040/",
+      "description": "ざっくり言うと 2024年10月に北海道江別市の公園で男子大学生が集団暴行を受け死亡した事件 21日の主犯格らの裁判で、司法解剖した医師が大学生のけがの状況について証言 頭部と顔は「出血していないところがないくらい全て出血していた」などと述べた 記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 16:01:01 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -403,18 +355,50 @@
       "category": "総合"
     },
     {
+      "title": "前田大然の連携ゴールがW杯2026ベストゴール12候補に選出",
+      "link": "https://news.livedoor.com/article/detail/31880133/",
+      "description": "ざっくり言うと FIFAワールドカップ2026の最優秀ゴール候補に日本代表が選出された スウェーデン戦で菅原・堂安・上田・前田が絡んだ連携ゴールが対象となった FIFAは「今大会最高のチームゴールの一つ」と絶賛し、SNSでも称賛が相次いだ 記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 20:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "2023年に亡くなったKANさんの情報発信を異例の再開 ファンからは喜びの声",
+      "link": "https://news.livedoor.com/article/detail/31877258/",
+      "description": "ざっくり言うと 2023年11月に61歳で逝去したKANさんの公式サイトが情報発信を再開した 訃報後に公式サイトを閉鎖するケースが多い中、継続発信は極めて異例とされる ファンからは「今年一番嬉しいニュース」と歓喜の声が相次いでいる状況だ 記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 14:19:17 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "今回の酷暑のピークは24日頃までの見込み 熱中症対策の徹底を",
+      "link": "https://news.livedoor.com/article/detail/31879822/",
+      "description": "ざっくり言うと 7月21日に東海3地点で今年初の40℃以上「酷暑日」を観測した 22日はさらに多くの地点で40℃に達し、広範囲で危険な暑さになる見込み 酷暑のピークは24日頃で、その後も平年を上回る厳しい暑さが続くとみられる 記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 19:12:04 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "20年の恋を貫き不倫関係に…妻子から拒否されても「覚悟の上」",
+      "link": "https://news.livedoor.com/article/detail/31875049/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 11:02:36 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "リリー・フランキーの発言に賛否の声「女優の顎とかを触らないように」",
+      "link": "https://news.livedoor.com/article/detail/31880527/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 20:50:36 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "中国製AI「Kimi K3」が人気殺到、GPU不足でサブスク新規加入を一時停止",
       "link": "https://news.livedoor.com/article/detail/31876822/",
       "description": "ざっくり言うと 中国Moonshot AIが7月17日にAIモデル「Kimi K3」を公開した Claude Fable 5超えの性能が注目されたが需要がGPU容量を超えたとのこと 既存ユーザー優先で新規サブスク加入を一時停止し全プランが売り切れ状態に 記事を読む",
       "pubDate": "Tue, 21 Jul 2026 13:39:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "TSMC元社員が国家中核技術を中国へ持ち出そうとして起訴される",
-      "link": "https://news.livedoor.com/article/detail/31876897/",
-      "description": "ざっくり言うと TSMCの元社員チェン被告が機密文書を中国へ持ち出そうとしたとして起訴された 台湾の国家中核技術に関する国家安全法違反事件としては初の起訴事例にあたる 漏えいは未遂に終わったが、検察は最高7年の拘禁刑を求めているとのこと 記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 13:45:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -459,14 +443,6 @@
       "category": "経済"
     },
     {
-      "title": "アンソロピックが作家らとの著作権侵害訴訟で約2400億円の和解が成立",
-      "link": "https://news.livedoor.com/article/detail/31879542/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 18:45:25 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "ワタミ・渡邉美樹氏がサブウェイを改革、売上7倍で3000店舗を目指す",
       "link": "https://news.livedoor.com/article/detail/31879847/",
       "description": "ざっくり言うと ワタミがサブウェイを買収後、売上高が3.9億円から27億円へ急増した セルフレジ導入や商品改革が奏功し、既存店売上高67カ月連続前年超えを達成 渡邉美樹氏はマクドナルド並みの3000店舗を将来目標として掲げているという 記事を読む",
@@ -481,6 +457,22 @@
       "pubDate": "Tue, 21 Jul 2026 20:30:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "政府がAIなどを巡る重点計画を閣議決定 マイナカード取得義務化は明記せず",
+      "link": "https://news.livedoor.com/article/detail/31880466/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 20:43:34 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "見落とされがちな心のSOS うつ病の知られていない10の症状",
+      "link": "https://news.livedoor.com/article/detail/31875977/",
+      "description": "ざっくり言うと うつ病の意外な症状10選をYouTubeチャンネルが動画で解説した 趣味を突然やめたり頻尿・離人感などが症状として挙げられている 「適切な治療で必ず何とかなる」と希望を持てる内容で締めくくられた 記事を読む",
+      "pubDate": "Tue, 21 Jul 2026 12:24:41 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "自民党でトレカ議連設立へ 偽造や大量購入問題を踏まえルール整備を図る",
@@ -543,22 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/31878703/",
       "description": "記事を読む",
       "pubDate": "Tue, 21 Jul 2026 17:12:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "蔵内勇夫福岡県議会議長の事務所に「火を付ける」などと脅したか 男逮捕",
-      "link": "https://news.livedoor.com/article/detail/31878804/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 17:25:34 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "全国で今年初の「酷暑日」を3地点で観測 大阪は24日の最低気温が30℃か",
-      "link": "https://news.livedoor.com/article/detail/31879308/",
-      "description": "ざっくり言うと 岐阜県多治見市など3地点で今年初の最高気温40度超を記録した 気象予報士の宇野日和氏は今後も危険な暑さが続くと警戒を促した 就寝前にコップ1杯の水を飲む夜間対策を宇野氏が呼びかけている 記事を読む",
-      "pubDate": "Tue, 21 Jul 2026 18:17:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1126,7 +1102,7 @@
       "title": "【AIバブル崩壊】※緊急※ キオクシアショック株価暴落の背景には韓国人投資家が・・・（三橋貴明 , 須田慎一郎 , 虎ノ門ニュース切り抜き）",
       "link": "https://www.youtube.com/watch?v=PMLeu5BoAvg",
       "description": "",
-      "pubDate": "2026-07-21T13:02:46+00:00",
+      "pubDate": "2026-07-21T14:22:42+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1262,7 +1238,7 @@
       "title": "「しんえがおスターズ」が世界最高齢男女デュオに認定　静岡・焼津市などで歌手として活動する８０代の２人",
       "link": "https://www.youtube.com/watch?v=luIuzZ52sGg",
       "description": "",
-      "pubDate": "2026-07-21T10:51:04+00:00",
+      "pubDate": "2026-07-21T13:57:53+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1286,7 +1262,7 @@
       "title": "【緊急！】ついに南鳥島沖の泥から重レアアースが確認されました！わかりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=gOFI-P7MH2Q",
       "description": "",
-      "pubDate": "2026-07-21T12:01:47+00:00",
+      "pubDate": "2026-07-21T13:55:13+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
