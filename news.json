@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24 01:17 JST",
-  "total": 170,
+  "updated": "2026-07-24 03:55 JST",
+  "total": 169,
   "news": [
     {
       "title": "入国警備官に退職自衛官を活用へ",
@@ -451,14 +451,6 @@
       "category": "経済"
     },
     {
-      "title": "セブンイレブンの一部店舗でキャラ商品の買い占め・転売が発覚",
-      "link": "https://news.livedoor.com/article/detail/31895665/",
-      "description": "ざっくり言うと セブンイレブン一部店舗で人気IPキャラ商品の不正転売が発覚した 店舗関係者による買い占めや発売前販売が確認され、SNSや客の指摘がきっかけとなったという 本部は「経営継続にも影響しかねない重大な問題」として加盟店に遵守を求めた 記事を読む",
-      "pubDate": "Thu, 23 Jul 2026 18:07:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "PayPay セブンとデータ統合へ",
       "link": "https://news.livedoor.com/article/detail/31895419/",
       "description": "記事を読む",
@@ -467,18 +459,18 @@
       "category": "経済"
     },
     {
-      "title": "Googleが検索スクレイピングで訴えたSerpApi、裁判所がDMCA請求を却下",
-      "link": "https://news.livedoor.com/article/detail/31896274/",
-      "description": "ざっくり言うと GoogleがSerpApiを訴えたDMCA申し立てが裁判所に却下された 検索結果はURLやスニペット等の事実情報であり著作権保護の対象外とされた SerpApi側CEOは「オープンなインターネット全体の勝利」とコメントしている 記事を読む",
-      "pubDate": "Thu, 23 Jul 2026 19:30:00 +0900",
+      "title": "iOS 27パブリックベータ版でSiri AIと写真機能の進化を先行体験",
+      "link": "https://news.livedoor.com/article/detail/31897724/",
+      "description": "ざっくり言うと アップルがiOS 27パブリックベータを公開し生成AI機能を強化したと報じた 新名称「Siri AI」はスケジュールや写真など端末内データと連携して回答する ベータ版は英語のみ対応で、日本語の正式サポート時期は明示されていない 記事を読む",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "ニューヨーク市場で円が対ドルで下落、一時164円に迫る約39年ぶりの安値",
-      "link": "https://news.livedoor.com/article/detail/31897492/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 23 Jul 2026 23:04:32 +0900",
+      "title": "Googleが自撮り動画でのログインと復旧機能を新たに追加",
+      "link": "https://news.livedoor.com/article/detail/31897722/",
+      "description": "ざっくり言うと GoogleがGoogleアカウントの新たな本人確認手段を発表した 自撮り動画を事前登録し、サインイン時に照合することで本人確認を行う仕組みで スマートフォン紛失などの際にもアカウントへアクセスできる選択肢が広がった 記事を読む",
+      "pubDate": "Fri, 24 Jul 2026 00:14:43 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
