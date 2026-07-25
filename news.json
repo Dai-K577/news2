@@ -1,28 +1,44 @@
 {
-  "updated": "2026-07-25 14:32 JST",
-  "total": 129,
+  "updated": "2026-07-25 16:46 JST",
+  "total": 169,
   "news": [
     {
-      "title": "やまゆり園事件 美帆さん母の願い",
-      "link": "https://news.yahoo.co.jp/pickup/6589243?source=rss",
+      "title": "防災庁の地方拠点要望 全国45団体",
+      "link": "https://news.yahoo.co.jp/pickup/6589259?source=rss",
       "description": "",
-      "pubDate": "Sat, 25 Jul 2026 04:13:02 GMT",
+      "pubDate": "Sat, 25 Jul 2026 06:09:52 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "5日連続の酷暑日 過去最長を更新",
-      "link": "https://news.yahoo.co.jp/pickup/6589246?source=rss",
+      "title": "植松聖死刑囚 事件から10年の手記",
+      "link": "https://news.yahoo.co.jp/pickup/6589257?source=rss",
       "description": "",
-      "pubDate": "Sat, 25 Jul 2026 04:07:12 GMT",
+      "pubDate": "Sat, 25 Jul 2026 05:45:04 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "庭先で倒れた90代が死亡 熱中症か",
-      "link": "https://news.yahoo.co.jp/pickup/6589252?source=rss",
+      "title": "従業員死亡 暴行疑いで経営者逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6589258?source=rss",
       "description": "",
-      "pubDate": "Sat, 25 Jul 2026 05:00:44 GMT",
+      "pubDate": "Sat, 25 Jul 2026 06:17:42 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ジャングリア1年 来場者数100万人",
+      "link": "https://news.yahoo.co.jp/pickup/6589256?source=rss",
+      "description": "",
+      "pubDate": "Sat, 25 Jul 2026 05:42:15 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "商社→タクシー運転手 給料倍以上",
+      "link": "https://news.yahoo.co.jp/pickup/6589261?source=rss",
+      "description": "",
+      "pubDate": "Sat, 25 Jul 2026 06:34:28 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,34 +51,18 @@
       "category": "総合"
     },
     {
-      "title": "スマホで賭け 手取りの大半舟券に",
-      "link": "https://news.yahoo.co.jp/pickup/6589253?source=rss",
+      "title": "侍J監督 井口氏就任を正式発表",
+      "link": "https://news.yahoo.co.jp/pickup/6589271?source=rss",
       "description": "",
-      "pubDate": "Sat, 25 Jul 2026 05:06:18 GMT",
+      "pubDate": "Sat, 25 Jul 2026 07:37:26 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "グラブ「巨大化」と話題 朗希言及",
-      "link": "https://news.yahoo.co.jp/pickup/6589249?source=rss",
+      "title": "井本貴史 子に重度障害で家庭注力",
+      "link": "https://news.yahoo.co.jp/pickup/6589268?source=rss",
       "description": "",
-      "pubDate": "Sat, 25 Jul 2026 04:36:50 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "柳葉敏郎の長男 甲子園出場逃し涙",
-      "link": "https://news.yahoo.co.jp/pickup/6589247?source=rss",
-      "description": "",
-      "pubDate": "Sat, 25 Jul 2026 04:14:19 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ライセンス井本 子の重度障害公表",
-      "link": "https://news.yahoo.co.jp/pickup/6589240?source=rss",
-      "description": "",
-      "pubDate": "Sat, 25 Jul 2026 03:33:53 GMT",
+      "pubDate": "Sat, 25 Jul 2026 07:28:14 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -107,10 +107,10 @@
       "category": "国内"
     },
     {
-      "title": "外国人の永住許可要件 厳格化案",
-      "link": "https://news.yahoo.co.jp/pickup/6589194?source=rss",
+      "title": "防災庁の地方拠点要望 全国45団体",
+      "link": "https://news.yahoo.co.jp/pickup/6589259?source=rss",
       "description": "",
-      "pubDate": "Fri, 24 Jul 2026 14:50:19 GMT",
+      "pubDate": "Sat, 25 Jul 2026 06:09:52 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -155,6 +155,14 @@
       "category": "国際"
     },
     {
+      "title": "夕食会再び開催 トランプ氏が演説",
+      "link": "https://news.yahoo.co.jp/pickup/6589262?source=rss",
+      "description": "",
+      "pubDate": "Sat, 25 Jul 2026 06:55:29 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "ベネズエラ地震1カ月 死者5300人",
       "link": "https://news.yahoo.co.jp/pickup/6589177?source=rss",
       "description": "",
@@ -167,14 +175,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6589227?source=rss",
       "description": "",
       "pubDate": "Sat, 25 Jul 2026 01:26:45 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "露の最新鋭機「スホイ57」墜落か",
-      "link": "https://news.yahoo.co.jp/pickup/6589107?source=rss",
-      "description": "",
-      "pubDate": "Fri, 24 Jul 2026 00:46:02 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -193,6 +193,22 @@
       "pubDate": "Fri, 24 Jul 2026 03:47:41 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
+    },
+    {
+      "title": "「原宿系YouTuber」しなこ、ドット柄ミニ丈ワンピで神スタイル炸裂　「スタイルめっちゃ良い」「おしゃれ」",
+      "link": "https://www.j-cast.com/2026/07/25516515.html",
+      "description": "原宿系YouTuber・クリエイターとして活動するしなこさん（30）が2026年7月17日、自身のインスタグラムを更新。ドット柄でミニ丈のワンピース姿を披露した。",
+      "pubDate": "Sat, 25 Jul 2026 16:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "小嶋陽菜、ドキっ...ワンピ姿でベッドに腰かけて　「めっちゃお綺麗」「かわいい」ヴェネチアからローマへ",
+      "link": "https://www.j-cast.com/2026/07/25516512.html",
+      "description": "元AKB48の小嶋陽菜さん（38）が2026年7月11日、自身のインスタグラムを更新。豪華列車で旅をする様子を披露した。",
+      "pubDate": "Sat, 25 Jul 2026 15:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
     },
     {
       "title": "川崎麻世、21歳年下美人妻と沖縄でラブラブ2ショット...結婚して初の2人旅　「美男美女」「奥さんキレイすぎ」",
@@ -219,6 +235,14 @@
       "category": "総合"
     },
     {
+      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
+      "link": "http://j-town.net/news/localnews/241949.html",
+      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
+      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "登録者5億超人気YouTuber、結婚式ショットに大反響　「美しいカップル」「すっごくお似合い」美人妻は何者？",
       "link": "https://www.j-cast.com/2026/07/25516566.html",
       "description": "チャンネル登録者数が約5.1億を誇り、「世界一のYouTuber」と呼ばれる米国のYouTuber、Mr.Beast（ミスタービースト）さん（28）が、2026年7月22日（日本時間）にインスタグラムを更新。ゲーム配信者のティア・ボーイセンさん（28）との結婚式の写真を公開した。",
@@ -235,14 +259,6 @@
       "category": "総合"
     },
     {
-      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
-      "link": "http://j-town.net/news/localnews/241949.html",
-      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
-      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "長濱ねる、肩出しノースリニットワンピで...美しい横顔にドキっ　膝をかかえてポージング",
       "link": "https://www.j-cast.com/2026/07/25516307.html",
       "description": "元「欅坂46」のメンバーでタレントの長濱ねるさん（27）が2026年7月11日、自身のインスタグラムを更新。透明感あふれるボーダーワンピ姿を披露した。",
@@ -255,22 +271,6 @@
       "link": "https://www.j-cast.com/2026/07/25516400.html",
       "description": "サッカーワールドカップ北中米大会でノルウェー代表として活躍するアーリング・ハーランド選手（25、マンチェスターC）の恋人で、モデルのイザベル・ヨハンセンさん（22）が2026年7月18日、自身のインスタグラムを更新。ハーランド選手との2ショットなどを披露した。",
       "pubDate": "Sat, 25 Jul 2026 08:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "ヒロド歩美アナ「ノックができるキャスターになりたい！」...古田敦也の指導で猛練習中　「素晴らしい運動神経」",
-      "link": "https://www.j-cast.com/2026/07/24516602.html",
-      "description": "フリーアナウンサーのヒロド歩美さん（34）が2026年7月20日、自身のインスタグラムを更新。ノックの練習をする様子を披露した。",
-      "pubDate": "Fri, 24 Jul 2026 21:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "「マジで別人級」「AI画像？」アイドル時代から印象が激変...結婚発表の元AKB48平嶋夏海、ウエディングドレス姿で",
-      "link": "https://www.j-cast.com/2026/07/24516612.html",
-      "description": "アイドルグループ「AKB48」元メンバーでタレントの平嶋夏海さん（34）が、2026年7月23日、Xとインスタグラムで結婚を発表した。SNSでは、アイドル時代から印象が激変した平嶋さんの姿に注目が集まっている。",
-      "pubDate": "Fri, 24 Jul 2026 20:30:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -315,82 +315,82 @@
       "category": "総合"
     },
     {
-      "title": "チュートリアル徳井義実、生放送大遅刻し大先輩の前で土下座",
-      "link": "https://news.livedoor.com/article/detail/31908766/",
-      "description": "ざっくり言うと チュートリアル徳井義実が25日のMBS『せやねん！』に大遅刻した 就寝前にカンガルー動画を見続けてスマホのバッテリーが切れたのが原因とのこと Tシャツ・短パン姿でノーメイクのまま走って登場し土下座する一幕となった 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 12:40:03 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "川崎市営バスが小学生と衝突、信号無視で交差点進入か",
-      "link": "https://news.livedoor.com/article/detail/31909100/",
-      "description": "ざっくり言うと 川崎市営バスが赤信号を見て直進し小学生と衝突する事故が発生した キックボードで横断していた小学2年男子が転倒し頭部を負傷して搬送された ドライブレコーダーでは交差点の約15メートル手前で赤信号に変わっていた 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 13:50:39 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "2年連続2桁勝利の菅野がトレードの目玉に「黒と紫のユニホームは最後に…」",
-      "link": "https://news.livedoor.com/article/detail/31909016/",
-      "description": "ざっくり言うと 菅野智之がブルワーズ戦で10勝目を挙げ2年連続2桁勝利を達成した 8月3日のトレード期限前に好投し、トレード市場での価値が上昇したとみられる MLB公式やESPNも菅野をトレード市場の目玉として名指しで報じている 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 13:31:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "入国拒否＆強制送還されたセクシー女優 入った独房の「剥き出しの便器」",
-      "link": "https://news.livedoor.com/article/detail/31908128/",
+      "title": "5日連続の酷暑日 気象予報士「大気の流れがだいぶブロックされていた」",
+      "link": "https://news.livedoor.com/article/detail/31909851/",
       "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 10:59:00 +0900",
+      "pubDate": "Sat, 25 Jul 2026 16:41:21 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "バー従業員が血を流し死亡、経営者の50歳男を暴行容疑で逮捕",
-      "link": "https://news.livedoor.com/article/detail/31908464/",
-      "description": "ざっくり言うと 広島市中区のバーで24日夜、男性従業員が死亡しているのが発見された 経営者の村上洋昌容疑者（50）が従業員の顔や腹を殴打した疑いで逮捕された 警察は今後、殺人や傷害致死の容疑も視野に捜査を進める方針とのこと 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 11:53:00 +0900",
+      "title": "ガチャガチャのサーチ行為に賛否、運営側が語った現場の本音",
+      "link": "https://news.livedoor.com/article/detail/31909427/",
+      "description": "ざっくり言うと カプセルトイのサーチ行為をめぐりSNSで900万超の表示が集まった 運営側は長時間の占有など他客の妨げになる場合のみ対応するという 店側が実際に困るのはサーチより入荷時の順番争いやクレームとのこと 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 15:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "広島市中心部の飲食店に遺体…遺体は従業員か 経営者の男を逮捕",
-      "link": "https://news.livedoor.com/article/detail/31908676/",
-      "description": "ざっくり言うと 広島市中区の飲食店で7月24日、男性従業員の遺体が発見された 店内で49歳男性の顔や腹を殴ったとして、50歳の経営者男が逮捕された 警察は暴行と死亡の因果関係を調べ、殺人等の疑いも視野に捜査する方針 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 12:25:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "トラックで女性をひき逃げか 男逮捕も「はねた事実ない」 福岡市",
-      "link": "https://news.livedoor.com/article/detail/31908554/",
+      "title": "狩野英孝が歌手活動の印税告白「僕レベルですよ？」スタジオは疑いの声",
+      "link": "https://news.livedoor.com/article/detail/31908439/",
       "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 12:05:01 +0900",
+      "pubDate": "Sat, 25 Jul 2026 11:42:32 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "大阪市の海に浮かぶ台船上で女性の遺体 付近の海上で夫の遺体も発見",
-      "link": "https://news.livedoor.com/article/detail/31908579/",
+      "title": "長野県警山岳遭難救助隊の公式Xが赤字で「山で死ぬな」と注意喚起",
+      "link": "https://news.livedoor.com/article/detail/31909509/",
       "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 12:11:11 +0900",
+      "pubDate": "Sat, 25 Jul 2026 15:26:16 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "自転車の小6男児ひき逃げで36歳男を逮捕、車に傷で出頭も容疑否認",
-      "link": "https://news.livedoor.com/article/detail/31908568/",
+      "title": "密会報道の三山凌輝 舞台共演者への「お詫び差し入れ」に呆れの声も",
+      "link": "https://news.livedoor.com/article/detail/31909654/",
       "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 12:11:00 +0900",
+      "pubDate": "Sat, 25 Jul 2026 15:50:58 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「おはよう」の1枚が世界へ拡散、元アイドル金融OLが語るバズの経緯",
-      "link": "https://news.livedoor.com/article/detail/31907970/",
+      "title": "上沼恵美子が過去のパワハラ報道に反論「返せない芸人に力がない」",
+      "link": "https://news.livedoor.com/article/detail/31909543/",
+      "description": "ざっくり言うと 上沼恵美子がYouTubeで過去のパワハラ報道について自身の見解を語った 芸人へのツッコミは「返せない芸人に力がないから」と反論し今も反省なし 一方で「上手に指導しないといけない」と現代の風潮への複雑な思いも吐露した 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 15:31:15 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "松任谷由実が盲腸手術を終えて退院したことをマネジャーが報告",
+      "link": "https://news.livedoor.com/article/detail/31909333/",
       "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 10:00:00 +0900",
+      "pubDate": "Sat, 25 Jul 2026 14:33:55 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "多汗症 体質だから仕方ない？",
+      "link": "https://news.livedoor.com/article/detail/31664234/",
+      "description": "ざっくり言うと 汗の悩みがある10代の58％が「誰にも相談していない」ことが調査で分かった 医師は、「日常で困っていれば病院で気軽に相談してもよい」と回答している 汗の悩みに関する情報サイト「汗で病院あたりまえに委員会」もチェックを 記事を読む",
+      "pubDate": "Tue, 14 Jul 2026 14:00:50 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ロシア外相と中国外相が会談 日本について「再軍事化」などと批判",
+      "link": "https://news.livedoor.com/article/detail/31909623/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 15:48:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ダレノガレ明美、ナシ「盗難被害」の支援終了を報告「目標金額を達成」",
+      "link": "https://news.livedoor.com/article/detail/31908917/",
+      "description": "ざっくり言うと ダレノガレ明美が農産物盗難被害農家への支援金募集を終了と報告した 24日に開始した支援金受付が予想を大きく上回る速さで目標額を達成したという 超過分の寄付先は決まり次第、改めて報告するとダレノガレは説明している 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 13:13:53 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -411,18 +411,10 @@
       "category": "経済"
     },
     {
-      "title": "商社営業職からタクシー運転手に転職した27歳女性、月収60万円を手にする",
-      "link": "https://news.livedoor.com/article/detail/31907841/",
-      "description": "ざっくり言うと AI進化でホワイトカラーの仕事が奪われる中、ブルーカラーが注目を集めている タクシー運転手や職人など現場職で月60万円・年収1500万円の事例もあるという 歩合制や技術力次第で高収入が狙えるブルーカラーの魅力をMBSテレビが伝えた 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "「本気で黒字化するつもりあるんですか？」NHKの甘さを厳しく批判",
-      "link": "https://news.livedoor.com/article/detail/31907810/",
-      "description": "ざっくり言うと 元テレビ局員の下矢一良氏がNHKの経営姿勢に疑問を呈する動画を公開した BBCの2000人削減を例に、NHKの赤字補填や経費の使い方を厳しく批判したという 「巨大体制の維持は国民の利益と反している」と公共放送のあり方に警鐘を鳴らした 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 10:00:00 +0900",
+      "title": "最終日 楽天SALEでデジチケ人気",
+      "link": "https://news.livedoor.com/article/detail/31903814/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 24 Jul 2026 18:20:35 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -459,20 +451,76 @@
       "category": "経済"
     },
     {
-      "title": "大学生への月10万円の仕送りは贈与税の対象になるのか",
-      "link": "https://news.livedoor.com/article/detail/31907782/",
-      "description": "ざっくり言うと 大学生への月10万円仕送りと贈与税の関係をFINANCIAL FIELDが解説した 生活費・教育費として実際に使われる仕送りは贈与税の対象外となるのが基本 余ったお金を貯金や投資に回した場合は課税対象になる可能性があるという 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 09:30:45 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "中国副首相が国産AIチップ採用を拒む企業を「裏切り者」と警告",
       "link": "https://news.livedoor.com/article/detail/31907828/",
       "description": "ざっくり言うと 中国の丁薛祥副首相が国産AIチップ採用を企業に強く求めていると判明した 「中国産チップ採用を拒む者は裏切り者」と丁氏が警告を発したとWSJが報道 一方で米政府承認済みのNVIDIA H200の中国輸入許可も近く下りる見込みである 記事を読む",
       "pubDate": "Sat, 25 Jul 2026 10:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "日産が新型キックスを発表、第3世代e-POWERで燃費25.7kmを達成",
+      "link": "https://news.livedoor.com/article/detail/31908597/",
+      "description": "ざっくり言うと 日産が2026年6月17日に新型コンパクトSUV「キックス」を発表した 最大の進化点は第3世代e-POWERで、WLTCモード燃費25.7km/Lを達成している 最安グレードは299万9700円で、翌18日から発売が開始されているとのこと 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 12:10:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "トランプ関税 日本にトリプル安",
+      "link": "https://news.livedoor.com/article/detail/31909457/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 15:10:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "川崎市営バスが小学生と衝突、信号無視で交差点進入か",
+      "link": "https://news.livedoor.com/article/detail/31909100/",
+      "description": "ざっくり言うと 川崎市営バスが赤信号を見て直進し小学生と衝突する事故が発生した キックボードで横断していた小学2年男子が転倒し頭部を負傷して搬送された ドライブレコーダーでは交差点の約15メートル手前で赤信号に変わっていた 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 13:50:39 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "夜泣きに悩む母たちの深夜カフェ",
+      "link": "https://news.livedoor.com/article/detail/31909598/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 15:49:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "葬儀トラブル相談 過去最多1007件、費用の「話が違う」が半数超",
+      "link": "https://news.livedoor.com/article/detail/31908373/",
+      "description": "ざっくり言うと 葬儀トラブルの相談件数が2025年度に過去最多の1007件に達した 広告の50万円プランが最終的に120万円超になる事例が相談の半数以上を占め 松尾善紀弁護士は「基本料金の範囲が不明示」の広告に注意を促している 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 11:40:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "広島市中心部の飲食店に遺体…遺体は従業員か 経営者の男を逮捕",
+      "link": "https://news.livedoor.com/article/detail/31908676/",
+      "description": "ざっくり言うと 広島市中区の飲食店で7月24日、男性従業員の遺体が発見された 店内で49歳男性の顔や腹を殴ったとして、50歳の経営者男が逮捕された 警察は暴行と死亡の因果関係を調べ、殺人等の疑いも視野に捜査する方針 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 12:25:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "大阪市の海に浮かぶ台船上で女性の遺体発見 付近の海上で夫の遺体も発見",
+      "link": "https://news.livedoor.com/article/detail/31908579/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 12:11:11 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "バー従業員が血を流し死亡、経営者の50歳男を暴行容疑で逮捕",
+      "link": "https://news.livedoor.com/article/detail/31908464/",
+      "description": "ざっくり言うと 広島市中区のバーで24日夜、男性従業員が死亡しているのが発見された 経営者の村上洋昌容疑者（50）が従業員の顔や腹を殴打した疑いで逮捕された 警察は今後、殺人や傷害致死の容疑も視野に捜査を進める方針とのこと 記事を読む",
+      "pubDate": "Sat, 25 Jul 2026 11:53:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "車が田んぼに転落し7人救急搬送、ガードパイプ巻き込み3メートル下へ",
@@ -503,54 +551,6 @@
       "link": "https://news.livedoor.com/article/detail/31908960/",
       "description": "ざっくり言うと 北海道ニセコのホテルコンドミニアム投資が国内富裕層にも拡大している パークハイアットニセコの物件が開業時の約2倍の4億9000万円で流通中 日本人富裕層による購入が半数以上を占め、投資家層の多様化が進んでいる 記事を読む",
       "pubDate": "Sat, 25 Jul 2026 13:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "男が背後から近づき女性の体を触り逃亡か 女性は転倒しけが 札幌市",
-      "link": "https://news.livedoor.com/article/detail/31908452/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 11:50:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "うつ病の治療で用いられる薬の種類、飲み続ける期間 医師が解説",
-      "link": "https://news.livedoor.com/article/detail/31908173/",
-      "description": "ざっくり言うと うつ病の薬の効果と服用期間について医師監修のもと解説した記事 SSRIなど複数の抗うつ薬が症状に応じて使い分けられるとのこと 症状改善後も再発予防のため1～3年の服薬継続が推奨されている 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 02:00:45 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "入国拒否＆強制送還されたセクシー女優 入った独房の「剥き出しの便器」",
-      "link": "https://news.livedoor.com/article/detail/31908128/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 10:59:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "日本で1人の「点状石灰化骨異形成症」意識が戻らないかもしれない手術も",
-      "link": "https://news.livedoor.com/article/detail/31907982/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "男性を包丁で刺し傷口を裁縫針で縫合しようとしたか 女の言い分",
-      "link": "https://news.livedoor.com/article/detail/31907448/",
-      "description": "ざっくり言うと 名古屋市の女が交友男性を包丁で刺した傷害事件の裁判が開かれた 「殺すつもりならメッタ刺しにする」と女は薄く笑いながら供述したという 検察側は3年の拘禁刑を求刑し、判決は8月5日に名古屋地裁で言い渡される 記事を読む",
-      "pubDate": "Sat, 25 Jul 2026 07:05:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "日本における失明原因の第1位・緑内障 気づきにくい視野欠損の特徴",
-      "link": "https://news.livedoor.com/article/detail/31907030/",
-      "description": "ざっくり言うと 緑内障は日本の失明原因第1位で、初期はほぼ自覚症状がない病気である 視野欠損が進んでも両眼が補い合うため、後期まで気付かないケースも多いという 40歳以上や強度近視の人は症状がなくても定期的な眼科検査を受けることが推奨される 記事を読む",
-      "pubDate": "Fri, 24 Jul 2026 22:00:39 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1033,6 +1033,326 @@
       "pubDate": "Mon, 26 Jan 2026 09:00:00 +0900",
       "source": "大和総研 税制",
       "category": "経済"
+    },
+    {
+      "title": "7/25LIVE！テレビで西田氏とバトル「副首都可決」「骨太の方針」「酷暑」",
+      "link": "https://www.youtube.com/watch?v=oxprtC2joQo",
+      "description": "",
+      "pubDate": "2026-07-25T04:29:44+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "7/25LIVE！テレビで西田氏とバトル「副首都可決」「骨太の方針」「酷暑」 📱",
+      "link": "https://www.youtube.com/watch?v=RRMankPa8vM",
+      "description": "",
+      "pubDate": "2026-07-25T04:29:13+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1556回　税収過去最高84.2兆円！だから言ったでしょ。早く国民に還元しろ",
+      "link": "https://www.youtube.com/watch?v=XwH5nKhK2eI",
+      "description": "",
+      "pubDate": "2026-07-24T10:28:32+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1555回　W杯商業化を批判　毎日新聞のアホ主張…プロだから当たり前",
+      "link": "https://www.youtube.com/watch?v=XrpFXfyt2wQ",
+      "description": "",
+      "pubDate": "2026-07-23T09:00:29+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1554回　ようやく骨太の方針発表！投資ガンガンもここまで遅れたのは財務省と野党の抵抗",
+      "link": "https://www.youtube.com/watch?v=sZE4MPqdZv4",
+      "description": "",
+      "pubDate": "2026-07-23T07:47:36+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1553回　高市内閣支持率急落の理由は進まない減税だ",
+      "link": "https://www.youtube.com/watch?v=bbfXIJe2ijU",
+      "description": "",
+      "pubDate": "2026-07-22T10:55:32+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1552回　中小企業の賃上げがー！実質賃金がー！データで見ましょう",
+      "link": "https://www.youtube.com/watch?v=TDOwgqefyKk",
+      "description": "",
+      "pubDate": "2026-07-20T09:25:21+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "【音声トラック不具合につき再UP】7/18LIVE！維新vs中道がテレビで。国会議員って本当に･･･",
+      "link": "https://www.youtube.com/watch?v=wrhYOC3MmKI",
+      "description": "",
+      "pubDate": "2026-07-20T10:32:26+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1551回　国債をNISA対象に！財務省と金融機関によって虐げれれてきた国債の歴史",
+      "link": "https://www.youtube.com/watch?v=uQVaFR5f0ck",
+      "description": "",
+      "pubDate": "2026-07-20T23:47:51+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1550回　スパイ防止法に反対する人はスパイ　リストに載っていなければ通信傍受もされない",
+      "link": "https://www.youtube.com/watch?v=FX7bYW2nEzg",
+      "description": "",
+      "pubDate": "2026-07-16T09:36:18+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "【円安が新たなステージへ】髙橋洋一さんが片山さつき財務大臣に怒られたことを話してくれました※ドル円は１ドル１６４円目前 ,  為替介入はあと２発※ （虎ノ門ニュース切り抜き）",
+      "link": "https://www.youtube.com/watch?v=Mp8tpUDRbg4",
+      "description": "",
+      "pubDate": "2026-07-25T05:08:54+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【国会が遂に閉幕】※緊急速報※最後まで大揉めした原因となった議員について須田慎一郎さんが話してくれました【虎ノ門ニュース】",
+      "link": "https://www.youtube.com/watch?v=B7Wzkko3CBs",
+      "description": "",
+      "pubDate": "2026-07-24T14:41:35+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【髙橋洋一さんが過去イチ激怒】オールドメディアが報道できない”骨太の方針”の本当のポイント,”国民会議はバカばっか・・・” 虎ノ門ニュース , 髙橋洋一×丸山穂高 2026/7/24(金)",
+      "link": "https://www.youtube.com/watch?v=gMmFQUeXbEE",
+      "description": "",
+      "pubDate": "2026-07-24T12:11:03+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【中国がトンデモ外交】※映像あり※ 他国の乗組員は木の棒でボコボコに・・・経済崩壊が止まらない習近平の暴挙（須田慎一郎 , 虎ノ門ニュース切り抜き）",
+      "link": "https://www.youtube.com/watch?v=zydZFVXzS3M",
+      "description": "",
+      "pubDate": "2026-07-23T07:48:34+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【本当の原因】※緊急※ AIバブルの崩壊とキオクシアショック株価暴落の背景には韓国人投資家が・・・（三橋貴明 , 須田慎一郎 , 虎ノ門ニュース切り抜き）",
+      "link": "https://www.youtube.com/watch?v=PMLeu5BoAvg",
+      "description": "",
+      "pubDate": "2026-07-22T10:03:44+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】中国が沖ノ鳥島南西で射撃訓練 , 須田慎一郎×三橋貴明×長尾賢 2026/7/21(火)",
+      "link": "https://www.youtube.com/watch?v=56rzZw9QUdo",
+      "description": "",
+      "pubDate": "2026-07-22T16:15:19+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【愛子さまを利用する女性・女系天皇論】明治天皇の玄孫である竹田恒泰さんが皇室典範改正案に関する国会でのやりとりに激怒しました（虎ノ門ニュース切り抜き）",
+      "link": "https://www.youtube.com/watch?v=SsAP2qAH_uM",
+      "description": "",
+      "pubDate": "2026-07-19T07:14:56+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【国会延長の真相】須田慎一郎さんと竹田恒泰さんが立憲中道共産党の国会での言動が完全に破綻していることを話してくれました（虎ノ門ニュース切り抜き）",
+      "link": "https://www.youtube.com/watch?v=o-8ywWN0J8E",
+      "description": "",
+      "pubDate": "2026-07-18T11:27:33+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】竹田恒泰×須田慎一郎 2026/7/17(金)",
+      "link": "https://www.youtube.com/watch?v=Fj4btgyh3QI",
+      "description": "",
+      "pubDate": "2026-07-17T14:02:44+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【福岡県議会の\"カツアゲ\"疑惑】※全音声データを入手※ とんでもない記者会見をした中尾副議長の発言は真っ黒…疑惑の本丸はあの人です（須田慎一郎の虎ノ門ニュース）",
+      "link": "https://www.youtube.com/watch?v=pWdOqaxCN5U",
+      "description": "",
+      "pubDate": "2026-07-20T03:44:35+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "「ＡＩなどを使う新たな成長戦略が必要」　静岡県東部や伊豆半島の未来を考える講演会　静岡・沼津市",
+      "link": "https://www.youtube.com/watch?v=leNAD6eGtq0",
+      "description": "",
+      "pubDate": "2026-07-25T02:39:46+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "「冷たくて気持ちいい」子どもたちが夏の田んぼで草取りを体験　静岡・藤枝市",
+      "link": "https://www.youtube.com/watch?v=E5ixh8X3LQY",
+      "description": "",
+      "pubDate": "2026-07-25T02:35:38+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "中部電力のデータ不正を受け静岡県と御前崎市が浜岡原子力発電所の安全対策を点検",
+      "link": "https://www.youtube.com/watch?v=JF3Fno0Lu24",
+      "description": "",
+      "pubDate": "2026-07-25T02:49:54+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "ドンキで売れる暑さ対策グッズを大調査！　連日40℃超え酷暑で売上は右肩上がり！【SATV特集】",
+      "link": "https://www.youtube.com/watch?v=0MqGgp0_zq8",
+      "description": "",
+      "pubDate": "2026-07-24T11:07:31+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "【高橋洋一✖片岡剛士】副首都最終攻防！再延長に野党ビビる⁉／支持率低下は消費減税モタモタしてるから／40年ぶり円安／骨太ショックなんてない！／成長戦略のミライと静岡の技術「水素燃料」レアアース採取成功",
+      "link": "https://www.youtube.com/watch?v=eZ_-nk6YIDc",
+      "description": "",
+      "pubDate": "2026-07-24T13:10:12+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "秋篠宮家の次女・佳子様が高校生の馬術大会を観覧　静岡・御殿場市　大会のご臨席は今回で８回目",
+      "link": "https://www.youtube.com/watch?v=L_agwBR_uVM",
+      "description": "",
+      "pubDate": "2026-07-24T10:28:01+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "「色んな人脈を使ってつぶす」沼津警察署長がパワハラで減給処分　署長はすでに依願退職　静岡県警",
+      "link": "https://www.youtube.com/watch?v=9ObbVj1C-ag",
+      "description": "",
+      "pubDate": "2026-07-24T10:29:31+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "夏はモバイルバッテリーによる火事にご用心　水が入ったペットボトルが原因で発火することも",
+      "link": "https://www.youtube.com/watch?v=9Y_XL7Pdo8Y",
+      "description": "",
+      "pubDate": "2026-07-24T10:21:43+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "オール静岡で挑む、世界の海を変えるかもしれない新たな技術とは…!?　カギとなる「SBH」って何？",
+      "link": "https://www.youtube.com/watch?v=wz41Hzz-UfQ",
+      "description": "",
+      "pubDate": "2026-07-24T11:03:54+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "「年内にはお示ししたい」JR東海がリニアの開業時期を年内に示す意向　肝心の着工時期については未定",
+      "link": "https://www.youtube.com/watch?v=vUns_ugYbGU",
+      "description": "",
+      "pubDate": "2026-07-24T10:18:08+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "【速報！】本日、南鳥島レアアースの化学成分が正式発表！中国の10倍ほどの濃度と考えられる理由！分かりやすく解説します！",
+      "link": "https://www.youtube.com/watch?v=k9ONT6EfH58",
+      "description": "",
+      "pubDate": "2026-07-24T16:59:41+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】本日、十勝岳で噴火が発生！生放送で解説します！（2026年7月22日）",
+      "link": "https://www.youtube.com/watch?v=IqJpF1xVWuI",
+      "description": "",
+      "pubDate": "2026-07-23T07:13:00+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【速報！】先ほど、十勝岳で22年ぶりの噴火が発生！今回の噴火と今後の注意点について解説します！",
+      "link": "https://www.youtube.com/watch?v=-nMuf7fPZhg",
+      "description": "",
+      "pubDate": "2026-07-22T10:07:31+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【緊急！】ついに南鳥島沖の泥から重レアアースが確認されました！わかりやすく解説します！",
+      "link": "https://www.youtube.com/watch?v=gOFI-P7MH2Q",
+      "description": "",
+      "pubDate": "2026-07-22T10:14:15+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】京都府でM7.5大地震の可能性！生放送で解説します！（2026年7月20日）",
+      "link": "https://www.youtube.com/watch?v=pqkyTLjCLOY",
+      "description": "",
+      "pubDate": "2026-07-21T09:18:16+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【速報！】なんと絶海の孤島「西之島」に草が生えました！わかりやすく解説します！",
+      "link": "https://www.youtube.com/watch?v=yDWml_EaYfY",
+      "description": "",
+      "pubDate": "2026-07-20T06:07:40+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】M7.3大地震がメキシコで発生！生放送で解説します！（2026年7月18日）",
+      "link": "https://www.youtube.com/watch?v=HPKLv0ep6es",
+      "description": "",
+      "pubDate": "2026-07-19T06:39:00+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【悲報！】アインシュタインが4年で人類が滅亡すると警告！ハチの絶滅で起きる人類の危機とは？わかりやすく解説します！",
+      "link": "https://www.youtube.com/watch?v=RYRc0PCvu_s",
+      "description": "",
+      "pubDate": "2026-07-19T06:02:35+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】本日、南海トラフの南西の大隅半島でM5.2地震が発生！生放送で解説します！（2026年7月17日）",
+      "link": "https://www.youtube.com/watch?v=7U-lr1JzxW4",
+      "description": "",
+      "pubDate": "2026-07-19T20:42:26+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【衝撃！】なんと三峡ダムなどが原因で地球の軸が動いていることをNASAが発表！わかりやすく解説します！！",
+      "link": "https://www.youtube.com/watch?v=WFUc6aSV87o",
+      "description": "",
+      "pubDate": "2026-07-23T13:18:20+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
     }
   ]
 }
