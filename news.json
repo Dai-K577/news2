@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-29 04:02 JST",
-  "total": 168,
+  "updated": "2026-07-29 06:53 JST",
+  "total": 167,
   "news": [
     {
-      "title": "イオンモール熊本 5人を救助",
-      "link": "https://news.yahoo.co.jp/pickup/6589707?source=rss",
+      "title": "イオンモール 2人死亡1人心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6589719?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 16:28:17 GMT",
+      "pubDate": "Tue, 28 Jul 2026 20:21:54 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "イオンモール爆発 LPガス原因か",
-      "link": "https://news.yahoo.co.jp/pickup/6589706?source=rss",
+      "title": "イオンモール ガス漏れの可能性",
+      "link": "https://news.yahoo.co.jp/pickup/6589717?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 16:03:49 GMT",
+      "pubDate": "Tue, 28 Jul 2026 19:24:45 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,34 +27,34 @@
       "category": "総合"
     },
     {
-      "title": "熊本県で震度7 最新情報まとめ",
-      "link": "https://news.yahoo.co.jp/pickup/6589694?source=rss",
+      "title": "熊本厳しい暑さ 熱中症と地震警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6589721?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 12:08:03 GMT",
+      "pubDate": "Tue, 28 Jul 2026 20:56:07 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "熊本県17市町村で約14万戸断水",
-      "link": "https://news.yahoo.co.jp/pickup/6589715?source=rss",
+      "title": "地震で政府 プッシュ型支援展開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6589718?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 18:43:08 GMT",
+      "pubDate": "Tue, 28 Jul 2026 20:29:51 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "真夏の避難生活 気をつけること",
-      "link": "https://news.yahoo.co.jp/pickup/6589708?source=rss",
+      "title": "地震影響 鉄道やフライト情報",
+      "link": "https://news.yahoo.co.jp/pickup/6589714?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 16:49:21 GMT",
+      "pubDate": "Tue, 28 Jul 2026 18:27:55 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "電池や通信 スマホの災害時の対策",
-      "link": "https://news.yahoo.co.jp/pickup/6589711?source=rss",
+      "title": "イオン崩落 駐車場にいた記者ルポ",
+      "link": "https://news.yahoo.co.jp/pickup/6589722?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 17:27:29 GMT",
+      "pubDate": "Tue, 28 Jul 2026 21:42:33 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -71,6 +71,22 @@
       "link": "https://news.yahoo.co.jp/pickup/6589694?source=rss",
       "description": "",
       "pubDate": "Tue, 28 Jul 2026 12:08:03 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "熊本厳しい暑さ 熱中症と地震警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6589721?source=rss",
+      "description": "",
+      "pubDate": "Tue, 28 Jul 2026 20:56:07 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "地震で政府 プッシュ型支援展開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6589718?source=rss",
+      "description": "",
+      "pubDate": "Tue, 28 Jul 2026 20:29:51 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -99,26 +115,10 @@
       "category": "国内"
     },
     {
-      "title": "避難中の熱中症警戒 蒸し暑さ続く",
-      "link": "https://news.yahoo.co.jp/pickup/6589666?source=rss",
-      "description": "",
-      "pubDate": "Tue, 28 Jul 2026 09:51:12 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "熊本県で最大震度7 M7.1と推定",
       "link": "https://news.yahoo.co.jp/pickup/6589637?source=rss",
       "description": "",
       "pubDate": "Tue, 28 Jul 2026 07:44:19 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "高市首相「身を守る行動を」",
-      "link": "https://news.yahoo.co.jp/pickup/6589664?source=rss",
-      "description": "",
-      "pubDate": "Tue, 28 Jul 2026 09:37:07 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -299,19 +299,19 @@
       "category": "総合"
     },
     {
-      "title": "往年の「ドンキーコング」の世界をレゴブロックで再現　ピース数1367個",
-      "link": "https://www.j-cast.com/trend/2026/07/27516622.html",
-      "description": "レゴジャパンは、大人向けレゴブロックから、往年のアーケードゲーム「ドンキーコング」の世界をレゴブロックで再現したセット「レゴドンキーコング アーケードゲーム」を、2026年8月1日に「レゴ公式オンラインストア」および全国の「レゴブランドストア」などで発売する。",
-      "pubDate": "Mon, 27 Jul 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "熊本県で最大震度4の地震が発生 津波の心配なし",
+      "link": "https://news.livedoor.com/article/detail/31936922/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 29 Jul 2026 05:50:59 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -363,6 +363,14 @@
       "category": "総合"
     },
     {
+      "title": "ヒカキンはなぜ成功した？自ら明かした過去にファン「聖人すぎる」",
+      "link": "https://news.livedoor.com/article/detail/31935418/",
+      "description": "ざっくり言うと HIKAKINが公式切り抜きチャンネルで過去の職場エピソードを公開した 4年勤めたスーパーを退社後も元日から無給で4日間出勤したという 「人として尊敬でしかない」などファンから多くの称賛コメントが届いた 記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 21:17:29 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "コメの民間在庫量が過去最大 価格下落の流れが今後さらに加速か",
       "link": "https://news.livedoor.com/article/detail/31935301/",
       "description": "記事を読む",
@@ -375,22 +383,6 @@
       "link": "https://news.livedoor.com/article/detail/31935692/",
       "description": "記事を読む",
       "pubDate": "Tue, 28 Jul 2026 22:09:31 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "山本耕史「結婚して、変化が起きた常識」を問われて即答",
-      "link": "https://news.livedoor.com/article/detail/31935629/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:51:14 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本県から災害派遣要請 自衛隊が約3600人態勢で活動を開始",
-      "link": "https://news.livedoor.com/article/detail/31935454/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:30:10 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -1123,10 +1115,10 @@
       "category": "YouTube"
     },
     {
-      "title": "【難易度マックス】髙橋洋一さんが経済学の数式を書いて高市政権の経済戦略を批判する人たちをバッサリ！（虎ノ門ニュース切り抜き）",
+      "title": "【左派が発狂する超難解】髙橋洋一さんが経済学の数式を書いて高市政権の経済戦略を批判する人たちをバッサリ！（虎ノ門ニュース切り抜き）",
       "link": "https://www.youtube.com/watch?v=Mhjo-6KewTw",
       "description": "",
-      "pubDate": "2026-07-26T21:39:40+00:00",
+      "pubDate": "2026-07-28T20:25:40+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
