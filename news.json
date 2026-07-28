@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-28 22:25 JST",
-  "total": 170,
+  "updated": "2026-07-29 01:26 JST",
+  "total": 169,
   "news": [
+    {
+      "title": "イオンモール熊本 10人連絡つかず",
+      "link": "https://news.yahoo.co.jp/pickup/6589704?source=rss",
+      "description": "",
+      "pubDate": "Tue, 28 Jul 2026 15:32:41 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "イオンモール爆発 LPガス原因か",
+      "link": "https://news.yahoo.co.jp/pickup/6589706?source=rss",
+      "description": "",
+      "pubDate": "Tue, 28 Jul 2026 16:03:49 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "日本製紙八代 2人心肺停止9人不明",
+      "link": "https://news.yahoo.co.jp/pickup/6589705?source=rss",
+      "description": "",
+      "pubDate": "Tue, 28 Jul 2026 15:43:12 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "熊本県で震度7 最新情報まとめ",
       "link": "https://news.yahoo.co.jp/pickup/6589694?source=rss",
@@ -11,58 +35,34 @@
       "category": "総合"
     },
     {
-      "title": "地震 デマや真偽不明の情報拡散",
-      "link": "https://news.yahoo.co.jp/pickup/6589696?source=rss",
+      "title": "熊本県で震度7 現地のSNS投稿",
+      "link": "https://news.yahoo.co.jp/pickup/6589640?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 12:41:35 GMT",
+      "pubDate": "Tue, 28 Jul 2026 07:54:10 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "電気ガス停止 安全優先でどう対応",
-      "link": "https://news.yahoo.co.jp/pickup/6583459?source=rss",
+      "title": "九州の交通網やライフライン 影響",
+      "link": "https://news.yahoo.co.jp/pickup/6589702?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 11:09:00 GMT",
+      "pubDate": "Tue, 28 Jul 2026 13:31:06 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "イオンモール熊本20-30人安否不明",
-      "link": "https://news.yahoo.co.jp/pickup/6589695?source=rss",
+      "title": "鉄道各社見合わせ 帰宅困難者続出",
+      "link": "https://news.yahoo.co.jp/pickup/6589699?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 12:32:21 GMT",
+      "pubDate": "Tue, 28 Jul 2026 13:15:21 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "イオンモール熊本 4人を救助",
-      "link": "https://news.yahoo.co.jp/pickup/6589698?source=rss",
+      "title": "宇城総合病院 一時受け入れを停止",
+      "link": "https://news.yahoo.co.jp/pickup/6589703?source=rss",
       "description": "",
-      "pubDate": "Tue, 28 Jul 2026 12:59:32 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "日本製紙で要救助「8人程度」熊本",
-      "link": "https://news.yahoo.co.jp/pickup/6589701?source=rss",
-      "description": "",
-      "pubDate": "Tue, 28 Jul 2026 13:22:27 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "家屋一部倒壊し女性閉じ込め 熊本",
-      "link": "https://news.yahoo.co.jp/pickup/6589688?source=rss",
-      "description": "",
-      "pubDate": "Tue, 28 Jul 2026 11:45:20 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "震度7は熊本地震割れ残りか 識者",
-      "link": "https://news.yahoo.co.jp/pickup/6589672?source=rss",
-      "description": "",
-      "pubDate": "Tue, 28 Jul 2026 10:20:09 GMT",
+      "pubDate": "Tue, 28 Jul 2026 14:27:43 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -307,14 +307,6 @@
       "category": "総合"
     },
     {
-      "title": "ソニー、AIが被写体を認識するレンズ一体型デジカメ　光学25倍ズームレンズ搭載",
-      "link": "https://www.j-cast.com/trend/2026/07/27516584.html",
-      "description": "ソニーは、レンズ一体型デジタルカメラ「RX10」シリーズの第5世代モデル「RX10 V」を2026年7月31日に発売する。",
-      "pubDate": "Mon, 27 Jul 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -323,58 +315,34 @@
       "category": "総合"
     },
     {
-      "title": "「アイラップ炊飯」熊本地震発生を受けて公式Xが「拡散希望」と紹介",
-      "link": "https://news.livedoor.com/article/detail/31935397/",
-      "description": "熊本での震度7の地震を受け、アイラップ公式Xが同商品を使った炊飯方法を公開した 断水、停電、ガス供給遮断中の人に向けて炊飯の手順を写真わかりやすく紹介 今後の通信障害に備え「各自、画像を保存しておいて下さい」と拡散を呼びかけている 記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:21:52 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "王貞治氏が板東英二さんを追悼「徳島商業高校での数々の激闘が強く印象に」",
-      "link": "https://news.livedoor.com/article/detail/31935590/",
-      "description": "タレントの板東英二さんが22日に慢性心不全で死去、享年86歳だった 王貞治会長（86）が球団広報を通じ、板東さんへの追悼コメントを発表した 王氏は同学年のライバルとして徳島商業での激闘が印象深いと振り返っている 記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:51:58 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本・八代市内 倒壊した家屋から搬送された1人が死亡",
-      "link": "https://news.livedoor.com/article/detail/31935455/",
+      "title": "地震速報（00:15）",
+      "link": "https://news.livedoor.com/article/detail/31936134/",
       "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:30:14 +0900",
+      "pubDate": "Wed, 29 Jul 2026 00:16:50 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "地震で煙突が折れる被害 熊本・日本製紙八代工場に8人程度の要救助者",
-      "link": "https://news.livedoor.com/article/detail/31935585/",
+      "title": "イオン内部では救助を待つ人が複数か 従業員と連絡が取れた知人が明かす",
+      "link": "https://news.livedoor.com/article/detail/31935687/",
       "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:48:58 +0900",
+      "pubDate": "Tue, 28 Jul 2026 22:08:05 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ヒカキンはなぜ成功した？自ら明かした過去にファン「聖人すぎる」",
-      "link": "https://news.livedoor.com/article/detail/31935418/",
-      "description": "ざっくり言うと HIKAKINが公式切り抜きチャンネルで過去の職場エピソードを公開した 4年勤めたスーパーを退社後も元日から無給で4日間出勤したという 「人として尊敬でしかない」などファンから多くの称賛コメントが届いた 記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:17:29 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本県で震度7の地震 韓国でも揺れを感じたという通報が700件以上",
-      "link": "https://news.livedoor.com/article/detail/31935212/",
+      "title": "熊本地震 災害時に無料で利用できるWi-Fi「00000JAPAN」開放",
+      "link": "https://news.livedoor.com/article/detail/31935885/",
       "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 20:48:00 +0900",
+      "pubDate": "Tue, 28 Jul 2026 22:49:53 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "金銭詐取問題のプルデンシャル生命保険 成果主義を見直す方針",
-      "link": "https://news.livedoor.com/article/detail/31935501/",
+      "title": "イオンモール熊本 経済産業省がガス爆発の可能性も含めて調査中",
+      "link": "https://news.livedoor.com/article/detail/31935757/",
       "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:31:00 +0900",
+      "pubDate": "Tue, 28 Jul 2026 22:28:01 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -387,18 +355,42 @@
       "category": "総合"
     },
     {
-      "title": "震度7の熊本、イオンモールで爆発 1km離れた場所でも爆発音が聞こえる",
-      "link": "https://news.livedoor.com/article/detail/31935035/",
+      "title": "熊本県で最大震度4を観測する地震 23時1分頃発生",
+      "link": "https://news.livedoor.com/article/detail/31935904/",
       "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 20:22:00 +0900",
+      "pubDate": "Tue, 28 Jul 2026 23:03:21 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "球宴 第1戦は全パ・万波中正が2度目のMVP、失恋告白のち賞金300万円ゲット",
-      "link": "https://news.livedoor.com/article/detail/31935453/",
+      "title": "コメの民間在庫量が過去最大 価格下落の流れが今後さらに加速か",
+      "link": "https://news.livedoor.com/article/detail/31935301/",
       "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 21:25:31 +0900",
+      "pubDate": "Tue, 28 Jul 2026 21:09:01 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "大規模修繕工事で20社談合疑い",
+      "link": "https://news.livedoor.com/article/detail/31935692/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 22:09:31 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "山本耕史「結婚して、変化が起きた常識」を問われて即答",
+      "link": "https://news.livedoor.com/article/detail/31935629/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 21:51:14 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "熊本県から災害派遣要請 自衛隊が約3600人態勢で活動を開始",
+      "link": "https://news.livedoor.com/article/detail/31935454/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 21:30:10 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -407,14 +399,6 @@
       "link": "https://news.livedoor.com/article/detail/31928658/",
       "description": "ざっくり言うと デイトレーダーのこなつ氏が夜間PTSを新たな主戦場として活用している 参加者が少なく値動きが素直な点を強みに年間1500万円超の利益を上げているという 小型株を中心に戦い、参加者増加も必ずしも悪材料とは捉えていない姿勢を示した 記事を読む",
       "pubDate": "Tue, 28 Jul 2026 09:51:15 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "億トレーダーが取引で見ている、たった2つの時間帯のサイン",
-      "link": "https://news.livedoor.com/article/detail/31852387/",
-      "description": "ざっくり言うと FX歴10年超の億トレーダーJIN氏が取引時間帯の選び方を語った 日本時間23～24時のニューヨーク時間はトレンド転換が起きやすいという コロナ禍で4000万円損した経験から経験則を信じすぎる危うさを警告した 記事を読む",
-      "pubDate": "Fri, 17 Jul 2026 17:38:48 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -435,6 +419,14 @@
       "category": "経済"
     },
     {
+      "title": "Facebookの投稿編集機能を悪用し、他人の著作権を奪い取る詐欺が横行",
+      "link": "https://news.livedoor.com/article/detail/31935318/",
+      "description": "ざっくり言うと MetaのRights Managerを悪用した著作権詐欺が横行していると報じられた Facebookの投稿編集機能で日付を遡らせ他人のコンテンツを盗む手口とのこと インドの被害クリエイターがデリー高裁に提訴しMetaに安全対策を求めている 記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 21:10:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
       "title": "月商1.8億円の配信アプリが突然停止、社員・ライバーへの報酬未払いが多発",
       "link": "https://news.livedoor.com/article/detail/31935070/",
       "description": "記事を読む",
@@ -451,14 +443,6 @@
       "category": "経済"
     },
     {
-      "title": "最低賃金 55円上げ 時給1176円へ",
-      "link": "https://news.livedoor.com/article/detail/31935134/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 20:33:42 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "日経平均 2か月ぶり安値に急落",
       "link": "https://news.livedoor.com/article/detail/31935135/",
       "description": "記事を読む",
@@ -467,20 +451,36 @@
       "category": "経済"
     },
     {
-      "title": "熊本地震を受け総務省がKDDIとソフトバンクの基地局被害状況を公開",
-      "link": "https://news.livedoor.com/article/detail/31934791/",
-      "description": "ざっくり言うと 熊本県で最大震度7の地震が発生し総務省が携帯各社の被害状況を公開した KDDIは熊本県内で28局の基地局が停波しサービスに支障が出ているとのこと ドコモや楽天モバイルも八代市・人吉市で通話やデータ通信が利用しづらい状況だ 記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 19:43:52 +0900",
+      "title": "日産の新型サクラSが個人向けに解禁、実質186万円で軽EVの本質を体験できる",
+      "link": "https://news.livedoor.com/article/detail/31935338/",
+      "description": "ざっくり言うと 日産が2026年4月16日に軽EV「サクラ」のマイナーチェンジを発表した 最廉価の「サクラ S」はCEV補助金58万円適用後の実質価格が約186万円となる 中国BYDも日本専用軽EV「RACCO」を発売し、競争が激化しつつあるとみられる 記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 21:10:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "熊本県で震度7の地震を受け、ドコモ・KDDIがJAPANローミングの提供を開始",
-      "link": "https://news.livedoor.com/article/detail/31935022/",
-      "description": "ざっくり言うと 熊本県で最大震度7の地震が発生しJAPANローミングが開始された NTTドコモとKDDIが自社ユーザーへ案内を開始し他社回線が利用可能に Android端末はデータローミングをオンにする設定変更が必要とのこと 記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 20:21:40 +0900",
+      "title": "プルデンシャル生命が完全歩合制を見直し、月30万円程度の給与保証を検討",
+      "link": "https://news.livedoor.com/article/detail/31935501/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 21:31:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "ホンダ系工場 壁崩落で数名けが",
+      "link": "https://news.livedoor.com/article/detail/31935990/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 23:14:20 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "九州新幹線 地震の影響から全線で終日運転を取りやめ、",
+      "link": "https://news.livedoor.com/article/detail/31935320/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 28 Jul 2026 21:05:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "長崎県島原市で眉山の斜面が一部崩落 熊本県の地震の影響",
@@ -509,7 +509,7 @@
     {
       "title": "震度7の熊本、イオンモールで爆発 1km離れた場所でも爆発音が聞こえる",
       "link": "https://news.livedoor.com/article/detail/31935035/",
-      "description": "記事を読む",
+      "description": "28日に最大震度7の地震が発生した熊本のイオンモールで爆発が発生した 当時働いていた従業員は「まだ避難が間に合っていない状況で爆発」など説明 イオンモールから1キロくらい離れた場所でも爆発音は聞こえてきたという 記事を読む",
       "pubDate": "Tue, 28 Jul 2026 20:22:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -551,14 +551,6 @@
       "link": "https://news.livedoor.com/article/detail/31933282/",
       "description": "記事を読む",
       "pubDate": "Tue, 28 Jul 2026 17:28:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "熊本で震度7、九州内の新幹線や在来線全線で運転見合わせ",
-      "link": "https://news.livedoor.com/article/detail/31932728/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 28 Jul 2026 16:46:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1123,6 +1115,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【\"骨太の方針\"潰し】※緊急速報※ 財務省が水面下でとんでもない事をしていたことを須田慎一郎さんが話してくれました【虎ノ門ニュース】",
+      "link": "https://www.youtube.com/watch?v=G76CWQaaXPw",
+      "description": "",
+      "pubDate": "2026-07-28T13:36:04+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
       "title": "【虎ノ門ニュース】須田慎一郎×柳ヶ瀬裕文×山田敏弘 2026/7/28(火)",
       "link": "https://www.youtube.com/watch?v=yQgTADPP2NM",
       "description": "",
@@ -1191,14 +1191,6 @@
       "link": "https://www.youtube.com/watch?v=56rzZw9QUdo",
       "description": "",
       "pubDate": "2026-07-22T16:15:19+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【愛子さまを利用する女性・女系天皇論】明治天皇の玄孫である竹田恒泰さんが皇室典範改正案に関する国会でのやりとりに激怒しました（虎ノ門ニュース切り抜き）",
-      "link": "https://www.youtube.com/watch?v=SsAP2qAH_uM",
-      "description": "",
-      "pubDate": "2026-07-19T07:14:56+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1286,7 +1278,7 @@
       "title": "【ライブ】本日、熊本県で震度７の地震が発生、生放送で解説します！（2026年7月28日）",
       "link": "https://www.youtube.com/watch?v=P0mxcQijh-M",
       "description": "",
-      "pubDate": "2026-07-28T13:21:58+00:00",
+      "pubDate": "2026-07-28T14:44:26+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
@@ -1302,7 +1294,7 @@
       "title": "【緊急】先ほど熊本で震度7の地震が発生しました。速報をお届けします。",
       "link": "https://www.youtube.com/watch?v=vt0TlNP-Qlo",
       "description": "",
-      "pubDate": "2026-07-28T09:37:07+00:00",
+      "pubDate": "2026-07-28T15:51:38+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
