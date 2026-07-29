@@ -1,20 +1,12 @@
 {
-  "updated": "2026-07-29 22:40 JST",
-  "total": 169,
+  "updated": "2026-07-30 01:13 JST",
+  "total": 168,
   "news": [
     {
-      "title": "熊本県で震度5弱 津波心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6589831?source=rss",
+      "title": "猛暑 避難所では脱水症状の人も",
+      "link": "https://news.yahoo.co.jp/pickup/6589828?source=rss",
       "description": "",
-      "pubDate": "Wed, 29 Jul 2026 13:27:06 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本地震 問われた「企業防災」",
-      "link": "https://news.yahoo.co.jp/pickup/6589821?source=rss",
-      "description": "",
-      "pubDate": "Wed, 29 Jul 2026 11:59:51 GMT",
+      "pubDate": "Wed, 29 Jul 2026 13:39:02 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,18 +19,26 @@
       "category": "総合"
     },
     {
-      "title": "イオンモール爆発事故 死者5人に",
-      "link": "https://news.yahoo.co.jp/pickup/6589822?source=rss",
-      "description": "",
-      "pubDate": "Wed, 29 Jul 2026 12:15:05 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "イオン社長「爆発想定しきれず」",
       "link": "https://news.yahoo.co.jp/pickup/6589825?source=rss",
       "description": "",
       "pubDate": "Wed, 29 Jul 2026 12:59:12 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "建て替えたばかり 八代市庁舎損傷",
+      "link": "https://news.yahoo.co.jp/pickup/6589835?source=rss",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 14:17:04 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "九州新幹線 被害の全容つかめず",
+      "link": "https://news.yahoo.co.jp/pickup/6589820?source=rss",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 11:59:01 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -51,10 +51,10 @@
       "category": "総合"
     },
     {
-      "title": "速報バレー男子 日本vs中国",
-      "link": "https://news.yahoo.co.jp/pickup/6589814?source=rss",
+      "title": "バレー男子準決勝進出 中国に勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6589833?source=rss",
       "description": "",
-      "pubDate": "Wed, 29 Jul 2026 11:29:48 GMT",
+      "pubDate": "Wed, 29 Jul 2026 13:40:41 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -65,14 +65,6 @@
       "pubDate": "Wed, 29 Jul 2026 10:59:13 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
-    },
-    {
-      "title": "熊本県で震度5弱 津波心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6589831?source=rss",
-      "description": "",
-      "pubDate": "Wed, 29 Jul 2026 13:27:06 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
     },
     {
       "title": "12人死亡6人心肺停止 熊本県発表",
@@ -95,6 +87,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6589816?source=rss",
       "description": "",
       "pubDate": "Wed, 29 Jul 2026 11:23:17 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "避難所は冷房ある教室活用を 通知",
+      "link": "https://news.yahoo.co.jp/pickup/6589837?source=rss",
+      "description": "",
+      "pubDate": "Wed, 29 Jul 2026 14:36:37 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -299,19 +299,43 @@
       "category": "総合"
     },
     {
-      "title": "「ビックリマン」が令和のかわいいポーズや装いで登場",
-      "link": "https://www.j-cast.com/trend/2026/07/28516644.html",
-      "description": "ロッテは、ウエハースチョコ菓子「ビックリマン」シリーズから、「かわいいビックリマンチョコ」を2026年7月28日から静岡を除く西日本先行で発売する。",
-      "pubDate": "Tue, 28 Jul 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "地震から爆発まで　「イオンモール熊本」で起きた空白の1時間",
+      "link": "https://news.livedoor.com/article/detail/31943153/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 29 Jul 2026 20:29:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "地震調査委員会、今回の地震は「日奈久断層帯」の一部が活動したと見解",
+      "link": "https://news.livedoor.com/article/detail/31943888/",
+      "description": "地震調査委員会が熊本の震度7地震の原因と今後の見解を発表した 日奈久断層帯の一部が活動して今回の地震が起きたとの見解を示した 委員長は「さらに大きな揺れに見舞われる可能性もある」と備えを促した 記事を読む",
+      "pubDate": "Wed, 29 Jul 2026 22:56:01 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "23時2分頃、熊本県熊本地方を震源とする地震が発生 最大震度4を観測",
+      "link": "https://news.livedoor.com/article/detail/31943895/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 29 Jul 2026 23:04:14 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "バレーボール男子ネーションズリーグ 日本が中国を破りベスト4進出",
+      "link": "https://news.livedoor.com/article/detail/31943797/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 29 Jul 2026 22:37:01 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -325,7 +349,7 @@
     {
       "title": "ライセンスの井本貴史 子の重度の障害を公表し番組を一時的に離れる",
       "link": "https://news.livedoor.com/article/detail/31943434/",
-      "description": "ざっくり言うと ライセンス井本貴史がMBSラジオ『ごぶごぶラジオ』を休むと明かした 第2子の男児に重度の障害があり、家族のために仕事を整理するという 浜田雅功は「残って頑張ろうということになっている」と視聴者に呼びかけた 記事を読む",
+      "description": "ざっくり言うと ライセンス井本貴史が24日深夜の「ごぶごぶラジオ」に出演した 子どもに重度の障害があることを公表し、番組を一時的に離れると説明 浜田雅功は「いろいろ事情がございまして」「我々が残って頑張ろうと」と語った 記事を読む",
       "pubDate": "Wed, 29 Jul 2026 20:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
@@ -347,50 +371,18 @@
       "category": "総合"
     },
     {
+      "title": "密会報道の三山凌輝 舞台前の発言に共演者は「ポカン状態」か",
+      "link": "https://news.livedoor.com/article/detail/31942655/",
+      "description": "ざっくり言うと 三山凌輝のホテル密会報道後について週刊女性PRIMEが取り上げた 舞台前の円陣での発言に共演者は「ポカン状態」だったようだと舞台関係者 三山は「見てる人は見てるから頑張ろう」という趣旨の発言をしたとみられるそう 記事を読む",
+      "pubDate": "Wed, 29 Jul 2026 19:10:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "「ビリギャル」のモデルとして知られる女性が慶應大学に合格した理由明かす",
       "link": "https://news.livedoor.com/article/detail/31943361/",
       "description": "ざっくり言うと 小林さやかさんが日本テレビ系トーク番組に出演し受験体験を語った 偏差値28のギャルが慶應大学を目指したきっかけは塾講師の一言だったという 「心にギャルを住まわせた方がいい」と前向きなギャル魂の重要性を訴えた 記事を読む",
       "pubDate": "Wed, 29 Jul 2026 20:59:33 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "Wチャンス お得にレンタカー予約",
-      "link": "https://news.livedoor.com/article/detail/31786389/",
-      "description": "ざっくり言うと 品川駅で「ニコちゃん」大量発生中！ニコニコレンタカー、夏のドライブキャンペーン 公式アプリ「ニコパス」で予約すると、抽選で2,525名にPayPayポイント「最大5万円分」 さらに「ニコニコ」を発見してXにハッシュタグ付きで投稿すると、豪華賞品が当たる！ 記事を読む",
-      "pubDate": "Fri, 10 Jul 2026 17:25:14 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "宮迫博之がおもな収入源を明かす「闇営業で干されてしまった人間が…」",
-      "link": "https://news.livedoor.com/article/detail/31943150/",
-      "description": "ざっくり言うと 宮迫博之がDJふぉいのYouTubeチャンネルにゲスト出演し近況を語った かつての「闇営業」問題で干された宮迫氏が今は営業で生計を立てているという 青森など各地から呼ばれ、ファンと直接ふれ合う日々が楽しいと笑顔を見せた 記事を読む",
-      "pubDate": "Wed, 29 Jul 2026 20:16:26 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "高市政権の重要閣僚2人が首相と距離のある石破茂前首相らと会食か",
-      "link": "https://news.livedoor.com/article/detail/31941010/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 29 Jul 2026 16:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "KDDIに総務省が厳重注意の行政指導 不正アクセスで大規模情報漏えい",
-      "link": "https://news.livedoor.com/article/detail/31943178/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 29 Jul 2026 20:34:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "2006年に茨城で起きた女性遺体遺棄事件 ブラジル国籍の50代元夫を書類送検",
-      "link": "https://news.livedoor.com/article/detail/31943269/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 29 Jul 2026 20:43:16 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -435,14 +427,6 @@
       "category": "経済"
     },
     {
-      "title": "24年ぶり復活のホンダ「プレリュード」、600万円超の特別感に課題",
-      "link": "https://news.livedoor.com/article/detail/31943227/",
-      "description": "ざっくり言うと ホンダが24年ぶりに復活させた6代目プレリュードの現状を筆者が分析した 617万円超の価格に対し内装の特別感や装備の充実度が不足と筆者は指摘する ハイブリッドの象徴として「芯」を揺らがせず育て続けることが重要と訴えた 記事を読む",
-      "pubDate": "Wed, 29 Jul 2026 20:30:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "日産新型リーフNISMOが専用エアロと上質な内装で大幅進化を遂げた",
       "link": "https://news.livedoor.com/article/detail/31941891/",
       "description": "ざっくり言うと YouTubeチャンネル「ワンソクTube」が日産リーフNISMOを詳細レポートした 専用エアロや足回りの強化など走行性能への本格的な作り込みが評価されている ベースグレードから約95万円高だが装備内容を考えると納得の仕上がりとのこと 記事を読む",
@@ -471,6 +455,14 @@
       "link": "https://news.livedoor.com/article/detail/31942950/",
       "description": "ざっくり言うと GrapheneOSの緊急データ消去機能を使い警察の端末解析を阻止した人物が取材に応じた チュニック氏は空港での取り調べ中、消去用PINを警察に伝えスマホのデータを抹消したとのこと 弁護士は適用された法律の使用例が過去1件のみで「極めて異例」な起訴だと強調している 記事を読む",
       "pubDate": "Wed, 29 Jul 2026 20:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "TSMC熊本 地震後の設備調整続く",
+      "link": "https://news.livedoor.com/article/detail/31943984/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 29 Jul 2026 23:23:20 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -549,7 +541,7 @@
     {
       "title": "早食いや噛まない食べ方 糖尿病リスクの上昇や内臓の機能低下も？",
       "link": "https://news.livedoor.com/article/detail/31941682/",
-      "description": "ざっくり言うと 噛まない食習慣が消化器官に及ぼす悪影響を医師監修記事が紹介した 早食いは胃炎・逆流性食道炎のリスクを高め腸内環境も乱しうるという 糖尿病リスク上昇や内臓機能低下につながる可能性があると警告している 記事を読む",
+      "description": "ざっくり言うと 早食いや噛まない食べ方が内臓に与えるダメージを医師が解説した 胃に負担がかかり胃炎のリスクや、逆流性食道炎につながる可能性も 腸にもダメージを与え、腸内細菌のバランスを乱す原因になる恐れがあるという 記事を読む",
       "pubDate": "Wed, 29 Jul 2026 08:15:53 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -1198,7 +1190,7 @@
       "title": "【神谷宗幣✖山本期日前✖今野忍】とびっきり初出演！高市政権と対決へ消費税食品1％案に反対「ややこしい一律8％の対案出したい」参政党“ヒートマップ”期日前分析に驚嘆「もったいない」／熊本地震と静岡の断層",
       "link": "https://www.youtube.com/watch?v=f90dhI7qZ-U",
       "description": "",
-      "pubDate": "2026-07-29T11:09:28+00:00",
+      "pubDate": "2026-07-29T14:51:27+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1278,7 +1270,15 @@
       "title": "【ライブ】先ほど、熊本県で震度5弱の地震が発生、生放送で解説します！（2026年7月29日）",
       "link": "https://www.youtube.com/watch?v=izjfWvXQCh0",
       "description": "",
-      "pubDate": "2026-07-29T13:21:32+00:00",
+      "pubDate": "2026-07-29T15:52:28+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【速報】熊本県でM5.8震度5弱の地震が発生",
+      "link": "https://www.youtube.com/shorts/4RtnEaLLd1Y",
+      "description": "",
+      "pubDate": "2026-07-29T13:58:45+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
@@ -1343,14 +1343,6 @@
       "link": "https://www.youtube.com/watch?v=ugA5bk0MycA",
       "description": "",
       "pubDate": "2026-07-26T06:36:37+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】本日、南鳥島レアアースの化学成分が正式発表！中国の10倍ほどの濃度と考えられる理由！分かりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=k9ONT6EfH58",
-      "description": "",
-      "pubDate": "2026-07-25T12:15:19+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     }
