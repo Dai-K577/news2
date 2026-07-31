@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01 04:03 JST",
-  "total": 168,
+  "updated": "2026-08-01 06:54 JST",
+  "total": 167,
   "news": [
     {
       "title": "熊本地震 揺れの大きさ前回上回る",
@@ -299,14 +299,6 @@
       "category": "総合"
     },
     {
-      "title": "バッファローから　磁力でまとまるUSB Type-C to LAN変換ケーブル",
-      "link": "https://www.j-cast.com/trend/2026/07/30516708.html",
-      "description": "パソコンおよびスマートフォンなどの周辺機器を手がけるバッファロー（東京都千代田区）は、USB Type-C to LAN変換ケーブル「LUAMC-U3CG」を、2026年8月上旬から全国の家電量販店などで順次発売する。",
-      "pubDate": "Thu, 30 Jul 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -315,7 +307,63 @@
       "category": "総合"
     },
     {
-      "title": "西武・平沢大河の打席で虫が襲撃 虫が離れず2度にわたりプレーが中断",
+      "title": "サンリオ「令和8年熊本地震」を受けコメント「スタッフ全員の無事を確認」",
+      "link": "https://news.livedoor.com/article/detail/31959093/",
+      "description": "ざっくり言うと 最大震度7の令和8年熊本地震を受けサンリオがコメントを発表した イオンモール熊本店など県内店舗のスタッフ全員の無事が確認済みとのこと 棚からの商品落下が発生したが他の九州店舗への被害報告はないとしている 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 18:59:29 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "左ヒザ痛の大谷翔平に米紙が異例提言、10月へ向けIL入りを求める",
+      "link": "https://news.livedoor.com/article/detail/31961430/",
+      "description": "ざっくり言うと 大谷翔平の強行出場に米紙「カリフォルニア・ポスト」が異議を唱えた 左ヒザ痛が続く中、10日間のIL入りでポストシーズンに備えるべきと主張 球団が本人の意思を尊重しすぎ、必要な決断を避けていると厳しく批判した 記事を読む",
+      "pubDate": "Sat, 01 Aug 2026 05:00:01 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "熱波でマンモスの化石出現 欧州",
+      "link": "https://news.livedoor.com/article/detail/31959742/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 20:07:20 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "パンサー・尾形貴弘が念願の歌手デビュー「とにかく日本中を元気にしたい」",
+      "link": "https://news.livedoor.com/article/detail/31961431/",
+      "description": "ざっくり言うと パンサー尾形貴弘が7月29日配信の歌手デビューを果たしたという 青色ジャージ姿でCD片手にラジオ各局へ自ら売り込みに赴いている TBSラジオでは生放送乱入も実現し、昔のラジオの雰囲気と好評だった 記事を読む",
+      "pubDate": "Sat, 01 Aug 2026 05:00:01 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "岡山県で男性を刃物で切り付け殺害か、被害者の甥を逮捕 容疑を認める",
+      "link": "https://news.livedoor.com/article/detail/31961683/",
+      "description": "ざっくり言うと 岡山県倉敷市の会社事務所で7月31日午後、刃物による殺傷事件が起きた 無職・藤井泰正容疑者(41)がおじにあたる下田一郎さん(62)を刃物で 複数箇所切り付け殺害した疑いがあり、川の中で発見され身柄を確保された 記事を読む",
+      "pubDate": "Sat, 01 Aug 2026 05:53:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "LINEヤフーに厳重注意、約803万件の利用者情報を無断送信 総務省",
+      "link": "https://news.livedoor.com/article/detail/31959623/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 19:49:16 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "九州新幹線の熊本～新水俣駅間 8月中の運転再開は困難との見通し",
+      "link": "https://news.livedoor.com/article/detail/31959389/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 19:00:56 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "西武・平沢大河の打席で虫が襲撃 虫が離れず2度にわたりプレーを中断",
       "link": "https://news.livedoor.com/article/detail/31960514/",
       "description": "ざっくり言うと 7月31日のオリックス対西武戦でベルーナドームならではの珍事が起きた 9回2死同点の場面で西武・平沢が打席中に虫の襲撃を受けプレーが中断した マチャドはマウンドで腕を組み待機し、再開後に平沢は二ゴロに倒れ延長戦へ 記事を読む",
       "pubDate": "Fri, 31 Jul 2026 21:58:37 +0900",
@@ -335,62 +383,6 @@
       "link": "https://news.livedoor.com/article/detail/31959266/",
       "description": "記事を読む",
       "pubDate": "Fri, 31 Jul 2026 19:10:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本へ段ボール100箱分の支援物資 佐賀からは保健師と薬剤師が避難所へ",
-      "link": "https://news.livedoor.com/article/detail/31959690/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 19:58:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "東武東上線で車掌が乗務中に喫煙 乗客の通報で発覚し東武鉄道が謝罪",
-      "link": "https://news.livedoor.com/article/detail/31959091/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 18:56:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "九州新幹線の熊本駅～新水俣駅「8月中の運行再開は困難」JRが発表",
-      "link": "https://news.livedoor.com/article/detail/31960367/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 21:44:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "BUMP OF CHICKENが熊本地震チャリティーグッズ制作 収益を全額寄付",
-      "link": "https://news.livedoor.com/article/detail/31960040/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 20:34:54 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本地震の人的被害は132人で死者36人に 熊本県が最新情報を発表",
-      "link": "https://news.livedoor.com/article/detail/31960242/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 21:07:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "お笑いコンビ・POISON GIRL BANDが解散を発表 吉田大吾が生配信で報告",
-      "link": "https://news.livedoor.com/article/detail/31960296/",
-      "description": "ざっくり言うと お笑いコンビPOISON GIRL BANDが7月31日に解散を発表した 吉田大吾がYouTube生配信で「漫才するイメージが湧かなくなった」と心境を語った 阿部智則のモチベーション低下も確認し、脱退でなく解散の形を選んだという 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 21:26:15 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "PayPay社長がセブン資本提携の狙い語る モバイルオーダー拡充や海外展開",
-      "link": "https://news.livedoor.com/article/detail/31960286/",
-      "description": "ざっくり言うと PayPayとセブン＆アイが資本業務提携に向けた戦略を発表した 7iDをPayPay IDに統合しAIで顧客データを活用する計画で、両社の 短期はモバイルオーダー強化、中長期は米国市場展開も視野に入れる 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 21:12:44 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -467,6 +459,38 @@
       "category": "経済"
     },
     {
+      "title": "れいわ新選組、山本太郎氏の後任を決める代表選で山本譲司氏を選出",
+      "link": "https://news.livedoor.com/article/detail/31959737/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 20:05:44 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "東武東上線で車掌が乗務中に喫煙 乗客の通報で発覚し東武鉄道が謝罪",
+      "link": "https://news.livedoor.com/article/detail/31959091/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 18:56:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "岡山県倉敷市で62歳の男性を刺したとみられる40代のおいの身柄を確保",
+      "link": "https://news.livedoor.com/article/detail/31960632/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 22:30:54 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "九州新幹線の熊本駅～新水俣駅「8月中の運行再開は困難」JRが発表",
+      "link": "https://news.livedoor.com/article/detail/31960367/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 21:44:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "統合失調症の医療費はどれくらいかかるのか 自己負担の軽減制度も",
       "link": "https://news.livedoor.com/article/detail/31959185/",
       "description": "ざっくり言うと 統合失調症の外来通院にかかる費用の目安を医師監修のもと解説した 自立支援医療で自己負担が1割となり、月額上限の仕組みで高額負担を防げる 費用面の不安は医療ソーシャルワーカーへの相談で解決できることが多いという 記事を読む",
@@ -511,38 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/31957562/",
       "description": "JASRACが令和8年熊本地震の被災地域契約者への支援策を発表した 熊本県内10市10町1村の飲食店やカラオケ等を対象に8～10月の 3カ月間、著作物使用料の請求を取りやめると7月31日に報告した 記事を読む",
       "pubDate": "Fri, 31 Jul 2026 16:19:13 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「臭いしプライバシーなし」熊本地震での避難所のリアルと格差",
-      "link": "https://news.livedoor.com/article/detail/31958439/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 17:30:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "愛知の自衛隊機墜落事故、空自が調査結果を発表「直接原因特定できず」",
-      "link": "https://news.livedoor.com/article/detail/31959437/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:59:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "爆発事故のあったイオンモール熊本 オンワード従業員の死者3人に",
-      "link": "https://news.livedoor.com/article/detail/31958721/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 18:19:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "来月はトマトやきゅうりが高値見通し 一方で「にんじん」は安値に",
-      "link": "https://news.livedoor.com/article/detail/31957452/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:09:48 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1086,7 +1078,7 @@
       "title": "1556回　税収過去最高84.2兆円！だから言ったでしょ。早く国民に還元しろ",
       "link": "https://www.youtube.com/watch?v=XwH5nKhK2eI",
       "description": "",
-      "pubDate": "2026-07-24T10:28:32+00:00",
+      "pubDate": "2026-07-28T02:10:43+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1190,7 +1182,7 @@
       "title": "【高橋洋一✖城内大臣】消費減税表明翌日に生出演！自民内異論も「公約は実現する」高橋「参院で造反否決なら郵政解散パターンも」に苦笑／各紙は一斉批判／骨太方針を大臣自ら解説／成長戦略で静岡を宇宙城下町に！",
       "link": "https://www.youtube.com/watch?v=LnE1yoWQ5z8",
       "description": "",
-      "pubDate": "2026-07-31T14:44:56+00:00",
+      "pubDate": "2026-07-31T20:36:33+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1270,7 +1262,7 @@
       "title": "【ライブ】本日も地震が相次いでいます！生放送で解説します！（2026年7月31日）",
       "link": "https://www.youtube.com/watch?v=biZXrfjpRK0",
       "description": "",
-      "pubDate": "2026-07-31T14:01:54+00:00",
+      "pubDate": "2026-07-31T19:41:47+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
