@@ -1,20 +1,36 @@
 {
-  "updated": "2026-07-31 17:28 JST",
-  "total": 169,
+  "updated": "2026-07-31 20:15 JST",
+  "total": 170,
   "news": [
     {
-      "title": "熊本で体温超える暑さ予想 警戒を",
-      "link": "https://news.yahoo.co.jp/pickup/6590034?source=rss",
+      "title": "新幹線 熊本-新水俣の8月再開困難",
+      "link": "https://news.yahoo.co.jp/pickup/6590063?source=rss",
       "description": "",
-      "pubDate": "Fri, 31 Jul 2026 07:28:55 GMT",
+      "pubDate": "Fri, 31 Jul 2026 10:19:57 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "地震の救助 イオン以外は全て終了",
-      "link": "https://news.yahoo.co.jp/pickup/6590029?source=rss",
+      "title": "LINEヤフーに行政指導 総務省",
+      "link": "https://news.yahoo.co.jp/pickup/6590061?source=rss",
       "description": "",
-      "pubDate": "Fri, 31 Jul 2026 07:22:01 GMT",
+      "pubDate": "Fri, 31 Jul 2026 10:24:24 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "辺野古事故報告書 遺族がコメント",
+      "link": "https://news.yahoo.co.jp/pickup/6590047?source=rss",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 08:49:18 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "イオンモール宇城 下敷き男性救助",
+      "link": "https://news.yahoo.co.jp/pickup/6590066?source=rss",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 11:02:38 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,42 +43,26 @@
       "category": "総合"
     },
     {
-      "title": "筑後川花火大会 地震を受け中止に",
-      "link": "https://news.yahoo.co.jp/pickup/6590041?source=rss",
+      "title": "虎とG同率首位も対照的 セV争い",
+      "link": "https://news.yahoo.co.jp/pickup/6590059?source=rss",
       "description": "",
-      "pubDate": "Fri, 31 Jul 2026 08:12:29 GMT",
+      "pubDate": "Fri, 31 Jul 2026 10:31:53 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "キオクシア純利益35倍へ 4-9月期",
-      "link": "https://news.yahoo.co.jp/pickup/6590036?source=rss",
+      "title": "福田明日香 入院経て歌手再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6590060?source=rss",
       "description": "",
-      "pubDate": "Fri, 31 Jul 2026 07:32:45 GMT",
+      "pubDate": "Fri, 31 Jul 2026 09:50:16 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "努力できない 33歳ギフテッド悩み",
-      "link": "https://news.yahoo.co.jp/pickup/6590037?source=rss",
+      "title": "我が家杉山 現状一人での歩行困難",
+      "link": "https://news.yahoo.co.jp/pickup/6590057?source=rss",
       "description": "",
-      "pubDate": "Fri, 31 Jul 2026 07:45:47 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "少女時代・ユリ SMとの契約終了",
-      "link": "https://news.yahoo.co.jp/pickup/6590043?source=rss",
-      "description": "",
-      "pubDate": "Fri, 31 Jul 2026 08:19:13 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "我が家杉山 ギラン・バレーの疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6590026?source=rss",
-      "description": "",
-      "pubDate": "Fri, 31 Jul 2026 06:32:18 GMT",
+      "pubDate": "Fri, 31 Jul 2026 09:32:22 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -71,6 +71,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6589994?source=rss",
       "description": "",
       "pubDate": "Fri, 31 Jul 2026 01:09:35 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "被災自治体に支援 税繰り上げ交付",
+      "link": "https://news.yahoo.co.jp/pickup/6590065?source=rss",
+      "description": "",
+      "pubDate": "Fri, 31 Jul 2026 11:08:03 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -103,14 +111,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6589958?source=rss",
       "description": "",
       "pubDate": "Thu, 30 Jul 2026 13:33:44 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "飲食料品の税率1% 党内から異論",
-      "link": "https://news.yahoo.co.jp/pickup/6589949?source=rss",
-      "description": "",
-      "pubDate": "Thu, 30 Jul 2026 12:13:49 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -195,6 +195,54 @@
       "category": "国際"
     },
     {
+      "title": "「ぎぼむす」綾瀬はるかの娘を演じた元子役、18歳の姿に反響　「化けましたね」「オトナの女優さん」",
+      "link": "https://www.j-cast.com/2026/07/31516798.html",
+      "description": "元子役の俳優、横溝菜帆さん（18）が、2026年7月28日にインスタグラムを更新。フラダンサーとしての姿を公開した。",
+      "pubDate": "Fri, 31 Jul 2026 20:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "「昭和みたいな...」「ビックリ」車掌が乗務中に電子タバコ　東武鉄道が謝罪「厳正に処分」",
+      "link": "https://www.j-cast.com/2026/07/31516806.html",
+      "description": "東武東上線の電車に乗務中だった車掌が電子タバコを吸っていたとして、東武鉄道（東京都墨田区）は2026年7月31日、公式サイトで発表して謝罪した。",
+      "pubDate": "Fri, 31 Jul 2026 18:25:26 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "「刑務所も避難所になるんだ」「防犯面はかなり安心」　法務省矯正局の開設報告に反響広がる【熊本地震】",
+      "link": "https://www.j-cast.com/2026/07/31516805.html",
+      "description": "法務省矯正局の公式Xアカウント（@MOJ_KYOUSEI）が2026年7月30日、令和8年熊本地震を受け、熊本刑務所（熊本市）に避難所を開設していると明らかにした。この投稿がSNS上で反響を呼んでいる。",
+      "pubDate": "Fri, 31 Jul 2026 18:08:53 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "ジャングリア沖縄「行きたくない」が46.7％の嫌われっぷり　満足度は高いのに残念な観光地になったワケ",
+      "link": "https://www.j-cast.com/2026/07/31516803.html",
+      "description": "沖縄本島北部のテーマパーク「ジャングリア沖縄」が2026年7月25日、開業1周年を迎えた。初年度の来場者数は約100万人、売上高は100億円を超える見通しだという。一定の成功を収めたように見えるが、運営会社の加藤健史CEO（最高経営責任者）は来場者数について「残念ながら、思うような数字に至らない結果」と不振を認めた。",
+      "pubDate": "Fri, 31 Jul 2026 18:05:21 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "同率首位ターンの阪神・巨人、どちらが抜け出すのか 識者「つばぜり合い」予想も...「知恵では巨人が1枚上手」",
+      "link": "https://www.j-cast.com/2026/07/31516804.html",
+      "description": "プロ野球DeNAの元ヘッドコーチで野球解説者の高木豊氏（67）が2026年7月30日にユーチューブを更新し、前半戦を同率首位で折り返した阪神と巨人について、「つばぜり合いで行く」と予想した。",
+      "pubDate": "Fri, 31 Jul 2026 17:30:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
+      "link": "http://j-town.net/news/localnews/241949.html",
+      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
+      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "万博で13万人が体験「空飛ぶクルマ」シアター、羽田でコンパクトに復活　JAL施設で常設展示",
       "link": "https://www.j-cast.com/2026/07/31516801.html",
       "description": "大阪・関西万博の「レガシー」が、羽田空港にもお目見えする。日本航空（JAL）は、万博で約13万人が体験した「空飛ぶクルマ」の没入型シアター「そらクルーズ」を、羽田空港にある見学施設「JAL SKY MUSEUM」で2026年8月1日から常設展示する。",
@@ -227,60 +275,20 @@
       "category": "総合"
     },
     {
-      "title": "片山さつき財務相「失われた28年を取り戻す」投稿に批判　芥川賞作家「自民党の大失政の結果だろう」",
-      "link": "https://www.j-cast.com/2026/07/31516789.html",
-      "description": "片山さつき財務相は2026年7月30日、自身のXを更新。「失われた28年を取り戻す」とポストしたが、批判が寄せられている。",
-      "pubDate": "Fri, 31 Jul 2026 15:15:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
-      "link": "http://j-town.net/news/localnews/241949.html",
-      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
-      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "【ドジャース】キム・ヘソン、3Aで再び熾烈な争い フリーランドがマイナー降格...「再昇格は調子の良い方」韓国メディア展望",
-      "link": "https://www.j-cast.com/2026/07/31516793.html",
-      "description": "大リーグのロサンゼルス・ドジャース傘下3Aでプレーする韓国出身キム・ヘソン内野手（27）が、大リーグ再昇格に向け、アレックス・フリーランド内野手（24）と再び激しい争いを繰り広げる。",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "スザンヌ、経営する熊本の旅館の家族湯と大広間を無料開放　「少しでも心を癒していただけたら」",
-      "link": "https://www.j-cast.com/2026/07/31516792.html",
-      "description": "タレントのスザンヌさんが2026年7月30日にインスタグラムのストーリーズを更新し、当面の間、熊本県で経営している旅館の家族湯と大広間を開放することを発表した。",
-      "pubDate": "Fri, 31 Jul 2026 14:30:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "広島に激震...矢野雅哉、前川誠太が家宅捜索を受けたと発表　ファン不信感...「野球どころではない」危惧",
-      "link": "https://www.j-cast.com/2026/07/31516786.html",
-      "description": "後半戦のスタート前に激震が走った。",
-      "pubDate": "Fri, 31 Jul 2026 14:15:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "国民・玉木代表、消費税減に言及　「異議を唱えたのは当時国民民主党だけ」",
-      "link": "https://www.j-cast.com/2026/07/31516791.html",
-      "description": "国民民主党の玉木雄一郎代表が2026年7月31日にXを更新。現在議論されている食料品消費税減税について、同党は一貫して反対しているという姿勢を強調した。",
-      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CAST会社ウォッチ",
       "category": "経済"
+    },
+    {
+      "title": "温度の異なる食品4品を同時あたため　日立の過熱水蒸気オーブン「ヘルシーシェフ」",
+      "link": "https://www.j-cast.com/trend/2026/07/31516776.html",
+      "description": "日立グローバルライフソリューションズは、過熱水蒸気オーブンレンジ「ヘルシーシェフ MRO-W1E」を2026年8月上旬に発売する。",
+      "pubDate": "Fri, 31 Jul 2026 18:00:00 +0900",
+      "source": "J-CASTトレンド",
+      "category": "総合"
     },
     {
       "title": "「VIVANT」題材の「一番くじ」　「別班饅頭」や「乃木家家紋ディスプレイ」当たる",
@@ -315,100 +323,84 @@
       "category": "総合"
     },
     {
-      "title": "ナショナルジオグラフィックが図鑑のクジラ解説誤りを謝罪 トレースは否定",
-      "link": "https://news.livedoor.com/article/detail/31957692/",
-      "description": "ざっくり言うと 日経ナショナルジオグラフィックが図鑑のクジライラストの誤りを謝罪した シロナガスクジラとザトウクジラの特徴を取り違えたイラストを掲載していたとのこと トレース疑惑については版元が「事実はない」と回答し、修正版を準備中である 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:31:47 +0900",
+      "title": "山田五郎さんのYouTubeで動画を公開「収録ができるのはたぶん最後」",
+      "link": "https://news.livedoor.com/article/detail/31959597/",
+      "description": "ざっくり言うと 評論家・山田五郎さんの公式YouTubeが7月31日に更新された 死去前に収録した「最後の授業」動画が公開され話題となっている テーマは「メメント・モリ」で、本人が無理をして収録したとのこと 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 19:49:48 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "熊本地震で「母と連絡取れない」嘘投稿でPayPay集金の悪質詐欺が横行",
-      "link": "https://news.livedoor.com/article/detail/31957872/",
+      "title": "総務省がLINEヤフーに行政指導 LINEポコポコ等で情報を803万件無断送信",
+      "link": "https://news.livedoor.com/article/detail/31959512/",
       "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:37:00 +0900",
+      "pubDate": "Fri, 31 Jul 2026 19:39:52 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "Anker製品がAmazonで最大37%OFF",
-      "link": "https://news.livedoor.com/article/detail/31955277/",
-      "description": "ざっくり言うと AmazonでAnker製品がセール対象となるタイムセール祭りが開催中である 充電器やケーブル、モバイルバッテリーなどが最大37%オフで購入できる セールは8月2日まで開催で、1万円以上購入でポイント還元率もアップする 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 11:43:54 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「クマを殺すな」過剰抗議で自治体4割に業務支障、現場が疲弊",
-      "link": "https://news.livedoor.com/article/detail/31956531/",
+      "title": "愛知の自衛隊機墜落事故、空自が調査結果を発表「直接原因特定できず」",
+      "link": "https://news.livedoor.com/article/detail/31959437/",
       "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 14:06:01 +0900",
+      "pubDate": "Fri, 31 Jul 2026 16:59:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「人に見てもらいたかった」JR宇多津駅構内で臀部露出、50歳男を逮捕",
-      "link": "https://news.livedoor.com/article/detail/31956638/",
+      "title": "来月はトマトやきゅうりが高値見通し 一方で「にんじん」は安値に",
+      "link": "https://news.livedoor.com/article/detail/31957452/",
       "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 13:58:00 +0900",
+      "pubDate": "Fri, 31 Jul 2026 16:09:48 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "横浜市の山中竹春市長がパワハラ問題で告発した職員に直接謝罪",
-      "link": "https://news.livedoor.com/article/detail/31957689/",
+      "title": "辺野古沖・船転覆事故 死亡の女子生徒 辺野古行きから変更希望を提出",
+      "link": "https://news.livedoor.com/article/detail/31957366/",
       "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:47:02 +0900",
+      "pubDate": "Fri, 31 Jul 2026 15:54:36 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "米アップルのティム・クックCEO 熊本地震に同社が寄付を行うと発表",
-      "link": "https://news.livedoor.com/article/detail/31957623/",
+      "title": "セブン＆アイとPayPayらが3000億円提携 7iDはPayPay IDへ統合",
+      "link": "https://news.livedoor.com/article/detail/31958809/",
+      "description": "ざっくり言うと セブン＆アイがソフトバンクなど4社と戦略的パートナーシップに合意した 3社が各1000億円を出資し総額3000億円の資本業務提携を締結するという 「7iD」を「PayPay ID」に統合しポイントもPayPayポイント等に刷新する 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 18:03:49 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "トヨタと日産が国内工場の停止を延長 地震を受けて物流影響拡大で",
+      "link": "https://news.livedoor.com/article/detail/31958722/",
+      "description": "熊本県の地震でトヨタなど自動車メーカーが工場停止を延長している トヨタ九州3工場と日産・ダイハツも8月5日まで稼働停止を延長するとのこと 物流や部品供給の遅れが続き地域経済や各社業績への影響も懸念されている 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 18:43:46 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "田嶋幸三JFA名誉会長がFIFA子会社計画に反対「受け入れられない」",
+      "link": "https://news.livedoor.com/article/detail/31958551/",
+      "description": "ざっくり言うと 田嶋幸三JFA名誉会長がFIFAの子会社設立計画への反対を表明した FIFAが商業権の一部を民間投資家に売却するFFE設立計画で、利益 UEFAやCONCACAFも反対を表明しており、JFAの公式回答は協議中 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 17:10:33 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "爆発事故のあったイオンモール熊本 オンワード従業員の死者3人に",
+      "link": "https://news.livedoor.com/article/detail/31958721/",
       "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:18:13 +0900",
+      "pubDate": "Fri, 31 Jul 2026 18:19:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "未解決の殺人3事件 香川県警が懸賞金の適用期間を1年間延長",
-      "link": "https://news.livedoor.com/article/detail/31957231/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 15:36:00 +0900",
+      "title": "元乃木坂・山崎怜奈が妊娠発表も深まる謎「結婚してたっけ？」の声",
+      "link": "https://news.livedoor.com/article/detail/31958519/",
+      "description": "ざっくり言うと 元乃木坂46の山崎怜奈がラジオで妊娠を報告したとFLASHが伝えた 過去に熱愛や結婚報道が出たことはなく、報告では相手について一切触れず プライベート面は極力伏せたいのかもしれないが、各所がざわついていると芸能担当記者 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 17:50:36 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
-    },
-    {
-      "title": "株＆FX爆損の水谷隼氏、絶望の取引スクショ投稿「最悪すぎる…」",
-      "link": "https://news.livedoor.com/article/detail/31957693/",
-      "description": "ざっくり言うと 卓球金メダリストでタレントの水谷隼がFX取引で大きな損失を報告した 1ドル163円台で仕込んだ米ドル円が157円台に下落し約661万円超の損失に 「お金も体力も気力もなくなった」と当分は静かに取引すると宣言している 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:35:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ミュージカル「テニスの王子様」が演出一部変更へ 音楽担当者の逮捕受け",
-      "link": "https://news.livedoor.com/article/detail/31957244/",
-      "description": "ざっくり言うと ミュージカル「テニスの王子様」製作委員会が演出変更を発表した 音楽担当のYu容疑者が3月に歌指導中わいせつ行為をした疑いで逮捕された 7月31日17時30分公演以降に楽曲の一部を変更し、払い戻しは実施しない 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 15:34:37 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "中1春で成績上位「子の共通点」",
-      "link": "https://news.livedoor.com/article/detail/31957706/",
-      "description": "ざっくり言うと 教育投資ジャーナリストの戦記氏が中高一貫校進学後の学習法を解説した 中1の4月から成績上位25%に入ることが重要で公文活用が鍵だという 公文は海外学習者が国内を上回る226万人で売上高940億円規模の事業体だ 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:35:33 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "マチアプで180人と会った経験をもとに「8月末までに彼女を作る」方法を紹介",
-      "link": "https://news.livedoor.com/article/detail/31947085/",
-      "description": "ざっくり言うと 願望実現コンサルタントの有馬樹里氏が婚活男性向けに夏の恋愛戦略を解説した 2年間で180人以上と会った経験をもとに「8月末までに彼女を作る」方法を紹介 まずマッチングアプリの写真選びが重要で、警戒される写真の特徴を具体的に挙げた 記事を読む",
-      "pubDate": "Thu, 30 Jul 2026 11:59:46 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
     },
     {
       "title": "Xフォロワー12万人「給与明細買取屋さん」の稼ぎ方",
@@ -419,42 +411,10 @@
       "category": "経済"
     },
     {
-      "title": "日経平均が2494円高と大幅続伸、AI関連需要の底堅さが買いを後押し",
-      "link": "https://news.livedoor.com/article/detail/31957284/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 16:02:33 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "ホンダ「モンキー125」が発売4か月で在庫僅少、赤が一番人気に",
-      "link": "https://news.livedoor.com/article/detail/31957062/",
-      "description": "ざっくり言うと ホンダが2026年3月6日にモンキー125の新カラーを発売した 3色展開で「ミレニアムレッド2」が最も人気を集めているとのこと 在庫は僅少で、なくなれば8～9月以降の納車になる見込みだという 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 14:55:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "アンソロピックの開発中AIが設定ミスで3組織のシステムに不正侵入",
-      "link": "https://news.livedoor.com/article/detail/31957330/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 15:50:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "ロト6で1000万円当せん、山分けした仲間に贈与税が発生した理由",
-      "link": "https://news.livedoor.com/article/detail/31957121/",
-      "description": "ざっくり言うと ロト6を複数人で購入し当せん金を山分けする際の課税について解説した 代表者が一括受領後に仲間へ分けると贈与税の対象になるとのこと 全員で銀行へ行き当せん証明書を発行すれば贈与税を回避できるという 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 15:20:31 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "アスクルの個人情報60万件が追加流出の恐れ 昨年のサイバー攻撃で",
-      "link": "https://news.livedoor.com/article/detail/31957044/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 15:10:10 +0900",
+      "title": "元手10万・知識ゼロから始めたボロ家投資で年間5300万円を稼ぐ方法",
+      "link": "https://news.livedoor.com/article/detail/31957467/",
+      "description": "ざっくり言うと 元手10万円・知識ゼロから不動産投資を始めた投資家の実践記録が公開された 8年で120戸・年間5300万円の家賃収入を得るまでの過程を詳しく解説している 安値物件の落とし穴やDIYの完璧主義を避ける重要性についても言及している 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 16:09:59 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,12 +427,108 @@
       "category": "経済"
     },
     {
-      "title": "三菱重工株を400株売却した父、税引き前140万円の利益を手にした経緯",
-      "link": "https://news.livedoor.com/article/detail/31956702/",
-      "description": "ざっくり言うと 三菱重工株を2023年に約20万円で購入し約140万円の利益を得た事例を解説 株式分割で「1株500円」と見えるが当時の実際の株価は5000円前後だった 売却益には約20.315%の税金がかかり手取りは約111万円になるとのこと 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 14:10:18 +0900",
+      "title": "Anker製品がAmazonで最大37%OFF",
+      "link": "https://news.livedoor.com/article/detail/31955277/",
+      "description": "ざっくり言うと AmazonでAnker製品がセール対象となるタイムセール祭りが開催中である 充電器やケーブル、モバイルバッテリーなどが最大37%オフで購入できる セールは8月2日まで開催で、1万円以上購入でポイント還元率もアップする 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 11:43:54 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "コンビニ通いをやめられない夫がFP相談で自ら宣言、家計が変わった理由",
+      "link": "https://news.livedoor.com/article/detail/31958166/",
+      "description": "ざっくり言うと FP橋本絵美氏が「家庭経営」の視点で家計を見直す方法を提言した 節約や家計簿より将来から逆算するライフプランの作成が重要だという コンビニ通いの夫も将来の見える化で自ら支出削減を宣言したとのこと 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 17:15:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "セブン&アイにソフトバンクとペイペイが出資し、巨大ポイント経済圏が誕生",
+      "link": "https://news.livedoor.com/article/detail/31958664/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 19:26:55 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "円相場が再び急激に円高進み、1ドル158円台に2円ほど上昇",
+      "link": "https://news.livedoor.com/article/detail/31958942/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 18:44:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "日銀 金利維持で円安が再加速",
+      "link": "https://news.livedoor.com/article/detail/31957895/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 16:54:41 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "60～65歳で給与が下がった人を救う「高年齢雇用継続給付」の仕組み",
+      "link": "https://news.livedoor.com/article/detail/31958170/",
+      "description": "ざっくり言うと 60歳以降に給与が大幅に下がった会社員を支援する給付金制度が存在する 「高年齢雇用継続給付」は給与が60歳時の75%未満になった場合に最大10%を支給 会社の担当者が制度を把握していないケースもあり、本人が理解しておくことが重要だという 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 17:15:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "高市総理が食料品の消費税を来年4月から1％に引き下げる方針を表明",
+      "link": "https://news.livedoor.com/article/detail/31958510/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 17:58:02 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "「クマを殺すな」過剰抗議で自治体4割に業務支障、現場が疲弊",
+      "link": "https://news.livedoor.com/article/detail/31956531/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 14:06:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "江別集団暴行の21歳被告と交際の少年「好きだったかは分からない」",
+      "link": "https://news.livedoor.com/article/detail/31957481/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 16:12:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "熊本県知事がボランティア自粛を呼びかけ「態勢が整ったら来て」",
+      "link": "https://news.livedoor.com/article/detail/31958119/",
+      "description": "ざっくり言うと 熊本地震後の週末、木村敬知事がボランティアの自粛を呼びかけた 受け入れ態勢が整っていないためで、益城町は8月1日にセンターを開設予定 過去の震災では渋滞や物資の仕分け困難など支援の課題が相次いでいた 記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 17:05:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "自殺を回避…女子高生に感謝状",
+      "link": "https://news.livedoor.com/article/detail/31956093/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 12:51:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "未解決の殺人3事件 香川県警が懸賞金の適用期間を1年間延長",
+      "link": "https://news.livedoor.com/article/detail/31957231/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 15:36:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "山形マット死事件 支払いに応じていない元生徒3人への賠償命令が確定",
+      "link": "https://news.livedoor.com/article/detail/31956118/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 31 Jul 2026 12:53:44 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "全国のイオンモールでイベント中止相次ぐ...爆発事故を受け点検などに注力",
@@ -493,7 +549,7 @@
     {
       "title": "日本人の「靴を脱ぐ」という習慣 ブラジルの病院で叱られたケースも",
       "link": "https://news.livedoor.com/article/detail/31953331/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 日本人の「靴を脱ぐ」習慣を巡る経験について専門家が著書でつづった ブラジルの病院のベッドで靴を脱いだ瞬間、医師にたしなめられたという ほかに同じ行動をする人はおらず、靴がスタッフの歩行をさまたげるなどと言われたそう 記事を読む",
       "pubDate": "Fri, 31 Jul 2026 06:31:43 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
@@ -503,54 +559,6 @@
       "link": "https://news.livedoor.com/article/detail/31949138/",
       "description": "ざっくり言うと 銀座ホステス兼ライターが「地雷女」の特徴を解説した 彼氏の友人の飲み会に毎回参加し主役を求める女性は危険と筆者はみている 実際に結婚した男性が、約1年後に浮気が原因で離婚に至ったとのことである 記事を読む",
       "pubDate": "Thu, 30 Jul 2026 15:52:26 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "池袋暴走事故を取材したTBS記者 映像などをもとに「事故直後の様子」再現",
-      "link": "https://news.livedoor.com/article/detail/31954651/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 10:10:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "江別集団暴行殺人事件の裁判 体重97キロの少年が明かす暴力の実態",
-      "link": "https://news.livedoor.com/article/detail/31955164/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 11:26:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「使えない」男性警視が部下に対しパワハラ行為か…懲戒処分 愛知県警",
-      "link": "https://news.livedoor.com/article/detail/31956364/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 13:02:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "熊本大学公式X、地震受け「大学生の就職・採用活動へのご配慮」呼びかけ",
-      "link": "https://news.livedoor.com/article/detail/31956131/",
-      "description": "ざっくり言うと 令和8年熊本地震を受け、熊本大学が公式Xで企業へ配慮を要請した 被災学生の就活継続に向け、書類締切延長や面接のオンライン化を求めている 「地震から2日でこの発信は柔軟な組織体制」と称賛の声が相次いでいる 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 12:45:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "避難所における深刻な犯罪被害の実態、元刑事が解説 悲惨な事件も",
-      "link": "https://news.livedoor.com/article/detail/31955493/",
-      "description": "ざっくり言うと 元刑事が過去の震災対応の経験を交えながら、被災地や避難所での犯罪被害実態を解説 照明確保や夜の単独行動を避けることが重要とし、性被害やDV被害が実際にあったと説明 さらに、周囲の「無理解」にも言及し、被害者を追い詰める言動は許されないと述べた 記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 12:00:33 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "辺野古船転覆死亡事故「学校法人側に安全配慮義務違反があった」と認定",
-      "link": "https://news.livedoor.com/article/detail/31955700/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 31 Jul 2026 12:07:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1035,10 +1043,18 @@
       "category": "経済"
     },
     {
+      "title": "1561回　事業資金は借りろ！成功する経営者の共通点",
+      "link": "https://www.youtube.com/watch?v=rfnT_lxfxoo",
+      "description": "",
+      "pubDate": "2026-07-31T09:00:05+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
       "title": "1560回　源泉徴収と確定申告の世界事情（予定納税で儲ける都市伝説とは？）",
       "link": "https://www.youtube.com/watch?v=3qeaHt8v0AQ",
       "description": "",
-      "pubDate": "2026-07-30T09:00:23+00:00",
+      "pubDate": "2026-07-31T09:27:26+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1107,18 +1123,10 @@
       "category": "YouTube"
     },
     {
-      "title": "1553回　高市内閣支持率急落の理由は進まない減税だ",
-      "link": "https://www.youtube.com/watch?v=bbfXIJe2ijU",
-      "description": "",
-      "pubDate": "2026-07-22T10:55:32+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
       "title": "【為替介入と円安事情】片山さつき財務大臣がアメリカと連携したことについて須田慎一郎さんと三橋貴明さんが話してくれました（虎ノ門ニュース切り抜き）",
       "link": "https://www.youtube.com/watch?v=ctzWYO86RvE",
       "description": "",
-      "pubDate": "2026-07-31T08:05:53+00:00",
+      "pubDate": "2026-07-31T09:35:30+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1195,6 +1203,70 @@
       "category": "YouTube"
     },
     {
+      "title": "【静岡高校野球】敗れし者たちの夏",
+      "link": "https://www.youtube.com/watch?v=YQS26jLlsro",
+      "description": "",
+      "pubDate": "2026-07-31T10:41:17+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "早くも子どもたちに大人気…直径11mの遊び場に50個の噴水「冷たくて気持ちいい」",
+      "link": "https://www.youtube.com/watch?v=HsC7KhXUG94",
+      "description": "",
+      "pubDate": "2026-07-31T10:12:56+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "スウェーデンの陶磁器を集めた「グスタフスベリのある暮らし」展　1万人目の来場者は静岡市の親子",
+      "link": "https://www.youtube.com/watch?v=NcwlW71W-Fo",
+      "description": "",
+      "pubDate": "2026-07-31T10:31:36+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "静岡市を「模型の世界首都」に…11月議会に条例案提出へ",
+      "link": "https://www.youtube.com/watch?v=XKd99wC22ow",
+      "description": "",
+      "pubDate": "2026-07-31T10:36:43+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "引き上げの目安は56円　最低賃金を議論　「地域間格差で労働力流出」「賃金支払いが厳しい中小零細企業もある」",
+      "link": "https://www.youtube.com/watch?v=CY7P4FGiJoI",
+      "description": "",
+      "pubDate": "2026-07-31T10:57:51+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "熊本県で猛暑　停電で避難所のエアコンが使えない！　藤枝市の小学校では、去年から体育館にエアコンの設置進める",
+      "link": "https://www.youtube.com/watch?v=O9I-Z2iqnug",
+      "description": "",
+      "pubDate": "2026-07-31T10:32:43+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "「議会の解散は権利の乱用」…市議選は実施する必要ない　選挙費用4900万円余りの返還を田久保前市長に請求するよう伊東市に求める　市民有志が住民訴訟起こす",
+      "link": "https://www.youtube.com/watch?v=sxIN0Y5uu9w",
+      "description": "",
+      "pubDate": "2026-07-31T10:23:13+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "静岡市が職員を熊本市に派遣へ　避難所運営や罹災証明の受付業務に携わる予定　すでに職員２人が先遣隊として出発",
+      "link": "https://www.youtube.com/watch?v=BeKs5yOOXow",
+      "description": "",
+      "pubDate": "2026-07-31T10:25:48+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
       "title": "水難事故防止キャンペーン　県や海上保安部、消防職員らがライフジャケットの着用などを呼びかける　静岡・南伊豆町",
       "link": "https://www.youtube.com/watch?v=3dbVHBMDhMc",
       "description": "",
@@ -1211,67 +1283,11 @@
       "category": "YouTube"
     },
     {
-      "title": "高気圧に覆われ静岡県内は広い範囲で気温が上昇　すでに猛暑日を記録したところも",
-      "link": "https://www.youtube.com/watch?v=lKNeS-X5WDo",
+      "title": "【ライブ】本日も地震が相次いでいます！生放送で解説します！（2026年7月31日）",
+      "link": "https://www.youtube.com/watch?v=biZXrfjpRK0",
       "description": "",
-      "pubDate": "2026-07-31T07:33:15+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "車内に常備する防災セット「10年前の熊本地震で車中泊が課題になり生まれた」",
-      "link": "https://www.youtube.com/watch?v=nQfjydFUhHE",
-      "description": "",
-      "pubDate": "2026-07-31T06:48:22+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "「水をくむのに3～4時間待ち」　コンビニにも何もない、GSも長蛇の列　死者30人、猛暑35℃超…被災地・熊本で今起きていること",
-      "link": "https://www.youtube.com/watch?v=CgW81-KxJuw",
-      "description": "",
-      "pubDate": "2026-07-31T07:23:25+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "「静岡マラソン2027」は3月14日に開催　エントリーは10月1日から開始　人気の「親子ランの部」も定員が倍増",
-      "link": "https://www.youtube.com/watch?v=5DRdC5KLlog",
-      "description": "",
-      "pubDate": "2026-07-31T07:08:30+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "【衝撃】「誰かが掃除すると思った」たばこポイ捨てで20代男女書類送検へ　「住民の我慢が限界」…警察官が張り込みで容疑者特定",
-      "link": "https://www.youtube.com/watch?v=C8Sv0c8jpL4",
-      "description": "",
-      "pubDate": "2026-07-31T06:47:09+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "毎日午前９時に定点撮影　去年１年間の富士山をとらえた写真展　静岡・富士川楽座",
-      "link": "https://www.youtube.com/watch?v=5vujzzEU5Sk",
-      "description": "",
-      "pubDate": "2026-07-31T07:12:04+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "ありがとうの気持ちを手紙にこめて　子どもたちが離れて暮らす家族などに手紙を書くワークショップ　静岡・沼津市",
-      "link": "https://www.youtube.com/watch?v=_9Yr0cLr060",
-      "description": "",
-      "pubDate": "2026-07-31T08:02:08+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "統合計画がある県立高校で保護者説明会　静岡県の御殿場市と裾野市の県立高校…保護者からは、スクールバス導入を求める声",
-      "link": "https://www.youtube.com/watch?v=DW_eat9eD4Q",
-      "description": "",
-      "pubDate": "2026-07-31T07:02:46+00:00",
-      "source": "静岡朝日テレビ",
+      "pubDate": "2026-07-31T10:47:46+00:00",
+      "source": "えいしゅう博士",
       "category": "YouTube"
     },
     {
@@ -1343,14 +1359,6 @@
       "link": "https://www.youtube.com/shorts/TNZc2UA8vK8",
       "description": "",
       "pubDate": "2026-07-29T07:02:57+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【朗報！】南鳥島の泥から重レアアースの精錬に成功しライトもできました！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=bg73bZwTpcc",
-      "description": "",
-      "pubDate": "2026-07-28T06:24:22+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     }
