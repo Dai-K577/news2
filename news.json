@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-02 21:52 JST",
-  "total": 168,
+  "updated": "2026-08-03 00:49 JST",
+  "total": 165,
   "news": [
+    {
+      "title": "災害関連死の抑制に軸足 官房長官",
+      "link": "https://news.yahoo.co.jp/pickup/6590302?source=rss",
+      "description": "",
+      "pubDate": "Sun, 02 Aug 2026 12:01:51 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "高額療養費見直し 政府の狙いは",
       "link": "https://news.yahoo.co.jp/pickup/6590298?source=rss",
@@ -11,18 +19,10 @@
       "category": "総合"
     },
     {
-      "title": "3日 熊本の複数地点40℃以上予想",
-      "link": "https://news.yahoo.co.jp/pickup/6590294?source=rss",
+      "title": "爆発前戻るよう指示 店舗運営謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6590315?source=rss",
       "description": "",
-      "pubDate": "Sun, 02 Aug 2026 10:39:08 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "イオンモール宇城 下敷きの客死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6590296?source=rss",
-      "description": "",
-      "pubDate": "Sun, 02 Aug 2026 10:43:38 GMT",
+      "pubDate": "Sun, 02 Aug 2026 13:33:16 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,18 +35,26 @@
       "category": "総合"
     },
     {
-      "title": "HBOCの女性 着床前診断を申請へ",
-      "link": "https://news.yahoo.co.jp/pickup/6590305?source=rss",
+      "title": "車2台が正面衝突 1人死亡2人重体",
+      "link": "https://news.yahoo.co.jp/pickup/6590321?source=rss",
       "description": "",
-      "pubDate": "Sun, 02 Aug 2026 12:16:12 GMT",
+      "pubDate": "Sun, 02 Aug 2026 14:27:43 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "横川尚隆 プロデビュー戦で優勝",
-      "link": "https://news.yahoo.co.jp/pickup/6590304?source=rss",
+      "title": "阪神監督 2失策の前川に奮起促す",
+      "link": "https://news.yahoo.co.jp/pickup/6590322?source=rss",
       "description": "",
-      "pubDate": "Sun, 02 Aug 2026 12:37:26 GMT",
+      "pubDate": "Sun, 02 Aug 2026 14:45:27 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "板倉結婚 代表から個性溢れる祝福",
+      "link": "https://news.yahoo.co.jp/pickup/6590320?source=rss",
+      "description": "",
+      "pubDate": "Sun, 02 Aug 2026 14:15:04 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -55,14 +63,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6590300?source=rss",
       "description": "",
       "pubDate": "Sun, 02 Aug 2026 11:24:56 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "てんちむ 第2子妊娠を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6590293?source=rss",
-      "description": "",
-      "pubDate": "Sun, 02 Aug 2026 10:33:48 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -147,6 +147,14 @@
       "category": "国際"
     },
     {
+      "title": "航行中フェリー火災 インドネシア",
+      "link": "https://news.yahoo.co.jp/pickup/6590312?source=rss",
+      "description": "",
+      "pubDate": "Sun, 02 Aug 2026 13:18:28 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "米ファストフード店で銃撃3人死亡",
       "link": "https://news.yahoo.co.jp/pickup/6590263?source=rss",
       "description": "",
@@ -159,14 +167,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6590239?source=rss",
       "description": "",
       "pubDate": "Sun, 02 Aug 2026 03:14:51 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "ロシアがウ首都を空爆 9人死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6590168?source=rss",
-      "description": "",
-      "pubDate": "Sat, 01 Aug 2026 08:31:12 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -291,19 +291,43 @@
       "category": "総合"
     },
     {
-      "title": "ユーザーの顔写真を元に「ビックリマン」の世界観で名刺やグッズが作れる",
-      "link": "https://www.j-cast.com/trend/2026/08/01516707.html",
-      "description": "ロッテは、アルと共同開発したという生成AI（人工知能）サービス「ビックリマンAIグッズメーカー」を2026年7月29日から提供をはじめた。",
-      "pubDate": "Sat, 01 Aug 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "エンタメ公演「名古屋飛ばし」是正 新劇場が誕生へ 2027年7月の開業目指す",
+      "link": "https://news.livedoor.com/article/detail/31969646/",
+      "description": "ざっくり言うと 旧「名古屋四季劇場」が新劇場として生まれ変わる計画が発表された サンライズプロモーションが建物を取得し2027年7月の開業を目指すという 「名古屋飛ばし」是正を掲げ約5億円を投じて改修を行う予定とのこと 記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 14:47:53 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "3日、東京都心は気温が大幅ダウンか 被災地の熊本は41℃の予想",
+      "link": "https://news.livedoor.com/article/detail/31970633/",
+      "description": "ざっくり言うと 8月3日は東京都心の最高気温が前日比マイナス7℃の28℃と予想される 一方、熊本など西日本では41℃超の酷暑日となる地点が出る見込みである 被災地や避難生活中の方は昼夜を問わず熱中症対策の徹底が求められる 記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 18:29:36 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "内閣支持率59.2% 前回から5.7%減",
+      "link": "https://news.livedoor.com/article/detail/31971748/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 22:26:20 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "VIVANTで長野専務が別班として乃木の前に姿を現し視聴者騒然",
+      "link": "https://news.livedoor.com/article/detail/31971656/",
+      "description": "ざっくり言うと TBSドラマ『VIVANT』第2シーズン第12話が2日に放送された 別班5人が拉致される事件が起き、乃木が解決に向けて奔走する展開に ラストでは長野専務（小日向文世）が新たな別班として浮上するとみられる 記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 22:09:10 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -351,38 +375,6 @@
       "link": "https://news.livedoor.com/article/detail/31970483/",
       "description": "ざっくり言うと 川口春奈がサッカー日本代表の板倉滉との結婚をインスタグラムで発表した 2人の連名で「この度、私たち板倉滉と川口春奈は結婚しました」と報告 さらに「お腹には私たちの赤ちゃんもいます」と妊娠していることも明かした 記事を読む",
       "pubDate": "Sun, 02 Aug 2026 18:00:22 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "サザエさん、放送で熊本へメッセージ「皆さまの安全と一日も早い復旧を」",
-      "link": "https://news.livedoor.com/article/detail/31970930/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 19:13:21 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "イオン熊本の爆発事故の遺族「人災だと思う」上司の指示で店に戻ったか",
-      "link": "https://news.livedoor.com/article/detail/31970834/",
-      "description": "7人が犠牲になったイオンモール熊本の爆発事故について、遺族がFNNの取材に応じた 亡くなった女性は、売り上げを金庫に入れるよう会社から指示され店に戻ったという 親族の男性は「今は怒りの方が強い。私は人災だと思う」と無念の思いを語った 記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 19:06:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本県のイオンモール宇城で男性客死亡 崩れた天井の下敷きに",
-      "link": "https://news.livedoor.com/article/detail/31970742/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 18:46:03 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "熊本県宇城市の特別養護老人ホームが別館の損壊で入居者受け入れ過密に",
-      "link": "https://news.livedoor.com/article/detail/31970651/",
-      "description": "熊本地震で被災した宇城市の特養「しらぬい荘」が深刻な状況にある 別館損壊で入居者約70人が本館へ移り、約200人が過密状態になっているという 職員は35人程度に減少し、車中泊で出勤する人もいて疲弊が高まっている 記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 18:50:04 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -435,14 +427,6 @@
       "category": "経済"
     },
     {
-      "title": "片山財務相 円安是正策を表明へ",
-      "link": "https://news.livedoor.com/article/detail/31971056/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 19:45:40 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "円相場が急反発、日米が協調して介入に踏み切ったとの見方が広がる",
       "link": "https://news.livedoor.com/article/detail/31969820/",
       "description": "ざっくり言うと 円相場が急騰し、日米が協調して円買い介入を実施したとみられる ベッセント米財務長官が主導し、円買い介入への全面支援姿勢を示したという 介入規模は18兆円超に達し、155円台を視野に攻防が続くとの見方がある 記事を読む",
@@ -459,12 +443,36 @@
       "category": "経済"
     },
     {
-      "title": "片山財務大臣があす朝、日米連携による円安対応の方針を発表へ",
-      "link": "https://news.livedoor.com/article/detail/31971011/",
-      "description": "ざっくり言うと 片山財務大臣が翌朝に米国と連携した円安対応方針を表明する予定である 英メディアは米当局がユーロ売り円買いの為替介入を行ったと報じた 日本政府と日銀も協調介入を行ったとみられ約28年ぶりの出来事となる 記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 19:39:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "title": "熊本県のイオンモール宇城で男性客死亡 崩れた天井の下敷きに",
+      "link": "https://news.livedoor.com/article/detail/31970742/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 18:46:03 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "千葉県柏市で乗用車同士が正面衝突 90代ぐらいの女性が死亡し、7人が搬送",
+      "link": "https://news.livedoor.com/article/detail/31971819/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 23:15:22 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "3日、東京都心は気温が大幅ダウンか 被災地の熊本は41℃の予想",
+      "link": "https://news.livedoor.com/article/detail/31970633/",
+      "description": "ざっくり言うと 8月3日は東京都心の最高気温が前日比マイナス7℃の28℃と予想される 一方、熊本など西日本では41℃超の酷暑日となる地点が出る見込みである 被災地や避難生活中の方は昼夜を問わず熱中症対策の徹底が求められる 記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 18:29:36 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "熊本地震後に車中泊の70代女性が熱中症疑いで死亡 初災害関連死の可能性",
+      "link": "https://news.livedoor.com/article/detail/31971182/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 02 Aug 2026 20:12:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "熊本地震でのイオンモール爆発、母親ら遺族が涙の告白60分「原因究明を…」",
@@ -511,38 +519,6 @@
       "link": "https://news.livedoor.com/article/detail/31970651/",
       "description": "熊本地震で被災した宇城市の特養「しらぬい荘」が深刻な状況にある 別館損壊で入居者約70人が本館へ移り、約200人が過密状態になっているという 職員は35人程度に減少し、車中泊で出勤する人もいて疲弊が高まっている 記事を読む",
       "pubDate": "Sun, 02 Aug 2026 18:50:04 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "兵庫で海水浴の女性が死亡「頭の上に石が落ちてきて意識がない」と通報",
-      "link": "https://news.livedoor.com/article/detail/31970139/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 16:42:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "各地で相次ぐゲリラ雷雨「自分に雷が落ちるとは…」登山中に事故",
-      "link": "https://news.livedoor.com/article/detail/31970547/",
-      "description": "ざっくり言うと 登山中に落雷を受け全身が動かせなくなった体験を41歳男性が語った 留学エージェント代表の太田英基さんが2021年6月に二子山で落雷に遭い 事故後は天気予報や雨雲レーダーを確認し最悪の状況を想定して行動するように 記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 18:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "人間関係は「コストと報酬のバランス」精神的に疲れない人の特徴を解説",
-      "link": "https://news.livedoor.com/article/detail/31970602/",
-      "description": "ざっくり言うと 精神的にまったく疲れない人の共通点について、カウンセラーがYouTubeで解説 苦手や好みが似ている、日常のペースが似ている、心理的安全性があるなどの特徴を提示 相手から肯定や共感を得たら、同じように返し合える関係が理想的だと結論付けた 記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 18:24:22 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "黒木麗香被告が再発防止へ 関連会社の代表取締役に実父・白眞勲氏が就任？",
-      "link": "https://news.livedoor.com/article/detail/31970012/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 16:15:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
