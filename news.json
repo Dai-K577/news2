@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-04 04:14 JST",
-  "total": 164,
+  "updated": "2026-08-04 06:55 JST",
+  "total": 163,
   "news": [
+    {
+      "title": "NYダウ終値693ドル高 最高値更新",
+      "link": "https://news.yahoo.co.jp/pickup/6590444?source=rss",
+      "description": "",
+      "pubDate": "Mon, 03 Aug 2026 21:49:53 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "米大統領 対イラン発言は二転三転",
       "link": "https://news.yahoo.co.jp/pickup/6590431?source=rss",
@@ -11,18 +19,10 @@
       "category": "総合"
     },
     {
-      "title": "「全国学力テスト」分析結果公表",
-      "link": "https://news.yahoo.co.jp/pickup/6590421?source=rss",
+      "title": "ウ大統領 対日関係の強化を指示",
+      "link": "https://news.yahoo.co.jp/pickup/6590442?source=rss",
       "description": "",
-      "pubDate": "Mon, 03 Aug 2026 12:32:24 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "車両集中 地震の復旧阻む大渋滞",
-      "link": "https://news.yahoo.co.jp/pickup/6590413?source=rss",
-      "description": "",
-      "pubDate": "Mon, 03 Aug 2026 11:22:39 GMT",
+      "pubDate": "Mon, 03 Aug 2026 21:26:27 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,10 +35,10 @@
       "category": "総合"
     },
     {
-      "title": "自民・小渕氏 消費減税方針に反対",
-      "link": "https://news.yahoo.co.jp/pickup/6590429?source=rss",
+      "title": "マンション火災で12人けが 小金井",
+      "link": "https://news.yahoo.co.jp/pickup/6590440?source=rss",
       "description": "",
-      "pubDate": "Mon, 03 Aug 2026 13:40:51 GMT",
+      "pubDate": "Mon, 03 Aug 2026 21:05:59 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -51,18 +51,18 @@
       "category": "総合"
     },
     {
-      "title": "園のライオン3頭死ぬ 他3頭も治療",
-      "link": "https://news.yahoo.co.jp/pickup/6590415?source=rss",
+      "title": "榮倉奈々 12年ぶりTVドラマ主演",
+      "link": "https://news.yahoo.co.jp/pickup/6590443?source=rss",
       "description": "",
-      "pubDate": "Mon, 03 Aug 2026 11:39:13 GMT",
+      "pubDate": "Mon, 03 Aug 2026 21:33:44 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "角田夏実氏 VIVANT出演経緯語る",
-      "link": "https://news.yahoo.co.jp/pickup/6590434?source=rss",
+      "title": "水川かたまり 第2子誕生を生報告",
+      "link": "https://news.yahoo.co.jp/pickup/6590441?source=rss",
       "description": "",
-      "pubDate": "Mon, 03 Aug 2026 14:30:33 GMT",
+      "pubDate": "Mon, 03 Aug 2026 21:12:42 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -147,6 +147,14 @@
       "category": "国際"
     },
     {
+      "title": "ウ大統領 対日関係の強化を指示",
+      "link": "https://news.yahoo.co.jp/pickup/6590442?source=rss",
+      "description": "",
+      "pubDate": "Mon, 03 Aug 2026 21:26:27 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "スーチー氏 赤十字関係者と面会",
       "link": "https://news.yahoo.co.jp/pickup/6590383?source=rss",
       "description": "",
@@ -167,14 +175,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6590339?source=rss",
       "description": "",
       "pubDate": "Mon, 03 Aug 2026 00:16:07 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "米ファストフード店で銃撃3人死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6590263?source=rss",
-      "description": "",
-      "pubDate": "Sun, 02 Aug 2026 06:30:07 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -299,6 +299,14 @@
       "category": "総合"
     },
     {
+      "title": "地震速報（05:32）",
+      "link": "https://news.livedoor.com/article/detail/31980500/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 05:33:48 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "Wチャンス お得にレンタカー予約",
       "link": "https://news.livedoor.com/article/detail/31786389/",
       "description": "ざっくり言うと 品川駅で「ニコちゃん」大量発生中！ニコニコレンタカー、夏のドライブキャンペーン 公式アプリ「ニコパス」で予約すると、抽選で2,525名にPayPayポイント「最大5万円分」 さらに「ニコニコ」を発見してXにハッシュタグ付きで投稿すると、豪華賞品が当たる！ 記事を読む",
@@ -371,14 +379,6 @@
       "category": "総合"
     },
     {
-      "title": "ボディビルダー横川尚隆がプロデビュー戦で圧巻V 日本人初のオリンピア制覇",
-      "link": "https://news.livedoor.com/article/detail/31970685/",
-      "description": "ざっくり言うと ボディビルダーの横川尚隆がプロ初戦となるジャパンプロを制した 世界最高峰のミスター・オリンピア（9月・米ラスベガス）への切符を手に入れた 日本人初の同大会制覇を目標に掲げ、「本気で獲りにいく」と誓いを立てた 記事を読む",
-      "pubDate": "Sun, 02 Aug 2026 18:35:02 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "元手10万円 8年後、年5300万円の家賃収入を得るまでに至った不動産投資家",
       "link": "https://news.livedoor.com/article/detail/31947039/",
       "description": "ざっくり言うと 元手10万円・知識ゼロから不動産投資を始めた投資家の実践記録が公開された 地方のボロ戸建てを中心に8年で120戸・年間家賃収入5300万円に達したという みんかぶプレミアムの連載で、再現可能なロードマップを全3回にわたり解説する 記事を読む",
@@ -407,14 +407,6 @@
       "link": "https://news.livedoor.com/article/detail/31978229/",
       "description": "記事を読む",
       "pubDate": "Mon, 03 Aug 2026 18:44:29 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "日米が協調して為替介入、専門家が語る円安対策の本当の狙い",
-      "link": "https://news.livedoor.com/article/detail/31978082/",
-      "description": "ざっくり言うと 日米財務当局が協調して円買い介入を行ったと片山財務相が明らかにした 小谷哲男教授によると米国の動機は日本支援でなく自国利益の保護とのこと 根本的な円安是正には高市政権の財政悪化懸念の払拭が不可欠とみられる 記事を読む",
-      "pubDate": "Mon, 03 Aug 2026 18:33:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -1078,7 +1070,7 @@
       "title": "【虎ノ門ニュース】城内大臣が緊急出演 , 日本経済の行方は？ , 須田慎一郎 × 城内実（経済財政担当大臣）",
       "link": "https://www.youtube.com/watch?v=wdHgtrno9Eg",
       "description": "",
-      "pubDate": "2026-08-03T18:32:52+00:00",
+      "pubDate": "2026-08-03T21:48:27+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
