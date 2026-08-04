@@ -1,20 +1,28 @@
 {
-  "updated": "2026-08-04 22:40 JST",
-  "total": 169,
+  "updated": "2026-08-05 01:44 JST",
+  "total": 167,
   "news": [
     {
-      "title": "台風13号 週末は沖縄に直撃の恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6590534?source=rss",
+      "title": "熊本地震1週間 避難所に7500人超",
+      "link": "https://news.yahoo.co.jp/pickup/6590548?source=rss",
       "description": "",
-      "pubDate": "Tue, 04 Aug 2026 11:07:29 GMT",
+      "pubDate": "Tue, 04 Aug 2026 14:12:21 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "消費減税 財源示してと自民幹事長",
-      "link": "https://news.yahoo.co.jp/pickup/6590537?source=rss",
+      "title": "防衛白書 中国への警戒感が色濃く",
+      "link": "https://news.yahoo.co.jp/pickup/6590549?source=rss",
       "description": "",
-      "pubDate": "Tue, 04 Aug 2026 12:07:31 GMT",
+      "pubDate": "Tue, 04 Aug 2026 14:14:00 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "刃物持つ男に警官が発砲 男は死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6590551?source=rss",
+      "description": "",
+      "pubDate": "Tue, 04 Aug 2026 14:50:36 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,18 +43,10 @@
       "category": "総合"
     },
     {
-      "title": "ルフィ事件 幹部の懲役20年確定へ",
-      "link": "https://news.yahoo.co.jp/pickup/6590536?source=rss",
+      "title": "巨人痛恨 延長12回にサヨナラ被弾",
+      "link": "https://news.yahoo.co.jp/pickup/6590550?source=rss",
       "description": "",
-      "pubDate": "Tue, 04 Aug 2026 11:42:31 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "僧侶になる儀式 9歳男女48人参加",
-      "link": "https://news.yahoo.co.jp/pickup/6590535?source=rss",
-      "description": "",
-      "pubDate": "Tue, 04 Aug 2026 11:24:52 GMT",
+      "pubDate": "Tue, 04 Aug 2026 14:26:39 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -67,6 +67,14 @@
       "category": "総合"
     },
     {
+      "title": "熊本地震1週間 避難所に7500人超",
+      "link": "https://news.yahoo.co.jp/pickup/6590548?source=rss",
+      "description": "",
+      "pubDate": "Tue, 04 Aug 2026 14:12:21 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "震度5強以上に1週間程度注意 熊本",
       "link": "https://news.yahoo.co.jp/pickup/6590529?source=rss",
       "description": "",
@@ -79,14 +87,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6590505?source=rss",
       "description": "",
       "pubDate": "Tue, 04 Aug 2026 07:52:04 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "被災地支援に予備費242億円 政府",
-      "link": "https://news.yahoo.co.jp/pickup/6590483?source=rss",
-      "description": "",
-      "pubDate": "Tue, 04 Aug 2026 03:18:56 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -107,18 +107,18 @@
       "category": "国内"
     },
     {
-      "title": "台風13号 週末は沖縄に直撃の恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6590534?source=rss",
+      "title": "防衛白書 中国への警戒感が色濃く",
+      "link": "https://news.yahoo.co.jp/pickup/6590549?source=rss",
       "description": "",
-      "pubDate": "Tue, 04 Aug 2026 11:07:29 GMT",
+      "pubDate": "Tue, 04 Aug 2026 14:14:00 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
     {
-      "title": "防衛白書 中国軍の動き巡る注目点",
-      "link": "https://news.yahoo.co.jp/pickup/6590523?source=rss",
+      "title": "台風13号 週末は沖縄に直撃の恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6590534?source=rss",
       "description": "",
-      "pubDate": "Tue, 04 Aug 2026 09:11:40 GMT",
+      "pubDate": "Tue, 04 Aug 2026 11:07:29 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -299,19 +299,51 @@
       "category": "総合"
     },
     {
-      "title": "テレビ番組「シューイチ」の「体格ブラザーズ」がカプセルトイに",
-      "link": "https://www.j-cast.com/trend/2026/08/03516775.html",
-      "description": "タカラトミーグループのタカラトミーアーツ（東京都葛飾区）は、テレビ番組「シューイチ」のコーナー「体格ブラザーズ」の2人のカプセルトイ「体格ブラザーズ ビッグボディー コレクション」を、2026年7月下旬から全国のカプセル自販機で順次発売。",
-      "pubDate": "Mon, 03 Aug 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "福岡県議会の金銭授受疑惑で第三者委員会を設置する方針へ",
+      "link": "https://news.livedoor.com/article/detail/31987387/",
+      "description": "ざっくり言うと 福岡県議会が正副議長ポストを巡る金銭授受疑惑の解明に向け方針転換した 第三者委員会の設置に否定的だった蔵内勇夫議長が設置を認める方向に転じた 自民会派内外や服部誠太郎知事からも設置を求める声が高まっていたとのこと 記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 22:55:42 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "本田圭佑が韓国代表監督に意欲か「ライセンスなくても検討してくれるかな」",
+      "link": "https://news.livedoor.com/article/detail/31977239/",
+      "description": "ざっくり言うと 韓国サッカー協会が初の公募形式で暫定監督を選ぶ動きを見せている 本田圭佑が「ライセンスなくても検討してくれるかな」とXに投稿し話題に 指導者ライセンス取得に消極的なため就任可能性は低いと現地メディアが報道 記事を読む",
+      "pubDate": "Mon, 03 Aug 2026 16:59:32 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "刃物持つ人物に警察官が発砲 撃たれた人物は負傷し、病院に搬送",
+      "link": "https://news.livedoor.com/article/detail/31987347/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 05 Aug 2026 00:35:54 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "大阪で刃物持ち向かってきた人物に警察官が発砲 撃たれた人物は病院に搬送",
+      "link": "https://news.livedoor.com/article/detail/31987131/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 21:42:34 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "前立腺がんと大腸がん公表の桐谷広人さん、本音吐露「代役いれば休みたい」",
+      "link": "https://news.livedoor.com/article/detail/31987305/",
+      "description": "ざっくり言うと 前立腺・大腸がんを公表した桐谷広人さんが講演活動を再開すると告知した 8月30日のセミナー登壇に「大丈夫？」と心配の声が多数寄せられている 「代役がいれば休みたい」と本音を明かし、優待話の担い手不足を語った 記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 22:17:14 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -323,18 +355,18 @@
       "category": "総合"
     },
     {
-      "title": "ロッテ・益田直也が通算250セーブ達成 平成生まれの投手で初の名球会入りへ",
-      "link": "https://news.livedoor.com/article/detail/31986826/",
-      "description": "ざっくり言うと ロッテ・益田直也投手が通算250セーブを達成し名球会入りを果たした 日本プロ野球史上5人目の快挙で、平成生まれ投手では初の名球会入りとなる 市和歌山商から関西国際大を経て11年ドラフト4位でロッテに入団した選手 記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 20:46:36 +0900",
+      "title": "北海道で女子高校生の首をシャーペンで刺す 殺人未遂で41歳男を現行犯逮捕",
+      "link": "https://news.livedoor.com/article/detail/31987162/",
+      "description": "ざっくり言うと 北海道函館市の自称・無職の41歳男が殺人未遂容疑で現行犯逮捕された 店舗で女子高校生に対し、首をシャープペンシルで刺してけがをさせた疑い 犯行直後に自ら110番通報し、女子高校生とは面識はないとみられるという 記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 21:53:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "北海道で女子高校生の首をシャーペンで刺す 殺人未遂で41歳男を現行犯逮捕",
-      "link": "https://news.livedoor.com/article/detail/31987162/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 21:53:00 +0900",
+      "title": "菊地亜美、マレーシアへの移住決断を報告「今のところ短期間の予定」",
+      "link": "https://news.livedoor.com/article/detail/31986403/",
+      "description": "ざっくり言うと 菊地亜美が4日にSNSを更新し、今夏からマレーシアに移住すると発表した 「お仕事もあるので、日本と行き来をする二拠点生活となります」と説明 「今のところ短期間の予定で、具体的な期間は生活しながら決めていきたい」としている 記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 19:46:07 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -351,46 +383,6 @@
       "link": "https://news.livedoor.com/article/detail/31982524/",
       "description": "ざっくり言うと イオンモール熊本の爆発事故を元警視庁刑事がYouTube動画で解説した 専門店の従業員が売上金回収を会社側に指示され、死亡した件に言及 業務上過失致死罪の成立可能性や、民事上の損害賠償責任について語った 記事を読む",
       "pubDate": "Tue, 04 Aug 2026 11:41:37 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "マンガワン編集者 SNSで謝罪「作品優先で被害者の方への配慮が欠けていた」",
-      "link": "https://news.livedoor.com/article/detail/31986993/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 21:18:34 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "社員寮で元同僚を馬乗りで暴行容疑で45歳男逮捕 被害者は6日後に死亡確認",
-      "link": "https://news.livedoor.com/article/detail/31986164/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 19:14:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "フォロワー55万人の自称インフルエンサー男がベントレーで7台衝突し再逮捕",
-      "link": "https://news.livedoor.com/article/detail/31986076/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 19:10:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "しびれ、痛み、冷え、感覚の鈍さ…糖尿病で足に現れる初期症状",
-      "link": "https://news.livedoor.com/article/detail/31985809/",
-      "description": "ざっくり言うと 糖尿病による神経障害で足に現れる初期症状を医師が解説している しびれ、痛み、冷え、感覚の鈍さ、傷の治りにくさなどが現れる場合が 靴下を履いているような違和感、足裏に紙が貼り付いたような感覚を訴える人もいるそう 記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 09:30:16 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "菊地亜美、マレーシアへの移住決断を報告「今のところ短期間の予定」",
-      "link": "https://news.livedoor.com/article/detail/31986403/",
-      "description": "ざっくり言うと 菊地亜美が4日にSNSを更新し、今夏からマレーシアに移住すると発表した 「お仕事もあるので、日本と行き来をする二拠点生活となります」と説明 「今のところ短期間の予定で、具体的な期間は生活しながら決めていきたい」としている 記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 19:46:07 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -467,12 +459,20 @@
       "category": "経済"
     },
     {
-      "title": "Appleが英政府による2度目のバックドア作成命令に異議申し立て",
-      "link": "https://news.livedoor.com/article/detail/31986447/",
-      "description": "ざっくり言うと イギリス政府による2度目のiCloudバックドア作成命令に対しAppleが異議申し立て Appleは「バックドアを作成したことはなく今後も作らない」と従来の立場を堅持 2026年7月にIPTへ申し立てが行われ、命令を通せるかが今後の焦点となっている 記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 19:45:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "title": "ごみ清掃員としても活動するマシンガンズの滝沢秀一 竹串の捨て方を提言",
+      "link": "https://news.livedoor.com/article/detail/31982144/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 10:46:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "高市早苗首相の熊本避難所「3分視察」内閣広報官が51分間だと否定",
+      "link": "https://news.livedoor.com/article/detail/31984217/",
+      "description": "熊本地震の避難所を視察した高市首相を巡る誤情報がSNSで拡散した 滞在時間「3分間」との投稿に対し内閣広報官が公式Xで事実と異なると反論 首相動静によると高市氏は15時13分から16時4分まで51分間滞在したとのこと 記事を読む",
+      "pubDate": "Tue, 04 Aug 2026 14:55:18 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "「店舗に戻ったが」イオンモール熊本爆発で3人死亡、オンワードが経緯公表",
@@ -535,22 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/31986241/",
       "description": "記事を読む",
       "pubDate": "Tue, 04 Aug 2026 19:25:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "兵庫県の住宅工事現場で2人死亡「感電して呼吸がない」と119番通報",
-      "link": "https://news.livedoor.com/article/detail/31985427/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 17:48:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "高木美帆さんに国民栄誉賞、記念品は包丁10本セットが贈られる",
-      "link": "https://news.livedoor.com/article/detail/31985332/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 04 Aug 2026 17:43:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1038,7 +1022,7 @@
       "title": "8/4擬似ライブ！Zの指令を受けて円安上等に絡む雑魚　コミュニティノートも酷いね　円安上等は変わりません",
       "link": "https://www.youtube.com/watch?v=tINi1Uqy7JU",
       "description": "",
-      "pubDate": "2026-08-04T13:15:20+00:00",
+      "pubDate": "2026-08-04T14:08:50+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1118,7 +1102,7 @@
       "title": "【虎ノ門ニュース】須田慎一郎×石橋文登×宮崎謙介 2026/8/4(火)",
       "link": "https://www.youtube.com/watch?v=4CrrumAnHlA",
       "description": "",
-      "pubDate": "2026-08-04T13:08:24+00:00",
+      "pubDate": "2026-08-04T16:30:13+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1278,7 +1262,7 @@
       "title": "【ライブ】熊本で震度４の地震が発生！生放送で解説します！（2026年8月4日）",
       "link": "https://www.youtube.com/watch?v=sFjkchErSj8",
       "description": "",
-      "pubDate": "2026-08-04T13:25:14+00:00",
+      "pubDate": "2026-08-04T13:56:39+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
