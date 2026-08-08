@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-09 00:16 JST",
+  "updated": "2026-08-09 03:19 JST",
   "total": 167,
   "news": [
+    {
+      "title": "岩手県で震度4 津波の心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6591037?source=rss",
+      "description": "",
+      "pubDate": "Sat, 08 Aug 2026 18:13:01 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "戦時中 複数大学で輸血の人体実験",
       "link": "https://news.yahoo.co.jp/pickup/6591027?source=rss",
       "description": "",
       "pubDate": "Sat, 08 Aug 2026 13:19:53 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "沖縄で語り部 被爆体験訴える理由",
-      "link": "https://news.yahoo.co.jp/pickup/6591018?source=rss",
-      "description": "",
-      "pubDate": "Sat, 08 Aug 2026 11:29:35 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -67,6 +67,14 @@
       "category": "総合"
     },
     {
+      "title": "岩手県で震度4 津波の心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6591037?source=rss",
+      "description": "",
+      "pubDate": "Sat, 08 Aug 2026 18:13:01 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "台風15号 11-12日に東北上陸恐れ",
       "link": "https://news.yahoo.co.jp/pickup/6591011?source=rss",
       "description": "",
@@ -79,14 +87,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6590982?source=rss",
       "description": "",
       "pubDate": "Sat, 08 Aug 2026 06:01:53 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "政権の積極財政「日本売り」危機",
-      "link": "https://news.yahoo.co.jp/pickup/6590927?source=rss",
-      "description": "",
-      "pubDate": "Fri, 07 Aug 2026 23:12:07 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -315,6 +315,14 @@
       "category": "総合"
     },
     {
+      "title": "地震速報（02:58）",
+      "link": "https://news.livedoor.com/article/detail/32023378/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 09 Aug 2026 02:59:42 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "花王が「焼肉店」限定オープン？",
       "link": "https://news.livedoor.com/article/detail/31938551/",
       "description": "ざっくり言うと 渋谷区 道玄坂に、11日（火）～14日（金）限定で『焼肉リセッシュ亭』がオープン 「嗅覚直撃 中落ちカルビ」などユニークなメニューで、コースは半額の2,500円（税込） 食事が終わったら『焼肉リセッシュ亭』だけのサービスも。会場でぜひ確かめて！ 記事を読む",
@@ -383,14 +391,6 @@
       "link": "https://news.livedoor.com/article/detail/32022258/",
       "description": "記事を読む",
       "pubDate": "Sat, 08 Aug 2026 20:37:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "愛知で19歳女性が特急列車にはねられ死亡 運転士が急ブレーキかけるも衝突",
-      "link": "https://news.livedoor.com/article/detail/32022217/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 08 Aug 2026 20:23:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -1030,7 +1030,7 @@
       "title": "8/8　１人でニュースLIVE！洋一のミカタ",
       "link": "https://www.youtube.com/watch?v=FpwBCOyo5Is",
       "description": "",
-      "pubDate": "2026-08-08T10:14:53+00:00",
+      "pubDate": "2026-08-08T18:04:09+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1094,7 +1094,7 @@
       "title": "1561回　事業資金は借りろ！成功する経営者の共通点",
       "link": "https://www.youtube.com/watch?v=rfnT_lxfxoo",
       "description": "",
-      "pubDate": "2026-08-04T03:20:31+00:00",
+      "pubDate": "2026-08-08T17:50:35+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1102,7 +1102,7 @@
       "title": "【財務省人事だけじゃなかった】※緊急速報※増税派だった財務省出身者たちが続々と失脚していました（虎ノ門ニュース）",
       "link": "https://www.youtube.com/watch?v=NFYYo84nXoI",
       "description": "",
-      "pubDate": "2026-08-08T15:09:35+00:00",
+      "pubDate": "2026-08-08T18:03:43+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1254,7 +1254,7 @@
       "title": "ユース世代強化の土台作りへ…清水エスパルスが東海大学と協定　人材育成や地域貢献など幅広い分野で連携",
       "link": "https://www.youtube.com/watch?v=rdKInC_i4vo",
       "description": "",
-      "pubDate": "2026-08-07T10:18:15+00:00",
+      "pubDate": "2026-08-08T15:28:39+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1262,7 +1262,7 @@
       "title": "【解説】熊本地震と中央構造線の大地震連鎖の可能性について！分かりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=o_lCNnGsbj0",
       "description": "",
-      "pubDate": "2026-08-08T13:11:35+00:00",
+      "pubDate": "2026-08-08T15:54:00+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
