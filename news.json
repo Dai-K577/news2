@@ -1,28 +1,36 @@
 {
-  "updated": "2026-08-11 21:36 JST",
-  "total": 169,
+  "updated": "2026-08-12 00:46 JST",
+  "total": 167,
   "news": [
     {
-      "title": "台風15号が茨城に上陸 災害に警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6591354?source=rss",
+      "title": "台風上陸 12日も各地で大雨予想",
+      "link": "https://news.yahoo.co.jp/pickup/6591361?source=rss",
       "description": "",
-      "pubDate": "Tue, 11 Aug 2026 11:24:07 GMT",
+      "pubDate": "Tue, 11 Aug 2026 13:12:11 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "仏全土の7割近くで水の使用制限",
-      "link": "https://news.yahoo.co.jp/pickup/6591325?source=rss",
+      "title": "東北道下りで全車線塞ぐ倒木 栃木",
+      "link": "https://news.yahoo.co.jp/pickup/6591362?source=rss",
       "description": "",
-      "pubDate": "Tue, 11 Aug 2026 06:51:32 GMT",
+      "pubDate": "Tue, 11 Aug 2026 13:22:53 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "茨城県に台風上陸 現地のSNS投稿",
-      "link": "https://news.yahoo.co.jp/pickup/6591349?source=rss",
+      "title": "イオン 爆発事故で遺族に補償方針",
+      "link": "https://news.yahoo.co.jp/pickup/6591365?source=rss",
       "description": "",
-      "pubDate": "Tue, 11 Aug 2026 12:15:18 GMT",
+      "pubDate": "Tue, 11 Aug 2026 13:38:51 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "砂浜に遺体 近くで22歳男性が不明",
+      "link": "https://news.yahoo.co.jp/pickup/6591374?source=rss",
+      "description": "",
+      "pubDate": "Tue, 11 Aug 2026 14:43:55 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,10 +43,10 @@
       "category": "総合"
     },
     {
-      "title": "アスベスト影響 半蔵門線運転再開",
-      "link": "https://news.yahoo.co.jp/pickup/6591350?source=rss",
+      "title": "観覧エリアに花火落下 3人やけど",
+      "link": "https://news.yahoo.co.jp/pickup/6591366?source=rss",
       "description": "",
-      "pubDate": "Tue, 11 Aug 2026 10:39:32 GMT",
+      "pubDate": "Tue, 11 Aug 2026 13:34:28 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -51,26 +59,18 @@
       "category": "総合"
     },
     {
-      "title": "第2の麻辣湯 ビャンビャン麺とは",
-      "link": "https://news.yahoo.co.jp/pickup/6591353?source=rss",
+      "title": "山口一郎うつ病4年 進む新しい道",
+      "link": "https://news.yahoo.co.jp/pickup/6591331?source=rss",
       "description": "",
-      "pubDate": "Tue, 11 Aug 2026 11:39:27 GMT",
+      "pubDate": "Tue, 11 Aug 2026 08:42:06 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "SB三塁打→HR 相手リクエストで",
-      "link": "https://news.yahoo.co.jp/pickup/6591356?source=rss",
+      "title": "台風上陸 12日も各地で大雨予想",
+      "link": "https://news.yahoo.co.jp/pickup/6591361?source=rss",
       "description": "",
-      "pubDate": "Tue, 11 Aug 2026 12:20:35 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "台風15号が茨城に上陸 災害に警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6591354?source=rss",
-      "description": "",
-      "pubDate": "Tue, 11 Aug 2026 11:24:07 GMT",
+      "pubDate": "Tue, 11 Aug 2026 13:12:11 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -155,6 +155,22 @@
       "category": "国際"
     },
     {
+      "title": "コンゴ エボラ死者が2000人超える",
+      "link": "https://news.yahoo.co.jp/pickup/6591357?source=rss",
+      "description": "",
+      "pubDate": "Tue, 11 Aug 2026 12:42:26 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "コロンビアで地震 220人超死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6591372?source=rss",
+      "description": "",
+      "pubDate": "Tue, 11 Aug 2026 14:16:56 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "仏全土の7割近くで水の使用制限",
       "link": "https://news.yahoo.co.jp/pickup/6591325?source=rss",
       "description": "",
@@ -171,26 +187,10 @@
       "category": "国際"
     },
     {
-      "title": "露最高裁 反戦政党の選挙排除決定",
-      "link": "https://news.yahoo.co.jp/pickup/6591294?source=rss",
+      "title": "運転手のさじ加減? タイ二重価格",
+      "link": "https://news.yahoo.co.jp/pickup/6591364?source=rss",
       "description": "",
-      "pubDate": "Tue, 11 Aug 2026 01:13:53 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "コロンビアで地震 130人超死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6591343?source=rss",
-      "description": "",
-      "pubDate": "Tue, 11 Aug 2026 09:14:25 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "豪首相が番組で性的発言か 批判",
-      "link": "https://news.yahoo.co.jp/pickup/6591302?source=rss",
-      "description": "",
-      "pubDate": "Tue, 11 Aug 2026 03:26:49 GMT",
+      "pubDate": "Tue, 11 Aug 2026 13:37:40 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -307,14 +307,6 @@
       "category": "総合"
     },
     {
-      "title": "ケンコー・トキナー　軽量コンパクトながら本格的な天文撮影が可能なスマート望遠鏡",
-      "link": "https://www.j-cast.com/trend/2026/08/10516997.html",
-      "description": "カメラ用アクセサリーおよび家電などを手がけるケンコー・トキナー（東京都中野区）は、スマート望遠鏡「DWARF mini」を2026年8月12日に発売する。",
-      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -323,10 +315,74 @@
       "category": "総合"
     },
     {
+      "title": "「台風15号」の影響で茨城県内で風にあおられた女性3人が軽いケガ",
+      "link": "https://news.livedoor.com/article/detail/32043261/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 22:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "藤原竜也、新CMで「労務改善」",
+      "link": "https://news.livedoor.com/article/detail/31995275/",
+      "description": "ざっくり言うと 藤原竜也さんが出演、クライアント運用管理ソフトウェア「SKYSEA Client View」新TVCM 「チームの変革」篇が9日から全国で放映され、「AIで労務改善を支援」をアピール Ｓｋｙ株式会社の公式YouTubeチャンネルでは、藤原竜也さんの「メイキング動画」も 記事を読む",
+      "pubDate": "Thu, 06 Aug 2026 12:00:02 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "NY円、159円台前半 日米政府の介入も追加介入への警戒感が薄れ効果半減",
+      "link": "https://news.livedoor.com/article/detail/32043384/",
+      "description": "ざっくり言うと 7月11日のNY外為市場で円相場が1ドル＝159円台を記録した 7月30日以降の日米協調介入で円高が進んだが、効果は半減とみられる 介入直前比で一時8円近く円高になったが、現在は4円程度円安に戻った 記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 22:30:12 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "新たな「台風のたまご」が発生 週末ごろに関東に接近か",
+      "link": "https://news.livedoor.com/article/detail/32042595/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 19:29:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "母親殺害容疑で逮捕の娘、母親の口座の金もとに「投げ銭」1000万円超か",
+      "link": "https://news.livedoor.com/article/detail/32039541/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 11:08:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "JR宇都宮線とJR常磐線で倒木や停電による運転見合わせが発生",
+      "link": "https://news.livedoor.com/article/detail/32042921/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 20:47:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "栃木県の東北道で全車線塞ぐ倒木",
+      "link": "https://news.livedoor.com/article/detail/32043248/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 21:59:21 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ソニーとTSMCが熊本で合弁会社設立へ イメージセンサーの開発・量産",
+      "link": "https://news.livedoor.com/article/detail/32043142/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 21:25:33 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "「半蔵門線」全線で運転再開 アスベストを含む素材が見つかり運転見合わせ",
       "link": "https://news.livedoor.com/article/detail/32042509/",
       "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 19:29:33 +0900",
+      "pubDate": "Tue, 11 Aug 2026 19:29:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -335,70 +391,6 @@
       "link": "https://news.livedoor.com/article/detail/32042818/",
       "description": "記事を読む",
       "pubDate": "Tue, 11 Aug 2026 20:25:21 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "RIZINで秋元強真がクレベル撃破も左拳を骨折 大みそかは慎重に判断",
-      "link": "https://news.livedoor.com/article/detail/32042881/",
-      "description": "ざっくり言うと RIZIN.54でクレベル・コイケに勝利した秋元強真が試合を振り返った 試合1週間前に左拳を脱臼しており、1ラウンドで骨折が悪化したとみられる 大みそか出場は朝倉未来氏と相談の上、左拳の回復状況を見て判断するという 記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 20:44:44 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "オーストラリア首相、高市早苗氏寄贈のメロン巡り不適切言動「性的な言動」",
-      "link": "https://news.livedoor.com/article/detail/32042667/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 20:02:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "高知県の海岸で18歳男子学生が行方不明 母親を助けようとして流される",
-      "link": "https://news.livedoor.com/article/detail/32042688/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 20:04:52 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "台風15号が茨城県南部に上陸 1951年に気象庁が統計開始以降で初めて",
-      "link": "https://news.livedoor.com/article/detail/32042766/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 20:17:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "前立腺がん＆大腸がん公表の桐谷広人さんが今回の入院・手術費用を回答",
-      "link": "https://news.livedoor.com/article/detail/32041456/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 16:24:28 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "鈴木彩艶のPSG移籍が合意と複数の海外メディア報道 ユベントスへレンタルへ",
-      "link": "https://news.livedoor.com/article/detail/32042524/",
-      "description": "ざっくり言うと GK鈴木彩艶がパリSGへ移籍合意と複数の海外メディアが報じた 移籍金は出来高含む総額3500万ユーロ（約64億3000万円）で5年契約という 契約後はセリエA・ユベントスへ今季終了まで期限付き移籍の見通しとされる 記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 19:21:30 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "静岡の花火大会で花火の一部が観覧エリアに落下 観客らの髪や服焦げる",
-      "link": "https://news.livedoor.com/article/detail/32042364/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 19:07:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "表参道駅すぐ近くで街路樹倒れる",
-      "link": "https://news.livedoor.com/article/detail/32042324/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 19:03:25 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -467,12 +459,28 @@
       "category": "経済"
     },
     {
-      "title": "テスタが着目 AI電力ビジネス",
-      "link": "https://news.livedoor.com/article/detail/32008518/",
-      "description": "ざっくり言うと AI普及で深刻化する電力不足に、投資家テスタ氏が注目 イーレックスの蓄電所とバイオマス発電所を取材、収益モデルを検証 「蓄電」と「バイオマス」が支える成長テーマと事業の強みに迫る 記事を読む",
-      "pubDate": "Mon, 10 Aug 2026 17:00:01 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "title": "静岡の花火大会で花火の一部が観覧エリアに落下 観客らの髪や服焦げる",
+      "link": "https://news.livedoor.com/article/detail/32042364/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 19:07:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "台風15号が茨城県南部に上陸 1951年に気象庁が統計開始以降で初めて",
+      "link": "https://news.livedoor.com/article/detail/32042766/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 20:17:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "母を殺害した疑いの54歳娘、母の口座の金をもとに1000万円超投げ銭か",
+      "link": "https://news.livedoor.com/article/detail/32042815/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 20:14:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "地震避難後の再入館めぐりイオンが説明一転 遺族は「悔やまれる」",
@@ -486,7 +494,7 @@
       "title": "表参道駅すぐ近くで街路樹倒れる",
       "link": "https://news.livedoor.com/article/detail/32042324/",
       "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 19:03:25 +0900",
+      "pubDate": "Tue, 11 Aug 2026 19:03:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -502,7 +510,7 @@
       "title": "半蔵門線アスベスト素材見つかる",
       "link": "https://news.livedoor.com/article/detail/32041528/",
       "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 16:49:36 +0900",
+      "pubDate": "Tue, 11 Aug 2026 16:49:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -527,30 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/32041116/",
       "description": "記事を読む",
       "pubDate": "Tue, 11 Aug 2026 15:27:40 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "京都府の砂浜に男性遺体 近くの海水浴場では9日に男性が行方不明",
-      "link": "https://news.livedoor.com/article/detail/32041252/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 15:55:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "出産事故で母と娘に重度の障害、抱える割り切れない思いを語る",
-      "link": "https://news.livedoor.com/article/detail/32039576/",
-      "description": "ざっくり言うと 神奈川県の副住職・荒木貴弘さんが妻と娘の10年の介護生活を語った 出産事故で重度障がいを負った妻と娘を介護しながら僧侶として務めを果たす 「自分が思っていた幸せとは違う形の幸せをもらっている」と荒木さんは語る 記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 11:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「許してごせえ」と涙を流した父が後日死亡、兄妹2人で何度もバンザイ",
-      "link": "https://news.livedoor.com/article/detail/32039715/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 11 Aug 2026 11:10:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1038,7 +1022,7 @@
       "title": "1566回　衝撃の財務省人事　宇波事務次官は部下を捨てて自分が出世した！",
       "link": "https://www.youtube.com/watch?v=3j5xjf6yOLQ",
       "description": "",
-      "pubDate": "2026-08-11T11:40:42+00:00",
+      "pubDate": "2026-08-11T15:32:25+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1086,7 +1070,7 @@
       "title": "8/5擬似LIVE！ようやく消費税減税　選挙に負けた＆黙っていたくせに反対するヤツら",
       "link": "https://www.youtube.com/watch?v=IDwnwYMt8dQ",
       "description": "",
-      "pubDate": "2026-08-06T13:07:48+00:00",
+      "pubDate": "2026-08-09T01:04:12+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1118,7 +1102,7 @@
       "title": "【虎ノ門ニュース】須田慎一郎×長尾 賢×山田敏弘 2026/8/11(火)",
       "link": "https://www.youtube.com/watch?v=aI-2eKPspJM",
       "description": "",
-      "pubDate": "2026-08-11T12:23:55+00:00",
+      "pubDate": "2026-08-11T13:05:50+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
