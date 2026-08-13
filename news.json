@@ -1,15 +1,7 @@
 {
-  "updated": "2026-08-14 00:45 JST",
+  "updated": "2026-08-14 03:44 JST",
   "total": 168,
   "news": [
-    {
-      "title": "千葉県に土砂災害特別警報",
-      "link": "https://news.yahoo.co.jp/pickup/6591642?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 15:07:54 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
     {
       "title": "千葉県の大雨特別警報 エリア拡大",
       "link": "https://news.yahoo.co.jp/pickup/6591641?source=rss",
@@ -19,10 +11,10 @@
       "category": "総合"
     },
     {
-      "title": "気象庁「経験のないような大雨」",
-      "link": "https://news.yahoo.co.jp/pickup/6591626?source=rss",
+      "title": "千葉県に土砂災害特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6591642?source=rss",
       "description": "",
-      "pubDate": "Thu, 13 Aug 2026 12:05:45 GMT",
+      "pubDate": "Thu, 13 Aug 2026 15:07:54 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,6 +27,14 @@
       "category": "総合"
     },
     {
+      "title": "千葉県北西部などに線状降水帯",
+      "link": "https://news.yahoo.co.jp/pickup/6591644?source=rss",
+      "description": "",
+      "pubDate": "Thu, 13 Aug 2026 17:17:49 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "車内閉じ込めなど多数の通報 千葉",
       "link": "https://news.yahoo.co.jp/pickup/6591636?source=rss",
       "description": "",
@@ -43,18 +43,18 @@
       "category": "総合"
     },
     {
-      "title": "冠水道路に浮いた男性 死亡を確認",
-      "link": "https://news.yahoo.co.jp/pickup/6591638?source=rss",
+      "title": "千葉県で大雨 1人死亡1人心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6591645?source=rss",
       "description": "",
-      "pubDate": "Thu, 13 Aug 2026 13:59:28 GMT",
+      "pubDate": "Thu, 13 Aug 2026 17:25:46 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "大雨で帰宅困難 県庁に200人以上",
-      "link": "https://news.yahoo.co.jp/pickup/6591640?source=rss",
+      "title": "千葉大雨 帰宅時間の駅前に長い列",
+      "link": "https://news.yahoo.co.jp/pickup/6591643?source=rss",
       "description": "",
-      "pubDate": "Thu, 13 Aug 2026 14:45:43 GMT",
+      "pubDate": "Thu, 13 Aug 2026 15:49:52 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -91,6 +91,14 @@
       "category": "国内"
     },
     {
+      "title": "千葉県北西部などに線状降水帯",
+      "link": "https://news.yahoo.co.jp/pickup/6591644?source=rss",
+      "description": "",
+      "pubDate": "Thu, 13 Aug 2026 17:17:49 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "気象庁「経験のないような大雨」",
       "link": "https://news.yahoo.co.jp/pickup/6591626?source=rss",
       "description": "",
@@ -119,14 +127,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6591598?source=rss",
       "description": "",
       "pubDate": "Thu, 13 Aug 2026 08:28:30 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "秋篠宮さま 皇室典範巡りコメント",
-      "link": "https://news.yahoo.co.jp/pickup/6591564?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 03:55:31 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -1030,7 +1030,7 @@
       "title": "1568回　消費税についてグダグダの野党　アテが外れた国民民主",
       "link": "https://www.youtube.com/watch?v=90aTdPnXyBc",
       "description": "",
-      "pubDate": "2026-08-13T15:32:57+00:00",
+      "pubDate": "2026-08-13T18:33:17+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1270,7 +1270,7 @@
       "title": "【ライブ】本日の国内の地震と、コロンビアのM7.4の大地震について、生放送で解説します！（2026年8月13日）",
       "link": "https://www.youtube.com/watch?v=MCp7I1dmfZU",
       "description": "",
-      "pubDate": "2026-08-13T14:12:29+00:00",
+      "pubDate": "2026-08-13T18:22:35+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
