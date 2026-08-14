@@ -1,84 +1,92 @@
 {
-  "updated": "2026-08-14 06:32 JST",
-  "total": 167,
+  "updated": "2026-08-14 09:54 JST",
+  "total": 168,
   "news": [
     {
+      "title": "関東・東北 夕方から雨強まる予想",
+      "link": "https://news.yahoo.co.jp/pickup/6591665?source=rss",
+      "description": "",
+      "pubDate": "Fri, 14 Aug 2026 00:25:28 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "千葉大雨の死者4人に 行方不明1人",
+      "link": "https://news.yahoo.co.jp/pickup/6591663?source=rss",
+      "description": "",
+      "pubDate": "Thu, 13 Aug 2026 23:45:37 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "帰宅困難の約4千人 自衛隊が輸送",
+      "link": "https://news.yahoo.co.jp/pickup/6591664?source=rss",
+      "description": "",
+      "pubDate": "Fri, 14 Aug 2026 00:18:28 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "成田空港に7000人が滞留 大雨影響",
+      "link": "https://news.yahoo.co.jp/pickup/6591657?source=rss",
+      "description": "",
+      "pubDate": "Thu, 13 Aug 2026 23:01:52 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "一夜明けた千葉 上空からの映像",
+      "link": "https://news.yahoo.co.jp/pickup/6591661?source=rss",
+      "description": "",
+      "pubDate": "Thu, 13 Aug 2026 23:28:49 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "患者のX線画像 9病院で流出疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6591658?source=rss",
+      "description": "",
+      "pubDate": "Thu, 13 Aug 2026 23:13:13 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "千葉にいまして 矢部浩之ANN休演",
+      "link": "https://news.yahoo.co.jp/pickup/6591654?source=rss",
+      "description": "",
+      "pubDate": "Thu, 13 Aug 2026 22:13:36 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "サマソニ東京 予定通り千葉で開催",
+      "link": "https://news.yahoo.co.jp/pickup/6591662?source=rss",
+      "description": "",
+      "pubDate": "Fri, 14 Aug 2026 00:03:14 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "千葉県の特別警報 危険警報に切替",
       "link": "https://news.yahoo.co.jp/pickup/6591650?source=rss",
       "description": "",
       "pubDate": "Thu, 13 Aug 2026 20:42:44 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "関東・東北 夕方から雨強まる予想",
+      "link": "https://news.yahoo.co.jp/pickup/6591665?source=rss",
+      "description": "",
+      "pubDate": "Fri, 14 Aug 2026 00:25:28 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "危険な雨 土砂災害など終日警戒",
       "link": "https://news.yahoo.co.jp/pickup/6591649?source=rss",
       "description": "",
       "pubDate": "Thu, 13 Aug 2026 20:29:37 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "安全確保を 大雨のときのNG行動",
-      "link": "https://news.yahoo.co.jp/pickup/6589507?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 10:41:24 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉県に大雨 最新情報まとめ",
-      "link": "https://news.yahoo.co.jp/pickup/6591651?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 20:51:47 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉県内のJR各線 始発から運休",
-      "link": "https://news.yahoo.co.jp/pickup/6591646?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 19:46:02 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "午前1時 成田空港に6600人が滞留",
-      "link": "https://news.yahoo.co.jp/pickup/6591647?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 20:00:16 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉県で大雨 3人死亡1人心肺停止",
-      "link": "https://news.yahoo.co.jp/pickup/6591652?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 21:27:59 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉県で大雨 現地のSNS投稿",
-      "link": "https://news.yahoo.co.jp/pickup/6591625?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 12:03:07 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉県の特別警報 危険警報に切替",
-      "link": "https://news.yahoo.co.jp/pickup/6591650?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 20:42:44 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "危険な雨 土砂災害など終日警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6591649?source=rss",
-      "description": "",
-      "pubDate": "Thu, 13 Aug 2026 20:29:37 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -91,10 +99,10 @@
       "category": "国内"
     },
     {
-      "title": "千葉県北西部などに線状降水帯",
-      "link": "https://news.yahoo.co.jp/pickup/6591644?source=rss",
+      "title": "千葉市など 約2万5300軒が停電",
+      "link": "https://news.yahoo.co.jp/pickup/6591666?source=rss",
       "description": "",
-      "pubDate": "Thu, 13 Aug 2026 17:17:49 GMT",
+      "pubDate": "Fri, 14 Aug 2026 00:44:39 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -115,14 +123,6 @@
       "category": "国内"
     },
     {
-      "title": "千葉県などで停電発生 最新の状況",
-      "link": "https://news.yahoo.co.jp/pickup/6591633?source=rss",
-      "description": "「停電情報」どこで停電が起きているか、都道府県ごとに地図に表示している。周辺の状況確認を。",
-      "pubDate": "Thu, 13 Aug 2026 13:17:20 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "露大統領の択捉島訪問 高市氏抗議",
       "link": "https://news.yahoo.co.jp/pickup/6591598?source=rss",
       "description": "",
@@ -131,18 +131,18 @@
       "category": "国内"
     },
     {
-      "title": "露大統領が択捉島を電撃訪問 波紋",
-      "link": "https://news.yahoo.co.jp/pickup/6591614?source=rss",
+      "title": "米当局 北方領土は「日本に主権」",
+      "link": "https://news.yahoo.co.jp/pickup/6591659?source=rss",
       "description": "",
-      "pubDate": "Thu, 13 Aug 2026 11:50:30 GMT",
+      "pubDate": "Fri, 14 Aug 2026 00:00:04 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
     {
-      "title": "プーチン大統領 北方領土を初訪問",
-      "link": "https://news.yahoo.co.jp/pickup/6591560?source=rss",
+      "title": "露大統領が択捉島を電撃訪問 波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6591614?source=rss",
       "description": "",
-      "pubDate": "Thu, 13 Aug 2026 03:13:10 GMT",
+      "pubDate": "Thu, 13 Aug 2026 11:50:30 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -195,6 +195,22 @@
       "category": "国際"
     },
     {
+      "title": "バキバキ肉体のコロチキ西野創人、「減量開始4ヶ月」ビフォーアフターに衝撃　「全然違う」「仕上がってる！」",
+      "link": "https://www.j-cast.com/2026/08/14517036.html",
+      "description": "お笑いコンビ「コロコロチキチキペッパーズ」の西野創人さん（34）が、2026年8月7日にインスタグラムを更新。肉体改造のビフォーアフター写真を公開した。",
+      "pubDate": "Fri, 14 Aug 2026 08:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "サッカー・ハーランドの美女モデル恋人、肩出しタイトなワンピで色気ダダ漏れ　すらり神スタイルの美貌",
+      "link": "https://www.j-cast.com/2026/08/14517042.html",
+      "description": "サッカーワールドカップ北中米大会でノルウェー代表として活躍したアーリング・ハーランド選手（26、マンチェスターC）の恋人で、モデルのイザベル・ヨハンセンさん（22）が2026年8月4日、自身のインスタグラムを更新。美スタイル際立つタイトなワンピースショットを披露した。",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "本田望結、花柄の浴衣姿でかわいさ限界突破...口元に指をそえてポージング　「めっちゃ可愛い」「浴衣美人」",
       "link": "https://www.j-cast.com/2026/08/13517107.html",
       "description": "俳優の本田望結さん（22）が2026年8月8日、自身のインスタグラムを更新。着物姿を披露した。",
@@ -219,6 +235,14 @@
       "category": "総合"
     },
     {
+      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
+      "link": "http://j-town.net/news/localnews/241949.html",
+      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
+      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "佐藤二朗、88歳母が死去　1か月後の公表は「この度のこと」が背景に",
       "link": "https://www.j-cast.com/2026/08/13517127.html",
       "description": "俳優・佐藤二朗さんが2026年8月13日にXを更新し、7月11日に88歳の母が死去したことを公表した。公表が死去から1か月後になった理由について、「この度のことの渦中にあり、母逝去のご報告を僕自身の判断で控えておりました」などと説明した。",
@@ -235,14 +259,6 @@
       "category": "総合"
     },
     {
-      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
-      "link": "http://j-town.net/news/localnews/241949.html",
-      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
-      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "三浦瑠麗氏、豪首相「性的言動」批判の「メロン」騒動を分析　別の首相なら「あの種のネタはやらない」",
       "link": "https://www.j-cast.com/2026/08/13517125.html",
       "description": "オーストラリアのアルバニージー首相が、高市早苗首相から贈られたメロンをめぐって不適切な言動をしたとの批判が上がっている問題を受け、国際政治学者の三浦瑠麗氏が2026年8月13日にXを更新し、自身の見解を示した。",
@@ -255,22 +271,6 @@
       "link": "https://www.j-cast.com/2026/08/13517119.html",
       "description": "登録者42万人の女性YouTuber・こぴさんが2026年8月11日、公式YouTubeチャンネルに公開した動画で、ストーカー被害に遭ったため引っ越しをしたと報告した。",
       "pubDate": "Thu, 13 Aug 2026 18:15:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "「地方議会のドン」全国で君臨する現実　福岡・蔵内勇夫議長は10期の大半が無投票当選、県議55年の人物も",
-      "link": "https://www.j-cast.com/2026/08/13517077.html",
-      "description": "2026年の夏、福岡県議会が揺れている。「県議会のドン」と呼ばれる蔵内勇夫議長をめぐり、金銭授受の告発、音声の声紋鑑定、身内企業への利益誘導疑惑、そして出張先での「ネパールは天国だった」という発言まで、疑惑と波紋が次々に噴き出している。",
-      "pubDate": "Thu, 13 Aug 2026 18:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "「松浦勝人　多分　あなた　捕まるよ　警察に」　こんなSNSの誹謗中傷を許さないエイベックス会長のアクション",
-      "link": "https://www.j-cast.com/2026/08/13517111.html",
-      "description": "エイベックスの松浦勝人会長が2026年8月13日、「SNSの誹謗中傷問題」をめぐり、SNS上の投稿を自動で巡回するシステムを作成したとXで報告した。",
-      "pubDate": "Thu, 13 Aug 2026 17:15:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -307,130 +307,138 @@
       "category": "総合"
     },
     {
-      "title": "劇場版「まどマギ」9月12日午前0時まではネタバレ投稿は禁止と呼びかけ",
-      "link": "https://news.livedoor.com/article/detail/32059828/",
+      "title": "「サマソニ」東京公演を予定通り開催へ 千葉の大雨から一夜明け発表",
+      "link": "https://news.livedoor.com/article/detail/32063106/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 19:52:04 +0900",
+      "pubDate": "Fri, 14 Aug 2026 09:37:28 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「映画ちいかわ 人魚の島のひみつ」公開20日間で興行収入80.7億円を突破",
-      "link": "https://news.livedoor.com/article/detail/32059890/",
-      "description": "ざっくり言うと 映画ちいかわ 人魚の島のひみつが公開20日間で興収80.7億円を突破した 現在公開中のコナン映画と同規模のペースで興行収入が推移しているとのこと 大ヒット記念でノンクレジット版OPが解禁され、キャストコメントも公開された 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 20:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "藤原竜也、新CMで「労務改善」",
-      "link": "https://news.livedoor.com/article/detail/31995275/",
-      "description": "ざっくり言うと 藤原竜也さんが出演、クライアント運用管理ソフトウェア「SKYSEA Client View」新TVCM 「チームの変革」篇が9日から全国で放映され、「AIで労務改善を支援」をアピール Ｓｋｙ株式会社の公式YouTubeチャンネルでは、藤原竜也さんの「メイキング動画」も 記事を読む",
-      "pubDate": "Thu, 06 Aug 2026 12:00:02 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "政府は千葉県での大雨を受け、情報連絡室を官邸連絡室に格上げ",
-      "link": "https://news.livedoor.com/article/detail/32060902/",
+      "title": "「セクシー女優の仕事がなければ…」子役から芸能界携わる女性、壮絶な半生",
+      "link": "https://news.livedoor.com/article/detail/32057940/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 22:43:15 +0900",
+      "pubDate": "Thu, 13 Aug 2026 15:54:13 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "2026年いっぱいで閉鎖 活気を失った「クロスガーデン多摩」の現状",
-      "link": "https://news.livedoor.com/article/detail/32024650/",
-      "description": "ざっくり言うと 2026年12月31日をもって営業を終了することが決まっている「クロスガーデン多摩」 かつては大型テナントを擁していたが、現在は退店が相次ぎ現場は活気を失っているそう 衰退の背景には、「店が減って行く理由が消えて客が減って…」という悪循環があるそう 記事を読む",
-      "pubDate": "Sun, 09 Aug 2026 09:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "玉木代表「舐められ過ぎ」プーチン氏択捉島訪問で対ロ政策の変更を要請",
-      "link": "https://news.livedoor.com/article/detail/32060793/",
-      "description": "ざっくり言うと プーチン大統領が択捉島を訪問したことに玉木雄一郎氏が言及した 経済訪問団派遣など六つの問題点を挙げ、対ロ政策の転換を強く要求 「舐められ過ぎ」と怒りをにじませ、スパイ追放なども訴えている 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 22:17:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ポケモンバンクが来年2月26日にサービス終了へ ポケモン公式サイトで発表",
-      "link": "https://news.livedoor.com/article/detail/32060694/",
-      "description": "ざっくり言うと 『ポケモンバンク』が2027年2月26日にサービス終了すると発表された 同日に『Pokémon HOME』へのひっこし機能も終了する予定とのこと 預けたポケモンを引き継ぐには期日までの移行手続きが必要となる 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 22:06:53 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉県では災害が発生している可能性が極めて高いか 気象庁が呼びかけ",
-      "link": "https://news.livedoor.com/article/detail/32060177/",
+      "title": "ロシア軍、ウクライナ南部で列車をドローン攻撃…2人の死者が出る事態に",
+      "link": "https://news.livedoor.com/article/detail/32062820/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 20:36:17 +0900",
+      "pubDate": "Fri, 14 Aug 2026 08:38:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "YouTuber・ちょんまげ小僧、成長した姿を披露 関コレにブレザー姿で登場",
-      "link": "https://news.livedoor.com/article/detail/32060031/",
-      "description": "ざっくり言うと 6人組YouTuberちょんまげ小僧が関コレ2026に出演した ブレザー姿でランウェイに登場し、中学生時代からの成長を見せた 「ひき肉です！」フレーズで人気を集め登録者数は100万人超えである 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 20:18:33 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉県柏市で道路冠水し車に2人閉じ込められる 救出された1人が心肺停止",
-      "link": "https://news.livedoor.com/article/detail/32060259/",
+      "title": "女子高生を強姦したうえ殺害し遺体を埋めた…力士志望の男が激昂したワケ",
+      "link": "https://news.livedoor.com/article/detail/32053847/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 20:53:00 +0900",
+      "pubDate": "Thu, 13 Aug 2026 07:30:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "相続対策において最も致命的な失敗は「親が認知症になってしまうこと」",
-      "link": "https://news.livedoor.com/article/detail/32046310/",
-      "description": "ざっくり言うと 相続対策は親が認知症になる前に行うことが絶対条件だと専門家が指摘する 意思能力が失われると生前贈与・不動産売却など全ての法律行為が停止するという 子から親へ話を切り出す際は親の希望を聞く質問から入ることが有効とのこと 記事を読む",
-      "pubDate": "Wed, 12 Aug 2026 11:19:39 +0900",
+      "title": "「米国化」に反発？FIFA・インファンティーノ会長による大騒動の原因分析",
+      "link": "https://news.livedoor.com/article/detail/32062447/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "アメリカ・コロラド州のホテルにクマが侵入 チョコを奪って立ち去る",
+      "link": "https://news.livedoor.com/article/detail/32063024/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 09:21:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "PayPay「改悪」で批判続出も…バラマキのフェーズを終えた本当の狙い",
+      "link": "https://news.livedoor.com/article/detail/32062493/",
+      "description": "ざっくり言うと PayPayが6月に実施したルール改定がSNSで「改悪」と話題になっている 本人確認未完了ユーザーはポイント還元対象外となり、詐欺対策が主な目的とのこと 8月末には他社クレカの直接紐付け決済が終了し、収益化フェーズへの移行が鮮明だ 記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 07:15:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "子どもたちの夏休みの「昼ご飯」親たちが悩む…自治体が支援するケースも",
+      "link": "https://news.livedoor.com/article/detail/32053844/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 13 Aug 2026 06:59:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "広末涼子「早すぎる」地上波復帰のウラ 関係者から見解「TBSが忖度して…」",
+      "link": "https://news.livedoor.com/article/detail/32062345/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 06:55:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "北朝鮮でスマートフォン普及  しかし「行動を記録・監視する機能」搭載か",
+      "link": "https://news.livedoor.com/article/detail/32059850/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 13 Aug 2026 18:57:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "日経平均 1カ月ぶり6万9000円台",
+      "link": "https://news.livedoor.com/article/detail/32063001/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 09:10:41 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "私立小の入試後…6歳が涙「ママは、私の気持ちなんかわからない！！」",
-      "link": "https://news.livedoor.com/article/detail/32054499/",
-      "description": "ざっくり言うと 億り人投資家ママが小学校受験を投資の視点で語る連載記事である 11月の入試本番で娘が「時間が足りなかった」と落ち込み感情が崩壊した 合否より受験プロセス自体が子の人生の糧になると友人に諭されたという 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 10:07:10 +0900",
+      "title": "「60代の100万円と、80代の100万円では」年金繰り上げ、単純に損でない理由",
+      "link": "https://news.livedoor.com/article/detail/32062451/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "ホンダが新型フィットを発表、スポーティ装備が充実し販売店で好評の声",
-      "link": "https://news.livedoor.com/article/detail/32056839/",
-      "description": "ざっくり言うと ホンダが2026年7月9日にコンパクトカー「フィット」のマイナーチェンジを発表した グレード体系を4タイプに再編し、「Z」がシャープなデザインと豪華装備で刷新された 販売現場では「以前より明らかに刺さり方が違う」と営業マンが手応えを語っている 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 14:10:00 +0900",
+      "title": "台湾で「PayPay」が使える店が存在する…人気旅系YouTuberの動画で紹介も",
+      "link": "https://news.livedoor.com/article/detail/32055773/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 13 Aug 2026 12:12:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "「自分の家ないの？」姪っ子の無邪気な問いにショックを受けた未婚男性",
-      "link": "https://news.livedoor.com/article/detail/32054872/",
-      "description": "ざっくり言うと 地方都市の実家で両親と暮らす48歳の独身男性のエピソードを紹介 泊まりに来た姪から「自分の家がないの？」と言われ、何も答えられなかったという 「7歳の子に、一番痛いところを突かれた気がしました」と、当時を回顧した 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 10:45:00 +0900",
+      "title": "「甲子園の名門」だったPL学園、存続危機 3学年合わせて生徒数は「39人」",
+      "link": "https://news.livedoor.com/article/detail/32057846/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 13 Aug 2026 16:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "ホンダの新型ADV160が発売直後から完売、次回入荷は9月以降の見込み",
-      "link": "https://news.livedoor.com/article/detail/32054045/",
-      "description": "ざっくり言うと ホンダが2026年5月に軽二輪スクーター「ADV160」の新型を発売した 価格は53万9000円で、都内販売店では入荷分がすべて完売している状況だ 最人気色の納期は10月以降となる見込みで、高い需要が続いているとのこと 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 08:30:00 +0900",
+      "title": "退職金1000万円を仮想通貨で運用する前に知っておくべきリスク",
+      "link": "https://news.livedoor.com/article/detail/32062606/",
+      "description": "ざっくり言うと 退職金2000万円の半分1000万円を暗号資産で運用する是非を解説 暗号資産は50％下落で500万円になるリスクがあると指摘される 老後資金は余裕分のみ充て、預貯金や株式への分散が基本とされる 記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 07:30:07 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "帰省中に親が口にしたら要注意、リースバックで住まいを失うリスクとは",
-      "link": "https://news.livedoor.com/article/detail/32055230/",
-      "description": "ざっくり言うと 帰省シーズンに向け、FP内田英子さんがリースバックの注意点を解説した 自宅売却後も住み続けられる仕組みだが、家賃高騰や退去リスクが潜むという 「売ってもずっと住める」と親が話し始めたら要注意フラグと内田さんは指摘する 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 11:15:00 +0900",
+      "title": "パート年収が130万円を超えると、手取りはどれくらい減るのか",
+      "link": "https://news.livedoor.com/article/detail/32062759/",
+      "description": "ざっくり言うと パート年収が130万円を超えた場合の手取り減少額について解説した記事 年収131万円になると社会保険料が年間約19万円の負担となるとのこと 令和7年の年金制度改正で106万円の壁撤廃も予定されており注目が集まる 記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 08:00:49 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "高速道路の渋滞で右車線に移るのは逆効果、左車線をキープすべき理由",
+      "link": "https://news.livedoor.com/article/detail/32062501/",
+      "description": "ざっくり言うと お盆の高速渋滞でどの車線を走るべきかをホームライフ取材班が解説 追い越し車線は車が集中して渋滞悪化するため左車線が有利という タイヤ空気圧やガソリン半分給油など燃費改善策も同書で紹介されている 記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 07:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -443,98 +451,98 @@
       "category": "経済"
     },
     {
-      "title": "宮脇さき氏が解説、円安で100万円の購買力が65万円相当に低下",
-      "link": "https://news.livedoor.com/article/detail/32059302/",
+      "title": "トヨタや任天堂など日本企業の現地法人、米消費者から返金訴訟",
+      "link": "https://news.livedoor.com/article/detail/32062433/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 19:00:00 +0900",
+      "pubDate": "Fri, 14 Aug 2026 07:18:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "AI会議録サービスtl;dvで18万件の会議メタデータが閲覧可能だった疑い",
-      "link": "https://news.livedoor.com/article/detail/32059956/",
-      "description": "ざっくり言うと AI会議録サービス「tl;dv」に全ユーザーの会議記録を横断 取得できる脆弱性があったと研究者BobDaHacker氏が報告した tl;dvは2つの異なる攻撃経路と説明し、脆弱性は修正済みとした 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 20:08:00 +0900",
+      "title": "会社を辞めると社会保険料が年100万円超になることがある理由",
+      "link": "https://news.livedoor.com/article/detail/32062757/",
+      "description": "ざっくり言うと 退職後の社会保険料が想定以上に高くなる仕組みを解説した記事である 会社員時代は労使折半だった保険料が退職後は全額自己負担となり負担増となる 夫婦2人で国民年金のみで年間43万円超となり国民健康保険料も加わる点に注意が必要だ 記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 08:10:08 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "千葉・市原の水路で「人が流された」と通報 消防は近づけない状況か",
-      "link": "https://news.livedoor.com/article/detail/32061045/",
+      "title": "医師の34歳男性の顔面を膝蹴りか、薬剤師の40歳男を逮捕 香川",
+      "link": "https://news.livedoor.com/article/detail/32062970/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 23:25:43 +0900",
+      "pubDate": "Fri, 14 Aug 2026 08:51:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "2026年いっぱいで閉鎖 活気を失った「クロスガーデン多摩」の現状",
-      "link": "https://news.livedoor.com/article/detail/32024650/",
-      "description": "ざっくり言うと 2026年12月31日をもって営業を終了することが決まっている「クロスガーデン多摩」 かつては大型テナントを擁していたが、現在は退店が相次ぎ現場は活気を失っているそう 衰退の背景には、「店が減って行く理由が消えて客が減って…」という悪循環があるそう 記事を読む",
-      "pubDate": "Sun, 09 Aug 2026 09:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "千葉県柏市で道路冠水し車に2人閉じ込められる 救出された1人が心肺停止",
-      "link": "https://news.livedoor.com/article/detail/32060259/",
+      "title": "抗がん剤治療で「地獄」を味わう…汗と涙と鼻水とよだれが止まらない",
+      "link": "https://news.livedoor.com/article/detail/32060847/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 20:53:00 +0900",
+      "pubDate": "Thu, 13 Aug 2026 22:30:03 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "千葉県北西部に「レベル5 大雨特別警報」千葉市、市川市、船橋市、松戸など",
-      "link": "https://news.livedoor.com/article/detail/32059657/",
-      "description": "ざっくり言うと 銚子地方気象台が千葉県北西部にレベル5大雨特別警報を発表した 千葉市や市川市、船橋市など12市が対象で、最大級の警戒が必要な状況 災害がすでに発生している可能性が極めて高く、命を守るため最善の行動を呼びかけた 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 19:33:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "親族死亡とウソをついて休暇を申請 入国管理センターの男性職員を懲戒処分",
-      "link": "https://news.livedoor.com/article/detail/32057615/",
+      "title": "いつもは鼻の穴を隠してるカラス、見られるのは夏の間だけ",
+      "link": "https://news.livedoor.com/article/detail/32060963/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 15:31:14 +0900",
+      "pubDate": "Thu, 13 Aug 2026 22:45:05 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "イオン防災マニュアル5社未認識",
-      "link": "https://news.livedoor.com/article/detail/32059289/",
+      "title": "死角からからスマホで行為を盗撮…被害訴える知人語る卑劣な手口",
+      "link": "https://news.livedoor.com/article/detail/32062393/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 18:51:26 +0900",
+      "pubDate": "Fri, 14 Aug 2026 07:09:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "韓国岳で流星群ツアーの男性が滑落 火口底で発見も心肺停止の状態",
-      "link": "https://news.livedoor.com/article/detail/32059966/",
+      "title": "女子高生を強姦したうえ殺害し遺体を埋めた…力士志望の男が激昂したワケ",
+      "link": "https://news.livedoor.com/article/detail/32053847/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 19:49:17 +0900",
+      "pubDate": "Thu, 13 Aug 2026 07:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "「単なる性格の問題ではない」大人の「不安症」を精神科医が解説",
-      "link": "https://news.livedoor.com/article/detail/32056841/",
-      "description": "ざっくり言うと 性格の問題と誤解されがちな大人の極端な不安について、精神科医がYouTubeで解説した 脳内の「扁桃体」が敏感になりすぎていることが不安症が起こる原因だと指摘 薬物療法や認知行動療法などの治療によって治すことができると結論付けた 記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 14:18:53 +0900",
+      "title": "「寝つきが悪い」とイライラ…思いのほか早くに眠っているケースは多い",
+      "link": "https://news.livedoor.com/article/detail/32062828/",
+      "description": "ざっくり言うと 西野精治氏監修の睡眠解説書が、入眠の思い込みについて紹介している 眠れないと感じている時間は体感と実際にズレがあるとされている 眠れない意識がストレスになるため、無理に眠ろうとしないことが対処法とされる 記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 08:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "千葉県にレベル5大雨特別警報 対象の12市は数十年に一度の重大な危険",
-      "link": "https://news.livedoor.com/article/detail/32059776/",
+      "title": "34歳女性の腕を掴み続けけがをさせたか、42歳男を逮捕 札幌",
+      "link": "https://news.livedoor.com/article/detail/32062097/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 19:40:00 +0900",
+      "pubDate": "Fri, 14 Aug 2026 06:07:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "九州自動車道があす全線再開へ 救援物資などの輸送改善に期待",
-      "link": "https://news.livedoor.com/article/detail/32057982/",
+      "title": "家族の死後に追われる手続きを解説、意識したいのは「3カ月」という期限",
+      "link": "https://news.livedoor.com/article/detail/32062135/",
       "description": "記事を読む",
-      "pubDate": "Thu, 13 Aug 2026 16:30:00 +0900",
+      "pubDate": "Fri, 14 Aug 2026 06:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "週末に睡眠時間を1～2時間延ばすと抑うつ症状の割合が下がる？寝だめの効果",
+      "link": "https://news.livedoor.com/article/detail/32062460/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "JR東日本、京葉線の海浜幕張～蘇我駅間で運転見合わせ…再開めど立たず",
+      "link": "https://news.livedoor.com/article/detail/32062322/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 14 Aug 2026 06:53:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -779,6 +787,14 @@
       "category": "経済"
     },
     {
+      "title": "エルニーニョ現象が問う日本の人道支援—アフリカの角とシーレーンリスク",
+      "link": "https://www.dir.co.jp/report/column/20260814_012467.html",
+      "description": "2026年から2027年にかけて、「エルニーニョ現象」が猛威を振るうとされている。エルニーニョ現象は、南米ペルー沖から西の海域にかけて海面水温が高くなる現象で、世界各地に異常気象をもたらしやすい。",
+      "pubDate": "Fri, 14 Aug 2026 09:00:00 +0900",
+      "source": "大和総研 コラム",
+      "category": "経済"
+    },
+    {
       "title": "島の泡、市場(マーケット)へ",
       "link": "https://www.dir.co.jp/report/column/20260812_012466.html",
       "description": "沖縄で「とりあえず生」といえば、たいていオリオンビールだ。1957年、本土復帰前の沖縄に生まれたビールは、半世紀以上、島の食卓と観光の記憶に寄り添ってきた。その「島の象徴」が2025年9月、東証プライム市場に上場した。",
@@ -847,14 +863,6 @@
       "link": "https://www.dir.co.jp/report/column/20260724_012458.html",
       "description": "2026年夏、欧州は記録的な暑さに見舞われている。EUの気象情報機関であるコペルニクス気候変動サービスによれば、2026年6月の西欧の気温は6月としては過去最高であり、特に激しい熱波が襲来した6月後半には、スペインやフランス、ドイツなどの多くの地域で気温40度を超える暑さを記録した。",
       "pubDate": "Fri, 24 Jul 2026 09:00:00 +0900",
-      "source": "大和総研 コラム",
-      "category": "経済"
-    },
-    {
-      "title": "スポーツイベント中継で存在感を増す動画配信事業者の台頭は業界再編を促すか",
-      "link": "https://www.dir.co.jp/report/column/20260722_012457.html",
-      "description": "史上最多となる48の国・地域が出場し、1か月超に及ぶ熱戦が繰り広げられた「FIFAワールドカップ2026™」（以下、WC）が閉幕した。本コラムは準決勝終了時点で執筆しているが、WCは多くの人々に大きな感動を残してフィナーレを迎えたことであろう。",
-      "pubDate": "Wed, 22 Jul 2026 09:00:00 +0900",
       "source": "大和総研 コラム",
       "category": "経済"
     },
@@ -1022,7 +1030,7 @@
       "title": "1568回　消費税についてグダグダの野党　アテが外れた国民民主",
       "link": "https://www.youtube.com/watch?v=90aTdPnXyBc",
       "description": "",
-      "pubDate": "2026-08-13T20:56:53+00:00",
+      "pubDate": "2026-08-14T00:18:45+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1099,6 +1107,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【虎ノ門ニュース】武田邦彦×三枝玄太郎 2026/8/14(金)",
+      "link": "https://www.youtube.com/watch?v=Ai0uu-HbKhA",
+      "description": "",
+      "pubDate": "2026-08-14T00:46:02+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
       "title": "【プーチン大統領が北方領土に…】※忘れてはいけない歴史※ ロシアが北方領土を襲った時、樺太で何が起きていたのか？（竹田恒泰×虎ノ門ニュース切り抜き）",
       "link": "https://www.youtube.com/watch?v=fk8HIEUeo7w",
       "description": "",
@@ -1127,14 +1143,6 @@
       "link": "https://www.youtube.com/watch?v=NFYYo84nXoI",
       "description": "",
       "pubDate": "2026-08-09T08:35:58+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】武田邦彦×三枝玄太郎 2026/8/14(金)",
-      "link": "https://www.youtube.com/watch?v=Ai0uu-HbKhA",
-      "description": "",
-      "pubDate": "2026-08-10T01:18:16+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
