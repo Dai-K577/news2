@@ -1,44 +1,60 @@
 {
-  "updated": "2026-08-16 21:14 JST",
-  "total": 167,
+  "updated": "2026-08-17 00:09 JST",
+  "total": 166,
   "news": [
     {
-      "title": "内閣改造と自民役員人事 注目点は",
-      "link": "https://news.yahoo.co.jp/pickup/6591986?source=rss",
+      "title": "逆走台風と千葉豪雨 なぜ起きた",
+      "link": "https://news.yahoo.co.jp/pickup/6591993?source=rss",
       "description": "",
-      "pubDate": "Sun, 16 Aug 2026 11:11:22 GMT",
+      "pubDate": "Sun, 16 Aug 2026 13:00:16 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "千葉の車両撤去 JAFに要請が殺到",
-      "link": "https://news.yahoo.co.jp/pickup/6591972?source=rss",
+      "title": "米イラン覚書期限 海峡開放見えず",
+      "link": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
       "description": "",
-      "pubDate": "Sun, 16 Aug 2026 09:37:55 GMT",
+      "pubDate": "Sun, 16 Aug 2026 13:44:26 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "知人助けようとして行方不明 千葉",
-      "link": "https://news.yahoo.co.jp/pickup/6591985?source=rss",
+      "title": "ドローン600機 露首都に向け飛行",
+      "link": "https://news.yahoo.co.jp/pickup/6592002?source=rss",
       "description": "",
-      "pubDate": "Sun, 16 Aug 2026 11:16:55 GMT",
+      "pubDate": "Sun, 16 Aug 2026 14:01:34 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「迷子です」と女児 高校生ら保護",
-      "link": "https://news.yahoo.co.jp/pickup/6591984?source=rss",
+      "title": "BBQ中に川に流され 20代女性重体",
+      "link": "https://news.yahoo.co.jp/pickup/6592000?source=rss",
       "description": "",
-      "pubDate": "Sun, 16 Aug 2026 11:16:03 GMT",
+      "pubDate": "Sun, 16 Aug 2026 13:37:35 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "早期退職 第二の人生は甘くない?",
-      "link": "https://news.yahoo.co.jp/pickup/6591977?source=rss",
+      "title": "マンホールの蓋飛ぶ 虫駆除原因か",
+      "link": "https://news.yahoo.co.jp/pickup/6592005?source=rss",
       "description": "",
-      "pubDate": "Sun, 16 Aug 2026 10:26:05 GMT",
+      "pubDate": "Sun, 16 Aug 2026 14:47:20 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "京急上大岡駅 液晶の「パタパタ」",
+      "link": "https://news.yahoo.co.jp/pickup/6591992?source=rss",
+      "description": "",
+      "pubDate": "Sun, 16 Aug 2026 12:38:32 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "オープンAI 経営幹部が相次ぎ退社",
+      "link": "https://news.yahoo.co.jp/pickup/6592006?source=rss",
+      "description": "",
+      "pubDate": "Sun, 16 Aug 2026 15:00:50 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -47,22 +63,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6591983?source=rss",
       "description": "",
       "pubDate": "Sun, 16 Aug 2026 11:11:01 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "中日8回に10失点 ファン続々帰路",
-      "link": "https://news.yahoo.co.jp/pickup/6591979?source=rss",
-      "description": "",
-      "pubDate": "Sun, 16 Aug 2026 10:33:39 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "木村多江 結婚は流れに乗った感じ",
-      "link": "https://news.yahoo.co.jp/pickup/6591971?source=rss",
-      "description": "",
-      "pubDate": "Sun, 16 Aug 2026 09:35:26 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -131,6 +131,22 @@
       "category": "国内"
     },
     {
+      "title": "米イラン覚書期限 海峡開放見えず",
+      "link": "https://news.yahoo.co.jp/pickup/6592001?source=rss",
+      "description": "",
+      "pubDate": "Sun, 16 Aug 2026 13:44:26 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "ドローン600機 露首都に向け飛行",
+      "link": "https://news.yahoo.co.jp/pickup/6592002?source=rss",
+      "description": "",
+      "pubDate": "Sun, 16 Aug 2026 14:01:34 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "露がウクライナの子連れ去り 実態",
       "link": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
       "description": "",
@@ -143,14 +159,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6591899?source=rss",
       "description": "",
       "pubDate": "Sat, 15 Aug 2026 23:31:09 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "中国船 尖閣周辺EEZで海洋調査か",
-      "link": "https://news.yahoo.co.jp/pickup/6591895?source=rss",
-      "description": "",
-      "pubDate": "Sat, 15 Aug 2026 22:54:50 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -183,14 +191,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6591966?source=rss",
       "description": "",
       "pubDate": "Sun, 16 Aug 2026 08:57:21 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "豪で521kgの金塊鋳造 ギネス認定",
-      "link": "https://news.yahoo.co.jp/pickup/6591875?source=rss",
-      "description": "",
-      "pubDate": "Sat, 15 Aug 2026 13:26:43 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -291,14 +291,6 @@
       "category": "総合"
     },
     {
-      "title": "OPPOのスマホ「Reno16 5G」　6.3型ディスプレー搭載ながら薄型軽量",
-      "link": "https://www.j-cast.com/trend/2026/08/15517114.html",
-      "description": "中国OPPO（オッポ）のスマートデバイスを販売するオウガ・ジャパン（東京都中央区）は、スマートフォン「Reno16 5G（リノ シックスティーン ファイブジー）」を2026年8月17日から順次発売する。",
-      "pubDate": "Sat, 15 Aug 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -307,82 +299,82 @@
       "category": "総合"
     },
     {
-      "title": "名古屋港水族館でベルーガが出産 水族館生まれの母から国内初の誕生",
-      "link": "https://news.livedoor.com/article/detail/32077922/",
+      "title": "千葉県の豪雨 千葉市の管理する道路で放置車両を約2500台確認",
+      "link": "https://news.livedoor.com/article/detail/32079440/",
       "description": "記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 12:10:00 +0900",
+      "pubDate": "Sun, 16 Aug 2026 17:39:19 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「八代教室育ちサーモン」熊本地震による停電で約1200匹が全滅",
-      "link": "https://news.livedoor.com/article/detail/32078727/",
+      "title": "京都・琴引浜 遊泳区域外で泳ぎの練習中だった55歳男性が死亡",
+      "link": "https://news.livedoor.com/article/detail/32080804/",
       "description": "記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 16:59:57 +0900",
+      "pubDate": "Sun, 16 Aug 2026 22:29:20 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "みなみかわ さらば青春の光のグッズ収入を暴露「ゲレンデ毎月2台買える」",
-      "link": "https://news.livedoor.com/article/detail/32080185/",
-      "description": "ざっくり言うと みなみかわが関西テレビ「マルコポロリ！」でさらば青春の光の収益を暴露した グッズの月間収益が「ベンツのゲレンデ新車を毎月2台買える額」と明言し騒然となった 東野幸治はカメラ目線で「グッズ販売で月2400万ぐらい」と追い打ちをかけた 記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 20:02:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "三重高校吹奏楽部、甲子園で応援した翌日にオフも部員たちは模試受験",
-      "link": "https://news.livedoor.com/article/detail/32080138/",
-      "description": "ざっくり言うと 三重高校吹奏楽部が甲子園応援後の過密スケジュールをXで明かした 15日の応援から一夜明けた16日は休養日ではなく全統模試の受験日だという 18日の準々決勝・天理戦に向け準備を進める部員の多忙ぶりが話題になった 記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 19:33:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "大久保佳代子、田中みな実の結婚に「このままじゃ地球が変わらない」",
-      "link": "https://news.livedoor.com/article/detail/32080129/",
-      "description": "ざっくり言うと 大久保佳代子が亀梨和也と田中みな実の結婚についてコメントした 「サプライズもビックリもない」と嘆きつつも出産を「素晴らしい」と祝福 一方で「収まるところに収まった」と格差拡大への皮肉も忘れなかった 記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 19:53:07 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "藤田ニコルが北海道・ニセコへ コンビニで売られていたものに驚愕",
-      "link": "https://news.livedoor.com/article/detail/32080035/",
-      "description": "ざっくり言うと モデルの藤田ニコルがラジオで北海道ニセコ訪問時の体験を語った ニセコのコンビニでドン・ペリニヨンが売られていたことに驚いたという 「どこもかしこも英語で逆に日本語が通じない」とも苦笑していた 記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 19:30:02 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "斉藤和義が父の職業に言及「ミニカーの金型職人みたいなのを…」",
-      "link": "https://news.livedoor.com/article/detail/32080086/",
-      "description": "ざっくり言うと 斉藤和義が16日のTBSラジオで少年時代の思い出を振り返った 父がトミーのミニカー金型職人で試作品が家に山積みだったと明かした バンダイの仮面ライダー人形が欲しくなり父に申し訳なかったと語った 記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 19:36:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「24時間テレビ」ランナーの星野真里 経験者の横山裕に助言求める",
-      "link": "https://news.livedoor.com/article/detail/32080030/",
-      "description": "ざっくり言うと 日テレ『ザ！鉄腕！DASH!!』に今年の24時間テレビランナー星野真里が登場した 横山裕が昨年の24時間テレビマラソンを振り返り星野にアドバイスを送った 「合宿をしっかり乗り越えることで自信になる」と横山は自身の経験を語った 記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 19:36:41 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "中村七之助が一家で久々の女児誕生に大喜び「恐ろしく可愛い」",
-      "link": "https://news.livedoor.com/article/detail/32079720/",
+      "title": "元「ブリリアン」のコージが元ブルゾンちえみと再会ショットを公開",
+      "link": "https://news.livedoor.com/article/detail/32080675/",
       "description": "記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 18:15:08 +0900",
+      "pubDate": "Sun, 16 Aug 2026 21:53:14 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "熊本県・ゆめタウン光の森で「硫黄のような臭い」か 客が避難",
-      "link": "https://news.livedoor.com/article/detail/32079981/",
+      "title": "京都・五山送り火の夜 5つのエリアを合わせた人出は約2万3000人",
+      "link": "https://news.livedoor.com/article/detail/32080680/",
       "description": "記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 19:18:00 +0900",
+      "pubDate": "Sun, 16 Aug 2026 22:00:42 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "錦鯉の渡辺隆が銀座の高級キャバクラへ 高額会計に共演者が騒然",
+      "link": "https://news.livedoor.com/article/detail/32080181/",
+      "description": "ざっくり言うと 錦鯉の渡辺隆が銀座の高級キャバクラ体験談をYouTubeで披露した モグライダー・芝大輔がオレンジジュース2杯のみで160万円を支払ったという 高額会計でも堂々と振る舞う渡辺の姿に「さすがスター」と称賛が集まった 記事を読む",
+      "pubDate": "Sun, 16 Aug 2026 19:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "テレビアニメ「推しの子」第4期 ティザービジュアルが解禁へ",
+      "link": "https://news.livedoor.com/article/detail/32080410/",
+      "description": "ざっくり言うと テレビアニメ『【推しの子】』第4期のティザービジュアルが解禁された Final Seasonと銘打たれ、アクアとルビーが答えを見つける物語が描かれる コミックス累計2500万部超の人気作で、ビジュアルムービーも同時公開された 記事を読む",
+      "pubDate": "Sun, 16 Aug 2026 21:01:42 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "2025年の裁判員経験者の声  約97％が「よい経験だった」と回答",
+      "link": "https://news.livedoor.com/article/detail/32080176/",
+      "description": "ざっくり言うと TOKYO FMの番組で裁判員制度について最高裁判所の君塚知弥子さんが解説した 選ばれる前は約40％が「やりたくなかった」と回答していたという 経験後は約97％が「よい経験だった」と答えており、制度への理解が広まっている 記事を読む",
+      "pubDate": "Sun, 16 Aug 2026 20:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "逮捕され家や職を失う「社会的な死」が待つも…盗撮やめられず",
+      "link": "https://news.livedoor.com/article/detail/32079022/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 15 Aug 2026 17:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "Snow Manの佐久間大介「カゲロウプロジェクト」のコスプレを公開",
+      "link": "https://news.livedoor.com/article/detail/32080565/",
+      "description": "ざっくり言うと Snow Manの佐久間大介がInstagramでコスプレを公開した 「カゲロウプロジェクト」のカノに扮し、そのクオリティと再現度が高く話題に コメント欄には「顔のパーツが2次元級」などの声が寄せられているとのこと 記事を読む",
+      "pubDate": "Sun, 16 Aug 2026 21:29:45 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "突然表舞台から姿を消すセクシー女優の理由 逮捕による引退も？",
+      "link": "https://news.livedoor.com/article/detail/32080597/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 16 Aug 2026 21:30:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -459,6 +451,30 @@
       "category": "経済"
     },
     {
+      "title": "山形県の赤川花火大会で3人けが 花火の破片が当たった可能性も",
+      "link": "https://news.livedoor.com/article/detail/32080582/",
+      "description": "ざっくり言うと 山形県鶴岡市の赤川花火大会で8月15日夜に観客3人が負傷した 花火が上空でさく裂せず地上付近で破裂し破片が当たった可能性があるとみられる けがをした3人は打ち上げ場所の対岸の有料観覧席で観覧中だったという 記事を読む",
+      "pubDate": "Sun, 16 Aug 2026 21:40:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "千葉県内の死者は10人に 室内で発動発電機を使用し一酸化炭素中毒も",
+      "link": "https://news.livedoor.com/article/detail/32079083/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 16 Aug 2026 16:34:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "母の通帳から800万円が消失、涙を浮かべ語った「真相」に息子が後悔",
+      "link": "https://news.livedoor.com/article/detail/32044338/",
+      "description": "ざっくり言うと 45歳の息子が1年ぶりに帰省し、母の詐欺被害が発覚した事例を紹介 警察官を装った特殊詐欺で73歳の元教師の母が800万円を騙し取られていた 元教師のプライドと「誰にも話すな」という指示が被害の発覚を遅らせたとみられる 記事を読む",
+      "pubDate": "Tue, 11 Aug 2026 08:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "熊本県・ゆめタウン光の森で「硫黄のような臭い」か 客が避難",
       "link": "https://news.livedoor.com/article/detail/32079981/",
       "description": "記事を読む",
@@ -499,14 +515,6 @@
       "category": "国内"
     },
     {
-      "title": "人気アニメの「14歳キャラ」集結",
-      "link": "https://news.livedoor.com/article/detail/31923782/",
-      "description": "ざっくり言うと dアニメストア14周年、人気アニメの14歳キャラ20名の広告とムービーを展開 鹿目まどか（魔法少女まどか☆マギカ）らの名セリフが全国4都市6エリアに掲出される 14周年と14歳を重ねたキャンペーン、そのコンセプトを紹介している 記事を読む",
-      "pubDate": "Mon, 03 Aug 2026 12:00:06 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "6歳男児が親から虐待を受け死亡、生前の無残な姿「老人のように歩く」",
       "link": "https://news.livedoor.com/article/detail/32076953/",
       "description": "記事を読む",
@@ -515,26 +523,10 @@
       "category": "国内"
     },
     {
-      "title": "秋篠宮ご夫妻、パラグアイへ公式訪問「話を聞くことを楽しみにしている」",
-      "link": "https://news.livedoor.com/article/detail/32078449/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 14:47:20 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "兵庫・尼崎で6歳男児の遺体を発見「生易しい殺し方ではなかった」",
       "link": "https://news.livedoor.com/article/detail/32076952/",
       "description": "記事を読む",
       "pubDate": "Sun, 16 Aug 2026 09:01:31 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "亡き父の遺品整理で見つけた衝撃写真 母親は顔色を変え「知らないわよ」",
-      "link": "https://news.livedoor.com/article/detail/32076914/",
-      "description": "ざっくり言うと 田村さん（仮名・36歳）が亡き父の書斎整理中に古い写真を発見した 写真には、改造バイクを背に特攻服姿の若者たちが並ぶ姿が写っていたそう 母を問い詰めると、顔色を変え「知らないわよ」と慌てた様子で否定したそう 記事を読む",
-      "pubDate": "Sun, 16 Aug 2026 08:44:20 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
