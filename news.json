@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-20 00:18 JST",
-  "total": 169,
+  "updated": "2026-08-20 03:15 JST",
+  "total": 168,
   "news": [
-    {
-      "title": "JR九州被害額16年地震上回る恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6592335?source=rss",
-      "description": "",
-      "pubDate": "Wed, 19 Aug 2026 12:49:21 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
     {
       "title": "豪雨 千葉市幹線道路の車撤去完了",
       "link": "https://news.yahoo.co.jp/pickup/6592341?source=rss",
       "description": "",
       "pubDate": "Wed, 19 Aug 2026 13:50:40 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "JR九州被害額16年地震上回る恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6592335?source=rss",
+      "description": "",
+      "pubDate": "Wed, 19 Aug 2026 12:49:21 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -395,14 +395,6 @@
       "category": "総合"
     },
     {
-      "title": "新車と中古車の残クレの違いや注意点 営業マンが隠す金利の落とし穴",
-      "link": "https://news.livedoor.com/article/detail/32105563/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 15:54:32 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "コメ業者価格、7月は上昇 秋田県産あきたこまちなど代表銘柄が全体押し上げ",
       "link": "https://news.livedoor.com/article/detail/32107642/",
       "description": "記事を読む",
@@ -419,10 +411,10 @@
       "category": "経済"
     },
     {
-      "title": "テスタ氏が語る2026年相場展望 意外すぎる投資家としての最終目標",
-      "link": "https://news.livedoor.com/article/detail/32106796/",
-      "description": "ざっくり言うと 100億円投資家テスタ氏が2026年の相場展望と注目セクターを語った 新NISA3年目の投資家に「慢心は危険」と警鐘を鳴らし謙虚さを強調 投資の密度と熱量の蓄積こそが大きな資産を築く鍵だと持論を述べた 記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 17:56:27 +0900",
+      "title": "Google Pixel 11はカメラバーを薄型化し高コスパを実現したスタンダード機",
+      "link": "https://news.livedoor.com/article/detail/32109502/",
+      "description": "ざっくり言うと GoogleがPixelシリーズ最新スタンダード「Pixel 11」を8月20日に発売する Tensor G6搭載でAI機能が充実し、カメラバーが約40%薄型化されたのが特徴 256GBモデルが13万6800円で、最大7年間のOS更新サポートが提供される 記事を読む",
+      "pubDate": "Thu, 20 Aug 2026 01:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -451,18 +443,10 @@
       "category": "経済"
     },
     {
-      "title": "千葉豪雨で水没した車や浸水した家への補償、手続きの注意点を解説",
-      "link": "https://news.livedoor.com/article/detail/32102827/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 11:20:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "FCNTの新型スマホ「arrows Alpha2」、IIJへのMNPが最安6万4980円",
-      "link": "https://news.livedoor.com/article/detail/32107116/",
-      "description": "ざっくり言うと FCNTの新型スマートフォン「arrows Alpha2」が8月27日に発売される 最安値はIIJmioへのMNPで6万4980円（8GB＋256GBモデル）となる 発売記念キャンペーンでAmazonギフトカード5000円分などが当たる 記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 18:13:47 +0900",
+      "title": "グーグルPixel 11シリーズ、各社の実質価格とキャンペーンをまとめ",
+      "link": "https://news.livedoor.com/article/detail/32109359/",
+      "description": "ざっくり言うと グーグルの新型スマホ「Pixel 11」シリーズが8月20日に発売される MNP＋2年返却プログラムを使うとソフトバンクでは実質24円から購入可能 各社キャンペーンやポイント還元を活用すれば大幅な値引きが期待できる 記事を読む",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -473,6 +457,54 @@
       "pubDate": "Wed, 19 Aug 2026 18:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "モトローラのrazr foldを入手、ペン対応だがドコモ5Gとの相性に課題",
+      "link": "https://news.livedoor.com/article/detail/32109358/",
+      "description": "ざっくり言うと 筆者がGalaxy Z Foldシリーズを離れ「razr fold」へ乗り換えた ペン対応・薄型・おサイフケータイ対応が決め手で6000mAhのバッテリー持ちも好評価 ドコモ回線でn79非対応のため5G SAにつながらない相性問題が判明したとのこと 記事を読む",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "千葉豪雨1週間 農業被害が深刻に",
+      "link": "https://news.livedoor.com/article/detail/32109425/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 20 Aug 2026 01:14:28 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "後続車を踏切に閉じ込め 男逮捕",
+      "link": "https://news.livedoor.com/article/detail/32109205/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 19 Aug 2026 23:38:20 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "九州新幹線の熊本区間、JR九州社長が来週中に復旧時期を公表へ",
+      "link": "https://news.livedoor.com/article/detail/32109251/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 19 Aug 2026 23:55:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "台風18号が週末に小笠原へ接近、その後は沖縄・西日本への影響も",
+      "link": "https://news.livedoor.com/article/detail/32109140/",
+      "description": "ざっくり言うと 台風18号の最新進路情報を気象予報士の松浦悠真氏が動画で解説した 8月23日前後に非常に強い勢力で小笠原諸島南側を通過するとみられる 24日以降は沖縄や九州など西日本への影響も予測され、早期の備えを促した 記事を読む",
+      "pubDate": "Wed, 19 Aug 2026 23:34:45 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "川越少年刑務所の理髪店、受刑者がカットして1050円の格安料金",
+      "link": "https://news.livedoor.com/article/detail/32109132/",
+      "description": "ざっくり言うと ABEMAの番組でルシファー吉岡が刑務所内の理髪店体験を披露した 川越少年刑務所内の理髪店でカット・顔剃り・シャンプーが1,050円という 受刑者の職業訓練の一環として運営されており、取材に2か月を要したとのこと 記事を読む",
+      "pubDate": "Wed, 19 Aug 2026 23:30:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "JAF職員の52歳男が踏切に車を止め後続を閉じ込め、殺人未遂の疑いで逮捕",
@@ -511,46 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/32108594/",
       "description": "ざっくり言うと JAFが8月19日、車の水没時の脱出困難について公式Xで注意喚起した 水圧でドアが開かなくなるため、道具なしの自力脱出は非常に困難とのこと 脱出用ハンマーを手の届く場所に常備することをJAFは強く推奨している 記事を読む",
       "pubDate": "Wed, 19 Aug 2026 21:15:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "プーチン大統領が択捉島を初訪問、日露外交対話の可能性がさらに遠のく",
-      "link": "https://news.livedoor.com/article/detail/32108517/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 21:05:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「ナイフ持っている」10代女性からリュック奪い けがをさせた疑いで男逮捕",
-      "link": "https://news.livedoor.com/article/detail/32108346/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 20:04:28 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "大観覧車や温泉が消えたお台場 廃墟化ではなく転換期にある？",
-      "link": "https://news.livedoor.com/article/detail/32106210/",
-      "description": "ざっくり言うと 「お台場が廃墟化している」との投稿がSNSで拡散され議論を呼んでいる 大観覧車やヴィーナスフォートはなくなったが、街の衰退とは言えないと専門家 お台場が終わっているのではなく「街の役割が切り替わっている途中」であると語った 記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 17:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "宮城の中学校で爆発音と火災、夏場に相次ぐ爆発事故への注意を呼びかけ",
-      "link": "https://news.livedoor.com/article/detail/32108333/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 20:29:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「同窓会のはがき来てる？」日常会話で信用させ110万円をだまし取る手口",
-      "link": "https://news.livedoor.com/article/detail/32108336/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 19 Aug 2026 20:35:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
