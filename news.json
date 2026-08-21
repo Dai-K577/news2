@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22 00:20 JST",
-  "total": 169,
+  "updated": "2026-08-22 03:18 JST",
+  "total": 168,
   "news": [
     {
       "title": "22日 西・東日本は急な雷雨に注意",
@@ -467,12 +467,52 @@
       "category": "経済"
     },
     {
-      "title": "新米が古米より安い逆転現象、農家から「大離農時代が来る」と懸念の声",
-      "link": "https://news.livedoor.com/article/detail/32127666/",
+      "title": "長崎道で追突 剣道部員ら重傷",
+      "link": "https://news.livedoor.com/article/detail/32127869/",
       "description": "記事を読む",
-      "pubDate": "Fri, 21 Aug 2026 23:44:01 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "pubDate": "Sat, 22 Aug 2026 00:39:38 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "関東で天気が急変し局地的な大雨、さいたま市付近で1時間110ミリを観測",
+      "link": "https://news.livedoor.com/article/detail/32127913/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 22 Aug 2026 01:04:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "さいたま市で1時間110mmの記録的大雨、台風18号は沖縄直撃のおそれ",
+      "link": "https://news.livedoor.com/article/detail/32127790/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 22 Aug 2026 00:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "関東など各地で天気が急変し、局地的大雨による冠水被害が相次ぐ",
+      "link": "https://news.livedoor.com/article/detail/32127788/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 22 Aug 2026 00:15:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "国交省 アンダーパス冠水対策へ",
+      "link": "https://news.livedoor.com/article/detail/32127725/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 21 Aug 2026 23:57:24 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "派遣社員の46歳女が知人男性に劇物入りマフィンを食べさせた疑い",
+      "link": "https://news.livedoor.com/article/detail/32127667/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 21 Aug 2026 23:41:45 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "滋賀県の46歳女が劇物入りマフィンを知人男性に食べさせ逮捕",
@@ -503,54 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/32127108/",
       "description": "記事を読む",
       "pubDate": "Fri, 21 Aug 2026 21:25:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "突如中止の花火大会 返金の姿勢",
-      "link": "https://news.livedoor.com/article/detail/32126056/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 21 Aug 2026 19:15:51 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "気象庁がシステム更新中に震度7など架空の災害情報6889件を誤配信",
-      "link": "https://news.livedoor.com/article/detail/32126831/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 21 Aug 2026 20:44:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "くじ5枚分の料金で28枚をめくりフィギュアなど詐取か 40歳男を逮捕",
-      "link": "https://news.livedoor.com/article/detail/32125968/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 21 Aug 2026 19:03:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "愛知県名古屋市で10人が結核に感染 うち3人が発病",
-      "link": "https://news.livedoor.com/article/detail/32126427/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 21 Aug 2026 18:52:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "埼玉県南部で大雨による道路冠水や車両水没が相次ぎ、けが人は確認されず",
-      "link": "https://news.livedoor.com/article/detail/32126587/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 21 Aug 2026 21:10:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "愛知のイベントで配布された「あいちの水」にネジが混入",
-      "link": "https://news.livedoor.com/article/detail/32126561/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 21 Aug 2026 20:05:01 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1198,7 +1190,7 @@
       "title": "【高橋洋一が斬る】内閣改造ズバリ予測！幹事長留任 財務省平定に片山大臣外せない 林氏も留任 維新は総務でなく【静岡三国志】最大タブー⁉静岡県は3県の連合体「何で1つになったのか」きょう県誕生150周年",
       "link": "https://www.youtube.com/watch?v=1WJjBL4Q6Zs",
       "description": "",
-      "pubDate": "2026-08-21T13:41:05+00:00",
+      "pubDate": "2026-08-21T17:43:00+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1278,7 +1270,7 @@
       "title": "【ライブ】先ほど八丈島近海で地震が発生！生放送で解説します！（2026年8月21日）",
       "link": "https://www.youtube.com/watch?v=4eIn4RWJbI0",
       "description": "",
-      "pubDate": "2026-08-21T13:58:42+00:00",
+      "pubDate": "2026-08-21T17:27:11+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
