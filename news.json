@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23 00:08 JST",
+  "updated": "2026-08-23 03:11 JST",
   "total": 167,
   "news": [
+    {
+      "title": "茨城などで最大震度5弱 津波なし",
+      "link": "https://news.yahoo.co.jp/pickup/6592717?source=rss",
+      "description": "",
+      "pubDate": "Sat, 22 Aug 2026 17:09:58 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "東武事故 200m手前で警笛の記録",
       "link": "https://news.yahoo.co.jp/pickup/6592709?source=rss",
@@ -19,18 +27,18 @@
       "category": "総合"
     },
     {
-      "title": "事件で浮き彫りに 介護のカスハラ",
-      "link": "https://news.yahoo.co.jp/pickup/6592704?source=rss",
+      "title": "関東南部で雨 東京駅近くで道に穴",
+      "link": "https://news.yahoo.co.jp/pickup/6592714?source=rss",
       "description": "",
-      "pubDate": "Sat, 22 Aug 2026 12:28:18 GMT",
+      "pubDate": "Sat, 22 Aug 2026 13:54:11 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "東京大雨 水吹き上がるマンホール",
-      "link": "https://news.yahoo.co.jp/pickup/6592692?source=rss",
+      "title": "化学メーカー工場 作業員2人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6592718?source=rss",
       "description": "",
-      "pubDate": "Sat, 22 Aug 2026 10:54:26 GMT",
+      "pubDate": "Sat, 22 Aug 2026 17:50:21 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -51,20 +59,20 @@
       "category": "総合"
     },
     {
-      "title": "行列回避の「次世代トイレ」続々",
-      "link": "https://news.yahoo.co.jp/pickup/6592696?source=rss",
-      "description": "",
-      "pubDate": "Sat, 22 Aug 2026 11:09:01 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "乃木坂公演 雷避難の客戻る前開始",
       "link": "https://news.yahoo.co.jp/pickup/6592715?source=rss",
       "description": "",
       "pubDate": "Sat, 22 Aug 2026 14:00:40 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "茨城などで最大震度5弱 津波なし",
+      "link": "https://news.yahoo.co.jp/pickup/6592717?source=rss",
+      "description": "",
+      "pubDate": "Sat, 22 Aug 2026 17:09:58 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "衆院比例に「サンラグ式」案浮上",
@@ -79,14 +87,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6592655?source=rss",
       "description": "",
       "pubDate": "Sat, 22 Aug 2026 05:51:29 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "国民代表選告示 政権との距離争点",
-      "link": "https://news.yahoo.co.jp/pickup/6592650?source=rss",
-      "description": "",
-      "pubDate": "Sat, 22 Aug 2026 05:10:08 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -459,6 +459,38 @@
       "category": "経済"
     },
     {
+      "title": "関東で震度5弱 茨城南部が震源",
+      "link": "https://news.livedoor.com/article/detail/32134080/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 23 Aug 2026 02:12:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "奈良・薬師寺の国宝「仏足石」に油をかけた疑いで台湾出身の女を逮捕",
+      "link": "https://news.livedoor.com/article/detail/32134073/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 23 Aug 2026 01:48:41 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "東京・埼玉でゲリラ豪雨、飲食店が浸水し信号機が傾いて通行止めに",
+      "link": "https://news.livedoor.com/article/detail/32134010/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 23 Aug 2026 01:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "東京・埼玉 大雨で車浸水や陥没",
+      "link": "https://news.livedoor.com/article/detail/32133980/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 23 Aug 2026 01:00:42 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "劇物マフィンで男性に 女逮捕",
       "link": "https://news.livedoor.com/article/detail/32133670/",
       "description": "記事を読む",
@@ -491,38 +523,6 @@
       "category": "国内"
     },
     {
-      "title": "滋賀の化学製品工場で男性作業員2人心肺停止 酸欠に陥った可能性",
-      "link": "https://news.livedoor.com/article/detail/32133003/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 22 Aug 2026 19:56:43 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "2025年に自殺した小中高生は過去最多の538人「こころのSOS」誰に伝える？",
-      "link": "https://news.livedoor.com/article/detail/32132927/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 22 Aug 2026 19:49:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "新幹線で外国人たちが自分の座席を占拠　車掌に訴えるも自分が席を移動",
-      "link": "https://news.livedoor.com/article/detail/32132010/",
-      "description": "ざっくり言うと 新幹線で自分の指定席を外国人グループに占拠された40代男性の体験談を紹介 英語で声をかけるも相手は取り合おうとせず、席を移る様子もなかったという 事情を把握した車掌が説得するも応じず、男性は別の席へ案内されることになったそう 記事を読む",
-      "pubDate": "Sat, 22 Aug 2026 17:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "大雨で車が水没した際、緊急脱出ハンマーで割れないガラスがある点に注意",
-      "link": "https://news.livedoor.com/article/detail/32133131/",
-      "description": "ざっくり言うと 国民生活センターが大雨による車の水没時の緊急脱出法を公式Xで紹介した 緊急脱出ハンマーには金づち・ピック・ポンチの3タイプがあるとのこと フロントガラスは合わせガラスのためハンマーでは破砕できないと注意を促す 記事を読む",
-      "pubDate": "Sat, 22 Aug 2026 20:15:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "かつては全国400店舗「バーガーシティ」の唯一残る店舗を守り続ける店主",
       "link": "https://news.livedoor.com/article/detail/32131693/",
       "description": "ざっくり言うと 関西を中心に全国約400店舗を展開していたハンバーガーチェーン「バーガーシティ」 1998年に本部が経営破綻で突然倒産し、現在は兵庫の豊岡市の1店舗のみに 店長は今後の目標について「続けるのみですね。ずっと行けるとこまで」と決意を語った 記事を読む",
@@ -531,10 +531,10 @@
       "category": "国内"
     },
     {
-      "title": "盛岡市 レベル4警報 土砂に警戒",
-      "link": "https://news.livedoor.com/article/detail/32133035/",
+      "title": "滋賀の化学製品工場で男性作業員2人心肺停止 酸欠に陥った可能性",
+      "link": "https://news.livedoor.com/article/detail/32133003/",
       "description": "記事を読む",
-      "pubDate": "Sat, 22 Aug 2026 20:05:00 +0900",
+      "pubDate": "Sat, 22 Aug 2026 19:56:43 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1022,7 +1022,7 @@
       "title": "8/22LIVE!① 消費者物価7月1.8%上昇！高市さんのポストは日経よりためになる②中道、中国訪問＆立憲のAI偽造③国人の永住要件を厳格に",
       "link": "https://www.youtube.com/watch?v=lG6anrlumdo",
       "description": "",
-      "pubDate": "2026-08-22T11:18:44+00:00",
+      "pubDate": "2026-08-22T17:08:48+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1259,6 +1259,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【ライブ】先ほど茨城県で震度5弱の地震が発生！生放送で解説します！（2026年8月23日）",
+      "link": "https://www.youtube.com/watch?v=RGvtkgisIAc",
+      "description": "",
+      "pubDate": "2026-08-22T17:08:22+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
       "title": "【速報！】なんとヨーロッパのスペインで600回を超える地震が発生！なぜ起きたかを分かりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=aULe44py2Jg",
       "description": "",
@@ -1327,14 +1335,6 @@
       "link": "https://www.youtube.com/shorts/RPTRGLBxC30",
       "description": "",
       "pubDate": "2026-08-15T13:49:00+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ライブ】阿蘇山噴火警戒レベル３について、生放送で解説します！（2026年8月14日）",
-      "link": "https://www.youtube.com/watch?v=__8KbjPZeD0",
-      "description": "",
-      "pubDate": "2026-08-15T14:43:51+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     }
