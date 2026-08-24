@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 03:21 JST",
+  "updated": "2026-08-25 06:16 JST",
   "total": 168,
   "news": [
     {
@@ -15,6 +15,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6592942?source=rss",
       "description": "",
       "pubDate": "Mon, 24 Aug 2026 13:33:23 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "車正面衝突し2人死亡 幼児重傷か",
+      "link": "https://news.yahoo.co.jp/pickup/6592949?source=rss",
+      "description": "",
+      "pubDate": "Mon, 24 Aug 2026 21:09:49 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -55,14 +63,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6592944?source=rss",
       "description": "",
       "pubDate": "Mon, 24 Aug 2026 13:50:07 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "相方に余命宣告 漫才コンビ再出発",
-      "link": "https://news.yahoo.co.jp/pickup/6592924?source=rss",
-      "description": "",
-      "pubDate": "Mon, 24 Aug 2026 11:50:44 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -467,6 +467,22 @@
       "category": "経済"
     },
     {
+      "title": "40代女性が2年かけてSNS断ち「濃くて意味のある人間関係が残った」",
+      "link": "https://news.livedoor.com/article/detail/32141134/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 24 Aug 2026 08:52:22 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "夏に台所を掃除する際のNG行為を紹介 汚れをためてから掃除するなど",
+      "link": "https://news.livedoor.com/article/detail/32146971/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 24 Aug 2026 20:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "東武日光線スペーシアX衝突事故、司法解剖で4人の死因が判明",
       "link": "https://news.livedoor.com/article/detail/32147347/",
       "description": "記事を読む",
@@ -479,6 +495,14 @@
       "link": "https://news.livedoor.com/article/detail/32140117/",
       "description": "ざっくり言うと 年金月22万円・貯蓄5,500万円の72歳女性が後悔を語った 夫婦で夢見たヨーロッパ旅行を先送りし続け、夫は2年前に他界した 「元気なうちに使えばよかった」とお金の使い方を見直す契機となった 記事を読む",
       "pubDate": "Sun, 23 Aug 2026 19:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "羽田沖で船が護岸に衝突 2人重傷",
+      "link": "https://news.livedoor.com/article/detail/32148361/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 25 Aug 2026 03:59:20 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -519,30 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/32147842/",
       "description": "記事を読む",
       "pubDate": "Mon, 24 Aug 2026 23:52:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "熊本地震の被災地で大正6年創業の老舗スーパーなど閉店が相次ぐ",
-      "link": "https://news.livedoor.com/article/detail/32147889/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 25 Aug 2026 00:03:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "花火見物に向かったボートが防波堤に衝突し、男女10人がけが",
-      "link": "https://news.livedoor.com/article/detail/32147893/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 25 Aug 2026 00:08:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "根室市の国道 クマ衝突で横転か",
-      "link": "https://news.livedoor.com/article/detail/32147836/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 24 Aug 2026 23:44:21 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
