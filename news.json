@@ -1,100 +1,124 @@
 {
-  "updated": "2026-08-27 04:29 JST",
-  "total": 169,
+  "updated": "2026-08-27 09:19 JST",
+  "total": 168,
   "news": [
     {
-      "title": "ICC制裁 日本を巡り前所長が指摘",
-      "link": "https://news.yahoo.co.jp/pickup/6593182?source=rss",
+      "title": "石川富山に大雨特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6593207?source=rss",
       "description": "",
-      "pubDate": "Wed, 26 Aug 2026 12:00:22 GMT",
+      "pubDate": "Wed, 26 Aug 2026 23:00:55 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ネパール洪水 観光客約380人不明",
-      "link": "https://news.yahoo.co.jp/pickup/6593197?source=rss",
+      "title": "特別警報の市町村増える恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6593221?source=rss",
       "description": "",
-      "pubDate": "Wed, 26 Aug 2026 14:49:45 GMT",
+      "pubDate": "Wed, 26 Aug 2026 23:56:54 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "車での移動に注意 大雨で水没恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6593212?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:15:01 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "石川県 冠水した道路に複数の車",
+      "link": "https://news.yahoo.co.jp/pickup/6593218?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:47:39 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "立憲 中道・公明と早期合流断念へ",
+      "link": "https://news.yahoo.co.jp/pickup/6593210?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:10:37 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "登山中に雷に打たれ死亡 鹿児島",
+      "link": "https://news.yahoo.co.jp/pickup/6593214?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:31:40 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "折りたたみ式iPhone 9/9発表か",
+      "link": "https://news.yahoo.co.jp/pickup/6593215?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:46:20 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "福利厚生にマチアプ 導入広がる訳",
+      "link": "https://news.yahoo.co.jp/pickup/6593211?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:25:22 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "命守って 石川富山に大雨特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6593220?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:46:05 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "車での移動に注意 大雨で水没恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6593212?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:15:01 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "特別警報の市町村増える恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6593221?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:56:54 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "石川富山に大雨特別警報 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6593207?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:00:55 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "安全確保を 大雨のときのNG行動",
+      "link": "https://news.yahoo.co.jp/pickup/6591618?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 21:42:17 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "立憲 中道・公明と早期合流断念へ",
+      "link": "https://news.yahoo.co.jp/pickup/6593210?source=rss",
+      "description": "",
+      "pubDate": "Wed, 26 Aug 2026 23:10:37 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "学校版カスハラ指針 国が策定へ",
       "link": "https://news.yahoo.co.jp/pickup/6593196?source=rss",
       "description": "",
       "pubDate": "Wed, 26 Aug 2026 14:36:02 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ヘンリー王子一家が帰国 英報道",
-      "link": "https://news.yahoo.co.jp/pickup/6593191?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 13:42:37 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "生活道路の法定速度 9/1から30km",
-      "link": "https://news.yahoo.co.jp/pickup/6593189?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 13:23:03 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ファミマの制服 業界初Tシャツに",
-      "link": "https://news.yahoo.co.jp/pickup/6593195?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 14:21:16 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "人気歌手の海外公演 中止相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6593188?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 12:52:30 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "青木マッチョ コンビ解散を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6593171?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 09:50:33 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "猛暑一転 天気の主役は秋雨前線に",
-      "link": "https://news.yahoo.co.jp/pickup/6593150?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 07:44:20 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "ICC制裁巡り自民議員「米が怖い」",
-      "link": "https://news.yahoo.co.jp/pickup/6593098?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 00:37:00 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "学校版カスハラ指針 国が策定へ",
-      "link": "https://news.yahoo.co.jp/pickup/6593196?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 14:36:02 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "ふるさと納税「赤字」19都府県",
-      "link": "https://news.yahoo.co.jp/pickup/6593111?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 02:20:41 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -107,34 +131,10 @@
       "category": "国内"
     },
     {
-      "title": "世界12都市エアコン使用 東京最長",
-      "link": "https://news.yahoo.co.jp/pickup/6593131?source=rss",
+      "title": "ネパール洪水日本人5人連絡取れず",
+      "link": "https://news.yahoo.co.jp/pickup/6593198?source=rss",
       "description": "",
-      "pubDate": "Wed, 26 Aug 2026 04:45:08 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "不妊治療10年 難しい「やめどき」",
-      "link": "https://news.yahoo.co.jp/pickup/6593123?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 03:16:05 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "女子ばかり行列 学校トイレ巡る声",
-      "link": "https://news.yahoo.co.jp/pickup/6593138?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 06:01:51 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "ネパール洪水 観光客約380人不明",
-      "link": "https://news.yahoo.co.jp/pickup/6593197?source=rss",
-      "description": "",
-      "pubDate": "Wed, 26 Aug 2026 14:49:45 GMT",
+      "pubDate": "Wed, 26 Aug 2026 21:12:53 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -195,6 +195,30 @@
       "category": "国際"
     },
     {
+      "title": "中日・柳裕也＆美人妻・真子さん、肩抱き夫婦ラブラブ2ショット...結婚8年目　「奥様が美し過ぎる」「かわいい」",
+      "link": "https://www.j-cast.com/2026/08/27517444.html",
+      "description": "プロ野球・中日ドラゴンズの柳裕也投手の妻で元モデルの真子さんが2026年8月24日、自身のインスタグラムを更新。結婚8年目の記念日ディナーの夫婦ショットを披露した。",
+      "pubDate": "Thu, 27 Aug 2026 08:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "ドジャース・フリーマンの美人妻、白ドレス姿で色気ダダ漏れ...海をバックに　すらり神スタイルのセレブな美貌",
+      "link": "https://www.j-cast.com/2026/08/27517416.html",
+      "description": "大リーグのロサンゼルス・ドジャースに所属するフレディ・フリーマン選手（36）の妻で、元モデルのチェルシーさん（35）が2026年8月24日、自身のインスタグラムを更新。美スタイル際立つ白ドレスコーデを披露した。",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "神田うの「片方の脚（＆お尻）に痺れと痛みが」ヘルニア再発が発覚...ブロック注射を腰に　手術は「避けたい」",
+      "link": "https://www.j-cast.com/2026/08/27517445.html",
+      "description": "タレントの神田うのさんが2026年8月24日にインスタグラムを更新し、ヘルニアが再発したことを明かした。",
+      "pubDate": "Thu, 27 Aug 2026 06:30:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "高畑充希、ふわふわミニスカの衣装で...ジャケ写に反響「どタイプすぎ」「世界一かわいい」　夫は岡田将生",
       "link": "https://www.j-cast.com/2026/08/26517321.html",
       "description": "俳優の高畑充希さん（34）が2026年8月18日、自身のインスタグラムを更新。透明感あふれるジャケット画像を披露した。高畑さんの夫は俳優の岡田将生さん（37）。",
@@ -207,6 +231,14 @@
       "link": "https://www.j-cast.com/2026/08/26517428.html",
       "description": "K-POPガールズグループ「TWICE」のサナさん（29）が2026年8月23日、自身のインスタグラムを更新。ブラックコーデを披露した。",
       "pubDate": "Wed, 26 Aug 2026 21:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
+      "link": "http://j-town.net/news/localnews/241949.html",
+      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
+      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -235,42 +267,10 @@
       "category": "総合"
     },
     {
-      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
-      "link": "http://j-town.net/news/localnews/241949.html",
-      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
-      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "新田さちか（27）、「NYでおじさんと同居」謎情報が拡散　本人反応「どなたか紹介して」",
       "link": "https://www.j-cast.com/2026/08/26517460.html",
       "description": "俳優でモデルの新田さちかさん（27）が2026年8月25日にXを更新し、SNS上で拡散された情報について否定した。",
       "pubDate": "Wed, 26 Aug 2026 19:15:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "「韓国の至宝」キム・ハソン、ライバルがマイナー降格でも出番なし　韓国メディア嘆き節「悲惨な境遇」",
-      "link": "https://www.j-cast.com/2026/08/26517453.html",
-      "description": "韓国メディア「スターニュース」（ウェブ版）は2026年8月25日、アトランタ・ブレーブスに所属する韓国出身キム・ハソン内野手（30）の現状について「悲惨な境遇」と伝えた。",
-      "pubDate": "Wed, 26 Aug 2026 19:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "551蓬莱の豚まん袋に自衛隊車両やヘリ　「気味悪い」と波紋、運営会社はどう答えた",
-      "link": "https://www.j-cast.com/2026/08/26517459.html",
-      "description": "大阪名物の豚まん販売で知られる「551蓬莱」が自衛隊大阪地方協力本部とコラボした手提げ袋について、自衛隊車両などのデザインが気味悪いなどとネット上の一部で声が出て、議論になっている。",
-      "pubDate": "Wed, 26 Aug 2026 18:59:42 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "「あれ太田光さんだったの？」朝ドラ出演を知らなかったのか...博多華丸「あさイチ」で仰天",
-      "link": "https://www.j-cast.com/2026/08/26517451.html",
-      "description": "博多大吉「あれ、爆笑問題の太田（光）さんですよ」博多華丸「ええっ、太田さんなの？ 気づかなかったあ」",
-      "pubDate": "Wed, 26 Aug 2026 18:45:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -299,14 +299,6 @@
       "category": "総合"
     },
     {
-      "title": "立体音響を手軽に楽しめるサウンドバー　TVS REGZAから",
-      "link": "https://www.j-cast.com/trend/2026/08/25517340.html",
-      "description": "TVS REGZAは、サウンドバー「レグザサウンドシステム RA-B200」を2026年8月28日に発売する。",
-      "pubDate": "Tue, 25 Aug 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -315,84 +307,92 @@
       "category": "総合"
     },
     {
-      "title": "「最初は妥協でお笑いをやっていた」宮迫博之が明かす",
-      "link": "https://news.livedoor.com/article/detail/32167304/",
-      "description": "ざっくり言うと 宮迫博之が自身のYouTubeチャンネルで芸人になった経緯を語った 役者志望だった宮迫が「妥協でお笑いをやっていた」と明かしたとのこと ゲストの零士から「それで売れてずるい」とツッコミが入る場面もあった 記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 22:50:22 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "AIで「労務改善」その方法とは",
-      "link": "https://news.livedoor.com/article/detail/31995275/",
-      "description": "ざっくり言うと 藤原竜也さんが出演、クライアント運用管理ソフトウェア「SKYSEA Client View」新TVCM 「チームの変革」篇が9日から全国で放映され、「AIで労務改善を支援」をアピール Ｓｋｙ株式会社の公式YouTubeチャンネルでは、藤原竜也さんの「メイキング動画」も 記事を読む",
-      "pubDate": "Thu, 06 Aug 2026 12:00:02 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "備蓄米15t 農水省が買い戻しへ",
-      "link": "https://news.livedoor.com/article/detail/32167141/",
+      "title": "サンドウィッチマン伊達みきお、出演見合わせ続く ラジオに続きイベントも",
+      "link": "https://news.livedoor.com/article/detail/32168326/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 22:24:27 +0900",
+      "pubDate": "Thu, 27 Aug 2026 05:05:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ネパールで大規模な洪水 土石流により多数の死傷者や行方不明者か",
-      "link": "https://news.livedoor.com/article/detail/32166777/",
+      "title": "石川・羽咋市で道路冠水が発生 複数の住民が取り残される状況か",
+      "link": "https://news.livedoor.com/article/detail/32169409/",
       "description": "記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 00:34:58 +0900",
+      "pubDate": "Thu, 27 Aug 2026 08:44:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "人気ゲーム「GTA6」のリーク映像が拡散 制作会社がファンに向けて謝罪",
-      "link": "https://news.livedoor.com/article/detail/32166941/",
-      "description": "ざっくり言うと 人気ゲーム「GTA6」の未発表プレイ映像がネット上で拡散した 制作のロックスター・ゲームスが公式SNSで謝罪の意を表明している 日本時間27日に公式映像を公開し、11月19日の発売予定は変わらない 記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 21:38:46 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ICC赤根所長 制裁でカード使えず",
-      "link": "https://news.livedoor.com/article/detail/32166647/",
+      "title": "秋篠宮ご夫妻の出発時の挙動に注目「慌ただしく、不ぞろいな印象」",
+      "link": "https://news.livedoor.com/article/detail/32163650/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 21:00:00 +0900",
+      "pubDate": "Wed, 26 Aug 2026 16:00:37 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "日本人保護 自殺図ろうとしたか",
-      "link": "https://news.livedoor.com/article/detail/32162300/",
+      "title": "「住むのはきつい」日本人がマレーシア移住で直面する「大きな誤算」",
+      "link": "https://news.livedoor.com/article/detail/32169026/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 13:18:24 +0900",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "都営バスが信号に衝突し乗客2人けが、運転手「蚊を払おうとハンドル誤る」",
-      "link": "https://news.livedoor.com/article/detail/32166408/",
+      "title": "「リニアバブル」に沸く都市あり タワーマンションの最上階がなんと2億円",
+      "link": "https://news.livedoor.com/article/detail/32168885/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 20:22:00 +0900",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ネパールで起きた洪水で約380人が行方不明 約290人がインドなどの外国籍",
-      "link": "https://news.livedoor.com/article/detail/32166283/",
+      "title": "青木マッチョ コンビ解散＆相方は芸人引退「1年前にも辞めたいと相談を」",
+      "link": "https://news.livedoor.com/article/detail/32168881/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 20:08:16 +0900",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "2億円の時計窃盗 徒歩はおとりか",
-      "link": "https://news.livedoor.com/article/detail/32166492/",
+      "title": "ハライチ・岩井勇気、追突事故の報道も…ネット上では「愛車」に注目集まる",
+      "link": "https://news.livedoor.com/article/detail/32165601/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 20:35:00 +0900",
+      "pubDate": "Wed, 26 Aug 2026 18:45:01 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "551蓬莱「防災の日コラボ」が思わぬ波紋 自衛隊デザインの手提げ袋に賛否",
+      "link": "https://news.livedoor.com/article/detail/32167602/",
+      "description": "ざっくり言うと 551蓬莱が自衛隊とコラボした手提げ袋デザインがXで議論を呼んでいる 袋には救急車両が描かれ「防災の日」周知が目的だと公式サイトで説明されている 批判の一方、救助用車両への反発に疑問の声も多く寄せられているという 記事を読む",
+      "pubDate": "Wed, 26 Aug 2026 23:04:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「令和8年8月千葉豪雨」を契機に…被害を防ぐから小さくするへ覚悟迫られる",
+      "link": "https://news.livedoor.com/article/detail/32169007/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "長谷川京子が20代での海外旅行を回想「しょっちゅう入国で止められた」",
+      "link": "https://news.livedoor.com/article/detail/32166827/",
+      "description": "ざっくり言うと 先月48歳の誕生日を迎えた長谷川京子が、20代での海外旅行を動画で振り返った ルイ・ヴィトンのハードトランクを持ってフランスに入ろうとした際、止められたという 「なんでこんな小娘があんなバッグ持って、おかしい」との理由で、よく止められたそう 記事を読む",
+      "pubDate": "Wed, 26 Aug 2026 21:20:02 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "貯蓄額1900万円の40歳女性が家計を守るために「真っ先に削った支出」",
+      "link": "https://news.livedoor.com/article/detail/32161273/",
+      "description": "ざっくり言うと All About編集部が物価高の家計管理について全国250人にアンケートを実施した 北海道在住の40歳専業主婦が固定費見直しで月1～1.5万円の削減に成功したという 削減分はNISAに回し、貯蓄1900万円を持ちながら家族の趣味費は譲れないとのこと 記事を読む",
+      "pubDate": "Wed, 26 Aug 2026 11:30:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
     },
     {
       "title": "ファミリーマートがユニフォームを刷新 コンビニ業界初のTシャツを導入",
@@ -403,10 +403,26 @@
       "category": "経済"
     },
     {
-      "title": "データ改ざんに続き、中部電力が浜岡原発の廃炉費用でも不適切処理の疑い",
-      "link": "https://news.livedoor.com/article/detail/32167691/",
+      "title": "羽田空港の近隣だが…なぜ「羽田イノベーションシティ」が閑散としている？",
+      "link": "https://news.livedoor.com/article/detail/32169017/",
       "description": "記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 01:02:01 +0900",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "エヌビディアの売上高、 3カ月で15兆円 前年同期の2倍超で過去最高更新",
+      "link": "https://news.livedoor.com/article/detail/32169159/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 07:42:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "「リニアバブル」に沸く都市あり タワーマンションの最上階がなんと2億円",
+      "link": "https://news.livedoor.com/article/detail/32168885/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 07:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -419,18 +435,18 @@
       "category": "経済"
     },
     {
-      "title": "メタがインスタ・FB依存訴訟で52州と和解、和解金は約2兆8600億円",
-      "link": "https://news.livedoor.com/article/detail/32167683/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 01:45:46 +0900",
+      "title": "現役医師がマンジャロを自ら使い、13キロ減の体験から効果と注意点を語る",
+      "link": "https://news.livedoor.com/article/detail/32169132/",
+      "description": "ざっくり言うと 現役医師がマンジャロを自ら使用し13キロの減量に成功したと語った 炭水化物への食欲が落ち、血糖・肝機能・いびきなど健康面も改善したという 一方で医師を介さない転売や個人輸入には法的・健康上のリスクがあると警告した 記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 07:30:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "FCNTが「arrows Alpha2」を発売、徹底コスト削減で10万円以下を維持",
-      "link": "https://news.livedoor.com/article/detail/32167584/",
-      "description": "ざっくり言うと FCNTがミッドハイスマホ「arrows Alpha2」を8月27日に発売する 市場想定価格9万4900円で、10万円以下を維持するため10％超のコスト削減を断行した メモリ高騰を受けメモリは8GBに抑えつつ、仮想メモリで最大16GBまで拡張可能にした 記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 00:00:00 +0900",
+      "title": "育休中に株式資産1億円を築いたママ投資家の攻守二刀流",
+      "link": "https://news.livedoor.com/article/detail/32169045/",
+      "description": "ざっくり言うと 育休中に株式資産1億円を築いたママ投資家ちょる子さんの投資術を紹介 現物株を長期保有する「守り」と信用取引デイトレの「攻め」を使い分ける手法で 東京エレクトロンで1日130万円の利益を狙う値がさ株の破壊力も解説している 記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 07:15:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -443,114 +459,90 @@
       "category": "経済"
     },
     {
-      "title": "就職氷河期世代が実際に受け取れる年金額は月11万円台にとどまる可能性",
-      "link": "https://news.livedoor.com/article/detail/32163092/",
-      "description": "ざっくり言うと 就職氷河期世代が受け取れる現実的な年金額をななし氏が試算した 厚労省モデルの月16万円は年収527万円を40年継続が前提で非現実的 加入25年・年収360万円なら月11万円程度が落としどころとのこと 記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 14:45:00 +0900",
+      "title": "アップルが9月9日の特別イベントで初の折り畳みiPhoneを披露か",
+      "link": "https://news.livedoor.com/article/detail/32169074/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 08:36:25 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "亡くなった人の口座から葬儀代を引き出せる制度、2019年から合法に",
-      "link": "https://news.livedoor.com/article/detail/32162841/",
-      "description": "ざっくり言うと 2019年7月から遺産分割前でも預貯金を引き出せる制度がある 引き出せる額は「預貯金×1/3×法定相続分」で算出され上限は150万円 引き出した金額は後の遺産分割で差し引かれる点に注意が必要である 記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 14:20:12 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "ホンダが軽サイズのBEVスポーツ「スーパーワン」を発売",
-      "link": "https://news.livedoor.com/article/detail/32166900/",
-      "description": "ざっくり言うと ホンダが2026年5月22日に軽BEV「Super-ONE」を発売した N-ONE e：ベースのホットハッチで全長3580mmのコンパクトボディ BOOSTモードで70kWを発揮し、車両価格は339万200円である 記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 21:30:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "年収1470万のGoogle社員が解雇され提訴 高評価の翌月に一転したワケ",
-      "link": "https://news.livedoor.com/article/detail/32165034/",
-      "description": "ざっくり言うと グーグル合同会社の元社員がPIPを使った解雇の無効を東京地裁に提訴した 年収1470万円で高評価を受けた直後にPIP対象となり3月1日付で解雇されたという 原告側はビザを使った退職勧奨や解雇回避努力義務違反なども問題視している 記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 17:59:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "石川県と富山県西部で線状降水帯が発生、災害の危険度が急激に高まる",
-      "link": "https://news.livedoor.com/article/detail/32168054/",
-      "description": "ざっくり言うと 27日、石川県と富山県西部で線状降水帯が発生していると気象当局が発表した 非常に激しい雨が同じ場所で降り続き、命に関わる災害発生の危険度が急上昇している 自治体の避難情報を確認し、高所への移動など早急な安全確保が求められている 記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 03:35:37 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "富山県西部で線状降水帯が発生、災害発生の危険度が急激に高まる",
-      "link": "https://news.livedoor.com/article/detail/32168045/",
-      "description": "ざっくり言うと 富山県西部で7月27日、線状降水帯が発生し気象防災速報が発表された 同じ場所で非常に激しい雨が降り続き、命に危険が及ぶ状況とみられる 自治体の避難情報を確認し、すぐに身の安全を確保するよう呼びかけている 記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 03:22:16 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "ICC赤根所長 制裁でカード使えず",
-      "link": "https://news.livedoor.com/article/detail/32166647/",
+      "title": "ICC所長制裁に「弱腰」対応…「世界銀行」巡るアピール投稿が波紋呼ぶ",
+      "link": "https://news.livedoor.com/article/detail/32168696/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 21:00:00 +0900",
+      "pubDate": "Thu, 27 Aug 2026 06:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "生活道路の法定速度、9月1日から時速30キロに変更 時速60キロで一発免停",
-      "link": "https://news.livedoor.com/article/detail/32156909/",
+      "title": "癖が強い髪の毛に若い美容師「ややこしい頭ですね！」女性はあ然",
+      "link": "https://news.livedoor.com/article/detail/32168537/",
       "description": "記事を読む",
-      "pubDate": "Tue, 25 Aug 2026 20:17:00 +0900",
+      "pubDate": "Thu, 27 Aug 2026 06:00:07 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "中野時計窃盗 着替え捨て逃走か",
-      "link": "https://news.livedoor.com/article/detail/32167879/",
+      "title": "手料理に文句を付けられた上、浮気も…彼氏の無神経LINEに彼女が反撃",
+      "link": "https://news.livedoor.com/article/detail/32163833/",
       "description": "記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 01:48:24 +0900",
+      "pubDate": "Wed, 26 Aug 2026 15:45:35 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "相模原市で17歳高校生が死亡、死因は頭部打撲による脳挫傷と判明",
-      "link": "https://news.livedoor.com/article/detail/32167606/",
+      "title": "石川県の羽咋市など4市町に大雨特別警報、命を守る行動を呼びかけ",
+      "link": "https://news.livedoor.com/article/detail/32169072/",
       "description": "記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 00:28:00 +0900",
+      "pubDate": "Thu, 27 Aug 2026 07:33:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "台風18号が直撃した奄美・沖縄でけが人や2万戸超の停電被害",
-      "link": "https://news.livedoor.com/article/detail/32167500/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 00:12:00 +0900",
+      "title": "石川・富山にレベル5大雨特別警報、気象庁が即時避難を呼びかけ",
+      "link": "https://news.livedoor.com/article/detail/32169121/",
+      "description": "ざっくり言うと 気象庁と国交省が27日、石川・富山両県にレベル5大雨特別警報を発表した 「これまでに経験のないような大雨」として命の危険が迫っていると説明し 特別警報を待たず避難情報に従い、車での移動は控えるよう強く呼びかけた 記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 08:59:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "「故障」と嘘をついて分電盤を交換、6人から318万円詐取の疑い",
-      "link": "https://news.livedoor.com/article/detail/32167478/",
+      "title": "石川・富山の5市町に大雨特別警報、約14万人に緊急安全確保を発令",
+      "link": "https://news.livedoor.com/article/detail/32169106/",
       "description": "記事を読む",
-      "pubDate": "Thu, 27 Aug 2026 00:06:00 +0900",
+      "pubDate": "Thu, 27 Aug 2026 07:36:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "東武線4人死亡 見張り員が不在か",
-      "link": "https://news.livedoor.com/article/detail/32167440/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 23:51:26 +0900",
+      "title": "室外機の盗難被害、たった4年で約13倍と急増 銅価格高騰が影響か",
+      "link": "https://news.livedoor.com/article/detail/32161840/",
+      "description": "ざっくり言うと エアコン室外機の盗難が急増し、4年で約13倍に達したと警察庁が示した 銅などの金属価格高騰が背景にあり、古くても新しくても換金価値は同じという ワイヤーロックや防犯カメラ設置など、複数の防犯対策を専門家が呼びかけている 記事を読む",
+      "pubDate": "Wed, 26 Aug 2026 11:01:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "ドローン映像 熊本モール内部へ",
-      "link": "https://news.livedoor.com/article/detail/32167281/",
+      "title": "パナソニックの新型空調機「サラウェル」換気と除湿を同時にこなす",
+      "link": "https://news.livedoor.com/article/detail/32168878/",
       "description": "記事を読む",
-      "pubDate": "Wed, 26 Aug 2026 22:50:00 +0900",
+      "pubDate": "Thu, 27 Aug 2026 06:55:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "年金14万円・預貯金9千万円の78歳母、財産への執着が娘との絶縁を招く",
+      "link": "https://news.livedoor.com/article/detail/32168979/",
+      "description": "ざっくり言うと 年金14万円・預貯金9,000万円を持つ78歳女性の事例を弁護士が解説した 長女の家族信託提案を「財産目当て」と拒絶し、娘家族と絶縁状態になったという 弁護士は判断能力があるうちに家族で話し合う機会の重要性を強調している 記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 07:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "富山・石川に大雨特別警報、氷見市や羽咋市など各地で災害発生の恐れ",
+      "link": "https://news.livedoor.com/article/detail/32169037/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 27 Aug 2026 07:13:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1038,7 +1030,7 @@
       "title": "1574回　【特別編】髙橋洋一ヒストリーを一気見！〜学生編〜",
       "link": "https://www.youtube.com/watch?v=sIHOOwLjk1A",
       "description": "",
-      "pubDate": "2026-08-26T19:06:50+00:00",
+      "pubDate": "2026-08-26T23:55:23+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1214,7 +1206,7 @@
       "title": "松村北斗さんが表紙…静岡県の広報誌がネットで転売される事態に　県はフリマサイトに削除要請",
       "link": "https://www.youtube.com/watch?v=5TN7PkrSbE4",
       "description": "",
-      "pubDate": "2026-08-26T11:42:25+00:00",
+      "pubDate": "2026-08-26T22:19:21+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1222,7 +1214,7 @@
       "title": "「寒かったんで心配で…」　富士山6合目に置き去りの7歳男児を保護　山小屋に感謝状",
       "link": "https://www.youtube.com/watch?v=1Mi4S4zKHV8",
       "description": "",
-      "pubDate": "2026-08-26T12:23:38+00:00",
+      "pubDate": "2026-08-26T22:21:46+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1230,7 +1222,7 @@
       "title": "「汗だくだく」「外にいられない」…県内各地で『猛暑日』　日傘やハンディファンで暑さ対策万全に　静岡",
       "link": "https://www.youtube.com/watch?v=KnyVT_-_Y2I",
       "description": "",
-      "pubDate": "2026-08-26T10:44:04+00:00",
+      "pubDate": "2026-08-26T22:22:22+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1238,7 +1230,7 @@
       "title": "家族で海水浴に来て…流された8歳次男を助けようとして父親死亡　父子3人高波にさらわれ父親が死亡　伊豆の海で惨事相次ぐ",
       "link": "https://www.youtube.com/watch?v=pzM_bHqAYW4",
       "description": "",
-      "pubDate": "2026-08-26T10:39:30+00:00",
+      "pubDate": "2026-08-26T22:22:50+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
