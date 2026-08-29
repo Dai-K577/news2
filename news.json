@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-30 00:50 JST",
+  "updated": "2026-08-30 05:04 JST",
   "total": 168,
   "news": [
     {
-      "title": "茨城県で最大震度4 津波心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6593574?source=rss",
-      "description": "地震が発生しました。今後の情報にご注意ください。各地域の震度はこちら。※遷移先は最新の地震情報です。新たに発生した地震に更新される可能性があります。",
-      "pubDate": "Sat, 29 Aug 2026 15:23:44 GMT",
+      "title": "命守って 福井県に大雨特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6593577?source=rss",
+      "description": "",
+      "pubDate": "Sat, 29 Aug 2026 19:58:11 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "熊本地震 被災者それぞれの1カ月",
-      "link": "https://news.yahoo.co.jp/pickup/6593558?source=rss",
+      "title": "安全確保を 大雨のときのNG行動",
+      "link": "https://news.yahoo.co.jp/pickup/6593206?source=rss",
       "description": "",
-      "pubDate": "Sat, 29 Aug 2026 12:44:42 GMT",
+      "pubDate": "Sat, 29 Aug 2026 19:59:00 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -67,18 +67,18 @@
       "category": "総合"
     },
     {
-      "title": "茨城県で最大震度4 津波心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6593574?source=rss",
-      "description": "地震が発生しました。今後の情報にご注意ください。各地域の震度はこちら。※遷移先は最新の地震情報です。新たに発生した地震に更新される可能性があります。",
-      "pubDate": "Sat, 29 Aug 2026 15:23:44 GMT",
+      "title": "命守って 福井県に大雨特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6593577?source=rss",
+      "description": "",
+      "pubDate": "Sat, 29 Aug 2026 19:58:11 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
     {
-      "title": "北陸29-31日も大雨恐れ 厳重警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6593516?source=rss",
+      "title": "安全確保を 大雨のときのNG行動",
+      "link": "https://news.yahoo.co.jp/pickup/6593206?source=rss",
       "description": "",
-      "pubDate": "Sat, 29 Aug 2026 06:34:12 GMT",
+      "pubDate": "Sat, 29 Aug 2026 19:59:00 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -467,10 +467,10 @@
       "category": "経済"
     },
     {
-      "title": "札幌市白石区の豊平川緑地で30代女性が男に押し倒され性的暴行、男は逃走中",
-      "link": "https://news.livedoor.com/article/detail/32193066/",
+      "title": "中学生と高校生の「咄嗟の判断」が熱中症で倒れる女性を救う 迅速に対応",
+      "link": "https://news.livedoor.com/article/detail/32184264/",
       "description": "記事を読む",
-      "pubDate": "Sat, 29 Aug 2026 22:48:00 +0900",
+      "pubDate": "Fri, 28 Aug 2026 17:27:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -483,18 +483,26 @@
       "category": "国内"
     },
     {
-      "title": "沖流され行方不明 中高生3人死亡",
-      "link": "https://news.livedoor.com/article/detail/32193023/",
+      "title": "鹿児島・いちき串木野市で海に流された中高生3人の死亡が確認される",
+      "link": "https://news.livedoor.com/article/detail/32193438/",
       "description": "記事を読む",
-      "pubDate": "Sat, 29 Aug 2026 22:45:39 +0900",
+      "pubDate": "Sun, 30 Aug 2026 01:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "中学生と高校生の「咄嗟の判断」が熱中症で倒れる女性を救う 迅速に対応",
-      "link": "https://news.livedoor.com/article/detail/32184264/",
+      "title": "札幌市白石区の豊平川緑地で30代女性が男に押し倒され性的暴行、男は逃走中",
+      "link": "https://news.livedoor.com/article/detail/32193066/",
       "description": "記事を読む",
-      "pubDate": "Fri, 28 Aug 2026 17:27:00 +0900",
+      "pubDate": "Sat, 29 Aug 2026 22:48:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "沖流され行方不明 中高生3人死亡",
+      "link": "https://news.livedoor.com/article/detail/32193023/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 29 Aug 2026 22:45:39 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -535,14 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/32190686/",
       "description": "ざっくり言うと 投資資金を捻出するため極端に節約する「NISA貧乏」が注目を集めている ある男性は収入の7割をNISAに投じ、1日の食費を1000円に抑えているという 「毎日同じものを食べる」という節約術に、視聴者からは賛否両論の声が寄せられた 記事を読む",
       "pubDate": "Sat, 29 Aug 2026 15:30:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「友達のふりして裏で蹴落とす」フレネミーが若者の間で広がる理由",
-      "link": "https://news.livedoor.com/article/detail/32190481/",
-      "description": "ざっくり言うと 友達のふりをして敵対する「フレネミー」という言葉が若者の間で広がっているという 友達関係におけるとがった事態をうまく収める言葉として都合がいいと専門家 学校という場に毎日行かなければならないため、若者間でより深刻になりやすいそう 記事を読む",
-      "pubDate": "Sat, 29 Aug 2026 14:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
