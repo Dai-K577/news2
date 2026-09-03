@@ -1,20 +1,36 @@
 {
-  "updated": "2026-09-04 03:09 JST",
-  "total": 169,
+  "updated": "2026-09-04 07:52 JST",
+  "total": 168,
   "news": [
     {
-      "title": "九州で記録的大雨の恐れ 厳重警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6594140?source=rss",
+      "title": "四国や九州 災害危険度高まる恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594154?source=rss",
       "description": "",
-      "pubDate": "Thu, 03 Sep 2026 13:56:35 GMT",
+      "pubDate": "Thu, 03 Sep 2026 22:21:47 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "混雑状況を床投影 東京メトロ実証",
-      "link": "https://news.yahoo.co.jp/pickup/6594110?source=rss",
+      "title": "臨時国会 10月上旬に召集で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6594153?source=rss",
       "description": "",
-      "pubDate": "Thu, 03 Sep 2026 08:03:44 GMT",
+      "pubDate": "Thu, 03 Sep 2026 22:16:03 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "内閣改造 片山さつき財務相留任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594150?source=rss",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 21:27:22 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "日本製紙八代工場の火災鎮火",
+      "link": "https://news.yahoo.co.jp/pickup/6594148?source=rss",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 21:06:25 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,44 +43,52 @@
       "category": "総合"
     },
     {
-      "title": "八代工場の火災鎮圧 日本製紙謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6594145?source=rss",
+      "title": "大谷翔平 31試合ぶりスタメン外",
+      "link": "https://news.yahoo.co.jp/pickup/6594155?source=rss",
       "description": "",
-      "pubDate": "Thu, 03 Sep 2026 14:13:58 GMT",
+      "pubDate": "Thu, 03 Sep 2026 22:30:48 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "麻布十番まつりで食中毒 店主謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6594127?source=rss",
+      "title": "上田綺世 新天地でいきなりゴール",
+      "link": "https://news.yahoo.co.jp/pickup/6594152?source=rss",
       "description": "",
-      "pubDate": "Thu, 03 Sep 2026 10:29:09 GMT",
+      "pubDate": "Thu, 03 Sep 2026 21:55:03 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "大和ハウス 一戸建ての部門再編へ",
-      "link": "https://news.yahoo.co.jp/pickup/6594146?source=rss",
+      "title": "松下奈緒主演 ドクターX看護師役",
+      "link": "https://news.yahoo.co.jp/pickup/6594149?source=rss",
       "description": "",
-      "pubDate": "Thu, 03 Sep 2026 14:16:21 GMT",
+      "pubDate": "Thu, 03 Sep 2026 21:18:18 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "HYBE創業者を書類送検 韓国警察",
-      "link": "https://news.yahoo.co.jp/pickup/6594102?source=rss",
+      "title": "四国や九州 災害危険度高まる恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6594154?source=rss",
       "description": "",
-      "pubDate": "Thu, 03 Sep 2026 06:57:31 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
+      "pubDate": "Thu, 03 Sep 2026 22:21:47 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
-      "title": "誠お兄さん なぜ順大の特任助教に",
-      "link": "https://news.yahoo.co.jp/pickup/6594147?source=rss",
+      "title": "臨時国会 10月上旬に召集で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6594153?source=rss",
       "description": "",
-      "pubDate": "Thu, 03 Sep 2026 14:56:48 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
+      "pubDate": "Thu, 03 Sep 2026 22:16:03 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "内閣改造 片山さつき財務相留任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6594150?source=rss",
+      "description": "",
+      "pubDate": "Thu, 03 Sep 2026 21:27:22 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "維新が閣内協力へ 馬場氏推す方針",
@@ -75,34 +99,10 @@
       "category": "国内"
     },
     {
-      "title": "九州で記録的大雨の恐れ 厳重警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6594140?source=rss",
-      "description": "",
-      "pubDate": "Thu, 03 Sep 2026 13:56:35 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "2次補正案 今秋見送りで政府調整",
-      "link": "https://news.yahoo.co.jp/pickup/6594119?source=rss",
-      "description": "",
-      "pubDate": "Thu, 03 Sep 2026 09:15:28 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "麻生副総裁続投へ 役員人事の狙い",
       "link": "https://news.yahoo.co.jp/pickup/6594088?source=rss",
       "description": "",
       "pubDate": "Thu, 03 Sep 2026 04:00:44 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "中道分裂へ 野党勢力の流動化必至",
-      "link": "https://news.yahoo.co.jp/pickup/6594053?source=rss",
-      "description": "",
-      "pubDate": "Wed, 02 Sep 2026 23:28:10 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -195,6 +195,14 @@
       "category": "国際"
     },
     {
+      "title": "紀平梨花、真剣表情でトレーニング中...ウェア姿も「激カワ」ドキっ　「可愛いさ最強」「かっこいい」",
+      "link": "https://www.j-cast.com/2026/09/04517555.html",
+      "description": "フィギュアスケート・アイスダンスの紀平梨花選手（24）が2026年8月29日、自身のインスタグラムを更新。トレーニング中の様子を公開した。",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "前田敦子、肩出しロングドレス姿で色気ダダ漏れショット　「スタイルよすぎる」「どんどん綺麗に」「女神過ぎ」",
       "link": "https://www.j-cast.com/2026/09/03517633.html",
       "description": "元AKB48で俳優の前田敦子さん（35）が2026年8月30日、自身のインスタグラムを更新。「最近の衣装」ショットを披露した。",
@@ -227,18 +235,18 @@
       "category": "総合"
     },
     {
-      "title": "「モームリ」元社長ら有罪判決で退職代行がオワコン化か　「取り合わない」企業3割、弁護士の参入で薄れる存在感",
-      "link": "https://www.j-cast.com/2026/09/03517649.html",
-      "description": "本人に代わって勤務先に退職の意思を伝える「退職代行」が、曲がり角を迎えている。業界最大手の「退職代行モームリ」の元社長らに有罪判決が下され、サービス全体のイメージが悪化。企業や利用者が業界への不信感を抱きやすい状況となってしまった。急拡大したブームは、このまま「オワコン」になるのか。",
-      "pubDate": "Thu, 03 Sep 2026 19:10:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "「モームリ」元社長ら有罪判決で退職代行がオワコン化か　「取り合わない」企業3割、弁護士の参入で薄れる存在感",
+      "link": "https://www.j-cast.com/2026/09/03517649.html",
+      "description": "本人に代わって勤務先に退職の意思を伝える「退職代行」が、曲がり角を迎えている。業界最大手の「退職代行モームリ」の元社長らに有罪判決が下され、サービス全体のイメージが悪化。企業や利用者が業界への不信感を抱きやすい状況となってしまった。急拡大したブームは、このまま「オワコン」になるのか。",
+      "pubDate": "Thu, 03 Sep 2026 19:10:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -267,14 +275,6 @@
       "category": "総合"
     },
     {
-      "title": "「ずっと嫌がらせを受けていた」2か月前に明かしていたヒカル　売上対決企画でひろゆきに「不戦敗」の真相",
-      "link": "https://www.j-cast.com/2026/09/03517657.html",
-      "description": "企業リアリティーショーの「Nontitle ノンタイトル」が2026年9月3日、YouTuberのヒカルさんと実業家のひろゆきこと西村博之さんによる売上対決企画「seasonH」について、「ひろゆきチームの不戦勝」とすることを報告した。",
-      "pubDate": "Thu, 03 Sep 2026 16:38:53 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -299,14 +299,6 @@
       "category": "総合"
     },
     {
-      "title": "遊びながら投資が体感できるボードゲーム「投資番付」",
-      "link": "https://www.j-cast.com/trend/2026/09/02517573.html",
-      "description": "バンダイナムコグループで玩具などを手がけるメガハウス（東京都千代田区）は、ファミリー向けボードゲーム「投資番付」を2026年9月中旬に発売する。",
-      "pubDate": "Wed, 02 Sep 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -315,84 +307,92 @@
       "category": "総合"
     },
     {
-      "title": "澤穂希さんが引退後に言及「サッカーをやり切ったので…」",
-      "link": "https://news.livedoor.com/article/detail/32234644/",
-      "description": "ざっくり言うと 澤穂希さんが引退後のサッカーへの思いをBS-TBSの番組で語った 引退後は一切プレーしておらず「やりたい気持ちが1％もない」と断言 後輩には「やり切って引退した方がいい」とアドバイスしているという 記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 21:16:10 +0900",
+      "title": "大谷翔平のグッズ配布日なのに「酷すぎるんだよ」ドジャース本拠地に異変",
+      "link": "https://news.livedoor.com/article/detail/32236170/",
+      "description": "ざっくり言うと 米大リーグのドジャースが本拠地でカージナルス戦に逆転負けした試合で 大谷翔平モデルのチャンピオンリング配布日なのに観客数が平均を下回ったという 現地ファンからは「チームのプレーぶりが酷すぎる」などの声が上がっている 記事を読む",
+      "pubDate": "Fri, 04 Sep 2026 05:13:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "2020年に米国出身の夫と再婚した長谷川潤 結婚式はオンライン",
-      "link": "https://news.livedoor.com/article/detail/32234949/",
-      "description": "ざっくり言うと モデルの長谷川潤がABEMAの新番組で再婚した夫との馴れ初めを語った 友人の紹介で知り合い、コロナ禍の遠距離を経て自然な流れで結婚したという 結婚式はオンラインで行い、式後にハワイの海に2人で飛び込んで祝ったそう 記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 22:30:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "オーナーのハラスメント報道 東京エムケイ社長の会見態度に批判の声",
-      "link": "https://news.livedoor.com/article/detail/32232527/",
+      "title": "ハウス食品、CoCo壱番屋運営の壱番屋を売却検討か「脱カレー」の異変も",
+      "link": "https://news.livedoor.com/article/detail/32236696/",
       "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 16:30:00 +0900",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "お笑いコンビ「流山狂ノ詩」のGO!GO!HAYATO パイプカット公表で話題",
-      "link": "https://news.livedoor.com/article/detail/32234410/",
+      "title": "「真っ裸で、太陽光を浴びながらラジオ体操」小田切ヒロの朝活に衝撃",
+      "link": "https://news.livedoor.com/article/detail/32236818/",
       "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 20:30:00 +0900",
+      "pubDate": "Fri, 04 Sep 2026 07:30:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "既婚者マッチングでママ友作り？",
-      "link": "https://news.livedoor.com/article/detail/32063872/",
-      "description": "ざっくり言うと 同じ立場の相手と出会える既婚者のためのマッチングアプリ「カドル(Cuddle)」 業界初となる同性マッチング機能もあり、ママ友や趣味友が気軽に見つかると注目 女性は登録からメッセージのやりとりまで基本無料で使用でき安全対策も万全 記事を読む",
-      "pubDate": "Mon, 24 Aug 2026 10:05:29 +0900",
+      "title": "氷川きよし、ビブラートで部屋を揺らした？日テレスタッフ騒然の事態",
+      "link": "https://news.livedoor.com/article/detail/32236034/",
+      "description": "ざっくり言うと 氷川きよしが8月30日放送の「24時間テレビ49」に出演し歌声を披露した 本番前の控室での発声練習が声量抜群で、部屋の外にまで声が漏れ出たという ビブラートに「部屋が揺れたかと錯覚した」とキー局関係者らが語っている 記事を読む",
+      "pubDate": "Fri, 04 Sep 2026 05:00:01 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "2026年度の都道府県ごとの最低賃金 全国平均は時給1177円",
-      "link": "https://news.livedoor.com/article/detail/32235000/",
+      "title": "「冷やしカニラーメン」で食中毒…さらなる法的責任に問われる可能性は",
+      "link": "https://news.livedoor.com/article/detail/32236317/",
       "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 22:49:00 +0900",
+      "pubDate": "Fri, 04 Sep 2026 06:00:02 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "京都府舞鶴市でツキノワグマ2頭を発見 府内で初となる緊急銃猟",
-      "link": "https://news.livedoor.com/article/detail/32234904/",
+      "title": "事業許可取り消し相次ぐ「みんなで大家さん」運営会社代表が今後の方針告白",
+      "link": "https://news.livedoor.com/article/detail/32236777/",
       "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 22:21:26 +0900",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "高崎山で57歳男性が遭難 知人に頂上で撮影した写真を送信か",
-      "link": "https://news.livedoor.com/article/detail/32234808/",
+      "title": "奈良美智氏が高市首相を痛烈批判「大日本帝国の戦陣訓そのまま」",
+      "link": "https://news.livedoor.com/article/detail/32236785/",
       "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 21:51:31 +0900",
+      "pubDate": "Fri, 04 Sep 2026 07:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "大分県日田市の商業施設で高齢女性殺害 懲役22年の実刑判決確定へ",
-      "link": "https://news.livedoor.com/article/detail/32234809/",
+      "title": "1軍登録抹消に、電撃離婚…小園海斗へ関係者指摘「トレードされる可能性」",
+      "link": "https://news.livedoor.com/article/detail/32236372/",
       "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 21:51:31 +0900",
+      "pubDate": "Fri, 04 Sep 2026 06:02:27 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "アスリートのユニフォームにおける男女の「面積差」SNSで議論呼ぶ",
-      "link": "https://news.livedoor.com/article/detail/32234585/",
-      "description": "ざっくり言うと 陸上ユニフォームの男女間の露出面積差がSNSで物議を醸している 現役七種競技選手の泉谷莉子氏は「個人が選択すればいい」と述べた 流体工学の専門家は腹部を覆うユニフォームが空気抵抗上有利と解説した 記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 11:30:00 +0900",
+      "title": "「Mステ」のサブMC務める鈴木新彩アナ、18日の放送で番組卒業へ",
+      "link": "https://news.livedoor.com/article/detail/32236280/",
+      "description": "ざっくり言うと 鈴木新彩アナが『ミュージックステーション』サブMCを卒業する 2022年10月就任から約4年間、7代目サブMCとして番組を支えてきた 後任の8代目サブMCは後日発表予定で、18日が最後の出演となる 記事を読む",
+      "pubDate": "Fri, 04 Sep 2026 06:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "りくりゅう、結婚後はCMギャラ総額5億円に？広告需要は青天井か",
+      "link": "https://news.livedoor.com/article/detail/32236359/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 04 Sep 2026 05:42:48 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "米Appleの新たなCEO ジョン・ターナス氏がXに初投稿「hello」",
+      "link": "https://news.livedoor.com/article/detail/32234034/",
+      "description": "ざっくり言うと AppleのCEOにジョン・ターナス氏が9月1日付で就任し、Xに初投稿した 初ポストは「hello」の一言のみで、シンプルな第一声として注目を集めている CEO交代は2011年のジョブズ氏からクック氏への引き継ぎ以来、15年ぶりとなる 記事を読む",
+      "pubDate": "Thu, 03 Sep 2026 18:31:20 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
     },
     {
       "title": "ニデック元名誉会長の永守重信氏、現在は「大学のキャンパスに出勤」",
@@ -443,14 +443,6 @@
       "category": "経済"
     },
     {
-      "title": "毎年9月に届く「扶養親族等申告書」を出し忘れると年金手取りが減る",
-      "link": "https://news.livedoor.com/article/detail/32233887/",
-      "description": "ざっくり言うと 年金受給者が毎年9月ごろに郵送される「扶養親族等申告書」の解説記事 この書類を提出し忘れると控除が適用されず手取り額が減るとのこと 確定申告で取り戻せるが、年金振込通知書で変化を確認することが重要だ 記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 19:15:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "光岡自動車がビュートストーリーを改良、6速MTや4WDも選べる仕様に",
       "link": "https://news.livedoor.com/article/detail/32232707/",
       "description": "記事を読む",
@@ -473,6 +465,46 @@
       "pubDate": "Thu, 03 Sep 2026 21:29:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "相模原の17歳男子死亡事件 友人ら「なぜ早く捕まえてくれないのか」",
+      "link": "https://news.livedoor.com/article/detail/32233298/",
+      "description": "ざっくり言うと 神奈川県相模原市の農道で17歳男子が暴行を受けて死亡したとされる事件 県警は傷害致死容疑も視野に、現場から立ち去った人物の特定を進めているという 事件から日数が経過しても逮捕者が出ない状況に、友人らは不満を漏らしているそう 記事を読む",
+      "pubDate": "Thu, 03 Sep 2026 17:56:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "中国人元留学生が帰国し苦悩「また日本に戻って暮らしたい」",
+      "link": "https://news.livedoor.com/article/detail/32233380/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 03 Sep 2026 18:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "高崎山で57歳男性が遭難 知人に頂上で撮影した写真を送信か",
+      "link": "https://news.livedoor.com/article/detail/32234808/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 03 Sep 2026 21:51:31 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "ちいかわ湯呑みが発売前にメルカリに…店舗関係者が抜き取った？疑惑も",
+      "link": "https://news.livedoor.com/article/detail/32232803/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 03 Sep 2026 17:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "子の緊急入院が決定、1週間付き添う母を襲った膨大なタスク「あああ」",
+      "link": "https://news.livedoor.com/article/detail/32229845/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 03 Sep 2026 11:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "「もう緊張しない」人前で自信満々に話すための実践的な手法",
@@ -511,46 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/32057412/",
       "description": "ざっくり言うと 高校生の頑張りを見えるカタチにするデジタル証明書「ポカリスエット インハイNFT」 自分の活動実績を未来にわたり証明でき、大学の総合型選抜や就職活動で使うことも可能 インターハイをささえた高校生はどんな思いでインハイNFTを受け取ったのか話を聞いた 記事を読む",
       "pubDate": "Mon, 17 Aug 2026 18:00:47 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "オーナーのハラスメント報道 東京エムケイ社長の会見態度に批判の声",
-      "link": "https://news.livedoor.com/article/detail/32232527/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 16:30:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "夏の脳梗塞 熱中症との見分け方",
-      "link": "https://news.livedoor.com/article/detail/32234652/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 21:21:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "麻布十番納涼まつりで販売のかにラーメンが食中毒の原因、78人が被害",
-      "link": "https://news.livedoor.com/article/detail/32234479/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 20:38:27 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "マッチングアプリで女性になりすましロマンス詐欺、男5人が逮捕される",
-      "link": "https://news.livedoor.com/article/detail/32234490/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 20:45:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "東大・本田由紀教授の彬子さま巡る投稿に批判、学会が対応検討",
-      "link": "https://news.livedoor.com/article/detail/32234368/",
-      "description": "ざっくり言うと 東大・本田由紀教授が彬子さまに関しSNSで問題視される投稿をした 「遺伝的要因のおそろしさを感じる」との表現が差別的と批判を受けた 東大は人権尊重の原則を示し、日本教育学会は倫理委で対応を検討中 記事を読む",
-      "pubDate": "Thu, 03 Sep 2026 20:09:55 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1174,7 +1166,7 @@
       "title": "【虎ノ門ニュース】三枝玄太郎×柳ヶ瀬裕文 2026/9/4(金)",
       "link": "https://www.youtube.com/watch?v=AVQ6qtk0hl8",
       "description": "",
-      "pubDate": "2026-08-31T01:26:31+00:00",
+      "pubDate": "2026-09-03T21:30:31+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1286,7 +1278,7 @@
       "title": "【ライブ】本日、和歌山で震度３の地震が発生！生放送で解説します！（2026年９月2日）",
       "link": "https://www.youtube.com/watch?v=4cRxGLppz4Q",
       "description": "",
-      "pubDate": "2026-09-02T21:00:21+00:00",
+      "pubDate": "2026-09-03T18:12:52+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
