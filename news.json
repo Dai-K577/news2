@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-07 02:22 JST",
+  "updated": "2026-09-07 04:41 JST",
   "total": 167,
   "news": [
+    {
+      "title": "東京・新島村に土砂災害特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6594479?source=rss",
+      "description": "",
+      "pubDate": "Sun, 06 Sep 2026 19:36:17 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
     {
       "title": "東海-東北の太平洋側で大雨 警戒",
       "link": "https://news.yahoo.co.jp/pickup/6594468?source=rss",
@@ -23,14 +31,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6594473?source=rss",
       "description": "",
       "pubDate": "Sun, 06 Sep 2026 13:57:26 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ケーキ店火災 男性の遺体に刺し傷",
-      "link": "https://news.yahoo.co.jp/pickup/6594471?source=rss",
-      "description": "",
-      "pubDate": "Sun, 06 Sep 2026 13:39:08 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -65,6 +65,14 @@
       "pubDate": "Sun, 06 Sep 2026 13:15:34 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "東京・新島村に土砂災害特別警報",
+      "link": "https://news.yahoo.co.jp/pickup/6594479?source=rss",
+      "description": "",
+      "pubDate": "Sun, 06 Sep 2026 19:36:17 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "東海-東北の太平洋側で大雨 警戒",
@@ -119,14 +127,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6594394?source=rss",
       "description": "",
       "pubDate": "Sun, 06 Sep 2026 01:28:10 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "悠仁さま20歳 成年皇族の歩み進め",
-      "link": "https://news.yahoo.co.jp/pickup/6594366?source=rss",
-      "description": "",
-      "pubDate": "Sat, 05 Sep 2026 15:30:05 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -451,12 +451,36 @@
       "category": "経済"
     },
     {
-      "title": "2029年春に中低所得者への所得連動型の現金給付を本格導入案 政府内で浮上",
-      "link": "https://news.livedoor.com/article/detail/32256287/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:18:11 +0900",
+      "title": "イオン株主優待とイオンカードの特典を比較、どちらがお得かを解説",
+      "link": "https://news.livedoor.com/article/detail/32254844/",
+      "description": "ざっくり言うと イオン株の株主優待とイオンカードの特典を比較した記事が話題だ オーナーズカードは買い物1～7％還元や映画1000円など特典が手厚い イオンカードは年会費無料で気軽に優待を受けられる点が大きなメリットだ 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 14:10:29 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "7日にかけて関東は災害級の大雨の恐れ 土砂災害や低い土地の浸水などに警戒",
+      "link": "https://news.livedoor.com/article/detail/32252816/",
+      "description": "ざっくり言うと 秋雨前線と台風24号の影響で関東に9月6～7日大雨の恐れがある 関東南部では最大250ミリの降水量が予想され土砂災害や河川氾濫に警戒が必要 冠水道路での車走行は危険で、アンダーパスには近づかないよう呼びかけている 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 06:30:02 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "くら寿司の従業員がちいかわコラボ景品を横領、キャンペーンを中止",
+      "link": "https://news.livedoor.com/article/detail/32256605/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 20:25:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "千葉県 複数市町にレベル４警報",
+      "link": "https://news.livedoor.com/article/detail/32257654/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 07 Sep 2026 02:35:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "関東・東海・東北の1都12県で線状降水帯が発生する恐れ",
@@ -475,26 +499,10 @@
       "category": "国内"
     },
     {
-      "title": "くら寿司の従業員がちいかわコラボ景品を横領、キャンペーンを中止",
-      "link": "https://news.livedoor.com/article/detail/32256605/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 20:25:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "東京都の善福寺川にレベル4氾濫危険警報、周辺住民は早めの避難を",
       "link": "https://news.livedoor.com/article/detail/32257454/",
       "description": "記事を読む",
       "pubDate": "Mon, 07 Sep 2026 00:16:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "7日にかけて関東は災害級の大雨の恐れ 土砂災害や低い土地の浸水などに警戒",
-      "link": "https://news.livedoor.com/article/detail/32252816/",
-      "description": "ざっくり言うと 秋雨前線と台風24号の影響で関東に9月6～7日大雨の恐れがある 関東南部では最大250ミリの降水量が予想され土砂災害や河川氾濫に警戒が必要 冠水道路での車走行は危険で、アンダーパスには近づかないよう呼びかけている 記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 06:30:02 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -527,14 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/32256680/",
       "description": "ざっくり言うと 三重県出身のでか美ちゃんがABEMAの番組で、伊勢市の商店街火災に言及した 現地に住んでいる知人に連絡したところ、デマや陰謀論などに困惑していたそう 宇治山田駅の様子に触れ「遠慮せずに伊勢神宮の参拝は来てほしい」と思いを明かした 記事を読む",
       "pubDate": "Sun, 06 Sep 2026 20:45:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "東京・北区が土砂災害警戒区域の約5200人に警戒レベル4の避難指示を発令",
-      "link": "https://news.livedoor.com/article/detail/32256537/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 20:06:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1262,7 +1262,7 @@
       "title": "【ライブ】兵庫県の大地震の割れ残りについて生放送で解説します！（2026年９月6日）",
       "link": "https://www.youtube.com/watch?v=G_oqU6WiOzc",
       "description": "",
-      "pubDate": "2026-09-06T16:42:32+00:00",
+      "pubDate": "2026-09-06T18:54:54+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
