@@ -1,76 +1,84 @@
 {
-  "updated": "2026-09-06 21:25 JST",
-  "total": 168,
+  "updated": "2026-09-07 02:22 JST",
+  "total": 167,
   "news": [
     {
-      "title": "東北・関東・東海 線状降水帯恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6594448?source=rss",
+      "title": "東海-東北の太平洋側で大雨 警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594468?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 09:36:31 GMT",
+      "pubDate": "Sun, 06 Sep 2026 13:34:42 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "大雨予想で一部運休を発表 JR東",
-      "link": "https://news.yahoo.co.jp/pickup/6594460?source=rss",
-      "description": "",
-      "pubDate": "Sun, 06 Sep 2026 11:49:55 GMT",
+      "title": "全国の鉄道・フライト 最新情報",
+      "link": "https://news.yahoo.co.jp/pickup/6591369?source=rss",
+      "description": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
+      "pubDate": "Sun, 06 Sep 2026 14:22:46 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ケーキ店火事 死亡の男性が関与か",
-      "link": "https://news.yahoo.co.jp/pickup/6594451?source=rss",
+      "title": "内閣支持率が62.5%に上昇 JNN",
+      "link": "https://news.yahoo.co.jp/pickup/6594473?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 09:55:47 GMT",
+      "pubDate": "Sun, 06 Sep 2026 13:57:26 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "酒酔い運転疑いの男容態急変 死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6594444?source=rss",
+      "title": "ケーキ店火災 男性の遺体に刺し傷",
+      "link": "https://news.yahoo.co.jp/pickup/6594471?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 09:15:18 GMT",
+      "pubDate": "Sun, 06 Sep 2026 13:39:08 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「ドパガキ」な娘2人 父語る実態",
-      "link": "https://news.yahoo.co.jp/pickup/6594402?source=rss",
+      "title": "複数作業員に列車接近 JR西で3月",
+      "link": "https://news.yahoo.co.jp/pickup/6594428?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 02:51:47 GMT",
+      "pubDate": "Sun, 06 Sep 2026 07:18:38 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "島田麻央が圧巻V ジャンプで大技",
-      "link": "https://news.yahoo.co.jp/pickup/6594462?source=rss",
+      "title": "G小笠原が完封 6回には打球直撃",
+      "link": "https://news.yahoo.co.jp/pickup/6594477?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 12:16:57 GMT",
+      "pubDate": "Sun, 06 Sep 2026 14:52:17 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "DeNA牧 死球受け怒りをあらわに",
-      "link": "https://news.yahoo.co.jp/pickup/6594457?source=rss",
+      "title": "岩本照 体調不良で舞台急きょ中止",
+      "link": "https://news.yahoo.co.jp/pickup/6594474?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 11:03:33 GMT",
+      "pubDate": "Sun, 06 Sep 2026 13:55:28 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "織田裕二「踊る」新作 涙腺緩んだ",
-      "link": "https://news.yahoo.co.jp/pickup/6594463?source=rss",
+      "title": "坂口健太郎 一般女性との結婚発表",
+      "link": "https://news.yahoo.co.jp/pickup/6594470?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 12:05:23 GMT",
+      "pubDate": "Sun, 06 Sep 2026 13:15:34 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "東北・関東・東海 線状降水帯恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6594448?source=rss",
+      "title": "東海-東北の太平洋側で大雨 警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6594468?source=rss",
       "description": "",
-      "pubDate": "Sun, 06 Sep 2026 09:36:31 GMT",
+      "pubDate": "Sun, 06 Sep 2026 13:34:42 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "内閣支持率が62.5%に上昇 JNN",
+      "link": "https://news.yahoo.co.jp/pickup/6594473?source=rss",
+      "description": "",
+      "pubDate": "Sun, 06 Sep 2026 13:57:26 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -103,14 +111,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6594375?source=rss",
       "description": "",
       "pubDate": "Sat, 05 Sep 2026 22:56:47 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "露に対日戦勝碑 首相が撤去を要請",
-      "link": "https://news.yahoo.co.jp/pickup/6594361?source=rss",
-      "description": "",
-      "pubDate": "Sat, 05 Sep 2026 13:58:20 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -291,14 +291,6 @@
       "category": "総合"
     },
     {
-      "title": "台湾茶の代表的品種を使用　「アサヒ台湾烏龍茶～四季春茶～」",
-      "link": "https://www.j-cast.com/trend/2026/09/05517678.html",
-      "description": "アサヒ飲料は、ウーロン茶飲料「アサヒ台湾烏龍茶～四季春茶（しきはるちゃ）～」を2026年9月8日に発売する。",
-      "pubDate": "Sat, 05 Sep 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -307,7 +299,71 @@
       "category": "総合"
     },
     {
-      "title": "くら寿司が「ちいかわ」とのコラボ中止 従業員が景品を横領、警察にも相談",
+      "title": "坂口健太郎が一般女性と結婚 2017年の番組で過去に語っていた結婚観",
+      "link": "https://news.livedoor.com/article/detail/32257156/",
+      "description": "ざっくり言うと 一般女性と結婚した坂口健太郎の過去の発言をスポニチアネックスが伝えた 2017年に「ボクらの時代」に出演した際には、自身の結婚願望に言及 「いつっていうのはない」「急にパッと思ったら（結婚と）なるだろうし」と語っていた 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 22:33:53 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "声優・大谷育江「VIVANT」にジャミーンの携帯音声として本編に初登場",
+      "link": "https://news.livedoor.com/article/detail/32257034/",
+      "description": "ざっくり言うと TBS日曜劇場『VIVANT』第17話に声優の大谷育江が初登場した ジャミーンの携帯音声として乃木（堺雅人）と会話する場面が描かれた ピカチュウ役などで知られる大谷の参加でさらに注目を集める形となった 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 22:10:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "森泉、自宅で総勢30匹くらいの動物と生活 1カ月にかかる金額は100万超",
+      "link": "https://news.livedoor.com/article/detail/32257078/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 22:08:25 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "Snow Man岩本照の主演ミュージカル 開演予定時刻を過ぎてから急きょ中止に",
+      "link": "https://news.livedoor.com/article/detail/32257021/",
+      "description": "ざっくり言うと Snow Man岩本照が主演するミュージカルの6日夜公演が急きょ中止となった 岩本の体調不良が原因で、開演予定時刻を過ぎてからの中止発表となった 同作は9月5日に初日を迎え、6日昼公演は予定通り開催されていたという 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 21:53:57 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「水曜どうでしょう」2026年最新作、Netflix完全版の世界配信が決定",
+      "link": "https://news.livedoor.com/article/detail/32257022/",
+      "description": "ざっくり言うと HTBの伝説的番組『水曜どうでしょう』2026年最新作の配信が決定した Netflix完全版として来春に世界独占配信されることが公式に発表された 9月4～6日開催の『水曜どうでしょう祭UNITE2026』で世界初上映もされた 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 22:03:42 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "有吉弘行「おしゃクソ事変」を振り返る 吉本芸人が多くて「やらなきゃ」",
+      "link": "https://news.livedoor.com/article/detail/32256869/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 21:14:59 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "バレーアジア選手権、日本男子が2連勝 バーレーンを3ー0で料理",
+      "link": "https://news.livedoor.com/article/detail/32256742/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 20:49:40 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「ミスター」鈴井貴之、8月に脳梗塞で緊急入院 入院時は歩行もままならず",
+      "link": "https://news.livedoor.com/article/detail/32256931/",
+      "description": "ざっくり言うと 『水曜どうでしょう』出演の鈴井貴之氏が脳梗塞での入院を公表した 8月11日夜に犬の散歩前に倒れ左半身が麻痺、9日間入院しリハビリを経て退院 軽度で回復が早く9月の『どうでしょう祭UNITE2026』に無事参加できたという 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 21:35:45 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "くら寿司の従業員がちいかわコラボ景品を横領、キャンペーンを中止",
       "link": "https://news.livedoor.com/article/detail/32256605/",
       "description": "記事を読む",
       "pubDate": "Sun, 06 Sep 2026 20:25:00 +0900",
@@ -315,84 +371,12 @@
       "category": "総合"
     },
     {
-      "title": "岐阜のケーキ店火災 遺体の男性は腹を刺されたことによる失血死",
-      "link": "https://news.livedoor.com/article/detail/32256627/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 20:30:38 +0900",
+      "title": "三重県出身のでか美ちゃん 伊勢市の火災を巡るデマや陰謀論に指摘",
+      "link": "https://news.livedoor.com/article/detail/32256680/",
+      "description": "ざっくり言うと 三重県出身のでか美ちゃんがABEMAの番組で、伊勢市の商店街火災に言及した 現地に住んでいる知人に連絡したところ、デマや陰謀論などに困惑していたそう 宇治山田駅の様子に触れ「遠慮せずに伊勢神宮の参拝は来てほしい」と思いを明かした 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 20:45:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
-    },
-    {
-      "title": "東京・北区が約5200人に警戒レベル4の避難指示 区内の3箇所に避難所を開設",
-      "link": "https://news.livedoor.com/article/detail/32256558/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 20:08:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ツインズ戦で外野席の客が「神業」時速180キロの本塁打球を素手でキャッチ",
-      "link": "https://news.livedoor.com/article/detail/32256485/",
-      "description": "ざっくり言うと 村上宗隆が5日のツインズ戦で日本出身史上4人目の30号本塁打を放った 同じ初回、時速180キロの打球をファンの男性が左手一本で素手キャッチした 誕生日当日の今季初観戦で父の予言通りの神業を披露したと米メディアが報じた 記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 20:00:02 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "東京・葛飾区、練馬区、大田区、台東区など7日の臨時休校を相次ぎ発表",
-      "link": "https://news.livedoor.com/article/detail/32255154/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 15:48:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "2029年春に中低所得者への所得連動型の現金給付を本格導入案 政府内で浮上",
-      "link": "https://news.livedoor.com/article/detail/32256287/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:18:11 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「水曜日のダウンタウン」の「ラーメンマラソン」秘話 ともしげが暴走",
-      "link": "https://news.livedoor.com/article/detail/32256351/",
-      "description": "ざっくり言うと や団・中嶋享がYouTubeでTBS「水曜日のダウンタウン」の秘話を明かした ラーメンマラソン企画でともしげが「テレビじゃダメなこと」を怒鳴ったという 中嶋は「ガチで怒っていた」としつつ現場で大笑いしたと振り返っている 記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:26:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "織田裕二「踊る大捜査線」最新作で撮影後「2カ月松葉杖」告白",
-      "link": "https://news.livedoor.com/article/detail/32256208/",
-      "description": "ざっくり言うと 織田裕二が映画『踊る大捜査線 N.E.W.』の完成報告イベントに登壇した 撮影中に危険なアクションを敢行し、撮影後2ヶ月松葉杖をついたと告白 問題のシーンは結局「危険だから」と判断され、全カットになったとのこと 記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:11:17 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "東海道新幹線 あす運休や遅延も",
-      "link": "https://news.livedoor.com/article/detail/32255833/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 17:59:49 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "5人死傷の岐阜ケーキ店火災 関与したとみられる死亡男性だけが店の駐車場に",
-      "link": "https://news.livedoor.com/article/detail/32256045/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 18:39:29 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "和田秀樹氏が説く、月5000円で5万円分使える介護保険の活用法",
-      "link": "https://news.livedoor.com/article/detail/32253687/",
-      "description": "ざっくり言うと 精神科医の和田秀樹氏が老後資金は500万円で十分と主張している 介護保険を活用すれば有料老人ホームの入居費用が500万円で済むとのこと 要支援1でも月5000円で最大5万円分の介護サービスを受けられる制度がある 記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 10:15:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
     },
     {
       "title": "10年以上負けなしの専業トレーダーが人気株を避けて勝ち続ける理由",
@@ -419,22 +403,6 @@
       "category": "経済"
     },
     {
-      "title": "円安放置なら物価高、利上げすれば住宅ローン増と財政圧迫の板挟み",
-      "link": "https://news.livedoor.com/article/detail/32256269/",
-      "description": "ざっくり言うと 高市政権の「責任ある積極財政」と円安・利上げの矛盾を解説した記事 円安放置では物価高、利上げすれば住宅ローンや財政が圧迫されるというジレンマ どちらに転んでも家計への打撃は避けられず、アクセルとブレーキを同時に踏む状況とのこと 記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:10:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "約1000万円のVW ID.バズに試乗、走りの楽しさが想像を超えた理由",
-      "link": "https://news.livedoor.com/article/detail/32256221/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "申請しないともらえない「加給年金」、年の差夫婦ほど受取額が大きくなる",
       "link": "https://news.livedoor.com/article/detail/32256274/",
       "description": "ざっくり言うと 申請必須の年金上乗せ制度「加給年金」を元市役所職員が解説した 夫婦の年齢差5歳で200万円以上、15歳差では600万円以上が上乗せされる 加給年金終了後は「振替加算」に切り替わり、夫死後も妻が生涯受け取れるという 記事を読む",
@@ -451,14 +419,6 @@
       "category": "経済"
     },
     {
-      "title": "日産の軽ワゴン「デイズX」が150万円、純ガソリンでリッター23km超えを実現",
-      "link": "https://news.livedoor.com/article/detail/32255268/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 16:10:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "フラット35の金利が3%台に、4000万円借入で変動金利と毎月の返済額を比較",
       "link": "https://news.livedoor.com/article/detail/32256438/",
       "description": "ざっくり言うと 住宅ローンのフラット35が2026年9月時点で金利3％台となっている 4000万円を35年借入した場合、変動金利との返済額差は月約4万8000円になる 金利引下げ制度を活用すれば総返済額を約235万円抑えられる計算とのこと 記事を読む",
@@ -467,58 +427,66 @@
       "category": "経済"
     },
     {
-      "title": "東海道新幹線 あす運休や遅延も",
-      "link": "https://news.livedoor.com/article/detail/32255833/",
+      "title": "日産の軽ワゴン「デイズX」が150万円、純ガソリンでリッター23km超えを実現",
+      "link": "https://news.livedoor.com/article/detail/32255268/",
       "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 17:59:49 +0900",
+      "pubDate": "Sun, 06 Sep 2026 16:10:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "ホンダの小型EV「スーパーワン」が発売直後から予約殺到、納期は1年超",
+      "link": "https://news.livedoor.com/article/detail/32256820/",
+      "description": "ざっくり言うと ホンダが2026年5月22日に小型EV「スーパーワン」を発売した 軽EV「N-ONE e：」ベースで339万円、補助金活用で実質190万円前後になるという 発売直後から予約が殺到し、納期は2027年5月～6月頃とのこと 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 21:10:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "ホンダ新型アコードが一部改良、白インテリアや全方位安全支援を追加",
+      "link": "https://news.livedoor.com/article/detail/32257056/",
+      "description": "ざっくり言うと ホンダが一部改良した新型「アコード」を2026年7月31日に発売した グレードを再編し国内初の「Honda SENSING 360＋」を上級モデルに搭載 価格は標準モデル595万1000円、上級モデル635万1400円に設定される 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 22:10:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "2029年春に中低所得者への所得連動型の現金給付を本格導入案 政府内で浮上",
+      "link": "https://news.livedoor.com/article/detail/32256287/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 19:18:11 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "関東・東海・東北の1都12県で線状降水帯が発生する恐れ",
+      "link": "https://news.livedoor.com/article/detail/32257526/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 07 Sep 2026 01:07:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "伊勢神宮近くの明倫商店街で大規模火災、58棟が焼け落ち店主が胸中を語る",
-      "link": "https://news.livedoor.com/article/detail/32256365/",
-      "description": "ざっくり言うと 伊勢神宮外宮近くの明倫商店街で8月31日に大規模火災が発生した 58棟が被害を受け焼損面積は約4300平方メートルに及んだとのこと 古い木造建物の密集とアーケードが延焼を拡大させた要因とみられる 記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:35:00 +0900",
+      "title": "岐阜・本巣市のケーキ店放火、死亡の林さんが車内で発見されていた",
+      "link": "https://news.livedoor.com/article/detail/32257462/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 07 Sep 2026 00:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "栃木・JR小山駅の商業施設に車が突入、女子大学生が指を切断するけが",
-      "link": "https://news.livedoor.com/article/detail/32256299/",
+      "title": "くら寿司の従業員がちいかわコラボ景品を横領、キャンペーンを中止",
+      "link": "https://news.livedoor.com/article/detail/32256605/",
       "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:21:00 +0900",
+      "pubDate": "Sun, 06 Sep 2026 20:25:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "高校の文化祭で盗撮をした疑いの男が、逃走に催涙スプレーを使用か",
-      "link": "https://news.livedoor.com/article/detail/32256305/",
+      "title": "東京都の善福寺川にレベル4氾濫危険警報、周辺住民は早めの避難を",
+      "link": "https://news.livedoor.com/article/detail/32257454/",
       "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 19:27:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "台風24号「円を描く」複雑な進路",
-      "link": "https://news.livedoor.com/article/detail/32255835/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 18:02:29 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "岐阜・本巣市のケーキ店火事で死者3人に、殺人・放火の疑いで捜査",
-      "link": "https://news.livedoor.com/article/detail/32256137/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 18:57:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "岐阜県のケーキ店火災 搬送後に死亡した男性の自宅を家宅捜索",
-      "link": "https://news.livedoor.com/article/detail/32255975/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 18:21:08 +0900",
+      "pubDate": "Mon, 07 Sep 2026 00:16:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -531,18 +499,42 @@
       "category": "国内"
     },
     {
-      "title": "ケーキ店火災 死者3人に 放火か",
-      "link": "https://news.livedoor.com/article/detail/32255825/",
+      "title": "鹿児島の養豚場で65歳の作業員がコンベアに巻き込まれ死亡",
+      "link": "https://news.livedoor.com/article/detail/32257409/",
       "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 17:55:51 +0900",
+      "pubDate": "Sun, 06 Sep 2026 23:36:25 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "首都圏JR 大雨で運転取りやめへ",
-      "link": "https://news.livedoor.com/article/detail/32255774/",
+      "title": "JR東日本 あす7日は首都圏の在来線・特急列車で運休 大雨の影響で",
+      "link": "https://news.livedoor.com/article/detail/32254687/",
       "description": "記事を読む",
-      "pubDate": "Sun, 06 Sep 2026 17:49:27 +0900",
+      "pubDate": "Sun, 06 Sep 2026 13:49:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "米ハワイ移住34年 60代水着店店主がモーニングルーティンを紹介",
+      "link": "https://news.livedoor.com/article/detail/32229005/",
+      "description": "ざっくり言うと ハワイ移住34年の60代水着店店主が、現地での日常を動画で公開した 朝は海に向かってウォーキングに出かけ、朝食は自家製の無水カレー 仕事風景も伝え、年齢を気にして水着選びに悩む女性客とのエピソードも紹介した 記事を読む",
+      "pubDate": "Thu, 03 Sep 2026 10:03:33 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "三重県出身のでか美ちゃん 伊勢市の火災を巡るデマや陰謀論に指摘",
+      "link": "https://news.livedoor.com/article/detail/32256680/",
+      "description": "ざっくり言うと 三重県出身のでか美ちゃんがABEMAの番組で、伊勢市の商店街火災に言及した 現地に住んでいる知人に連絡したところ、デマや陰謀論などに困惑していたそう 宇治山田駅の様子に触れ「遠慮せずに伊勢神宮の参拝は来てほしい」と思いを明かした 記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 20:45:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "東京・北区が土砂災害警戒区域の約5200人に警戒レベル4の避難指示を発令",
+      "link": "https://news.livedoor.com/article/detail/32256537/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 06 Sep 2026 20:06:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1270,7 +1262,7 @@
       "title": "【ライブ】兵庫県の大地震の割れ残りについて生放送で解説します！（2026年９月6日）",
       "link": "https://www.youtube.com/watch?v=G_oqU6WiOzc",
       "description": "",
-      "pubDate": "2026-09-06T12:14:53+00:00",
+      "pubDate": "2026-09-06T16:42:32+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
