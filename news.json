@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13 04:45 JST",
-  "total": 168,
+  "updated": "2026-09-13 07:40 JST",
+  "total": 167,
   "news": [
     {
       "title": "対米投資第3弾 次世代原発が有力",
@@ -27,18 +27,26 @@
       "category": "総合"
     },
     {
-      "title": "MUFG 富裕層囲い込み戦略の裏側",
-      "link": "https://news.yahoo.co.jp/pickup/6595083?source=rss",
+      "title": "AnthropicCEO AI開発の減速訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6595106?source=rss",
       "description": "",
-      "pubDate": "Sat, 12 Sep 2026 10:32:23 GMT",
+      "pubDate": "Sat, 12 Sep 2026 22:35:27 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「時給100円」ブラックインターン",
-      "link": "https://news.yahoo.co.jp/pickup/6595093?source=rss",
+      "title": "富士山 閉山後でも海外の団体客",
+      "link": "https://news.yahoo.co.jp/pickup/6595103?source=rss",
       "description": "",
-      "pubDate": "Sat, 12 Sep 2026 12:00:50 GMT",
+      "pubDate": "Sat, 12 Sep 2026 22:22:41 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "北口榛花 日本新記録マークし優勝",
+      "link": "https://news.yahoo.co.jp/pickup/6595105?source=rss",
+      "description": "",
+      "pubDate": "Sat, 12 Sep 2026 22:28:14 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -51,18 +59,10 @@
       "category": "総合"
     },
     {
-      "title": "バレー男子イラン監督 日程に不満",
-      "link": "https://news.yahoo.co.jp/pickup/6595100?source=rss",
+      "title": "ベネチア 日本作品は金獅子賞逃す",
+      "link": "https://news.yahoo.co.jp/pickup/6595104?source=rss",
       "description": "",
-      "pubDate": "Sat, 12 Sep 2026 13:48:09 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "元櫻坂46・渡辺梨加 妊娠を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6595086?source=rss",
-      "description": "",
-      "pubDate": "Sat, 12 Sep 2026 11:09:46 GMT",
+      "pubDate": "Sat, 12 Sep 2026 22:33:31 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -291,19 +291,59 @@
       "category": "総合"
     },
     {
-      "title": "「東京靴流通センター」や「ハローマック」が靴下と靴袋に　カプセル自販機で発売",
-      "link": "https://www.j-cast.com/trend/2026/09/11517850.html",
-      "description": "タカラトミーグループのタカラトミーアーツ（東京都葛飾区）は、チヨダが展開する店舗のデザインがモチーフのカプセルトイ商品「東京靴流通センター 靴下＆靴袋コレクション」を、2026年9月中旬から全国のカプセル自販機で順次発売する。",
-      "pubDate": "Fri, 11 Sep 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "1日30分睡眠の堀大輔氏、配信中の「いびき」への釈明に賛否両論",
+      "link": "https://news.livedoor.com/article/detail/32307867/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 12 Sep 2026 17:05:25 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "首都高横羽線でトラックなど5台が絡む事故、4人けが 一時通行止めも",
+      "link": "https://news.livedoor.com/article/detail/32310659/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 13 Sep 2026 06:23:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "広瀬アリス・すず姉妹も「会いたかった」と興奮 静岡のCM女王の素顔",
+      "link": "https://news.livedoor.com/article/detail/32310540/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 13 Sep 2026 06:00:58 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "三代目JSBが2029年解散の方向と報道、事務所は否定しELLYも「ない」と投稿",
+      "link": "https://news.livedoor.com/article/detail/32310279/",
+      "description": "ざっくり言うと 三代目JSBが2029年までに解散する方向と週刊文春電子版が報じた 所属事務所は解散を否定し「現時点では何も決まっていない」と述べている メンバーのELLYはXで「解散はないでしょ」と言い切り、波紋を呼んでいる 記事を読む",
+      "pubDate": "Sun, 13 Sep 2026 05:00:03 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "京都市の陸上競技場で体調不良を訴えた28人を搬送 集団食中毒か",
+      "link": "https://news.livedoor.com/article/detail/32309780/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 13 Sep 2026 00:58:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "出川哲朗が「引き際」に持論 何歳まで芸人を続けるのかと問われ即答",
+      "link": "https://news.livedoor.com/article/detail/32309340/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 12 Sep 2026 22:06:21 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -331,58 +371,10 @@
       "category": "総合"
     },
     {
-      "title": "出川哲朗が「引き際」に持論 何歳まで芸人を続けるのかと問われ即答",
-      "link": "https://news.livedoor.com/article/detail/32309340/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 22:06:21 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "相模原17歳死亡を巡り少年4人逮捕 うち3人は別の監禁事件ですでに逮捕か",
       "link": "https://news.livedoor.com/article/detail/32308162/",
       "description": "記事を読む",
       "pubDate": "Sat, 12 Sep 2026 17:49:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "岡崎二郎が明かす昭和の映画スターの「金銭事情」借金する理由",
-      "link": "https://news.livedoor.com/article/detail/32308994/",
-      "description": "ざっくり言うと 俳優の岡崎二郎が関根勤のYouTubeチャンネルで昭和スターの金銭事情を語った 当時の映画ギャラは最高でも3000万円程度で、干されると借金で補ったという 一方、小林旭氏や加山雄三氏ら歌える俳優は印税で借金を返せたと明かした 記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 20:38:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "NHKが受信料を巡り提訴 滋賀県で宿泊施設を経営している事業者",
-      "link": "https://news.livedoor.com/article/detail/32308854/",
-      "description": "ざっくり言うと NHKが滋賀県の宿泊事業者を受信料未払いで東京地裁に提訴したと発表 受信契約数50件・約1140万円が8年10か月にわたり未払いだったという ネットでは「時代に合ってない」との声もあり、チューナーレステレビが注目されている 記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 19:06:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "外国人労働者に存続かける業界も",
-      "link": "https://news.livedoor.com/article/detail/32308936/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 20:40:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「スキルス胃がん」の代表的な症状 1カ月も経たず急激に悪化も",
-      "link": "https://news.livedoor.com/article/detail/32309042/",
-      "description": "ざっくり言うと スキルス胃がんの主な症状について医師が解説した記事が公開された 初期症状はほぼなく、進行すると胃痛・体重減少・下血・腹水が現れる 内視鏡でも発見が難しく、早期発見には定期的な胃がん検診が重要とされる 記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 12:00:27 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "埼玉県寄居町の店舗兼住宅で火災 救助された男女2人の死亡確認",
-      "link": "https://news.livedoor.com/article/detail/32309292/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 21:54:28 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -427,10 +419,10 @@
       "category": "経済"
     },
     {
-      "title": "明石市がふるさと納税の返礼品にデジタルクーポンを全国初導入",
-      "link": "https://news.livedoor.com/article/detail/32307532/",
-      "description": "ざっくり言うと 兵庫県明石市がふるさと納税返礼品に全国初のデジタルクーポンを導入した 人気返礼品「パンパース」を近隣ドラッグストアで引き換えられる仕組みで送料ゼロを実現 コラムニストの月岡ツキ氏はサイズアウト問題解消や運送業界の負担軽減になると評価した 記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 16:30:00 +0900",
+      "title": "元国税局調査官が語る、税務署に狙われやすい店の特徴と内偵の手口",
+      "link": "https://news.livedoor.com/article/detail/32310558/",
+      "description": "ざっくり言うと 税務署が狙う業種の特徴を元東京国税局調査官の菊池悠税理士が解説した 2026年はAI・ビッグデータを活用し民泊や暗号資産取引を重点調査するという 調査の前段階で時間をかけた情報収集が行われているとのことで注意が必要だ 記事を読む",
+      "pubDate": "Sun, 13 Sep 2026 06:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,10 +459,50 @@
       "category": "経済"
     },
     {
-      "title": "相模原17歳死亡を巡り少年4人逮捕 うち3人は別の監禁事件ですでに逮捕か",
-      "link": "https://news.livedoor.com/article/detail/32308162/",
+      "title": "外国人労働者に存続かける業界も",
+      "link": "https://news.livedoor.com/article/detail/32308936/",
       "description": "記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 17:49:00 +0900",
+      "pubDate": "Sat, 12 Sep 2026 20:40:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "熊本・木村知事が飛行機内で震度7の一報を受け、初動対応を指揮した経緯",
+      "link": "https://news.livedoor.com/article/detail/32310662/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 13 Sep 2026 06:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "78人食中毒 こめおが11日にX更新も「致命的な発言」などの声噴出",
+      "link": "https://news.livedoor.com/article/detail/32307515/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 12 Sep 2026 14:15:18 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "海上民兵乗船か 東シナ海漁解禁",
+      "link": "https://news.livedoor.com/article/detail/32310545/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 13 Sep 2026 06:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "NHKが受信料を巡り提訴 滋賀県で宿泊施設を経営している事業者",
+      "link": "https://news.livedoor.com/article/detail/32308854/",
+      "description": "ざっくり言うと NHKが滋賀県の宿泊事業者を受信料未払いで東京地裁に提訴したと発表 受信契約数50件・約1140万円が8年10か月にわたり未払いだったという ネットでは「時代に合ってない」との声もあり、チューナーレステレビが注目されている 記事を読む",
+      "pubDate": "Sat, 12 Sep 2026 19:06:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "岐阜のケーキ店火災「あの人が旦那さんだよ」と亡くなった店主の同級生",
+      "link": "https://news.livedoor.com/article/detail/32308850/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 12 Sep 2026 20:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -483,7 +515,15 @@
       "category": "国内"
     },
     {
-      "title": "京都の陸上大会で配布の弁当を食べた28人が体調不良を訴え救急搬送",
+      "title": "相模原17歳死亡を巡り少年4人逮捕 うち3人は別の監禁事件ですでに逮捕か",
+      "link": "https://news.livedoor.com/article/detail/32308162/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 12 Sep 2026 17:49:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "京都市の陸上競技場で体調不良を訴えた28人を搬送 集団食中毒か",
       "link": "https://news.livedoor.com/article/detail/32309780/",
       "description": "記事を読む",
       "pubDate": "Sun, 13 Sep 2026 00:58:00 +0900",
@@ -495,54 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/32309195/",
       "description": "記事を読む",
       "pubDate": "Sat, 12 Sep 2026 21:38:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "日本に17年住んだ韓国人 ベトナムを訪れた際に驚いた国の事情",
-      "link": "https://news.livedoor.com/article/detail/32298230/",
-      "description": "ざっくり言うと 日本に17年住んだ韓国人が、ベトナムを訪れた際に驚いたことをYouTubeで語った 交通事故死亡者数は日本の約6.6倍というデータを示し「本当に危ない」と警告 決済ではAMEXは基本できず、VISA・Mastercard・現金の用意が必須だと説明した 記事を読む",
-      "pubDate": "Fri, 11 Sep 2026 12:03:29 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "羆に頭蓋骨を砕かれた86歳猟師が「クマは悪くない」と語る理由",
-      "link": "https://news.livedoor.com/article/detail/32308832/",
-      "description": "ざっくり言うと 86歳の現役罠猟師・原田勝男さんが2000年にヒグマに襲われた体験を語った 頭蓋骨を噛み砕かれ左目を失明したが「クマは悪くない」と明言している クマは前日に別のハンターに重傷を負わされており、防衛本能で攻撃したとみられる 記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 20:15:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "命の危険を感じ家出「教育虐待」の毒親と絶縁するまでの一部始終",
-      "link": "https://news.livedoor.com/article/detail/32307832/",
-      "description": "ざっくり言うと 「教育虐待」を受けていた女性が、母親と絶縁するまでの経緯を語った 命の危険を感じて衝動的に家出するも、捜索願を出され警察に出頭したと回顧 この家出がきっかけとなり「公正証書を作って縁を切ろう」と提案されたという 記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "静岡・熱海市で斜面崩壊 3世帯7人と3つの事業所に避難指示",
-      "link": "https://news.livedoor.com/article/detail/32307934/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 17:41:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "陸上全日本実業団選手権で大会役員ら23人が救急搬送、弁当が原因か",
-      "link": "https://news.livedoor.com/article/detail/32308640/",
-      "description": "ざっくり言うと たけびしスタジアム京都で開催中の全日本実業団選手権で食中毒騒動が起きた 弁当約150個を食べた大会役員やスタッフらに嘔吐・発熱の症状が出たとみられる 23人が救急搬送され重症者1人を含むが、選手関係者に症状は出ていないという 記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 19:37:28 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "たけびしスタジアム京都の陸上大会で男女23人が体調不良を訴え搬送",
-      "link": "https://news.livedoor.com/article/detail/32308535/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 12 Sep 2026 21:42:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1118,7 +1110,7 @@
       "title": "【沖縄から緊急生配信】古謝げんた氏の街頭演説会に国民民主党 榛葉幹事長と日本維新の会 吉村代表が登壇！ 街宣インタビュー 須田慎一郎 （虎ノ門ニュース）",
       "link": "https://www.youtube.com/watch?v=4cqnlgc_Xj4",
       "description": "",
-      "pubDate": "2026-09-12T12:16:30+00:00",
+      "pubDate": "2026-09-12T19:51:44+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
