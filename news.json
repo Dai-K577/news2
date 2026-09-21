@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 00:23 JST",
+  "updated": "2026-09-22 06:17 JST",
   "total": 167,
   "news": [
     {
@@ -7,6 +7,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6596081?source=rss",
       "description": "",
       "pubDate": "Mon, 21 Sep 2026 14:14:43 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "三浦半島 土砂崩れ相次ぎ1人死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596085?source=rss",
+      "description": "",
+      "pubDate": "Mon, 21 Sep 2026 15:19:58 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -39,14 +47,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6596076?source=rss",
       "description": "",
       "pubDate": "Mon, 21 Sep 2026 13:53:04 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "首相 国連で「拉致問題訴えたい」",
-      "link": "https://news.yahoo.co.jp/pickup/6596077?source=rss",
-      "description": "",
-      "pubDate": "Mon, 21 Sep 2026 14:21:33 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -459,6 +459,46 @@
       "category": "経済"
     },
     {
+      "title": "台風25号の接近で千葉市の国道14号が冠水、車が水しぶきを上げながら走行",
+      "link": "https://news.livedoor.com/article/detail/32381621/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 21 Sep 2026 19:49:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "飲酒運転事故 3歳男児が犠牲に",
+      "link": "https://news.livedoor.com/article/detail/32383023/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 04:34:20 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "台風25号 神奈川・千葉で2人死亡",
+      "link": "https://news.livedoor.com/article/detail/32382994/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 04:18:26 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "釧路市の36歳女が10代前半の少年に性的暴行を加えた疑いで再逮捕",
+      "link": "https://news.livedoor.com/article/detail/32379896/",
+      "description": "ざっくり言うと 10代前半の少年を誘拐したとして逮捕された北海道釧路市の36歳女 この少年に住宅内で性的暴行を加えた疑いで再逮捕された 女は少年と知人関係で、ビデオ通話で少年を誘惑して誘い出したという 記事を読む",
+      "pubDate": "Mon, 21 Sep 2026 15:01:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "台風25号の接近で千葉県内を中心に停電が6万軒を超える",
+      "link": "https://news.livedoor.com/article/detail/32382571/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 21 Sep 2026 23:40:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "台風25号 横須賀で土砂崩れ発生",
       "link": "https://news.livedoor.com/article/detail/32382412/",
       "description": "記事を読む",
@@ -483,14 +523,6 @@
       "category": "国内"
     },
     {
-      "title": "釧路市の36歳女が10代前半の少年に性的暴行を加えた疑いで再逮捕",
-      "link": "https://news.livedoor.com/article/detail/32379896/",
-      "description": "ざっくり言うと 10代前半の少年を誘拐したとして逮捕された北海道釧路市の36歳女 この少年に住宅内で性的暴行を加えた疑いで再逮捕された 女は少年と知人関係で、ビデオ通話で少年を誘惑して誘い出したという 記事を読む",
-      "pubDate": "Mon, 21 Sep 2026 15:01:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "千葉・佐倉市の高崎川に氾濫発生情報、警戒レベル5で安全確保を呼びかけ",
       "link": "https://news.livedoor.com/article/detail/32382177/",
       "description": "記事を読む",
@@ -503,38 +535,6 @@
       "link": "https://news.livedoor.com/article/detail/32382124/",
       "description": "記事を読む",
       "pubDate": "Mon, 21 Sep 2026 21:32:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "台風25号の接近で千葉市の国道14号が冠水、車が水しぶきを上げながら走行",
-      "link": "https://news.livedoor.com/article/detail/32381621/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 21 Sep 2026 19:49:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "台風25号の影響で京急電鉄に土砂が流入し、21日終電まで運休",
-      "link": "https://news.livedoor.com/article/detail/32381982/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 21 Sep 2026 21:03:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "関東など5万軒超 台風大雨で停電",
-      "link": "https://news.livedoor.com/article/detail/32381834/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 21 Sep 2026 20:18:25 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "新潟市西区のこども園で保育教諭による虐待11件が認定され改善勧告",
-      "link": "https://news.livedoor.com/article/detail/32381830/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 21 Sep 2026 20:25:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
