@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22 22:43 JST",
-  "total": 168,
+  "updated": "2026-09-23 03:23 JST",
+  "total": 167,
   "news": [
     {
       "title": "今年3度目の大雨被害 千葉に爪痕",
@@ -19,10 +19,10 @@
       "category": "総合"
     },
     {
-      "title": "事故巻き添えで3歳死亡 両親心境",
-      "link": "https://news.yahoo.co.jp/pickup/6596173?source=rss",
+      "title": "琵琶湖で3人捜しに出た男性 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6596193?source=rss",
       "description": "",
-      "pubDate": "Tue, 22 Sep 2026 10:54:20 GMT",
+      "pubDate": "Tue, 22 Sep 2026 14:21:28 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -35,10 +35,18 @@
       "category": "総合"
     },
     {
-      "title": "元暴力団員 諦めなかった慶大受験",
-      "link": "https://news.yahoo.co.jp/pickup/6596188?source=rss",
+      "title": "配偶者と性行為つらい 向き合い方",
+      "link": "https://news.yahoo.co.jp/pickup/6596150?source=rss",
       "description": "",
-      "pubDate": "Tue, 22 Sep 2026 13:13:42 GMT",
+      "pubDate": "Tue, 22 Sep 2026 07:28:35 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "地方のキャバクラ 経営「四重苦」",
+      "link": "https://news.yahoo.co.jp/pickup/6596192?source=rss",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 14:01:34 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -51,28 +59,12 @@
       "category": "総合"
     },
     {
-      "title": "timelesz佐藤と原 ラジオで謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6596189?source=rss",
+      "title": "田口淳之介 年下の一般女性と結婚",
+      "link": "https://news.yahoo.co.jp/pickup/6596195?source=rss",
       "description": "",
-      "pubDate": "Tue, 22 Sep 2026 13:29:33 GMT",
+      "pubDate": "Tue, 22 Sep 2026 14:54:15 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
-    },
-    {
-      "title": "田口淳之介 結婚&第1子誕生を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6596169?source=rss",
-      "description": "",
-      "pubDate": "Tue, 22 Sep 2026 10:20:50 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "台風一過 関東など急な暑さに注意",
-      "link": "https://news.yahoo.co.jp/pickup/6596109?source=rss",
-      "description": "",
-      "pubDate": "Tue, 22 Sep 2026 01:01:37 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
     },
     {
       "title": "水害後 片付け・復旧作業の注意点",
@@ -91,10 +83,10 @@
       "category": "国内"
     },
     {
-      "title": "日米 中国を念頭に連携強化確認へ",
-      "link": "https://news.yahoo.co.jp/pickup/6596148?source=rss",
+      "title": "日米首脳会談 高市氏の考えは",
+      "link": "https://news.yahoo.co.jp/pickup/6596196?source=rss",
       "description": "",
-      "pubDate": "Tue, 22 Sep 2026 07:11:25 GMT",
+      "pubDate": "Tue, 22 Sep 2026 16:16:54 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -119,6 +111,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6596140?source=rss",
       "description": "",
       "pubDate": "Tue, 22 Sep 2026 05:55:37 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "維新が大阪で苦戦 問われる存在感",
+      "link": "https://news.yahoo.co.jp/pickup/6596194?source=rss",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 14:22:57 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -163,18 +163,18 @@
       "category": "国際"
     },
     {
-      "title": "G7外相 フーシ派の攻撃強く非難",
-      "link": "https://news.yahoo.co.jp/pickup/6596159?source=rss",
-      "description": "",
-      "pubDate": "Tue, 22 Sep 2026 08:29:59 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "サウジのパイプライン 稼働再開",
       "link": "https://news.yahoo.co.jp/pickup/6596177?source=rss",
       "description": "",
       "pubDate": "Tue, 22 Sep 2026 13:33:42 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "インドネシア 緊急地震速報整備へ",
+      "link": "https://news.yahoo.co.jp/pickup/6596190?source=rss",
+      "description": "",
+      "pubDate": "Tue, 22 Sep 2026 13:47:41 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -291,19 +291,67 @@
       "category": "総合"
     },
     {
-      "title": "タブレット＆ビューモードでも使えるノートPC　 VAIOから",
-      "link": "https://www.j-cast.com/trend/2026/09/21518028.html",
-      "description": "ノートパソコン（PC）などを手がけるVAIO（長野県安曇野市）は、ノートPC「VAIO T VCTNN1」個人向けモデルを、2026年9月22日に家電量販店「ノジマ」で先行発売する。それに先だち、9月18日からノジマおよびVAIO直営オンラインストアで受注受付をはじめる。",
-      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "timeleszの猪俣周杜容疑者逮捕 佐藤勝利と原嘉孝がラジオで生謝罪",
+      "link": "https://news.livedoor.com/article/detail/32388010/",
+      "description": "ざっくり言うと timeleszメンバーの猪俣周杜容疑者が傷害の疑いで逮捕された件について 佐藤勝利と原嘉孝が22日の文化放送「レコメン！」で生謝罪を行った 原は「真摯に向き合っていきたい」と述べ、2人で放送を務めたとのこと 記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 22:40:02 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "猪俣周杜容疑者逮捕で佐藤勝利の「ドライな」コメントにファン困惑",
+      "link": "https://news.livedoor.com/article/detail/32387661/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 21:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "休日もファミマは「朝」がおトク",
+      "link": "https://news.livedoor.com/article/detail/32287730/",
+      "description": "ざっくり言うと 朝ごはんがめっちゃおトクになる！「朝ファミマのコンビ割」が9月15日(火)～スタート 朝5時～11時に対象のおむすび/パンと、お茶・紅茶/コーヒーをセットで買うと税込250円 登録約130万人YouTuber・かっつーさん「めちゃくちゃありがたい！バグだろ！」と興奮 記事を読む",
+      "pubDate": "Mon, 14 Sep 2026 18:00:58 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "ジャングルポケットのおたけの「前職」あきらめた理由も告白",
+      "link": "https://news.livedoor.com/article/detail/32388009/",
+      "description": "ざっくり言うと ジャングルポケットのおたけが鬼越トマホーク喧嘩チャンネルに出演し前職を語った 美容師として1年少し勤めたが、店長の給料が27万円と知り断念したという 「5年でデビュー」という見習い期間の長さも理由だが芸人の方が長いと笑い飛ばした 記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 22:33:02 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "肝臓を守るために避けるべきアルコール飲料 肝臓外科医が警鐘",
+      "link": "https://news.livedoor.com/article/detail/32386330/",
+      "description": "ざっくり言うと 肝臓外科医の尾形哲氏が肝臓に最も危険な飲み物について警鐘を鳴らした ストロング系チューハイは専門家が「危険ドラッグ」と表現するほど肝臓への影響が大きいという 30代男性が500ml缶を1日6缶・7日間飲み続け救急搬送された事例も報告されている 記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 17:15:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "猪俣周杜容疑者のテレビ報道に元放送作家が苦言「忖度はある」",
+      "link": "https://news.livedoor.com/article/detail/32387955/",
+      "description": "ざっくり言うと 元放送作家の長谷川良品氏がYouTubeでテレビ報道への苦言を呈した STARTO所属アイドルの逮捕報道に各局が忖度しているとの見方を示した 「公平性に欠ける忖度が未来のモンスターを育む」と長谷川氏は警鐘を鳴らした 記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 22:22:05 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「英国史上最悪の性犯罪者」エリート留学生の犯行の実態",
+      "link": "https://news.livedoor.com/article/detail/32385688/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 14:59:00 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -327,62 +375,6 @@
       "link": "https://news.livedoor.com/article/detail/32387549/",
       "description": "記事を読む",
       "pubDate": "Tue, 22 Sep 2026 21:05:46 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "10代の薬物過剰摂取による救急搬送が10年前の4倍超に増加",
-      "link": "https://news.livedoor.com/article/detail/32387548/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 21:05:21 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "何に注意すれば…就寝中のスマホ充電を巡る「噂」を修理業者が解説",
-      "link": "https://news.livedoor.com/article/detail/32387912/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 22:05:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "藤田ニコルが産後の体形に言及「戻せるものだと思ってました」",
-      "link": "https://news.livedoor.com/article/detail/32387746/",
-      "description": "ざっくり言うと モデルの藤田ニコルが産後の体形変化についてTBSラジオで率直に告白した 芸能人だから体形は戻ると楽観視していたが代謝低下で体重が落ちないという 3児の母・藤本美貴はヨガで痩せた経験を語り藤田にもヨガを勧めていた 記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 21:33:08 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "猪俣周杜容疑者逮捕で佐藤勝利の「ドライな」コメントにファン困惑",
-      "link": "https://news.livedoor.com/article/detail/32387661/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 21:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「米農家を助けたい」宣言のヒカル、興味なくしたか 販売担当者が語る現状",
-      "link": "https://news.livedoor.com/article/detail/32386909/",
-      "description": "ざっくり言うと ヒカルが開始した米事業「元気だ米」の現状についてFLASHが取り上げた 販売担当者はYouTubeで事業を長らく取り上げてもらえていないことに対する不満を吐露 Xでは「一時の再生回数稼ぎに利用されただけ」など厳しい声が寄せられている 記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 18:10:21 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「尚哉（マサキ）」の読みを間違えられて30年 待ちわびた家裁の改名許可",
-      "link": "https://news.livedoor.com/article/detail/32387763/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 21:30:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "千葉・市原市で住宅が全焼 台風で停電中にろうそくを使用したか",
-      "link": "https://news.livedoor.com/article/detail/32387747/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 21:40:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -419,10 +411,10 @@
       "category": "経済"
     },
     {
-      "title": "「朝勤を注意した方がいい」工場勤務経験者が明かす2交替制のリアル",
-      "link": "https://news.livedoor.com/article/detail/32384775/",
-      "description": "ざっくり言うと 工場転職YouTuber・ケンシロウが夜勤と2交替制のリアルを動画で語った 「夜勤は余裕だった」一方で朝勤の早起きが最もつらかったと明かしている 夜勤生活では遮光カーテンや耳栓で睡眠環境を整える重要性を強調したとのこと 記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 12:05:00 +0900",
+      "title": "全日空が上級会員のラウンジ利用条件を見直し、SNSで批判が相次ぐ",
+      "link": "https://news.livedoor.com/article/detail/32385807/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 15:41:40 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -443,18 +435,18 @@
       "category": "経済"
     },
     {
-      "title": "子供の動画撮影におすすめの一台",
-      "link": "https://news.livedoor.com/article/detail/32319042/",
-      "description": "ざっくり言うと 素人でもプロ並みの映像が撮れると話題の新型カメラ「Osmo Pocket 4P」 動画初心者の編集部員2名が、子どもや猫との日常を実際に撮影 その\"すごさ\"の背景にはDJIが12年かけて積み重ねてきた技術力があった 記事を読む",
-      "pubDate": "Thu, 17 Sep 2026 09:50:19 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "au PAYプリペイドからVポイントPayへのルートが封鎖か、代替手段4選を紹介",
       "link": "https://news.livedoor.com/article/detail/32386518/",
       "description": "ざっくり言うと ポイ活投資チャンネルがau PAYからVポイントPayへのルート封鎖を報告した 9月20日時点で新規登録によるチャージ試行時にエラーが発生しているという 動画では代替として最大2.5%還元のルートなど4つの手段を紹介している 記事を読む",
       "pubDate": "Tue, 22 Sep 2026 18:01:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "dカードユーザー必見 お得な裏技",
+      "link": "https://news.livedoor.com/article/detail/32202676/",
+      "description": "ざっくり言うと dカードユーザーが知らないと損する、ポイント還元アップ術を解説 dカードの引落し口座を「ドコモの銀行 ドコモSMTBネット銀行」に変更するのがカギ 街中どこでも初年度最大3%還元（対象支店限定、進呈上限3,000pt/月、諸条件あり） 記事を読む",
+      "pubDate": "Thu, 10 Sep 2026 18:00:52 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,18 +459,10 @@
       "category": "経済"
     },
     {
-      "title": "千葉・市原市で住宅が全焼 台風で停電中にろうそくを使用したか",
-      "link": "https://news.livedoor.com/article/detail/32387747/",
+      "title": "台風25号 千葉・神奈川で7人死亡",
+      "link": "https://news.livedoor.com/article/detail/32388495/",
       "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 21:40:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "10代の薬物過剰摂取による救急搬送が10年前の4倍超に増加",
-      "link": "https://news.livedoor.com/article/detail/32387548/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 21:05:21 +0900",
+      "pubDate": "Wed, 23 Sep 2026 02:31:24 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -491,14 +475,6 @@
       "category": "国内"
     },
     {
-      "title": "台風25号去り、新たな熱帯低気圧",
-      "link": "https://news.livedoor.com/article/detail/32386967/",
-      "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 18:39:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "厚労省が健康増進のため啓発「毎日、あと1皿ずつ野菜と果物をプラス」",
       "link": "https://news.livedoor.com/article/detail/32385581/",
       "description": "記事を読む",
@@ -507,42 +483,58 @@
       "category": "国内"
     },
     {
-      "title": "愛知・名古屋アジア大会で宿泊トラブル続出 韓国側から「歴代最悪」の指摘",
-      "link": "https://news.livedoor.com/article/detail/32386159/",
-      "description": "ざっくり言うと 愛知・名古屋アジア大会で海外選手の宿泊をめぐる混乱が相次いでいるという 約12時間食事を取れなかった選手や宿泊先に入れず床で待機する選手もいたとのこと 木造コンテナ型宿泊施設については、韓国側から「歴代最悪」との指摘もあったそう 記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 16:45:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "68歳無職男が朝まで飲酒し軽自動車を運転、3歳児が死亡した疑い",
-      "link": "https://news.livedoor.com/article/detail/32387216/",
+      "title": "同僚3人を捜しに水上バイクで沖へ向かった会社員男性、琵琶湖で遺体発見",
+      "link": "https://news.livedoor.com/article/detail/32388386/",
       "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 19:54:00 +0900",
+      "pubDate": "Wed, 23 Sep 2026 01:13:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "「男性の身体の悩み」年代で差、20～79歳3000人に聞いたリアルな本音",
-      "link": "https://news.livedoor.com/article/detail/32386619/",
-      "description": "ざっくり言うと 全国の20～79歳の男性3000人を対象とした「身体の悩みに関する調査」を実施 「抜け毛・薄毛」「体重や体型」「精神的なストレス」「体臭」が上位にランクイン 20～30代は「ひげの濃さ」40～60代は「抜け毛・薄毛」70代は「高血圧」が最多となった 記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 18:10:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "再び冠水被害の千葉・大網白里市「またやられたか」と落胆の声",
-      "link": "https://news.livedoor.com/article/detail/32386263/",
+      "title": "台風25号が関東を直撃、千葉・神奈川で7人死亡し5人の行方がわからず",
+      "link": "https://news.livedoor.com/article/detail/32388373/",
       "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 17:12:00 +0900",
+      "pubDate": "Wed, 23 Sep 2026 00:50:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "台風25号の豪雨で高崎川が氾濫、佐倉警察署の駐車場がひざ下まで冠水",
-      "link": "https://news.livedoor.com/article/detail/32387096/",
+      "title": "台風25号で高崎川が氾濫、佐倉の創業100年旅館が浸水被害",
+      "link": "https://news.livedoor.com/article/detail/32388147/",
       "description": "記事を読む",
-      "pubDate": "Tue, 22 Sep 2026 19:30:46 +0900",
+      "pubDate": "Tue, 22 Sep 2026 23:22:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "何に注意すれば…就寝中のスマホ充電を巡る「噂」を修理業者が解説",
+      "link": "https://news.livedoor.com/article/detail/32387912/",
+      "description": "ざっくり言うと 就寝中のスマートフォンの充電における安全性や劣化について修理業者が解説した 直ちに危険ではないが、高温と満充電状態が長期間続けば劣化が進みやすくなるという 布団や枕の下は避け、充電の上限を80％前後にする機能を活用することが重要だそう 記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 22:05:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "「尚哉」をナオヤと読まれ続けた男性が30年越しに改名",
+      "link": "https://news.livedoor.com/article/detail/32387763/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 21:30:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "台風25号の影響で千葉・神奈川の死者が7人に、5人の安否が不明",
+      "link": "https://news.livedoor.com/article/detail/32387654/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 21:24:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "千葉・市原市で住宅が全焼 台風で停電中にろうそくを使用したか",
+      "link": "https://news.livedoor.com/article/detail/32387747/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 22 Sep 2026 21:40:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1030,7 +1022,7 @@
       "title": "1588回　【図解】デタラメな日銀の利上げ　これは倒閣運動だ",
       "link": "https://www.youtube.com/watch?v=yNAztsYo8-Q",
       "description": "",
-      "pubDate": "2026-09-22T09:00:03+00:00",
+      "pubDate": "2026-09-22T14:14:04+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1062,7 +1054,7 @@
       "title": "1586回　【他では聞けない解説】高市首相の党人事と内閣改造に明確な意図が！",
       "link": "https://www.youtube.com/watch?v=pDvpUSWaad4",
       "description": "",
-      "pubDate": "2026-09-18T14:04:32+00:00",
+      "pubDate": "2026-09-22T17:23:01+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1110,7 +1102,7 @@
       "title": "【虎ノ門ニュース】須田慎一郎×柳ヶ瀬裕文×長尾 賢 2026/9/22(火)",
       "link": "https://www.youtube.com/watch?v=up7KqrZbY30",
       "description": "",
-      "pubDate": "2026-09-22T12:57:37+00:00",
+      "pubDate": "2026-09-22T17:48:29+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1278,7 +1270,7 @@
       "title": "【朗報！】なんと大阪公立大学がレアアース回収に成功！南鳥島レアアースに追い風になる理由を解説します！！",
       "link": "https://www.youtube.com/watch?v=Xm1faoNSYK4",
       "description": "",
-      "pubDate": "2026-09-22T08:42:42+00:00",
+      "pubDate": "2026-09-22T16:17:05+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
