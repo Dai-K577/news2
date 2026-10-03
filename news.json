@@ -1,20 +1,36 @@
 {
-  "updated": "2026-10-04 03:23 JST",
-  "total": 168,
+  "updated": "2026-10-04 08:25 JST",
+  "total": 167,
   "news": [
     {
-      "title": "台風27号 小笠原諸島で高波警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6597449?source=rss",
+      "title": "高市早苗氏 自民総裁選出から1年",
+      "link": "https://news.yahoo.co.jp/pickup/6597465?source=rss",
       "description": "",
-      "pubDate": "Sat, 03 Oct 2026 13:23:55 GMT",
+      "pubDate": "Sat, 03 Oct 2026 23:05:33 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "米政府のAI 都合の悪い質問を拒否",
-      "link": "https://news.yahoo.co.jp/pickup/6597451?source=rss",
+      "title": "台風27号 小笠原諸島の近海へ北上",
+      "link": "https://news.yahoo.co.jp/pickup/6597463?source=rss",
       "description": "",
-      "pubDate": "Sat, 03 Oct 2026 13:35:42 GMT",
+      "pubDate": "Sat, 03 Oct 2026 22:52:50 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "那覇遺体 強殺疑いで米兵を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6597462?source=rss",
+      "description": "",
+      "pubDate": "Sat, 03 Oct 2026 22:35:39 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "釣り中の9歳が海に転落 心肺停止",
+      "link": "https://news.yahoo.co.jp/pickup/6597459?source=rss",
+      "description": "",
+      "pubDate": "Sat, 03 Oct 2026 22:17:36 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,50 +43,34 @@
       "category": "総合"
     },
     {
-      "title": "だんじりが横転し7人けが 転落か",
-      "link": "https://news.yahoo.co.jp/pickup/6597447?source=rss",
+      "title": "サザン関口氏会社5.8億円申告漏れ",
+      "link": "https://news.yahoo.co.jp/pickup/6597461?source=rss",
       "description": "",
-      "pubDate": "Sat, 03 Oct 2026 13:05:29 GMT",
+      "pubDate": "Sat, 03 Oct 2026 22:35:32 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "米国産ジャガイモ解禁 前倒し浮上",
-      "link": "https://news.yahoo.co.jp/pickup/6597453?source=rss",
+      "title": "久保建英の結婚 板倉「うれしい」",
+      "link": "https://news.yahoo.co.jp/pickup/6597466?source=rss",
       "description": "",
-      "pubDate": "Sat, 03 Oct 2026 13:57:57 GMT",
+      "pubDate": "Sat, 03 Oct 2026 23:03:58 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "韓国サッカー男子V 国旗揚がらず",
-      "link": "https://news.yahoo.co.jp/pickup/6597458?source=rss",
+      "title": "村上宗隆がPS1号 雄たけび確信弾",
+      "link": "https://news.yahoo.co.jp/pickup/6597460?source=rss",
       "description": "",
-      "pubDate": "Sat, 03 Oct 2026 14:51:27 GMT",
+      "pubDate": "Sat, 03 Oct 2026 22:17:21 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "阪神V2 監督が涙「苦しかった」",
-      "link": "https://news.yahoo.co.jp/pickup/6597455?source=rss",
+      "title": "高市早苗氏 自民総裁選出から1年",
+      "link": "https://news.yahoo.co.jp/pickup/6597465?source=rss",
       "description": "",
-      "pubDate": "Sat, 03 Oct 2026 14:18:10 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "キンプリ・髙橋海人 ソロ活動開始",
-      "link": "https://news.yahoo.co.jp/pickup/6597433?source=rss",
-      "description": "",
-      "pubDate": "Sat, 03 Oct 2026 11:15:17 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "台風27号 小笠原諸島で高波警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6597449?source=rss",
-      "description": "",
-      "pubDate": "Sat, 03 Oct 2026 13:23:55 GMT",
+      "pubDate": "Sat, 03 Oct 2026 23:05:33 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -79,6 +79,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6597404?source=rss",
       "description": "",
       "pubDate": "Sat, 03 Oct 2026 08:02:52 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "台風27号 小笠原諸島の近海へ北上",
+      "link": "https://news.yahoo.co.jp/pickup/6597463?source=rss",
+      "description": "",
+      "pubDate": "Sat, 03 Oct 2026 22:52:50 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -111,14 +119,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6597398?source=rss",
       "description": "",
       "pubDate": "Sat, 03 Oct 2026 07:15:08 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "紀州ドンファンの遺言有効 最高裁",
-      "link": "https://news.yahoo.co.jp/pickup/6597303?source=rss",
-      "description": "",
-      "pubDate": "Fri, 02 Oct 2026 09:10:37 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -195,6 +195,14 @@
       "category": "国際"
     },
     {
+      "title": "一世を風靡した「t.A.T.u.」ユーリャ、超ミニ丈コーデで色気ダダ漏れ　黒髪ショートの頃と雰囲気変わって",
+      "link": "https://www.j-cast.com/2026/10/04518150.html",
+      "description": "ロシアの女性デュオ「t.A.T.u.（タトゥー）」のメンバー、ジュリア・ヴォルコヴァ（ユーリャ・ボルコワ）さん（41）が2026年9月20日、自身のインスタグラムを更新。美スタイル際立つミニ丈コーデを披露した。",
+      "pubDate": "Sun, 04 Oct 2026 08:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "フルート奏者・SUAI、ホルターネックのワンピ姿で美貌ダダ漏れ　「くらくらするほど美しい」「超カワイイ」",
       "link": "https://www.j-cast.com/2026/10/03518173.html",
       "description": "元アイドルでフルート奏者のSUAIさん（33）が2026年9月27日、自身のインスタグラムを更新。白いホルターネックの白ワンピ姿を披露した。",
@@ -227,18 +235,18 @@
       "category": "総合"
     },
     {
-      "title": "萬田久子「御無礼しますわ」真っ赤なドクロ柄着物＆ハットで麻雀　「こんなオシャレな麻雀打ちいるんですか」",
-      "link": "https://www.j-cast.com/2026/10/03518151.html",
-      "description": "俳優の萬田久子さん（68）が2026年9月7日、自身のインスタグラムを更新。麻雀を楽しむ様子を披露した。",
-      "pubDate": "Sat, 03 Oct 2026 12:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "萬田久子「御無礼しますわ」真っ赤なドクロ柄着物＆ハットで麻雀　「こんなオシャレな麻雀打ちいるんですか」",
+      "link": "https://www.j-cast.com/2026/10/03518151.html",
+      "description": "俳優の萬田久子さん（68）が2026年9月7日、自身のインスタグラムを更新。麻雀を楽しむ様子を披露した。",
+      "pubDate": "Sat, 03 Oct 2026 12:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -267,14 +275,6 @@
       "category": "総合"
     },
     {
-      "title": "ガールズケイリン・又多風緑、ミニワンピ姿で美貌ダダ漏れ...片足上げポージング　「可愛い」「後ろ姿も素敵」",
-      "link": "https://www.j-cast.com/2026/10/03518149.html",
-      "description": "女子競輪（ガールズケイリン）の又多風緑（まただ・ふつか）選手（24）が2026年9月24日、自身のインスタグラムを更新。ノースリーブのタイトなミニワンピ姿を披露した。",
-      "pubDate": "Sat, 03 Oct 2026 08:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -291,14 +291,6 @@
       "category": "総合"
     },
     {
-      "title": "「やよい軒」から、秋の定番メニュー「～濃厚な海の恵み～かきフライ定食」登場",
-      "link": "https://www.j-cast.com/trend/2026/10/02518240.html",
-      "description": "定食レストラン「やよい軒」は、秋メニュー「～濃厚な海の恵み～かきフライ定食」を2026年10月2日に発売。毎年好評だという秋の定番\"かきフライ\"が今年も登場する。",
-      "pubDate": "Fri, 02 Oct 2026 18:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -307,82 +299,82 @@
       "category": "総合"
     },
     {
-      "title": "明石家さんま、超多忙な中で流れてきたツーショット写真に憤り",
-      "link": "https://news.livedoor.com/article/detail/32482010/",
-      "description": "ざっくり言うと 明石家さんま（71）がMBSラジオで次長課長・河本準一の入院騒動を語った 自身がDMを務める舞台の台本変更に追われる中、河本の病室ラブラブ2ショが流れてきた 「初めてケータイ叩きつけそうになった」と憤りを明かし、ボヤキが止まらなかった 記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 22:49:41 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "新「浸かる回復液」重い疲れに",
-      "link": "https://news.livedoor.com/article/detail/32339233/",
-      "description": "ざっくり言うと 年末に向けて忙しさが増していく時期に嬉しい、“浸かる回復液*1”が新登場した 『バブ メディキュア クイック*2』は、「バブ史上最高炭酸濃度×微細炭酸」が特徴 素早く溶けて家のお風呂が高濃度*3炭酸に！温浴効果を高め、効率的に疲労回復が可能 記事を読む",
-      "pubDate": "Sun, 27 Sep 2026 12:00:30 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "timelesz・菊池風磨 2026年夏に「強制終了」との占い鑑定が話題",
-      "link": "https://news.livedoor.com/article/detail/32481921/",
+      "title": "那覇市のホテルで女性が死亡、20歳の海兵隊上等兵を逮捕",
+      "link": "https://news.livedoor.com/article/detail/32483391/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 19:10:57 +0900",
+      "pubDate": "Sun, 04 Oct 2026 07:40:30 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "アジア競技大会サッカー決勝 U-21日本代表がU-23韓国代表に敗戦",
-      "link": "https://news.livedoor.com/article/detail/32481597/",
-      "description": "ざっくり言うと U-21日本代表がアジア競技大会決勝で韓国に0-1で敗れ準優勝となった 後半16分にオーバーエイジ枠のMFオム・チソンに決勝点を奪われ敗戦 大岩剛監督は「次につながる機会にしたい」と若い選手の成長に期待を寄せた 記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 21:24:48 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "新名神高速6人死亡事故 旅行中に犠牲になった一家の遺族が車と初対面",
-      "link": "https://news.livedoor.com/article/detail/32473274/",
+      "title": "「学校がくさくて…」シャボン玉石けんに届いた小学生の「悲痛な叫び」",
+      "link": "https://news.livedoor.com/article/detail/32483362/",
       "description": "記事を読む",
-      "pubDate": "Fri, 02 Oct 2026 18:04:37 +0900",
+      "pubDate": "Sun, 04 Oct 2026 07:50:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "WEST.の活動終了「たまごっち」とのプロジェクトも中止に",
-      "link": "https://news.livedoor.com/article/detail/32480600/",
+      "title": "開始から4カ月で達成！専業主婦がChatGPT活用し約100万円稼いだ方法を紹介",
+      "link": "https://news.livedoor.com/article/detail/32483099/",
+      "description": "ざっくり言うと YouTubeチャンネル「ラッキーマイン」が専業主婦のAI副業体験談を公開した インスタとChatGPTを活用したAI占いで開始4ヶ月目に月収124万円を達成したという ダウン症の子を育てる中で「自由になるお金が欲しい」と副業を始めたとのこと 記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「何事にも怒らない」関根勤が激怒した2文字、早見優「ここで怒るんだ」",
+      "link": "https://news.livedoor.com/article/detail/32481513/",
+      "description": "ざっくり言うと 関根勤がYouTubeチャンネルで自身の「ブチ切れワード」を明かした ゴルフ場で初対面の客に「雨男なんじゃないですか」と言われ激怒したという 非科学的なことで人を責める行為が嫌いだと関根は持論を語っている 記事を読む",
+      "pubDate": "Sat, 03 Oct 2026 21:09:02 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "夜釣り中の9歳男児が海に転落し意識不明、海に飛び込んだ男性が行方不明",
+      "link": "https://news.livedoor.com/article/detail/32483368/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 18:00:00 +0900",
+      "pubDate": "Sun, 04 Oct 2026 07:47:21 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "まぶたと頭蓋骨の一部がない状態で誕生 前例ない障害を持つ子を育てる夫婦",
-      "link": "https://news.livedoor.com/article/detail/32476899/",
-      "description": "ざっくり言うと 世界で前例のない障害を持つ息子の日常をYouTubeで発信する夫妻を文春が取材 まぶたと頭蓋骨の一部がない状態で生まれ、小耳症や小顎症などの症状もあるという 確定診断後は「どんな子が生まれても大切に育てたいね」という結論に至ったそう 記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 06:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "阪神セ・リーグ優勝 大阪・道頓堀川に架かる橋から複数人飛び込み",
-      "link": "https://news.livedoor.com/article/detail/32481667/",
+      "title": "新幹線でPC作業、突然前の座席を大きく倒されPC破損…声かけは必要か",
+      "link": "https://news.livedoor.com/article/detail/32483273/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 21:37:25 +0900",
+      "pubDate": "Sun, 04 Oct 2026 07:30:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "アジア競技大会・サッカー U-21日本代表がU-23韓国代表に敗れ銀メダル",
-      "link": "https://news.livedoor.com/article/detail/32481595/",
-      "description": "ざっくり言うと U-21日本代表がアジア大会決勝で韓国に0-1で敗れ銀メダルに終わった 後半16分にオム・ジソンに決勝点を奪われ、16年ぶり優勝を逃した形となった 日韓戦の決勝は3大会連続で、日本は3大会連続の準優勝という結果になった 記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 21:23:28 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "アジア大会決勝で日本は韓国と対戦 0－1で敗れ、3大会連続の銀メダル",
-      "link": "https://news.livedoor.com/article/detail/32481584/",
+      "title": "プチ整形でも血管塞栓などのおそれ…後遺症に悩む患者の特徴",
+      "link": "https://news.livedoor.com/article/detail/32483285/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 21:25:00 +0900",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "弁護士が「月の土地」を購入、法的に有効かを検討＆販売元に苦笑",
+      "link": "https://news.livedoor.com/article/detail/32483098/",
+      "description": "ざっくり言うと 弁護士が約2700円で購入した「月の土地」の法的有効性をYouTubeで検証した 販売元の米ルナエンバシー社の論理は「完全に間違っている」と弁護士が指摘 宇宙条約上、個人・企業の所有権主張は不可能で「エンタメグッズ」と結論づけた 記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "那覇市のホテルで女性が死亡、強盗殺人か 防犯カメラには外国人風の男が1人",
+      "link": "https://news.livedoor.com/article/detail/32483004/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 06:11:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "モスク放火などの罪に問われた37歳男、思いこみで外国人に怒りを抱いたか",
+      "link": "https://news.livedoor.com/article/detail/32483136/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
@@ -443,6 +435,14 @@
       "category": "経済"
     },
     {
+      "title": "タイガーと象印の2万円台炊飯器、食感の違いを徹底比較",
+      "link": "https://news.livedoor.com/article/detail/32482981/",
+      "description": "ざっくり言うと 家電プロレビュアーの石井和美氏が2万円台IH炊飯器2機種を比較した タイガーは弾力と粒感、象印は柔らかさとみずみずしさと方向性が異なる 2万円台でも個性があり「どんなご飯を食べたいか」で選べると結論づけた 記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 06:15:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
       "title": "V NEOBANKが来年3月終了、Vポイント消滅とdポイント撤退の関係を解説",
       "link": "https://news.livedoor.com/article/detail/32480952/",
       "description": "ざっくり言うと ポイ活YouTuberのおにまるちゃんねるがVポイント関連の改悪を解説した V NEOBANKは来年3月28日にサービス終了し、Vポイント機能も完全に消えるという SMBC日興証券のdポイント終了との関連性についても、何らかの動きがあると推測している 記事を読む",
@@ -459,42 +459,26 @@
       "category": "経済"
     },
     {
-      "title": "6年前に買ったJT株が3倍に、高配当は続くか売り時を考える",
-      "link": "https://news.livedoor.com/article/detail/32479278/",
-      "description": "ざっくり言うと JT株を6年前に200株・約40万円で購入した場合の試算を松尾知真氏が解説 現在の評価額は約136万円で含み益は約100万円に達するとみられる 高配当の魅力がある一方、世界的なたばこ規制や為替リスクに注意が必要だ 記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 14:10:17 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "タワマン23階から9歳転落し死亡",
-      "link": "https://news.livedoor.com/article/detail/32479821/",
+      "title": "プチ整形でも血管塞栓などのおそれ…後遺症に悩む患者の特徴",
+      "link": "https://news.livedoor.com/article/detail/32483285/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 16:18:00 +0900",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "三重・津市の住宅全焼で見つかった遺体4人、安否不明の子どもと性別が一致",
-      "link": "https://news.livedoor.com/article/detail/32482306/",
+      "title": "モスク放火などの罪に問われた37歳男、思いこみで外国人に怒りを抱いたか",
+      "link": "https://news.livedoor.com/article/detail/32483136/",
       "description": "記事を読む",
-      "pubDate": "Sun, 04 Oct 2026 01:10:00 +0900",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "東京・中央区の49階建てタワマンで9歳男児が転落し死亡",
-      "link": "https://news.livedoor.com/article/detail/32482299/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 04 Oct 2026 01:27:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "那覇市のホテルで39歳女性が死亡、強盗殺人の疑いで特別捜査本部を設置",
-      "link": "https://news.livedoor.com/article/detail/32482263/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 04 Oct 2026 00:53:00 +0900",
+      "title": "弁護士が「月の土地」を購入、法的に有効かを検討＆販売元に苦笑",
+      "link": "https://news.livedoor.com/article/detail/32483098/",
+      "description": "ざっくり言うと 弁護士が約2700円で購入した「月の土地」の法的有効性をYouTubeで検証した 販売元の米ルナエンバシー社の論理は「完全に間違っている」と弁護士が指摘 宇宙条約上、個人・企業の所有権主張は不可能で「エンタメグッズ」と結論づけた 記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -507,42 +491,50 @@
       "category": "国内"
     },
     {
-      "title": "これからの働き方は? 首長が議論",
-      "link": "https://news.livedoor.com/article/detail/32290269/",
-      "description": "ざっくり言うと 誰もが働きやすい社会について考える「女性首長によるびじょんネットワーク」開催 全国の女性知事をはじめ、各分野で活躍する女性たちが参加し気になるテーマを語り合う 事前申し込みで、無料オンライン視聴が可能！全国のおいしいものが集まるマルシェも 記事を読む",
-      "pubDate": "Mon, 28 Sep 2026 18:00:23 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "阪神セ・リーグ優勝 大阪・道頓堀川に架かる橋から複数人飛び込み",
-      "link": "https://news.livedoor.com/article/detail/32481667/",
+      "title": "三重・津市の住宅火災で子ども4人が死亡、玄関付近のガスボンベ破裂も確認",
+      "link": "https://news.livedoor.com/article/detail/32483007/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 21:37:25 +0900",
+      "pubDate": "Sun, 04 Oct 2026 06:12:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "隣の部屋へ移動するために？東京・晴海のタワーマンションで転落事故",
-      "link": "https://news.livedoor.com/article/detail/32479349/",
+      "title": "鹿屋市のスナック経営女性殺害、県警が第三者の出入りを確認し捜査継続",
+      "link": "https://news.livedoor.com/article/detail/32483002/",
+      "description": "ざっくり言うと 鹿児島県鹿屋市でスナック経営の大隅さつきさんが自宅で殺害された事件 元刑事は物色の形跡がないことから「顔見知りの犯人性が高い」と分析する 県警は防犯カメラで「第三者の出入りを確認」しており捜査が続いているとのこと 記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 06:30:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "那覇市のホテルで39歳女性が死亡、強盗殺人事件として特別捜査本部を設置",
+      "link": "https://news.livedoor.com/article/detail/32483004/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 14:35:00 +0900",
+      "pubDate": "Sun, 04 Oct 2026 06:11:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "まぶたと頭蓋骨の一部がない状態で誕生 前例ない障害を持つ子を育てる夫婦",
-      "link": "https://news.livedoor.com/article/detail/32476899/",
-      "description": "ざっくり言うと 世界で前例のない障害を持つ息子の日常をYouTubeで発信する夫妻を文春が取材 まぶたと頭蓋骨の一部がない状態で生まれ、小耳症や小顎症などの症状もあるという 確定診断後は「どんな子が生まれても大切に育てたいね」という結論に至ったそう 記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 06:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "台風25号で鴨川市に深層崩壊か、専門家が斜面の観察を呼びかけ",
-      "link": "https://news.livedoor.com/article/detail/32480840/",
+      "title": "高野山の宿坊を営む複数の宗教法人が申告漏れ、追徴課税は約6000万円に",
+      "link": "https://news.livedoor.com/article/detail/32482918/",
       "description": "記事を読む",
-      "pubDate": "Sat, 03 Oct 2026 19:05:00 +0900",
+      "pubDate": "Sun, 04 Oct 2026 05:56:19 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "ウクライナ副首相が万博での感動を胸に、娘を「オーサカ」と命名",
+      "link": "https://news.livedoor.com/article/detail/32482759/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 04 Oct 2026 05:27:11 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "タワマン23階から9歳転落し死亡",
+      "link": "https://news.livedoor.com/article/detail/32479821/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 03 Oct 2026 16:18:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1030,7 +1022,7 @@
       "title": "10/3LIVE！米中首脳会談＆岩屋訪中＆酒税改正＆東大学長",
       "link": "https://www.youtube.com/watch?v=z5v_jYMy2BY",
       "description": "",
-      "pubDate": "2026-10-03T17:37:19+00:00",
+      "pubDate": "2026-10-03T22:58:23+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1230,7 +1222,7 @@
       "title": "事故が起きやすい薄暮の時間帯に合わせ静岡県警交通機動隊が夜間訓練　隊員らの事故を防ぐ",
       "link": "https://www.youtube.com/watch?v=Gxwvmj1_NOo",
       "description": "",
-      "pubDate": "2026-10-03T17:49:09+00:00",
+      "pubDate": "2026-10-03T20:36:20+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1238,7 +1230,7 @@
       "title": "小中学生を対象とした書道コンクールの審査会が静岡市で開かれる　およそ４万５０００点の応募",
       "link": "https://www.youtube.com/watch?v=V0JQemYEEZ8",
       "description": "",
-      "pubDate": "2026-10-03T17:49:30+00:00",
+      "pubDate": "2026-10-03T19:51:58+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
