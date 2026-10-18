@@ -1,52 +1,60 @@
 {
-  "updated": "2026-10-18 21:49 JST",
-  "total": 168,
+  "updated": "2026-10-19 02:37 JST",
+  "total": 167,
   "news": [
     {
-      "title": "19日大気不安定 激しい雨など注意",
-      "link": "https://news.yahoo.co.jp/pickup/6599277?source=rss",
+      "title": "内閣支持率ほぼ横ばい57% 読売",
+      "link": "https://news.yahoo.co.jp/pickup/6599288?source=rss",
       "description": "",
-      "pubDate": "Sun, 18 Oct 2026 10:52:59 GMT",
+      "pubDate": "Sun, 18 Oct 2026 13:21:29 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "フランス各地 デモ乗じ破壊や略奪",
-      "link": "https://news.yahoo.co.jp/pickup/6599281?source=rss",
+      "title": "辺野古転覆 高校生の遺族が献花",
+      "link": "https://news.yahoo.co.jp/pickup/6599293?source=rss",
       "description": "",
-      "pubDate": "Sun, 18 Oct 2026 11:48:11 GMT",
+      "pubDate": "Sun, 18 Oct 2026 14:55:38 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "横浜市長選で当確 原沢氏どんな人",
-      "link": "https://news.yahoo.co.jp/pickup/6599283?source=rss",
+      "title": "ローマ教皇 退院後初の集会で感謝",
+      "link": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
       "description": "",
-      "pubDate": "Sun, 18 Oct 2026 12:10:18 GMT",
+      "pubDate": "Sun, 18 Oct 2026 14:14:55 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "漏えい急増は中国製LLM起因 指摘",
-      "link": "https://news.yahoo.co.jp/pickup/6599269?source=rss",
+      "title": "民家に夫婦の車突っ込む 夫が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6599289?source=rss",
       "description": "",
-      "pubDate": "Sun, 18 Oct 2026 09:47:35 GMT",
+      "pubDate": "Sun, 18 Oct 2026 13:23:25 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "カーセンサーのサイト 一時停止",
-      "link": "https://news.yahoo.co.jp/pickup/6599284?source=rss",
+      "title": "カーセンサーの利用停止 復旧未定",
+      "link": "https://news.yahoo.co.jp/pickup/6599294?source=rss",
       "description": "",
-      "pubDate": "Sun, 18 Oct 2026 12:15:22 GMT",
+      "pubDate": "Sun, 18 Oct 2026 13:44:18 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "SBが3年連続の日本Sへ なぜ強い",
-      "link": "https://news.yahoo.co.jp/pickup/6599282?source=rss",
+      "title": "コミックシーモア 再開見通せず",
+      "link": "https://news.yahoo.co.jp/pickup/6599287?source=rss",
       "description": "",
-      "pubDate": "Sun, 18 Oct 2026 11:53:54 GMT",
+      "pubDate": "Sun, 18 Oct 2026 13:16:19 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「県1位校」相次ぎ敗退 高校野球",
+      "link": "https://news.yahoo.co.jp/pickup/6599296?source=rss",
+      "description": "",
+      "pubDate": "Sun, 18 Oct 2026 14:27:10 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -59,14 +67,6 @@
       "category": "総合"
     },
     {
-      "title": "ホリプロTSC 田淵幸一氏の孫優勝",
-      "link": "https://news.yahoo.co.jp/pickup/6599285?source=rss",
-      "description": "",
-      "pubDate": "Sun, 18 Oct 2026 12:27:27 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "19日大気不安定 激しい雨など注意",
       "link": "https://news.yahoo.co.jp/pickup/6599277?source=rss",
       "description": "",
@@ -75,10 +75,10 @@
       "category": "国内"
     },
     {
-      "title": "内閣支持49%で発足以来最低 共同",
-      "link": "https://news.yahoo.co.jp/pickup/6599260?source=rss",
+      "title": "内閣支持率ほぼ横ばい57% 読売",
+      "link": "https://news.yahoo.co.jp/pickup/6599288?source=rss",
       "description": "",
-      "pubDate": "Sun, 18 Oct 2026 08:45:32 GMT",
+      "pubDate": "Sun, 18 Oct 2026 13:21:29 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -163,6 +163,14 @@
       "category": "国際"
     },
     {
+      "title": "ローマ教皇 退院後初の集会で感謝",
+      "link": "https://news.yahoo.co.jp/pickup/6599295?source=rss",
+      "description": "",
+      "pubDate": "Sun, 18 Oct 2026 14:14:55 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "カナダ軍基地の爆発で7人死亡か",
       "link": "https://news.yahoo.co.jp/pickup/6599256?source=rss",
       "description": "",
@@ -183,14 +191,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6599210?source=rss",
       "description": "",
       "pubDate": "Sun, 18 Oct 2026 01:16:44 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "施設で試合中に車進入2人死亡 米",
-      "link": "https://news.yahoo.co.jp/pickup/6599204?source=rss",
-      "description": "",
-      "pubDate": "Sun, 18 Oct 2026 00:45:25 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -291,19 +291,83 @@
       "category": "総合"
     },
     {
-      "title": "アップル初の折りたたみスマホ「iPhone Duo」　36万4800円から",
-      "link": "https://www.j-cast.com/trend/2026/10/17518501.html",
-      "description": "アップルは、同社初となる折りたたみスマートフォン「iPhone Duo」を2026年10月23日に発売する。",
-      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "フランス暴徒化で全焼や略奪、日本在住フランス人が叫び「デモじゃない」",
+      "link": "https://news.livedoor.com/article/detail/32598029/",
+      "description": "ざっくり言うと 日本在住のフロリアン氏が、フランスで起きた抗議デモの暴徒化を動画で語った 生活費高騰への抗議が市庁舎放火や略奪に発展し「もうデモじゃない」と嘆いた 便乗して悪事を働く層の存在を指摘し「結局なんもいいことにならない」と述べた 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 22:52:04 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "6990円の耳栓 1週間使った結果",
+      "link": "https://news.livedoor.com/article/detail/32437619/",
+      "description": "ざっくり言うと 音で眠れない夜に悩む編集部員が、睡眠専用イヤーウェア「Loop Dream」を試した アンケート調査では8割超が音で眠れない経験あり、耳栓は7割以上が挫折していたと判明 つけていることを忘れるくらい自然な装着感だったという ※記事最後に割引コードあり 記事を読む",
+      "pubDate": "Fri, 09 Oct 2026 09:30:39 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "佐賀・唐津の国道でバイク同士が正面衝突 38歳男性ら2人が死亡",
+      "link": "https://news.livedoor.com/article/detail/32597901/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 22:31:39 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "Amazonで爆売れのガジェット12選",
+      "link": "https://news.livedoor.com/article/detail/32592489/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 08:05:37 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "有吉弘行が共演者に異例の呼びかけ「書類送検される予定はない？」",
+      "link": "https://news.livedoor.com/article/detail/32597689/",
+      "description": "ざっくり言うと 有吉弘行がラジオ番組で、我が家・杉山裕之の書類送検に触れ苦言を呈した 「してはいけないことはある」と一喝し、共演者に予定の有無を先に言えと要請 関太と宮下兼史鷹は「大丈夫です」と誓ったが、有吉は「絶対だな？」と念押し 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 20:58:40 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "世界体操で日本男子が団体予選1位通過 個人は岡慎之助がトップ",
+      "link": "https://news.livedoor.com/article/detail/32597881/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 22:10:37 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "横浜市長選、原沢敦美氏が初当選確実 出直し出馬した前市長ら6人破る",
+      "link": "https://news.livedoor.com/article/detail/32597461/",
+      "description": "ざっくり言うと パワハラ問題による前市長の辞職に伴う横浜市長選が、18日投票された 与野党4党が支援する無所属新人の弁護士・原沢敦美氏が初当選を確実にした 出直し出馬した前市長の山中竹春氏や、元衆院議員の中谷一馬氏ら6人を破った 記事を読む",
+      "pubDate": "Mon, 19 Oct 2026 00:12:26 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "コミックシーモアが再開の見通し立たず 会員情報流出で全会員再設定へ",
+      "link": "https://news.livedoor.com/article/detail/32597707/",
+      "description": "ざっくり言うと 電子コミックサイト「コミックシーモア」が10月18日にサービス再開の見通しを報告 不正アクセスで一部会員の情報が流出し、正確な再開日時は伝えられない状況という 原因は特定済みで、再開時には全会員にパスワードの再設定を求める予定とのこと 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 21:07:48 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "クマ追い払う「秋田犬ロボット」注目集まる 秋田県立大が発表",
+      "link": "https://news.livedoor.com/article/detail/32556708/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 13 Oct 2026 18:09:01 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -315,86 +379,6 @@
       "category": "総合"
     },
     {
-      "title": "「ごちそうさまくらい言え」子ども食堂を続ける店主の投稿が賛否",
-      "link": "https://news.livedoor.com/article/detail/32588691/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 17 Oct 2026 10:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "HIKAKIN、自身に「本当の限界」が訪れた瞬間「視界が無限ループ」",
-      "link": "https://news.livedoor.com/article/detail/32597562/",
-      "description": "ざっくり言うと HIKAKINが公式YouTubeを更新し、自身が限界を迎えた体験を語った 人生で一番大変な撮影の際、睡眠がほぼない状態で身体に異常が出たという 「目をつぶってるのに視界が無限ループしている」と、当時の様子を明かした 記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 20:07:33 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "横浜市長選、原沢敦美氏が初当選確実 出直し出馬した前市長ら6人破る",
-      "link": "https://news.livedoor.com/article/detail/32597461/",
-      "description": "ざっくり言うと パワハラ問題による前市長の辞職に伴う横浜市長選が、18日投票された 与野党4党が支援する無所属新人の弁護士・原沢敦美氏が初当選を確実にした 出直し出馬した前市長の山中竹春氏や、元衆院議員の中谷一馬氏ら6人を破った 記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 20:33:11 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "軽トラックと車に挟まれ30代女性が両足切断、40代男を逮捕 東京",
-      "link": "https://news.livedoor.com/article/detail/32596881/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 17:55:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "40%OFF以上 高割引率商品まとめ",
-      "link": "https://news.livedoor.com/article/detail/32594467/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 09:28:01 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "男性が刺され死亡 容疑者は否認",
-      "link": "https://news.livedoor.com/article/detail/32597377/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 19:35:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "クラークス靴がAmazonで57%OFFに",
-      "link": "https://news.livedoor.com/article/detail/32594468/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 09:25:08 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「VIVANT」ハッカー役のタイピングに違和感「演技指導どうなってる？」の声",
-      "link": "https://news.livedoor.com/article/detail/32597315/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 19:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "Amazonプライム感謝祭でAnkerやAirPodsなど人気イヤホンがセール価格に",
-      "link": "https://news.livedoor.com/article/detail/32594580/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 10:05:37 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "Sora 2で嫌な上司のショートドラマを無編集で毎日投稿する方法",
-      "link": "https://news.livedoor.com/article/detail/32596854/",
-      "description": "ざっくり言うと あべむつき氏がYouTubeで、Sora 2を使った動画副業の事例を解説した 「嫌な上司」の短編ドラマを無編集で投稿するチャンネルが1.5か月で収益化したという 上田氏はセリフやカメラワークまで細かく指定する長いプロンプトが重要と語った 記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 18:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "スバルが次世代BEVの要素技術を公開、エンジンの火も消さない開発とは",
       "link": "https://news.livedoor.com/article/detail/32596949/",
       "description": "ざっくり言うと スバルが栃木の研究施設で次世代BEVの要素技術と試作車を公開した 全部門が集まる大部屋開発で骨格を一新し、超低重心や動的剛性を実現したという 一方で新世代の水平対向エンジンも開発中で、熱効率50％を視野に入れているそう 記事を読む",
@@ -403,18 +387,26 @@
       "category": "経済"
     },
     {
-      "title": "ドコモ旧プラン値上げ、12月の変更では間に合わないケースもあると解説",
-      "link": "https://news.livedoor.com/article/detail/32597177/",
-      "description": "ざっくり言うと ドコモラボチャンネルが2026年12月実施のドコモ旧プラン値上げ対策を解説した eximoとギガホ系は月550円の値上げで、同額ならドコモMAXが優位と説明した ドコモmini2は11月に予約できず12月分は旧料金のため、先にminiへ変更する手もある 記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 19:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "ガソリンの値段が現金とクレカで違う理由と年間の差額を解説",
       "link": "https://news.livedoor.com/article/detail/32595717/",
       "description": "ざっくり言うと ガソリン価格が現金とカードで異なる店がある理由を記事が解説している 店側がカード手数料を負担するため、現金払いを安くする店があるという リッター160円と163円の場合、年間で5760円の差が出ると筆者は試算した 記事を読む",
       "pubDate": "Sun, 18 Oct 2026 13:40:17 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "ディズニーリゾートへ4人家族で旅行 いくら貯金すれば足りるのか",
+      "link": "https://news.livedoor.com/article/detail/32595320/",
+      "description": "ざっくり言うと チケット代の価格高騰が続く東京ディズニーリゾートについてFPがつづった 4人家族（大人2人、小学生2人）で1泊2日の旅行をする場合の費用を試算 交通費などの変動費を別にすれば、総額11万6800円～20万4800円程度とした 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 12:00:41 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "ドコモ旧プラン値上げ、12月の変更では間に合わないケースもあると解説",
+      "link": "https://news.livedoor.com/article/detail/32597177/",
+      "description": "ざっくり言うと ドコモラボチャンネルが2026年12月実施のドコモ旧プラン値上げ対策を解説した eximoとギガホ系は月550円の値上げで、同額ならドコモMAXが優位と説明した ドコモmini2は11月に予約できず12月分は旧料金のため、先にminiへ変更する手もある 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 19:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -435,36 +427,84 @@
       "category": "経済"
     },
     {
-      "title": "レクサスLSが全車ハイブリッドに刷新、販売店に届いた称賛と惜別の声",
-      "link": "https://news.livedoor.com/article/detail/32596950/",
-      "description": "ざっくり言うと レクサスが2026年9月10日、フラッグシップセダン「LS」の一部改良を発表した ガソリン車を廃止し全車ハイブリッドに一本化、静粛性と乗り心地を磨いたという 販売店には切子調ガラスへの称賛と、ガソリン車廃止を惜しむ声が届いているそう 記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 18:10:00 +0900",
+      "title": "スタパ齋藤がQshot V2 Proでスマホ自撮りの構図確認が快適に",
+      "link": "https://news.livedoor.com/article/detail/32598233/",
+      "description": "ざっくり言うと スタパ齋藤氏が7RYMSのワイヤレスモニター「Qshot V2 Pro」をレビューした スマホ画面をミラーリングでき、背面カメラでも構図を確認しながら自撮りが可能 リモコン付きで上下反転にも対応し、Amazonで1万1944円で買ったという 記事を読む",
+      "pubDate": "Mon, 19 Oct 2026 00:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "snow peakも キャンプギアがSALE",
-      "link": "https://news.livedoor.com/article/detail/32592590/",
+      "title": "Audibleが4か月99円に 10/19まで",
+      "link": "https://news.livedoor.com/article/detail/32588794/",
       "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 08:17:41 +0900",
+      "pubDate": "Sun, 18 Oct 2026 00:00:44 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "Wellmoの疲労回復服が最大51%OFF",
-      "link": "https://news.livedoor.com/article/detail/32590652/",
+      "title": "牛すきも 吉野家の冷食が40%OFF",
+      "link": "https://news.livedoor.com/article/detail/32589942/",
       "description": "記事を読む",
-      "pubDate": "Sat, 17 Oct 2026 15:57:13 +0900",
+      "pubDate": "Sat, 17 Oct 2026 13:44:42 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "宮脇さき氏が米中間選挙前にドル資産を持つ人へ3つの注意点を解説",
-      "link": "https://news.livedoor.com/article/detail/32597178/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 19:00:00 +0900",
+      "title": "JFAの公式アプリに第三者が不正アクセス、個人情報への影響は調査中",
+      "link": "https://news.livedoor.com/article/detail/32597976/",
+      "description": "ざっくり言うと 日本サッカー協会が公式アプリ「JFA Passport」への不正アクセスを発表した 10月17日の3時25分頃から19時頃に発生し、一部機能を一時停止している 個人情報への影響は調査中で、利用者にはログアウトなどの操作を控えるよう要請 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 22:09:23 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "横浜市長選、原沢敦美氏が初当選確実 出直し出馬した前市長ら6人破る",
+      "link": "https://news.livedoor.com/article/detail/32597461/",
+      "description": "ざっくり言うと パワハラ問題による前市長の辞職に伴う横浜市長選が、18日投票された 与野党4党が支援する無所属新人の弁護士・原沢敦美氏が初当選を確実にした 出直し出馬した前市長の山中竹春氏や、元衆院議員の中谷一馬氏ら6人を破った 記事を読む",
+      "pubDate": "Mon, 19 Oct 2026 00:12:26 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "大阪プロレスのビリーケン・キッドが川西市議選でトップ当確、大号泣",
+      "link": "https://news.livedoor.com/article/detail/32598272/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 19 Oct 2026 01:23:02 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "愛媛・西条市の秋祭り、副市長が太鼓台の下敷きになり死亡",
+      "link": "https://news.livedoor.com/article/detail/32595338/",
+      "description": "ざっくり言うと 17日午後、愛媛・西条市の秋祭りに参加していた副市長が死亡した 飯積神社近くの河川敷で、重さ約3トンある太鼓台の下敷きになったという 当時は太鼓台11台が集まり、祭りの見せ場である「かきくらべ」が実施されていた 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 12:16:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "横浜市長選で弁護士の原沢敦美氏が初当選、前市長の市政継続にノー",
+      "link": "https://news.livedoor.com/article/detail/32598060/",
+      "description": "記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 23:10:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "クマ追い払う「秋田犬ロボット」注目集まる 秋田県立大が発表",
+      "link": "https://news.livedoor.com/article/detail/32556708/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 13 Oct 2026 18:09:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "高血圧を改善する生活習慣を解説 食事法で最も重要なのは減塩",
+      "link": "https://news.livedoor.com/article/detail/32596427/",
+      "description": "ざっくり言うと メディカルドック監修医の佐藤浩樹医師が高血圧を下げる生活習慣を紹介した 1日の食塩を6g未満にする減塩が最重要で、禁煙・節酒や毎日30分以上の運動を挙げた 梅干しは減塩タイプを1日1個程度に抑えるのが目安で、食べ過ぎには注意が必要という 記事を読む",
+      "pubDate": "Sun, 18 Oct 2026 07:30:37 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "新東名でシカと衝突し停車中 トラック追突され車外の22歳女性死亡",
@@ -483,14 +523,6 @@
       "category": "国内"
     },
     {
-      "title": "横浜市長選で無所属新人の弁護士原沢敦美氏が前市長ら6人を破り当確",
-      "link": "https://news.livedoor.com/article/detail/32597461/",
-      "description": "ざっくり言うと パワハラ問題による前市長の辞職に伴う横浜市長選が、18日投票された 与野党4党が支援する無所属新人の弁護士・原沢敦美氏が初当選を確実にした 出直し出馬した前市長の山中竹春氏や、元衆院議員の中谷一馬氏ら6人を破った 記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 20:33:11 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "北海道清里町の住宅前に止めた軽乗用車がクマに荒らされ、窓には足跡も",
       "link": "https://news.livedoor.com/article/detail/32597354/",
       "description": "記事を読む",
@@ -499,50 +531,10 @@
       "category": "国内"
     },
     {
-      "title": "愛媛・西条市の秋祭り、副市長が太鼓台の下敷きになり死亡",
-      "link": "https://news.livedoor.com/article/detail/32595338/",
-      "description": "ざっくり言うと 17日午後、愛媛・西条市の秋祭りに参加していた副市長が死亡した 飯積神社近くの河川敷で、重さ約3トンある太鼓台の下敷きになったという 当時は太鼓台11台が集まり、祭りの見せ場である「かきくらべ」が実施されていた 記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 12:16:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "荷下ろし中の女性、乗用車にはねられ両足を切断する大けが 世田谷",
       "link": "https://news.livedoor.com/article/detail/32595216/",
       "description": "記事を読む",
       "pubDate": "Sun, 18 Oct 2026 12:07:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "愛子さまが鳥取・倉吉の白壁土蔵群を視察、被災した女性と懇談",
-      "link": "https://news.livedoor.com/article/detail/32597008/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 18:48:32 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "新東名でシカと衝突し停車中の車にトラックが追突、22歳女性が死亡",
-      "link": "https://news.livedoor.com/article/detail/32597099/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 18:27:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "愛子さま、鳥取で災害ボランティアと交流し、はこた人形の絵付けも体験",
-      "link": "https://news.livedoor.com/article/detail/32596746/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 17:35:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "長雨と台風で野菜が高騰、畑が冠水した農家の苦悩を追跡取材",
-      "link": "https://news.livedoor.com/article/detail/32596749/",
-      "description": "記事を読む",
-      "pubDate": "Sun, 18 Oct 2026 17:38:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1107,6 +1099,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【虚偽報道に内閣府激怒】※いよいよ本気で動くかもしれません※ 城内実経済財政政策大臣に直電話取材。毎日新聞が大チョンボ。（須田慎一郎の虎ノ門ニュース）",
+      "link": "https://www.youtube.com/watch?v=KfYqgiN-Ev0",
+      "description": "",
+      "pubDate": "2026-10-18T16:02:08+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
       "title": "【髙橋洋一 × 須田慎一郎】※緊急公開※ 日経新聞さん、ここでやらかしたら終わりますよ",
       "link": "https://www.youtube.com/watch?v=ga1th-u-9Ww",
       "description": "",
@@ -1175,14 +1175,6 @@
       "link": "https://www.youtube.com/watch?v=dULrR7pg6xI",
       "description": "",
       "pubDate": "2026-10-09T17:46:44+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【元財務官僚が告白】※今だから言えます※ 財務省の実態「政界縁組の斡旋・スパイ行為・天下り」について（虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=hZJZzwm1pSw",
-      "description": "",
-      "pubDate": "2026-10-12T03:33:35+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
