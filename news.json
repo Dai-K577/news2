@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 00:56 JST",
+  "updated": "2026-10-20 06:47 JST",
   "total": 168,
   "news": [
     {
@@ -19,10 +19,10 @@
       "category": "総合"
     },
     {
-      "title": "ウ軍 ドローンで空から負傷兵救出",
-      "link": "https://news.yahoo.co.jp/pickup/6599410?source=rss",
+      "title": "H3ロケット10号機 打ち上げ成功",
+      "link": "https://news.yahoo.co.jp/pickup/6599414?source=rss",
       "description": "",
-      "pubDate": "Mon, 19 Oct 2026 14:55:38 GMT",
+      "pubDate": "Mon, 19 Oct 2026 21:20:36 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -387,14 +387,6 @@
       "category": "総合"
     },
     {
-      "title": "ニフティに不正アクセス 最大54万件の顧客情報が流出の恐れ",
-      "link": "https://news.livedoor.com/article/detail/32606187/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 21:33:12 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "アイラップ公式Xが三角形の類似品が次々と出てくる現状に困惑をつづる",
       "link": "https://news.livedoor.com/article/detail/32604713/",
       "description": "ざっくり言うと ポリ袋「アイラップ」の公式Xが、類似品の増加に困惑をつづった 三角形の箱にオレンジ色の背景と黄色い文字という、外観の共通点を指摘した 間違えて買う人が一定数いるとし、問い合わせも増えていると明かしている 記事を読む",
@@ -411,26 +403,34 @@
       "category": "経済"
     },
     {
-      "title": "「ふるさとチョイス」一時停止 不正アクセスを受けた疑い",
-      "link": "https://news.livedoor.com/article/detail/32605504/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 19:37:34 +0900",
+      "title": "チャタリングで買い替え、条件を満たす充電式マウス「OSMOD Six」を購入",
+      "link": "https://news.livedoor.com/article/detail/32606734/",
+      "description": "ざっくり言うと 筆者がエレコムのマウス「OSMOD Six」を購入し、使い心地を紹介した 充電式で、USBレシーバーとBluetoothの2系統接続とサイドボタンを備えると筆者 Amazonで3156円と手頃で、多機能さは控えめだが条件が合う人に勧めるという 記事を読む",
+      "pubDate": "Tue, 20 Oct 2026 00:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "ソフトバンクが会員向けWebサイトを一時停止、不正アクセスの試みを検知",
-      "link": "https://news.livedoor.com/article/detail/32606148/",
-      "description": "ざっくり言うと ソフトバンクが会員向けサイトへの不正アクセスの試みを検知したと発表した 10月17日8時から「My SoftBank」など3サイトをメンテナンスで一時停止した アプリ版は継続して利用でき、Web版の再開時期は準備が整い次第案内する 記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 21:01:45 +0900",
+      "title": "阪急阪神百貨店やニフティなど、企業で不正アクセスの被害が拡大",
+      "link": "https://news.livedoor.com/article/detail/32606677/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 20 Oct 2026 00:11:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "AmazonセールでMSIのゲーミングノートPC「Cyborg 15」シリーズが特別価格に",
-      "link": "https://news.livedoor.com/article/detail/32606664/",
+      "title": "トレンドマイクロ AI悪用に警鐘",
+      "link": "https://news.livedoor.com/article/detail/32606224/",
       "description": "記事を読む",
-      "pubDate": "Tue, 20 Oct 2026 00:05:00 +0900",
+      "pubDate": "Mon, 19 Oct 2026 21:49:22 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "JR東日本の新コード決済teppay、最後発参入と急ピッチ開発の舞台裏",
+      "link": "https://news.livedoor.com/article/detail/32607018/",
+      "description": "ざっくり言うと JR東日本が10月20日にコード決済サービス「teppay」を開始する モバイルSuicaの残高上限2万円を超える買い物や定期券購入、送金が可能になる 残高は現金化できず、Suica残高に戻せない点がデメリットだと記事は指摘する 記事を読む",
+      "pubDate": "Tue, 20 Oct 2026 04:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,18 +467,50 @@
       "category": "経済"
     },
     {
-      "title": "知華さん両親 辺野古の浜で献花",
-      "link": "https://news.livedoor.com/article/detail/32606602/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 23:47:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "「開封開封開封開封ぅ」東京・文京区の奇抜な督促状に賛否の声",
       "link": "https://news.livedoor.com/article/detail/32605574/",
       "description": "ざっくり言うと 東京・文京区が国保料の滞納者に送る督促状の奇抜なデザインが物議を醸している 黒い封筒に「至急開封」などと記し、2019年度から導入後に収納率が88％から96％へ上昇 SNSで批判の声も届いていることから、区は「配慮が足りなかった」と回答した 記事を読む",
       "pubDate": "Mon, 19 Oct 2026 19:41:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "情報流出 被害は始まったばかり",
+      "link": "https://news.livedoor.com/article/detail/32606224/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 19 Oct 2026 21:49:22 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "ホテル女性遺体 27歳女を逮捕",
+      "link": "https://news.livedoor.com/article/detail/32607019/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 20 Oct 2026 04:07:19 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "藤沢市の交差点で77歳男性運転の乗用車が観光バスに衝突、女性1人が死亡",
+      "link": "https://news.livedoor.com/article/detail/32606740/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 20 Oct 2026 00:30:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "猛スピード車がバスに 妻が死亡",
+      "link": "https://news.livedoor.com/article/detail/32606685/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 20 Oct 2026 00:18:25 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "知華さん両親 辺野古の浜で献花",
+      "link": "https://news.livedoor.com/article/detail/32606602/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 19 Oct 2026 23:47:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -511,38 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/32605812/",
       "description": "ざっくり言うと YouTubeのカリブーがランニングシューズの寿命と買い替え時を解説した 距離の目安は500～700kmだが、体感では劣化に気づけず5つの確認が必要という 月1回の目視確認に加え、2足以上の使い分けでケガのリスクが39%低いとした 記事を読む",
       "pubDate": "Mon, 19 Oct 2026 20:22:09 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "情報流出 被害は始まったばかり",
-      "link": "https://news.livedoor.com/article/detail/32606224/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 21:49:22 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "小玉で糖度高い みかんの選び方",
-      "link": "https://news.livedoor.com/article/detail/32606096/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 21:10:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "高市首相「小泉総理が…」進次郎防衛相をうっかり言い間違え",
-      "link": "https://news.livedoor.com/article/detail/32605745/",
-      "description": "ざっくり言うと 高市首相が参院予算委で小泉進次郎防衛相を「小泉総理が…」と言い間違えた いのち・奥田氏の自衛隊給水支援を求める訴えに小泉氏は「やめてほしい」と反論 首相は「まだ早いですね」と釈明し、熊本県の申し出で撤収したと答弁した 記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 19:04:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "筑波大学の「自由な校風」が一変…厳戒警備化に学生から悲鳴も",
-      "link": "https://news.livedoor.com/article/detail/32603928/",
-      "description": "ざっくり言うと 秋篠宮家の悠仁さまが通う筑波大学に、学生から不満の声が出ているという 校舎のゲート設置や警備体制の強化で「とにかく不便」という声が相次いでいるそう これらの措置について、大学側から一般学生に向けた事前説明は一切なかったと同大学生 記事を読む",
-      "pubDate": "Mon, 19 Oct 2026 16:30:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1150,7 +1150,7 @@
       "title": "【虎ノ門ニュース】髙橋洋一×須田慎一郎 2026/10/16(金)",
       "link": "https://www.youtube.com/watch?v=36yLbe90cUs",
       "description": "",
-      "pubDate": "2026-10-17T19:19:04+00:00",
+      "pubDate": "2026-10-19T18:59:41+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
