@@ -1,20 +1,20 @@
 {
-  "updated": "2026-10-21 23:11 JST",
-  "total": 171,
+  "updated": "2026-10-22 04:00 JST",
+  "total": 170,
   "news": [
     {
-      "title": "秋田・子吉川に特別警報 最新情報",
-      "link": "https://news.yahoo.co.jp/pickup/6599621?source=rss",
+      "title": "秋田・子吉川 氾濫注意報に切替",
+      "link": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 12:10:24 GMT",
+      "pubDate": "Wed, 21 Oct 2026 17:38:29 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "秋田の子吉川・石沢川で氾濫発生",
-      "link": "https://news.yahoo.co.jp/pickup/6599623?source=rss",
+      "title": "自民 衆院定数の削減幅を31で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 12:09:44 GMT",
+      "pubDate": "Wed, 21 Oct 2026 17:42:41 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -27,6 +27,22 @@
       "category": "総合"
     },
     {
+      "title": "88歳の父死亡 傷害疑いで娘を逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599636?source=rss",
+      "description": "",
+      "pubDate": "Wed, 21 Oct 2026 17:45:27 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「MMX」探査機 機能正常を確認",
+      "link": "https://news.yahoo.co.jp/pickup/6599628?source=rss",
+      "description": "",
+      "pubDate": "Wed, 21 Oct 2026 17:44:30 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "床はう患者を職員が撮影 病院謝罪",
       "link": "https://news.yahoo.co.jp/pickup/6599631?source=rss",
       "description": "",
@@ -35,44 +51,20 @@
       "category": "総合"
     },
     {
-      "title": "コンセントで感電 子供の事故注意",
-      "link": "https://news.yahoo.co.jp/pickup/6599610?source=rss",
+      "title": "マック390円セット 全国販売開始",
+      "link": "https://news.yahoo.co.jp/pickup/6599592?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 10:17:06 GMT",
+      "pubDate": "Wed, 21 Oct 2026 07:48:42 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "iPS細胞で治療 退院後の期待語る",
-      "link": "https://news.yahoo.co.jp/pickup/6599602?source=rss",
+      "title": "パンサー向井 交際質問にタジタジ",
+      "link": "https://news.yahoo.co.jp/pickup/6599640?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 08:56:11 GMT",
+      "pubDate": "Wed, 21 Oct 2026 14:32:07 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
-    },
-    {
-      "title": "大食い動画規制の動き 投稿者動揺",
-      "link": "https://news.yahoo.co.jp/pickup/6599612?source=rss",
-      "description": "",
-      "pubDate": "Wed, 21 Oct 2026 10:44:41 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ドラフト 織田強行指名されたら?",
-      "link": "https://news.yahoo.co.jp/pickup/6599613?source=rss",
-      "description": "",
-      "pubDate": "Wed, 21 Oct 2026 12:43:49 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "氾濫巡り気象庁 直ちに安全確保を",
-      "link": "https://news.yahoo.co.jp/pickup/6599626?source=rss",
-      "description": "",
-      "pubDate": "Wed, 21 Oct 2026 12:44:06 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
     },
     {
       "title": "武部農相に選挙運動員買収疑惑",
@@ -111,6 +103,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6599609?source=rss",
       "description": "",
       "pubDate": "Wed, 21 Oct 2026 10:15:09 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "自民 衆院定数の削減幅を31で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
+      "description": "",
+      "pubDate": "Wed, 21 Oct 2026 17:42:41 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -315,19 +315,27 @@
       "category": "総合"
     },
     {
-      "title": "首里城正殿の復元をお祝い　「食べて応援 沖縄そうめんチャンプルー」",
-      "link": "https://www.j-cast.com/trend/2026/10/20518563.html",
-      "description": "明星食品は、「食べて応援」シリーズから、沖縄・首里城正殿の復元を記念したカップ麺「食べて応援 沖縄そうめんチャンプルー」を2026年10月26日に発売する。",
-      "pubDate": "Tue, 20 Oct 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
+      "category": "総合"
+    },
+    {
+      "title": "「ウマ娘」や「グラブル」が緊急メンテナンスへ PHPの脆弱性に対応",
+      "link": "https://news.livedoor.com/article/detail/32622602/",
+      "description": "ざっくり言うと Cygamesがウマ娘やグラブルなどで10月21日23時から緊急メンテナンスを行う サーバー使用のプログラミング言語PHPの脆弱性に対応するための措置という 現時点で被害や流出は未確認で、終了時間は未定。グラブルは翌7時予定とのこと 記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 18:55:17 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "生後3か月の娘を殺害した罪の内藤沙月被告、初公判で起訴内容を認める",
+      "link": "https://news.livedoor.com/article/detail/32623589/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 21:14:00 +0900",
+      "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
@@ -395,34 +403,18 @@
       "category": "総合"
     },
     {
-      "title": "大阪大学が学生など約7.8万人分の個人情報流出を公表 委託するNECが報告",
-      "link": "https://news.livedoor.com/article/detail/32623786/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 21:51:33 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ヒカルが「仮面武闘会2」を公開 話題の人物がサプライズ登場",
-      "link": "https://news.livedoor.com/article/detail/32623697/",
-      "description": "ざっくり言うと ヒカルが5月21日、怪盗ピンキーとのユニットで新曲「仮面武闘会2」を公開した 8年前の旧曲は曲調や振り付けのダサさでネットミーム化し、今も再生されている 溝口勇児氏がサプライズ登場し「今年で一番笑った」などの声がネット上に出た 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 21:19:03 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ウェブ7割で使われるPHPに重大な脆弱性、IPAが速やかな修正を呼びかけ",
-      "link": "https://news.livedoor.com/article/detail/32623424/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 22:32:56 +0900",
+      "title": "PHPに深刻度9.2の脆弱性が2件見つかる 緊急パッチを公開へ",
+      "link": "https://news.livedoor.com/article/detail/32621570/",
+      "description": "ざっくり言うと PHPに深刻度9.2の脆弱性が2件見つかり、開発チームが発表した サーバー乗っ取りにつながる恐れがあり、10月21日に緊急パッチを公開予定 CERT-EUはPHP 5以降の全バージョンに影響の可能性があるとして注意を促した 記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 17:20:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "イオンに不正アクセス グループ13社のウェブサイトで閲覧不可",
-      "link": "https://news.livedoor.com/article/detail/32622811/",
+      "title": "イオンや京王電鉄など大手企業で不正アクセス被害の公表が相次ぐ",
+      "link": "https://news.livedoor.com/article/detail/32624358/",
       "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 19:23:11 +0900",
+      "pubDate": "Thu, 22 Oct 2026 00:28:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -443,26 +435,26 @@
       "category": "経済"
     },
     {
-      "title": "30年以上毎月積み立てを続けた66歳男性、投資信託で1億円を築く",
-      "link": "https://news.livedoor.com/article/detail/32623363/",
-      "description": "ざっくり言うと All Aboutが募集した積立投資の体験談で、東京都の66歳男性の投稿を紹介した 30年以上毎月積み立てを続け、投資信託1億円を含む資産を築いたと男性は投稿 来年に会社清算を予定し、リスク資産の比率を徐々に下げていく考えという 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 20:05:00 +0900",
+      "title": "岩井コスモ被害 各社が対応急ぐ",
+      "link": "https://news.livedoor.com/article/detail/32624379/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 00:36:28 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "コミックシーモアが不正アクセス受けた停止の現状と再開への歩みを報告",
-      "link": "https://news.livedoor.com/article/detail/32623205/",
-      "description": "ざっくり言うと コミックシーモアが不正アクセス被害後のサービス再開に向けた現状を発表した 侵入経路と攻撃手法の特定・遮断は完了し、再開時期は関係機関と調整中という 会員情報は最大約420万件が流出したが、カード情報や購入履歴は無事と説明した 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 20:04:03 +0900",
+      "title": "コミックシーモア 420万件流出か",
+      "link": "https://news.livedoor.com/article/detail/32624573/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 02:45:37 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "Broadcom製SDKの脆弱性、パスワードなしでルーターを乗っ取れる恐れ",
-      "link": "https://news.livedoor.com/article/detail/32623525/",
-      "description": "ざっくり言うと BroadcomのSDKに2010年からとみられる脆弱性があると研究者が報告した パスワード不要でルーターを乗っ取り任意コードを実行できる恐れがあるという 数百万台に影響の可能性があり、同社は2018年に認識もCVE割当を拒否したとのこと 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 21:00:00 +0900",
+      "title": "ドコモmini2は家族間通話が無料に、月880円の通話オプションを見直す時",
+      "link": "https://news.livedoor.com/article/detail/32624355/",
+      "description": "ざっくり言うと ドコモが12月1日に導入する新料金プラン「ドコモmini2」の通話の扱いを解説 ファミリー登録した家族間の通話が無料になり、月880円のオプションが不要な人も 家族以外への通話が多い人は、明細で通話料を確認して加入を判断すべきと筆者 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -475,20 +467,60 @@
       "category": "経済"
     },
     {
-      "title": "アップル初の折りたたみiPhone Duoを試用、Galaxyと比べて見えた強みと課題",
-      "link": "https://news.livedoor.com/article/detail/32623670/",
-      "description": "ざっくり言うと 石川温氏がアップル初の折りたたみiPhone Duoを試用しGalaxyと比べた 携帯性や画面分割はGalaxyが上、Duoは機能の多さが強みと石川氏は評価した アプリ対応が課題で、開発者が動けば化ける可能性があると石川氏は指摘した 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 21:00:00 +0900",
+      "title": "楽天市場が緊急メンテを開始、PHP脆弱性対策で他の企業サイトも続々実施",
+      "link": "https://news.livedoor.com/article/detail/32624353/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 00:04:47 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "パナソニック発火 人的被害訂正",
-      "link": "https://news.livedoor.com/article/detail/32622418/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 18:35:31 +0900",
+      "title": "ふるさとチョイスで会員445万件の個人情報が流出、控除試算額も含まれる",
+      "link": "https://news.livedoor.com/article/detail/32624243/",
+      "description": "ざっくり言うと ふるさと納税サイト「ふるさとチョイス」が不正アクセスを受け情報流出と発表 会員445万件超の氏名や住所に加え寄附控除試算額も流出し年収推測の恐れがある 高年収リストが詐欺や強盗に悪用される危険が指摘され物理的な警戒も必要とされる 記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 22:58:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "「棺をのぞき込んでお別れ」が命取りに 法医学者が明かす死因",
+      "link": "https://news.livedoor.com/article/detail/32616919/",
+      "description": "ざっくり言うと 法医学者の高木徹也さんが、棺をのぞき込む際の思わぬ死亡事故を解説した 遺体を冷やすドライアイスが出す二酸化炭素が棺の底にたまり、中毒死に至るという 棺をのぞかない、換気する、一人にしないなどの対策が必要だと注意を呼びかけた 記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 08:35:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "関東地方への修学旅行で…個人情報文書を紛失 広島の県立高校で事件発生",
+      "link": "https://news.livedoor.com/article/detail/32614313/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 20 Oct 2026 20:10:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "血管炎治療薬タブネオス、服用後23人死亡で厚労省が新規投与の見合わせ要請",
+      "link": "https://news.livedoor.com/article/detail/32624351/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 00:24:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "秋田・子吉川で氾濫が発生、河川カメラが堤防に迫る増水の様子をとらえる",
+      "link": "https://news.livedoor.com/article/detail/32624204/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 23:35:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "PHPに重大な脆弱性、厚労省や静岡銀行などが緊急メンテナンスを実施",
+      "link": "https://news.livedoor.com/article/detail/32624239/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 23:50:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "高市早苗首相 PHP脆弱性を巡り修正プログラムの速やかな適用呼びかけ",
@@ -527,46 +559,6 @@
       "link": "https://news.livedoor.com/article/detail/32623507/",
       "description": "記事を読む",
       "pubDate": "Wed, 21 Oct 2026 20:54:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "秋田県の子吉川で越水による氾濫を確認、気象庁がレベル5の特別警報",
-      "link": "https://news.livedoor.com/article/detail/32623351/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 22:07:06 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "ひろゆき氏と泉房穂氏の政治団体が、来春の統一地方選へ向け首長候補を公募",
-      "link": "https://news.livedoor.com/article/detail/32623567/",
-      "description": "ざっくり言うと 泉房穂参院議員とひろゆき氏が、政治団体で来春の統一地方選の首長候補を公募した 公約不履行なら日本赤十字へ違約金1千万円を寄付する公正証書の作成が支援条件という 公募は11月30日まで、12月の宮崎県知事選に出馬する意向の東国原英夫氏らを支援する 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 21:08:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "印旛沼 決壊1か月 田に侵略植物",
-      "link": "https://news.livedoor.com/article/detail/32623520/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 20:56:20 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "厚労省 タブネオス投与に待った",
-      "link": "https://news.livedoor.com/article/detail/32623515/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 20:50:32 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「棺をのぞき込んでお別れ」が命取りに 法医学者が明かす死因",
-      "link": "https://news.livedoor.com/article/detail/32616919/",
-      "description": "ざっくり言うと 法医学者の高木徹也さんが、棺をのぞき込む際の思わぬ死亡事故を解説した 遺体を冷やすドライアイスが出す二酸化炭素が棺の底にたまり、中毒死に至るという 棺をのぞかない、換気する、一人にしないなどの対策が必要だと注意を呼びかけた 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 08:35:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1054,7 +1046,7 @@
       "title": "1608回　城内大臣が毎日新聞を公開処刑！なぜ裏取りもせず記事にする？プライドだけ高いマスコミよ",
       "link": "https://www.youtube.com/watch?v=DCCviHh-h2I",
       "description": "",
-      "pubDate": "2026-10-21T09:00:23+00:00",
+      "pubDate": "2026-10-21T15:03:24+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1134,7 +1126,7 @@
       "title": "【世界から見たフランスの深刻化】日本では報道されない55万人デモ暴動 伊藤貫 × 武田邦彦 （虎ノ門ニュース）",
       "link": "https://www.youtube.com/watch?v=ATmHYn7aph4",
       "description": "",
-      "pubDate": "2026-10-21T09:44:51+00:00",
+      "pubDate": "2026-10-21T18:52:14+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1222,7 +1214,7 @@
       "title": "【高橋洋一が斬る】高市内閣誕生1年！城内大臣「なぜ私に取材しない」高橋「高市流で政治部記者は失業状態」バッサリにタカ苦笑「消費減税もう終わった話。実行するだけ」各党の公約覚えてますか／洋一が食リポ？",
       "link": "https://www.youtube.com/watch?v=ZiLyyBTmvmg",
       "description": "",
-      "pubDate": "2026-10-21T12:04:26+00:00",
+      "pubDate": "2026-10-21T15:14:37+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1230,7 +1222,7 @@
       "title": "エスパルスとBMWがコラボ　BMWX1の車体がファイアーオレンジ　限定車販売始まる",
       "link": "https://www.youtube.com/watch?v=xKGC7fgZdy4",
       "description": "",
-      "pubDate": "2026-10-21T12:30:36+00:00",
+      "pubDate": "2026-10-21T14:47:10+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1291,10 +1283,10 @@
       "category": "YouTube"
     },
     {
-      "title": "【解説】もしも切迫するといわれる首都直下地震が起きたらどうなるか？わかりやすく解説します！",
+      "title": "【解説】首都直下震度7地震が切迫しているといわれる理由！わかりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=wWe63eFNans",
       "description": "",
-      "pubDate": "2026-10-21T12:29:03+00:00",
+      "pubDate": "2026-10-21T14:20:56+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
