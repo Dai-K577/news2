@@ -1,52 +1,60 @@
 {
-  "updated": "2026-10-22 08:45 JST",
-  "total": 159,
+  "updated": "2026-10-22 11:09 JST",
+  "total": 129,
   "news": [
     {
-      "title": "秋田・子吉川 氾濫注意報に切替",
-      "link": "https://news.yahoo.co.jp/pickup/6599644?source=rss",
+      "title": "失効免許証を捜査流用 神奈川県警",
+      "link": "https://news.yahoo.co.jp/pickup/6599671?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 17:38:29 GMT",
+      "pubDate": "Thu, 22 Oct 2026 01:58:46 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "台風 23日から沖縄先島諸島に接近",
-      "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
+      "title": "社会人向け新教職課程 創設の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 22:38:46 GMT",
+      "pubDate": "Thu, 22 Oct 2026 00:35:34 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "PHPに欠陥 欧州各国でサイト遮断",
-      "link": "https://news.yahoo.co.jp/pickup/6599650?source=rss",
+      "title": "G7TV会議を首相欠席 与野党波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 21:57:25 GMT",
+      "pubDate": "Wed, 21 Oct 2026 23:55:48 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "PHPの脆弱性 米OpenAIのAIで発見",
-      "link": "https://news.yahoo.co.jp/pickup/6599651?source=rss",
+      "title": "乳児遺体遺棄した疑い 24歳女逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6599668?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 22:32:08 GMT",
+      "pubDate": "Thu, 22 Oct 2026 01:23:17 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "メタに約4兆円支払い命令 米地裁",
-      "link": "https://news.yahoo.co.jp/pickup/6599658?source=rss",
+      "title": "仕事探し困難「通信困窮」の実態",
+      "link": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 23:28:40 GMT",
+      "pubDate": "Thu, 22 Oct 2026 00:46:20 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ヒマラヤ山脈 日本人2人が不明",
-      "link": "https://news.yahoo.co.jp/pickup/6599653?source=rss",
+      "title": "准教授の発表 学生の卒論と酷似か",
+      "link": "https://news.yahoo.co.jp/pickup/6599667?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 22:57:44 GMT",
+      "pubDate": "Thu, 22 Oct 2026 00:59:17 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "韓国発大容量カフェ なぜ日本上陸",
+      "link": "https://news.yahoo.co.jp/pickup/6599666?source=rss",
+      "description": "",
+      "pubDate": "Thu, 22 Oct 2026 00:48:59 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -59,14 +67,6 @@
       "category": "総合"
     },
     {
-      "title": "柳楽優弥 日曜劇場に初出演で主演",
-      "link": "https://news.yahoo.co.jp/pickup/6599655?source=rss",
-      "description": "",
-      "pubDate": "Wed, 21 Oct 2026 23:00:52 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
       "title": "武部農相に選挙運動員買収疑惑",
       "link": "https://news.yahoo.co.jp/pickup/6599608?source=rss",
       "description": "",
@@ -75,10 +75,18 @@
       "category": "国内"
     },
     {
-      "title": "武部農相 献金巡り公選法違反疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6599528?source=rss",
+      "title": "台風 23日から沖縄先島諸島に接近",
+      "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
       "description": "",
-      "pubDate": "Tue, 20 Oct 2026 14:56:15 GMT",
+      "pubDate": "Wed, 21 Oct 2026 22:38:46 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "G7TV会議を首相欠席 与野党波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
+      "description": "",
+      "pubDate": "Wed, 21 Oct 2026 23:55:48 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -107,18 +115,10 @@
       "category": "国内"
     },
     {
-      "title": "台風 23日から沖縄先島諸島に接近",
-      "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
+      "title": "社会人向け新教職課程 創設の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
       "description": "",
-      "pubDate": "Wed, 21 Oct 2026 22:38:46 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "電気ガス料金 1～3月分の補助検討",
-      "link": "https://news.yahoo.co.jp/pickup/6599582?source=rss",
-      "description": "",
-      "pubDate": "Wed, 21 Oct 2026 05:15:19 GMT",
+      "pubDate": "Thu, 22 Oct 2026 00:35:34 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -315,244 +315,252 @@
       "category": "総合"
     },
     {
-      "title": "「過去最も遅い真夏日」から「強い寒気」へ…寒暖差発生も 気象予報士解説",
-      "link": "https://news.livedoor.com/article/detail/32621859/",
+      "title": "失効した免許証を情報収集に利用 神奈川県警で不正持ち出し明らかに",
+      "link": "https://news.livedoor.com/article/detail/32626446/",
       "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 17:48:17 +0900",
+      "pubDate": "Thu, 22 Oct 2026 10:17:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "誰も勝てない…えなこの圧倒的な姿が「ヤングガンガン」に登場",
-      "link": "https://news.livedoor.com/article/detail/32623682/",
+      "title": "「MLB全球団が注目するだろう」獲得に意欲か 佐藤輝明巡る報道が過熱",
+      "link": "https://news.livedoor.com/article/detail/32625144/",
       "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 21:10:00 +0900",
+      "pubDate": "Thu, 22 Oct 2026 06:04:39 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「結果を残せないのであれば潔く辞めよう」美女グラドル、芸能活動を引退へ",
-      "link": "https://news.livedoor.com/article/detail/32625734/",
+      "title": "青切符制度、反則金納付で「キャッシュレス方式」支払い方法追加を検討",
+      "link": "https://news.livedoor.com/article/detail/32626451/",
       "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:20:00 +0900",
+      "pubDate": "Thu, 22 Oct 2026 10:31:51 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「蛍光灯」2027年末に製造禁止の影響で…LEDに取り替える動きが広がる",
-      "link": "https://news.livedoor.com/article/detail/32625453/",
+      "title": "「最近体がだるくて…」桐谷広人氏が近況報告、体調に懸念示す声も",
+      "link": "https://news.livedoor.com/article/detail/32624422/",
       "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:05:00 +0900",
+      "pubDate": "Thu, 22 Oct 2026 01:04:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「ダントツと違いますかね」上沼恵美子、田村正和さんとの忘れ得ぬ邂逅語る",
-      "link": "https://news.livedoor.com/article/detail/32625237/",
+      "title": "「みっともない」東京・福生市で路上トラブル→殺人事件に…元刑事が斬った",
+      "link": "https://news.livedoor.com/article/detail/32617250/",
       "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0900",
+      "pubDate": "Wed, 21 Oct 2026 09:55:32 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「VIVANT」第21話考察、乃木とリンリンの対峙シーンでの「一瞬の表情」注目",
-      "link": "https://news.livedoor.com/article/detail/32625596/",
-      "description": "ざっくり言うと TBS系「VIVANT」第21話の乃木と周の対峙場面にSNSで注目が集まった 周の言葉に乃木が見せた一瞬の表情から、リュウの生存を察知したとの考察が相次いだ 野崎らが拘束されている可能性に気づいたのではとの見方も浮上したとのこと 記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:33:54 +0900",
+      "title": "スマートフォン代を1カ月滞納しただけで…路上生活へ転落も 過酷な実態判明",
+      "link": "https://news.livedoor.com/article/detail/32626021/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 08:53:43 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「令和の怪物」織田翔希を強行指名の可能性 ソフトバンクの城島CBOが示唆",
-      "link": "https://news.livedoor.com/article/detail/32625140/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0900",
+      "title": "焼酎の水割りで飲んで、血糖値に変化はある？内科医が「黒霧島」使って検証",
+      "link": "https://news.livedoor.com/article/detail/32626309/",
+      "description": "ざっくり言うと 内科医の山村聡さんが芋焼酎「黒霧島」を水割りで飲み血糖値を測定した おつまみなしの条件で飲酒中の測定値はほぼ横ばいで大きく上昇しなかった ただ今回は個人の結果で、飲みすぎへの注意も繰り返し呼びかけている 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 10:00:00 +0900",
       "source": "ライブドアニュース 主要",
       "category": "総合"
     },
     {
-      "title": "「捜査二課のヨコタと申します」ニセ警察官から詐欺電話も…本物が見破る",
-      "link": "https://news.livedoor.com/article/detail/32625053/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「恐ろしいウイングが…」久保建英、かつての姿取り戻す活躍に称賛集まる",
-      "link": "https://news.livedoor.com/article/detail/32624781/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 04:50:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "「気づいたら両足に激痛、バイクの間には…」旅先での団らんが一瞬で絶望に",
-      "link": "https://news.livedoor.com/article/detail/32625101/",
-      "description": "ざっくり言うと 福岡市西区の県道で9月、飲酒運転の暴走事故により3歳児が死亡した 旅行中に息子を失った父親が「ずっと寂しい」と当時の記憶と胸の内を語った 防げた事故だとして、加害者に法に則った罰を受けてほしいと訴えている 記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0900",
-      "source": "ライブドアニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ウェブ7割で使われるPHPに重大な脆弱性、IPAが速やかな修正を呼びかけ",
-      "link": "https://news.livedoor.com/article/detail/32623424/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 00:55:22 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "世界の7割が使うPHPの重大欠陥、AIモデルが発見か各国で政府サイト停止",
-      "link": "https://news.livedoor.com/article/detail/32625542/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:23:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "消費税が1%に下がったらウーバーイーツの料金はいくら安くなるのか試算",
-      "link": "https://news.livedoor.com/article/detail/32625417/",
-      "description": "ざっくり言うと 2027年4月からの飲食料品の消費減税でウーバーイーツの価格がどう変わるか試算 吉野家の牛丼は2233円が2082円に下がり、ガストは1674円が1571円になる 配達員の渡辺雅史氏は注文増を見込み、買い物代行ピック・パック・ペイに備える 記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "トヨタ軽セダン「ピクシスエポック」が一部改良、燃費と安全装備を底上げ",
-      "link": "https://news.livedoor.com/article/detail/32625310/",
-      "description": "ざっくり言うと トヨタが軽セダン「ピクシスエポック」を一部改良し、8月27日に販売を開始した 新グレードX“Limited”を設定し、エンジン出力向上と燃費約8％改善を実現した スマートアシストが全車標準となり、価格は109万6700円から150万3700円である 記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 06:40:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "チョコザップ増加 ジム明暗の鍵",
-      "link": "https://news.livedoor.com/article/detail/32625423/",
+      "title": "病院の女子トイレで「ルーティンのように盗撮を」法廷で異常な告白",
+      "link": "https://news.livedoor.com/article/detail/32625552/",
       "description": "記事を読む",
       "pubDate": "Thu, 22 Oct 2026 07:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
     },
     {
-      "title": "ドコモmini2は家族間通話が無料に、月880円の通話オプションを見直す時",
-      "link": "https://news.livedoor.com/article/detail/32624355/",
-      "description": "ざっくり言うと ドコモが12月1日に導入する新料金プラン「ドコモmini2」の通話の扱いを解説 ファミリー登録した家族間の通話が無料になり、月880円のオプションが不要な人も 家族以外への通話が多い人は、明細で通話料を確認して加入を判断すべきと筆者 記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
+      "title": "松本潤や阿部寛も巻き込まれた…芸能人の公式サイトも「PHP騒動」で混乱",
+      "link": "https://news.livedoor.com/article/detail/32626216/",
+      "description": "ざっくり言うと プログラミング言語PHPに重大な脆弱性が見つかり、各所で緊急対応が続く 松本潤や阿部寛のサイトが閲覧不可となり、芸能界にも影響が広がっている 高市首相は4月21日にXで、修正パッチを速やかに適用できるよう準備を要請 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 09:34:33 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
     },
     {
-      "title": "ゆうちょ銀行が11月9日から通常貯金の金利を引き上げ、300万円の利息が増加",
-      "link": "https://news.livedoor.com/article/detail/32623463/",
-      "description": "ざっくり言うと ゆうちょ銀行が11月9日に通常貯金の金利を年0.4％から0.5％へ引き上げる 300万円を1年預けた場合の税引前利息は約1万2000円から約1万5000円に増える 2026年で3回目の引き上げで、定期性貯金も改定予定だが詳細は未確定である 記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 20:30:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "牛丼もコーヒーも3割高、日銀の追加利上げで暮らしは本当に楽になるのか",
-      "link": "https://news.livedoor.com/article/detail/32625547/",
+      "title": "「Mrs. GREEN APPLE」藤澤涼架とのコラボでグッズ配布…不正対策明らかに",
+      "link": "https://news.livedoor.com/article/detail/32625567/",
       "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "ダークウェブに流れる漏洩情報",
-      "link": "https://news.livedoor.com/article/detail/32625099/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 06:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "AIに累計340万円を課金したあべむつき氏が、たどり着いた意外な結論",
-      "link": "https://news.livedoor.com/article/detail/32625388/",
-      "description": "ざっくり言うと AI副業YouTuberのあべむつき氏が、生成AIに累計340万円課金した経験を公開した 最上位プラン3社に月10万5000円払ったが、月20ドルのAI1つで足りると結論づけた 無料のままは避けたいとし、まず1つのAIに月20ドル課金することを勧めたという 記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
-      "title": "「愛知・名古屋アジアパラ大会」でも運営ミスぼっ発 3件もの国歌取り違え",
-      "link": "https://news.livedoor.com/article/detail/32624812/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 05:00:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "交番で「ショウリンジ」と叫ぶ迷惑行為発生…言葉の由来、謎に包まれたまま",
-      "link": "https://news.livedoor.com/article/detail/32625087/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 06:00:01 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「過去最も遅い真夏日」から「強い寒気」へ…寒暖差発生も 気象予報士解説",
-      "link": "https://news.livedoor.com/article/detail/32621859/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 17:48:17 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「蛍光灯」2027年末に製造禁止の影響で…LEDに取り替える動きが広がる",
-      "link": "https://news.livedoor.com/article/detail/32625453/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:05:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
+      "pubDate": "Thu, 22 Oct 2026 07:30:00 +0900",
+      "source": "ライブドアニュース 主要",
+      "category": "総合"
     },
     {
       "title": "PHPに深刻度9.2の脆弱性が2件見つかる 緊急パッチを公開へ",
       "link": "https://news.livedoor.com/article/detail/32621570/",
       "description": "ざっくり言うと PHPに深刻度9.2の脆弱性が2件見つかり、開発チームが発表した サーバー乗っ取りにつながる恐れがあり、10月21日に緊急パッチを公開予定 CERT-EUはPHP 5以降の全バージョンに影響の可能性があるとして注意を促した 記事を読む",
       "pubDate": "Wed, 21 Oct 2026 17:20:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "300円台 ファミマル冷凍麺の魅力",
+      "link": "https://news.livedoor.com/article/detail/32395961/",
+      "description": "ざっくり言うと 300円台から楽しめる「ファミマル」の冷凍麺5商品を、ライブドア編集部がレビュー 試食したのは「もちっと食感生パスタ」2品とナポリタン、焼きうどん、あんかけ焼そば さらに冷凍麺の魅力をとことん探るべく、ファミマ商品本部の担当者に話を聞いた 記事を読む",
+      "pubDate": "Fri, 25 Sep 2026 16:00:15 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "同じAIを使う人は1日、使わない人は1週間「道具の差」という現実",
+      "link": "https://news.livedoor.com/article/detail/32599981/",
+      "description": "ざっくり言うと デジライズ代表の茶圓将裕氏が、AI活用の有無で生じる仕事の差を解説した 同じ会社でAIを使う人は1日、使わない人は1週間かかる仕事もあると指摘した 差は能力ではなく道具の差とし、2027年に生成AI普及率80%を目指すという 記事を読む",
+      "pubDate": "Mon, 19 Oct 2026 10:15:52 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "PS5用PULSEワイヤレスヘッドセットに新色、11月19日に発売決定",
+      "link": "https://news.livedoor.com/article/detail/32626210/",
+      "description": "ざっくり言うと ソニー・インタラクティブエンタテインメントがPS5用ヘッドセットを発売する ホワイトとミッドナイト ブラックの2色で11月19日発売、価格は各1万5980円 AIによるノイズリジェクション搭載で、イヤーカップはフラットにして携帯できる 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 09:41:08 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "旧型トヨタ86、なぜオートマ仕様だけ中古車が安い？意外すぎる理由が存在か",
+      "link": "https://news.livedoor.com/article/detail/32624560/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 02:36:51 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "STARTO社やAKB48など芸能各社が公式サイトを緊急停止、脆弱性対応か",
+      "link": "https://news.livedoor.com/article/detail/32626141/",
+      "description": "ざっくり言うと FMヨコハマが5月22日、公式サイトと関連番組サイトの一部を一時停止した 使用中のプログラミング言語に重大な脆弱性が見つかり、攻撃リスクがあるため 公式Xで発表し、復旧時期は改めて知らせるとして、再開の日時は未定である 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 09:16:13 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "経産省がEV補助金の見直しを公表、来年1月登録分から最大50万円の減額に",
+      "link": "https://news.livedoor.com/article/detail/32626083/",
+      "description": "ざっくり言うと 経産省がEV補助金のCEV補助金について、補助額の見直しを公表した 2027年1月1日以降の新規登録車が対象で、EVは最大125万円から75万円に減る SNSでは「もう普通にハイブリッドでいい」と購入意欲をなくす声が出ている 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 08:50:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "ニデックが社長を事実上解任、巨額赤字と監査法人の不信で崖っぷちへ",
+      "link": "https://news.livedoor.com/article/detail/32625988/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 08:30:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "5億円ママ投資家ちょる子氏が、好決算を見極めて買う手順を語る",
+      "link": "https://news.livedoor.com/article/detail/32625915/",
+      "description": "ざっくり言うと 5億円投資家のちょる子氏が連載で好決算銘柄の買い方の考え方を解説した 売上や営業利益の伸びに加え市場コンセンサスとの差や増益の中身を見るという 営業レバレッジやEPSの質、営業キャッシュフローの確認も重要と指摘している 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 08:35:30 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "北洋銀行がPHP欠陥を受けHPを一時停止、ローンやカード申し込みが不可に",
+      "link": "https://news.livedoor.com/article/detail/32626182/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 09:26:00 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "店員の言葉が何度聞き返しても聞き取れない…40代・50代女性の不調",
+      "link": "https://news.livedoor.com/article/detail/32620040/",
+      "description": "ざっくり言うと 40代・50代の耳の老化を描いた漫画「聞き取れない」がインスタで話題になった 店員の声が聞き取れず何度も聞き返す体験談に「分かります」と共感が集まる 作者のアラ子さんは実体験をもとに描いており、取材に経緯を明かしたという 記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 14:15:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "青切符制度、反則金納付で「キャッシュレス方式」支払い方法追加を検討",
+      "link": "https://news.livedoor.com/article/detail/32626451/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 10:31:51 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "「みっともない」東京・福生市で路上トラブル→殺人事件に…元刑事が斬った",
+      "link": "https://news.livedoor.com/article/detail/32617250/",
+      "description": "記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 09:55:32 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "「キャンセル調理」が拡大？20代の20.8％が自炊で包丁を省いていると判明",
+      "link": "https://news.livedoor.com/article/detail/32622449/",
+      "description": "ざっくり言うと タイガー魔法瓶が全国の20～50代888人に自炊に関する意識調査を実施した 20代が直近半年に使った調理器具は平均8.5種類で、40・50代の約6割だった 最も省くものは包丁が1位で、20代の約半数が下ごしらえの器具や工程を省く 記事を読む",
+      "pubDate": "Wed, 21 Oct 2026 17:36:59 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "失効した免許証を情報収集に利用 神奈川県警で不正持ち出し明らかに",
+      "link": "https://news.livedoor.com/article/detail/32626446/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 10:17:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "参加無料 暮らしを学ぶイベ開催",
+      "link": "https://news.livedoor.com/article/detail/32507347/",
+      "description": "ざっくり言うと くらしにまつわる話題を学べる「くらしフェスタ東京2026」が10月1日からスタート 10月から翌年1月にかけて多彩なプログラムが続き、参加費はすべて無料だという 10月23～24日には、40超の団体が集結する「交流フェスタ2026」が開催される 記事を読む",
+      "pubDate": "Thu, 08 Oct 2026 17:00:47 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "スマートフォン代を1カ月滞納しただけで…路上生活へ転落も 過酷な実態判明",
+      "link": "https://news.livedoor.com/article/detail/32626021/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 08:53:43 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "パリが「火の海」？暴動をめぐる報道に仏在住のひろゆき氏「超普通」",
+      "link": "https://news.livedoor.com/article/detail/32626174/",
+      "description": "ざっくり言うと フランスの暴動報道について、現地在住のひろゆき氏がABEMAの番組で実情を語った デモに近づかなければ日常は「超普通」で、略奪は便乗した大人が中心との見方を示した 濱西教授は、暴徒の便乗が極右政党の追い風になり来年の大統領選に影響すると分析した 記事を読む",
+      "pubDate": "Thu, 22 Oct 2026 09:31:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
       "title": "3tの太鼓台の下敷きになった副市長が死亡した事故、元警視庁刑事が解説",
       "link": "https://news.livedoor.com/article/detail/32621814/",
-      "description": "記事を読む",
+      "description": "ざっくり言うと 治安戦略アナリストの小比類巻文隆氏が、愛媛県西条市の祭りでの死亡事故を解説 副市長が太鼓台の下敷きになった事故を巡り、伝統を盾にした安全対策の欠如を批判 祭りの現場において、指導者不足などの構造的な問題が潜んでいる可能性も指摘している 記事を読む",
       "pubDate": "Wed, 21 Oct 2026 17:39:09 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "男性重体 妻の車にはねられたか",
-      "link": "https://news.livedoor.com/article/detail/32623901/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 22:17:22 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "物怖じする根本的原因はスポットライトの向き？ひるまない話し方の技術3選",
-      "link": "https://news.livedoor.com/article/detail/32622131/",
-      "description": "記事を読む",
-      "pubDate": "Wed, 21 Oct 2026 18:12:22 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「本当に不思議」食費も削ったのにクレカの請求が30万円超、Xで話題",
-      "link": "https://news.livedoor.com/article/detail/32625477/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 07:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "神奈川の病院で清掃員が建物3階から約9m下に落下 病院で死亡確認",
-      "link": "https://news.livedoor.com/article/detail/32623828/",
+      "title": "「ブラック研究室から逃げたことは正解」大学時代の過酷な生活明かした",
+      "link": "https://news.livedoor.com/article/detail/32623802/",
       "description": "記事を読む",
       "pubDate": "Wed, 21 Oct 2026 22:00:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
+    },
+    {
+      "title": "「一度出せば足りる」統計へ",
+      "link": "https://www.dir.co.jp/report/research/economics/japan/20261022_026149.html",
+      "description": "◆前編で示した公的統計のデジタル化による負担軽減の効果を安定的に得るには、「制度・法」「標準化」「府省の縦割り」「民間データの代表性・継続性」「品質保証」「コストとメリット還元」「機密・信頼」「人材・予算」という課題を、効果の段階（電子化→削減→代替）に応じて計画的に手当てする必要がある。 ◆これらの課題の背景には、各府省が所管分野の統計を作る分散型統計機構の下で、標準化、データ連携、重複報告の解",
+      "pubDate": "Thu, 22 Oct 2026 09:45:00 +0900",
+      "source": "大和総研 経済分析",
+      "category": "経済"
     },
     {
       "title": "2026年9月貿易統計",
@@ -623,14 +631,6 @@
       "link": "https://www.dir.co.jp/report/research/economics/japan/20261009_026120.html",
       "description": "◆最先端AIの急速な能力向上に伴い、AIがもたらす脅威への警戒が再び強まっている。2026年9月、Anthropicのダリオ・アモデイCEOは、安全性の検証や対策が追いつく範囲に開発速度を抑える必要性を訴え、企業間協調を提案した。企業や政府の間では、開発ペースの調整や国際的な統制をめぐって立場が分かれる一方、能力評価やインシデント報告などでは協調が模索されており、9月29日には米国のAI関連企業6",
       "pubDate": "Fri, 09 Oct 2026 15:50:00 +0900",
-      "source": "大和総研 経済分析",
-      "category": "経済"
-    },
-    {
-      "title": "2026年8月消費統計",
-      "link": "https://www.dir.co.jp/report/research/economics/japan/20261009_026118.html",
-      "description": "◆2026年8月の家計調査における二人以上世帯の実質消費支出は前月比＋0.1％と2カ月連続で増加した。一方、複数の需要側統計を用いて補正した世帯消費動向指数（CTIミクロ）で見た実質消費は同▲2.3％と2カ月ぶりに減少した。また、供給側統計の1つである商業動態統計では、CPIの財指数で実質化した小売販売額は同▲1.1％だった。総じて見れば、8月の個人消費は前月から減少したと判断される。 ◆先行きの",
-      "pubDate": "Fri, 09 Oct 2026 14:55:00 +0900",
       "source": "大和総研 経済分析",
       "category": "経済"
     },
@@ -1033,246 +1033,6 @@
       "pubDate": "Fri, 27 Mar 2026 10:25:00 +0900",
       "source": "大和総研 税制",
       "category": "経済"
-    },
-    {
-      "title": "1608回　城内大臣が毎日新聞を公開処刑！なぜ裏取りもせず記事にする？プライドだけ高いマスコミよ",
-      "link": "https://www.youtube.com/watch?v=DCCviHh-h2I",
-      "description": "",
-      "pubDate": "2026-10-21T19:49:41+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1607回　日本に二大政党が出来ない理由",
-      "link": "https://www.youtube.com/watch?v=BlWNAMjisZc",
-      "description": "",
-      "pubDate": "2026-10-20T13:17:43+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1606回【保存版】ノーベル経済学賞を図解で分かりやすく解説",
-      "link": "https://www.youtube.com/watch?v=jwYdSEfn6DA",
-      "description": "",
-      "pubDate": "2026-10-19T13:13:24+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "10/17LIVE！日経新聞がやらかした＆テレビ裏話【簗大臣辞任/ロシアで邦人スパイ容疑で拘束/フランス高校生デモの裏に年金問題】",
-      "link": "https://www.youtube.com/watch?v=FzaK-SNtDew",
-      "description": "",
-      "pubDate": "2026-10-19T15:47:56+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1605回　岸田宮沢家は財務省ベッタリ　日銀＆金融界と組んで国民置き去り",
-      "link": "https://www.youtube.com/watch?v=fuaLVtJxM9Y",
-      "description": "",
-      "pubDate": "2026-10-16T09:50:01+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1604回　社会的割引率見直しへ！",
-      "link": "https://www.youtube.com/watch?v=_N2TXs_3Rh8",
-      "description": "",
-      "pubDate": "2026-10-18T21:48:43+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1603回　減税財源は12月にザクザク出てくる！日本版DOGEもギア上げさらに上積み！",
-      "link": "https://www.youtube.com/watch?v=lwuq1Vo7-_Q",
-      "description": "",
-      "pubDate": "2026-10-18T01:01:38+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1602回　簗農水大臣は小物のホラッチョ　そんな実力はない",
-      "link": "https://www.youtube.com/watch?v=aF1Dp8ptjJ0",
-      "description": "",
-      "pubDate": "2026-10-20T10:54:00+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1601回　早期退職か定年まで勤め上げるか？どっちがお得？",
-      "link": "https://www.youtube.com/watch?v=R_0bbNK-PZQ",
-      "description": "",
-      "pubDate": "2026-10-12T09:00:20+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "10/10LIVE！臨時国会/日米地位協定/情報漏洩！泉健太議員がやってきたけど...",
-      "link": "https://www.youtube.com/watch?v=n2rpf8p589I",
-      "description": "",
-      "pubDate": "2026-10-14T03:52:20+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "【世界から見たフランスの深刻化】日本では報道されない55万人デモ暴動 伊藤貫 × 武田邦彦 （虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=ATmHYn7aph4",
-      "description": "",
-      "pubDate": "2026-10-21T22:12:42+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】※地上波ダンマリ※ フランスのデモ大暴動を煽った極左過激組織と背景 , 須田慎一郎×丸山穂高×山田敏弘 2026/10/20(火)",
-      "link": "https://www.youtube.com/watch?v=2Qx-SdyvW4M",
-      "description": "",
-      "pubDate": "2026-10-20T20:04:34+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【政治とマスコミ】※片山大臣と城内大臣が激怒※ 毎日新聞さんが逃げました・・・（須田慎一郎×宮崎謙介）",
-      "link": "https://www.youtube.com/watch?v=tuhC9GURCYY",
-      "description": "",
-      "pubDate": "2026-10-21T20:17:49+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虚偽報道に内閣府激怒】※いよいよ本気で動くかもしれません※ 城内実経済財政政策大臣に直電話取材。毎日新聞が大チョンボ。（須田慎一郎の虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=KfYqgiN-Ev0",
-      "description": "",
-      "pubDate": "2026-10-19T14:23:06+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【髙橋洋一 × 須田慎一郎】※緊急公開※ 日経新聞さん、ここでやらかしたら終わりますよ",
-      "link": "https://www.youtube.com/watch?v=ga1th-u-9Ww",
-      "description": "",
-      "pubDate": "2026-10-19T15:03:34+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【記者会見で激詰事件】片山さつき財務大臣がG20の会談後に日経新聞の記者さんを怒った件について髙橋洋一さんと須田慎一郎さんが話してくれました（虎ノ門ニュース切り抜き）",
-      "link": "https://www.youtube.com/watch?v=b6ebSZisIsg",
-      "description": "",
-      "pubDate": "2026-10-18T21:53:36+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】竹田恒泰×柳ヶ瀬裕文 2026/10/23(金)",
-      "link": "https://www.youtube.com/watch?v=3LkfWT6g18c",
-      "description": "",
-      "pubDate": "2026-10-19T01:14:39+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】髙橋洋一×須田慎一郎 2026/10/16(金)",
-      "link": "https://www.youtube.com/watch?v=36yLbe90cUs",
-      "description": "",
-      "pubDate": "2026-10-19T18:59:41+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【まさかの結末】簗農水大臣の辞任によって野党の支持率が激減・・・（須田慎一郎×宮崎謙介）",
-      "link": "https://www.youtube.com/watch?v=iva-QRV74dI",
-      "description": "",
-      "pubDate": "2026-10-18T21:53:34+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【緊急速報】簗農水大臣の辞任について（須田慎一郎の虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=5t1LAS_dAbk",
-      "description": "",
-      "pubDate": "2026-10-18T00:45:02+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【解説】首都直下震度7地震が切迫しているといわれる理由！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=wWe63eFNans",
-      "description": "",
-      "pubDate": "2026-10-21T14:20:56+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ライブ】日本のひずみを東北大研究チームが推定！大地震との関係は？（2026年10月20日）",
-      "link": "https://www.youtube.com/watch?v=DIEJB3ujvCQ",
-      "description": "",
-      "pubDate": "2026-10-21T20:08:49+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】千葉県で謎の湧水を多数確認との報道発表！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=EaB8C1YNBl8",
-      "description": "",
-      "pubDate": "2026-10-20T13:50:53+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【解説】M9.9巨大地震が起きたら日本はどうなるか？詳しく解説します！",
-      "link": "https://www.youtube.com/watch?v=0HlwMdOy484",
-      "description": "",
-      "pubDate": "2026-10-19T13:02:19+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【解説】M9.9地震誤報はなぜ起きたか？簡潔にわかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=ofOLk9s5xec",
-      "description": "",
-      "pubDate": "2026-10-20T02:31:41+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ライブ】本日、千島地震の誤報が発表！生放送でお届けします！（2026年10月16日）",
-      "link": "https://www.youtube.com/watch?v=M_jnuSNt6us",
-      "description": "",
-      "pubDate": "2026-10-17T03:51:18+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】硫黄島の最新情報を国が発表！なんと硫黄島に美しい湖が出できたことが判明！！わかりやすく解説します！！",
-      "link": "https://www.youtube.com/watch?v=7ooCt0fJwmQ",
-      "description": "",
-      "pubDate": "2026-10-18T21:48:03+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ライブ】本日、国内で地震が発生！生放送でお届けします！（2026年10月14日）",
-      "link": "https://www.youtube.com/watch?v=2dz-J5ZOrWs",
-      "description": "",
-      "pubDate": "2026-10-15T23:22:15+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【速報！】ついに日本の研究所がアンモニア生産の大型化に成功！実用化へ前進！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=T6EjDetIUe0",
-      "description": "",
-      "pubDate": "2026-10-18T00:41:56+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
-    },
-    {
-      "title": "【朗報！】なんと日本人研究者がノーベル化学賞を受賞！わかりやすく解説します！",
-      "link": "https://www.youtube.com/watch?v=5tnXaz9twkM",
-      "description": "",
-      "pubDate": "2026-10-18T00:40:17+00:00",
-      "source": "えいしゅう博士",
-      "category": "YouTube"
     }
   ]
 }
