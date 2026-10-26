@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27 00:33 JST",
+  "updated": "2026-10-27 06:59 JST",
   "total": 169,
   "news": [
     {
@@ -19,34 +19,18 @@
       "category": "総合"
     },
     {
+      "title": "GMOに予告 正午に顧客情報公開",
+      "link": "https://news.yahoo.co.jp/pickup/6600241?source=rss",
+      "description": "",
+      "pubDate": "Mon, 26 Oct 2026 21:08:19 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
       "title": "米Anthropic IPO申請書類を公開",
       "link": "https://news.yahoo.co.jp/pickup/6600240?source=rss",
       "description": "",
       "pubDate": "Mon, 26 Oct 2026 15:02:06 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "氏名誤記の原爆死没者 遺骨返還へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600233?source=rss",
-      "description": "",
-      "pubDate": "Mon, 26 Oct 2026 13:03:29 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "クマ放獣も3日で街に戻る 課題は",
-      "link": "https://news.yahoo.co.jp/pickup/6600225?source=rss",
-      "description": "",
-      "pubDate": "Mon, 26 Oct 2026 10:58:05 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "中国媒体の「VIVANT」批判 背景",
-      "link": "https://news.yahoo.co.jp/pickup/6600218?source=rss",
-      "description": "",
-      "pubDate": "Mon, 26 Oct 2026 10:07:04 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -63,6 +47,22 @@
       "link": "https://news.yahoo.co.jp/pickup/6600235?source=rss",
       "description": "",
       "pubDate": "Mon, 26 Oct 2026 14:07:55 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "WEST.全番組終了 7人で最後の姿",
+      "link": "https://news.yahoo.co.jp/pickup/6600243?source=rss",
+      "description": "",
+      "pubDate": "Mon, 26 Oct 2026 21:30:14 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "アニメ・BLEACH 22年の歴史に幕",
+      "link": "https://news.yahoo.co.jp/pickup/6600242?source=rss",
+      "description": "",
+      "pubDate": "Mon, 26 Oct 2026 21:20:27 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -403,18 +403,18 @@
       "category": "経済"
     },
     {
-      "title": "JR東海とJR西日本とJR九州、予約システムに登録された個人情報が漏えい",
-      "link": "https://news.livedoor.com/article/detail/32662479/",
+      "title": "AI大手アンソロピックが上場申請、史上最大規模のIPOとなる可能性",
+      "link": "https://news.livedoor.com/article/detail/32663478/",
       "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 21:19:15 +0900",
+      "pubDate": "Tue, 27 Oct 2026 04:27:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "「SAPIXは楽」を信じて入塾、いきなり最上位クラスで地獄を見た",
-      "link": "https://news.livedoor.com/article/detail/32656372/",
-      "description": "ざっくり言うと 小林尚氏がみんかぶマガジンの連載で、高校受験から東大合格までを振り返った SAPIXの最上位クラスで授業が分からず、自分でドリルを買って追いついたという 開成を目指したのも「なりゆき」で、東大には合格最低点より2点上で入ったそう 記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 09:59:38 +0900",
+      "title": "JR東海とJR西日本とJR九州、予約システムに登録された個人情報が漏えい",
+      "link": "https://news.livedoor.com/article/detail/32662479/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 26 Oct 2026 21:19:15 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -427,14 +427,6 @@
       "category": "経済"
     },
     {
-      "title": "楽天 海外ホテル予約に不正侵入",
-      "link": "https://news.livedoor.com/article/detail/32662601/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 21:50:34 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "初代が10分で完売したきのこの山イヤホン、第2世代の商品化に挑戦",
       "link": "https://news.livedoor.com/article/detail/32660973/",
       "description": "ざっくり言うと カゴメディアが「きのこの山ワイヤレスイヤホン Pro」の商品化を目指す 11月1日にMakuakeで開始し、12月13日までに1000台以上の申し込みで商品化する 今回は数量制限のない受注生産で、先着1000台は初代と同じ2万9800円である 記事を読む",
@@ -443,18 +435,18 @@
       "category": "経済"
     },
     {
-      "title": "免許証流出の見舞金3000円に怒り、被害者が集団提訴へ動く",
-      "link": "https://news.livedoor.com/article/detail/32661901/",
+      "title": "GMO熊谷社長が攻撃者からの約80億円の要求額を初めて明らかにする",
+      "link": "https://news.livedoor.com/article/detail/32663073/",
       "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 19:43:00 +0900",
+      "pubDate": "Tue, 27 Oct 2026 00:01:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
     {
-      "title": "物価高で広がる「弁当男子」、20代男性の弁当頻度が増え業界も商品開発",
-      "link": "https://news.livedoor.com/article/detail/32659321/",
+      "title": "週明け26日のNY株式市場でダウ平均が反発、5万2千ドル台で取引終える",
+      "link": "https://news.livedoor.com/article/detail/32663679/",
       "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 15:50:21 +0900",
+      "pubDate": "Tue, 27 Oct 2026 05:21:58 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -475,10 +467,74 @@
       "category": "経済"
     },
     {
+      "title": "40歳で同じ年収500万円の中小企業と大企業勤務、50代で差はつくのか",
+      "link": "https://news.livedoor.com/article/detail/32657908/",
+      "description": "ざっくり言うと 40歳で同じ年収500万円でも50代で差がつくのかを国の統計から検証した 平均給与の企業規模間の差は40代前半と50代前半でほぼ変わらないとした 賞与は50代前半で大企業が従業員10〜99人の企業の約2.4倍に達するという 記事を読む",
+      "pubDate": "Mon, 26 Oct 2026 12:20:33 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "外食産業、安価で栄養価の低い「スカスカ野菜」が大量に使われているか",
+      "link": "https://news.livedoor.com/article/detail/32663863/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 27 Oct 2026 05:56:01 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "大阪地検の元検事正・北川健太郎被告の裁判が2年ぶりに開かれる",
+      "link": "https://news.livedoor.com/article/detail/32663558/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 27 Oct 2026 05:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "木村拓哉が豪雨被害の千葉県に義援金を贈呈「映像を見たときにびっくり」",
       "link": "https://news.livedoor.com/article/detail/32660751/",
       "description": "ざっくり言うと 木村拓哉が8月の豪雨や台風25号で被害を受けた千葉県に義援金を贈呈した 26日に県庁で熊谷知事へ目録を手渡し、県の担当者によると額は2000万円だった 印旛沼の堤防決壊映像に「びっくりした」と語り、幼少期の思い出にも触れた 記事を読む",
       "pubDate": "Mon, 26 Oct 2026 17:35:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "札幌市白石区の橋の下で住民がクマ3頭を目撃、厚別川沿いを北へ立ち去る",
+      "link": "https://news.livedoor.com/article/detail/32663483/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 27 Oct 2026 04:35:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "新潟県で男子高校生が自殺「指導死」と認定、当時の顧問を懲戒免職",
+      "link": "https://news.livedoor.com/article/detail/32662677/",
+      "description": "記事を読む",
+      "pubDate": "Mon, 26 Oct 2026 22:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "同志社 検討委で平和学習検証",
+      "link": "https://news.livedoor.com/article/detail/32663416/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 27 Oct 2026 03:48:26 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "免許返納が増える超高齢化社会で、電動車椅子が移動の自由を支える",
+      "link": "https://news.livedoor.com/article/detail/32663206/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 27 Oct 2026 01:05:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "木村拓哉さん 千葉へ2000万円",
+      "link": "https://news.livedoor.com/article/detail/32663172/",
+      "description": "記事を読む",
+      "pubDate": "Tue, 27 Oct 2026 00:43:19 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -495,62 +551,6 @@
       "link": "https://news.livedoor.com/article/detail/32662632/",
       "description": "ざっくり言うと 米誌ヴァニティ・フェアがクシュナー氏の巨額送金疑惑を報じ、同氏は否定した 中東政府から数百億円規模の資金を受け取れる立場にあったと報じたが証拠は未提示 クシュナー氏側は「妄想」と反論し、弁護士が名誉毀損での法的措置を示唆している 記事を読む",
       "pubDate": "Mon, 26 Oct 2026 22:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "新潟県で男子高校生が自殺「指導死」と認定、当時の顧問を懲戒免職",
-      "link": "https://news.livedoor.com/article/detail/32662677/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 22:00:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「言い訳は通用しません」GMO、攻撃者から約80億円要求されていた",
-      "link": "https://news.livedoor.com/article/detail/32661790/",
-      "description": "ざっくり言うと GMOの熊谷正寿代表が、不正アクセスの攻撃者から約80億円を要求されたと明かした 攻撃者からの要求文書として「言い訳は通用しません」などのメッセージも公開 ブログには「私は社会人人生の全てを賭ける覚悟」との決意を綴っている 記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 19:15:43 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "「ウチの親は普通」は危険？毒親じゃないと思っている人の共通点",
-      "link": "https://news.livedoor.com/article/detail/32662366/",
-      "description": "ざっくり言うと 「ウチの親は普通」と思っている人の共通点について毒親問題カウンセラーが解説 親の前だけ声や態度が変わったり先に親をかばう説明から入る人は危険だと指摘 これらの特徴に共通する根本原因は「自分自身が普通の家を知らないこと」だと断言した 記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 21:06:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "ユミルリンク 情報漏えいが拡大",
-      "link": "https://news.livedoor.com/article/detail/32662127/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 20:16:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "教員不足が深刻化 1年以内に教員免許を取得できる新制度を導入する方針",
-      "link": "https://news.livedoor.com/article/detail/32629336/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 22 Oct 2026 15:02:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "家電量販大手Joshin、最大600万件余りの個人情報が漏えいした可能性",
-      "link": "https://news.livedoor.com/article/detail/32661963/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 19:59:08 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "サケ不漁でイクラが高騰、国産は1粒4.5円で買い時は12月初旬",
-      "link": "https://news.livedoor.com/article/detail/32661927/",
-      "description": "記事を読む",
-      "pubDate": "Mon, 26 Oct 2026 19:28:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1038,7 +1038,7 @@
       "title": "1611回　最新内閣支持率にばらつき！世論調査のカラクリを暴く",
       "link": "https://www.youtube.com/watch?v=EwhMaBz0BJI",
       "description": "",
-      "pubDate": "2026-10-26T09:00:25+00:00",
+      "pubDate": "2026-10-26T21:40:20+00:00",
       "source": "高橋洋一チャンネル",
       "category": "YouTube"
     },
@@ -1198,7 +1198,7 @@
       "title": "“変わり種サブスク”最前線　「キャンプ場」と「洗濯代行」",
       "link": "https://www.youtube.com/watch?v=9o82TCjSmvg",
       "description": "",
-      "pubDate": "2026-10-26T13:57:01+00:00",
+      "pubDate": "2026-10-26T19:16:05+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1278,7 +1278,7 @@
       "title": "【ライブ】日向灘でＭ5.2地震が発生！生放送で解説します。（2026年10月26日）",
       "link": "https://www.youtube.com/watch?v=ReyFJmu6OUs",
       "description": "",
-      "pubDate": "2026-10-26T14:26:55+00:00",
+      "pubDate": "2026-10-26T18:30:34+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
