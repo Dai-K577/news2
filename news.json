@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-30 02:41 JST",
-  "total": 169,
+  "updated": "2026-10-30 07:06 JST",
+  "total": 168,
   "news": [
-    {
-      "title": "電気ガス代補助 12月-来年2月実施",
-      "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
-      "description": "",
-      "pubDate": "Thu, 29 Oct 2026 12:52:41 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
     {
       "title": "欧州中銀 2会合ぶり金利据え置き",
       "link": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
@@ -19,18 +11,26 @@
       "category": "総合"
     },
     {
-      "title": "梨泰院事故4年で追悼式 160人犠牲",
-      "link": "https://news.yahoo.co.jp/pickup/6600615?source=rss",
+      "title": "習近平総書記 4期目入りが濃厚",
+      "link": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
       "description": "",
-      "pubDate": "Thu, 29 Oct 2026 14:02:50 GMT",
+      "pubDate": "Thu, 29 Oct 2026 21:44:25 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ネパール高峰で発見の2遺体は邦人",
-      "link": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
+      "title": "八田與一容疑者の鮮明な写真公開",
+      "link": "https://news.yahoo.co.jp/pickup/6600624?source=rss",
       "description": "",
-      "pubDate": "Thu, 29 Oct 2026 12:56:29 GMT",
+      "pubDate": "Thu, 29 Oct 2026 21:12:54 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "中野でまた高級時計窃盗 男が逃走",
+      "link": "https://news.yahoo.co.jp/pickup/6600629?source=rss",
+      "description": "",
+      "pubDate": "Thu, 29 Oct 2026 21:57:29 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -43,10 +43,10 @@
       "category": "総合"
     },
     {
-      "title": "楽天 高卒1年目の大栄を戦力外",
-      "link": "https://news.yahoo.co.jp/pickup/6600596?source=rss",
+      "title": "清水隆行氏 巨人打撃コーチ就任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600626?source=rss",
       "description": "",
-      "pubDate": "Thu, 29 Oct 2026 11:36:51 GMT",
+      "pubDate": "Thu, 29 Oct 2026 21:24:03 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -59,10 +59,10 @@
       "category": "総合"
     },
     {
-      "title": "元HKT48・朝長美桜 今は寿司職人",
-      "link": "https://news.yahoo.co.jp/pickup/6600622?source=rss",
+      "title": "矢部「ナイナイANN」2度目の卒業",
+      "link": "https://news.yahoo.co.jp/pickup/6600627?source=rss",
       "description": "",
-      "pubDate": "Thu, 29 Oct 2026 14:49:27 GMT",
+      "pubDate": "Thu, 29 Oct 2026 21:32:23 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -131,46 +131,6 @@
       "category": "国内"
     },
     {
-      "title": "ネパール高峰で発見の2遺体は邦人",
-      "link": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
-      "description": "",
-      "pubDate": "Thu, 29 Oct 2026 12:56:29 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "韓国・尹前大統領に再び死刑求刑",
-      "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
-      "description": "",
-      "pubDate": "Thu, 29 Oct 2026 07:58:28 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "中国共産党 幹部ら33人の党籍剝奪",
-      "link": "https://news.yahoo.co.jp/pickup/6600614?source=rss",
-      "description": "",
-      "pubDate": "Thu, 29 Oct 2026 14:00:04 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "韓国で日本人女性殺害疑い 男拘束",
-      "link": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
-      "description": "",
-      "pubDate": "Thu, 29 Oct 2026 09:04:28 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "梨泰院事故4年で追悼式 160人犠牲",
-      "link": "https://news.yahoo.co.jp/pickup/6600615?source=rss",
-      "description": "",
-      "pubDate": "Thu, 29 Oct 2026 14:02:50 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "スペインの列車事故 死者69人に",
       "link": "https://news.yahoo.co.jp/pickup/6600595?source=rss",
       "description": "",
@@ -187,12 +147,60 @@
       "category": "国際"
     },
     {
+      "title": "ネパール高峰で発見の2遺体は邦人",
+      "link": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
+      "description": "",
+      "pubDate": "Thu, 29 Oct 2026 12:56:29 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "習近平総書記 4期目入りが濃厚",
+      "link": "https://news.yahoo.co.jp/pickup/6600628?source=rss",
+      "description": "",
+      "pubDate": "Thu, 29 Oct 2026 21:44:25 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "中国共産党 幹部ら33人の党籍剝奪",
+      "link": "https://news.yahoo.co.jp/pickup/6600614?source=rss",
+      "description": "",
+      "pubDate": "Thu, 29 Oct 2026 14:00:04 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "韓国・尹前大統領に再び死刑求刑",
+      "link": "https://news.yahoo.co.jp/pickup/6600566?source=rss",
+      "description": "",
+      "pubDate": "Thu, 29 Oct 2026 07:58:28 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "韓国で日本人女性殺害疑い 男拘束",
+      "link": "https://news.yahoo.co.jp/pickup/6600577?source=rss",
+      "description": "",
+      "pubDate": "Thu, 29 Oct 2026 09:04:28 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "米共和党 選挙区割り見直しで苦戦",
       "link": "https://news.yahoo.co.jp/pickup/6600583?source=rss",
       "description": "",
       "pubDate": "Thu, 29 Oct 2026 13:41:19 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
+    },
+    {
+      "title": "狩野舞子「ブラトップ×ショーパン姿」で引き締まったお腹を披露　クールな表情に神スタイル「腹筋凄い」",
+      "link": "https://www.j-cast.com/2026/10/30518790.html",
+      "description": "元バレーボール日本女子代表の狩野舞子さん（38）が2026年10月26日、自身のインスタグラムを更新。美腹筋が際立つブラトップ姿を披露した。",
+      "pubDate": "Fri, 30 Oct 2026 07:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
     },
     {
       "title": "「こんなに印象変わるのか」元日テレ・岩田絵里奈アナ、花柄黒キャミ姿で　ばっちりメイクの激変ショット",
@@ -227,18 +235,18 @@
       "category": "総合"
     },
     {
-      "title": "「TATTOO増えました」ビッグダディ元妻で8児の母・美奈子　「なかなかのハードモードな人生」何があった",
-      "link": "https://www.j-cast.com/2026/10/29518789.html",
-      "description": "「ビッグダディ」こと林下清志さんの元妻で、タレントの美奈子さん（43）が2026年10月28日、自身のインスタグラムを更新。腕のタトゥーがみえる笑顔ショットを披露した。",
-      "pubDate": "Thu, 29 Oct 2026 17:54:09 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "「TATTOO増えました」ビッグダディ元妻で8児の母・美奈子　「なかなかのハードモードな人生」何があった",
+      "link": "https://www.j-cast.com/2026/10/29518789.html",
+      "description": "「ビッグダディ」こと林下清志さんの元妻で、タレントの美奈子さん（43）が2026年10月28日、自身のインスタグラムを更新。腕のタトゥーがみえる笑顔ショットを披露した。",
+      "pubDate": "Thu, 29 Oct 2026 17:54:09 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -267,14 +275,6 @@
       "category": "総合"
     },
     {
-      "title": "「新人や新しい政党が出てきにくくなる」安野貴博氏、比例31削減に反対",
-      "link": "https://www.j-cast.com/2026/10/29518786.html",
-      "description": "チームみらいの安野貴博氏が2026年10月28日、衆院選挙制度をめぐる政党間協議で、自民、維新、国民民主の3党が比例定数31削減を含む案で実務者合意したとして、Xで「チームみらいは、この案に反対しました」と説明した。",
-      "pubDate": "Thu, 29 Oct 2026 14:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
@@ -295,14 +295,6 @@
       "link": "https://www.j-cast.com/trend/2026/10/29518717.html",
       "description": "体重計などの計測器メーカーのタニタ（東京都板橋区）は、「アラジン」ブランドで知られる日本エー・アイ・シーと共同開発したというオーブントースター「グラファイト グリル＆トースター TGGT-001」を、2026年10月29日に全国の家電量販店などで発売。",
       "pubDate": "Thu, 29 Oct 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
-      "title": "「ドラゴンボール」7つのドラゴンボールから「神龍」出現するシーンを再現したレゴセット",
-      "link": "https://www.j-cast.com/trend/2026/10/28518719.html",
-      "description": "レゴジャパンは、アニメ「ドラゴンボール」が題材のレゴセット「レゴアイコン ドラゴンボール 神龍＆孫悟空」を、2026年11月4日に全国のレゴストアおよびレゴ公式オンラインストアなどで発売する。",
-      "pubDate": "Wed, 28 Oct 2026 19:00:00 +0900",
       "source": "J-CASTトレンド",
       "category": "総合"
     },
@@ -395,14 +387,6 @@
       "category": "総合"
     },
     {
-      "title": "12月にiDeCoが大幅改正、NISAとの違いと老後資金づくりの新常識",
-      "link": "https://news.livedoor.com/article/detail/32681646/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 29 Oct 2026 09:00:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "三菱の新型「パジェロ」が好調 28日までに約5500台の予約受注か",
       "link": "https://news.livedoor.com/article/detail/32681934/",
       "description": "記事を読む",
@@ -451,10 +435,18 @@
       "category": "経済"
     },
     {
-      "title": "食用油の高騰で天丼が2500円→3300円に、鶏肉高も重なり揚げ物店が苦境",
-      "link": "https://news.livedoor.com/article/detail/32687077/",
+      "title": "29日のNYダウが4営業日ぶりに反落、終値は5万2342ドル台",
+      "link": "https://news.livedoor.com/article/detail/32688709/",
       "description": "記事を読む",
-      "pubDate": "Thu, 29 Oct 2026 20:15:00 +0900",
+      "pubDate": "Fri, 30 Oct 2026 05:24:19 +0900",
+      "source": "ライブドアニュース 経済",
+      "category": "経済"
+    },
+    {
+      "title": "アサヒ飲料の砂糖不使用「グリーンコーラ」、発売直後に販売目標を4倍へ",
+      "link": "https://news.livedoor.com/article/detail/32688611/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 30 Oct 2026 05:03:25 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -467,12 +459,36 @@
       "category": "経済"
     },
     {
-      "title": "サイゼリヤ、29日からメニュー値上げ実施 ミラノ風ドリアが320円に",
-      "link": "https://news.livedoor.com/article/detail/32680703/",
+      "title": "30日3時時点の為替相場、1ドル157円台後半・ユーロは176円台で推移",
+      "link": "https://news.livedoor.com/article/detail/32688334/",
       "description": "記事を読む",
-      "pubDate": "Thu, 29 Oct 2026 06:05:00 +0900",
+      "pubDate": "Fri, 30 Oct 2026 06:00:30 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
+    },
+    {
+      "title": "中野ブロードウェイでまた高級時計窃盗 約4600万相当の時計盗まれたか",
+      "link": "https://news.livedoor.com/article/detail/32687610/",
+      "description": "記事を読む",
+      "pubDate": "Thu, 29 Oct 2026 22:12:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "ほくほくフィナンシャルグループが道と、子育て世帯支援へ連携協定を締結",
+      "link": "https://news.livedoor.com/article/detail/32688705/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 30 Oct 2026 05:23:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "45歳母が依頼した素行調査で判明 小6娘が塾帰りにラブホ街にいた理由",
+      "link": "https://news.livedoor.com/article/detail/32664262/",
+      "description": "ざっくり言うと 45歳母の依頼で中学受験をする小6娘の素行調査をした探偵が振り返った 娘は塾帰りにラブホテル街を歩き回り、帰宅するのを繰り返していたという 娘は過去に父の不倫を目撃したため、現場の写真を撮って母に報告しようとしていたそう 記事を読む",
+      "pubDate": "Tue, 27 Oct 2026 07:00:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
     },
     {
       "title": "「30年ほど前から…女性と交際したい」患者169人に無免許でがん治療",
@@ -483,18 +499,18 @@
       "category": "国内"
     },
     {
-      "title": "八田與一容疑者の事件前の顔写真を初公開、大分県警が新チラシ作成",
-      "link": "https://news.livedoor.com/article/detail/32688114/",
+      "title": "高市総理 ガソリン補助を縮小へ",
+      "link": "https://news.livedoor.com/article/detail/32688417/",
       "description": "記事を読む",
-      "pubDate": "Fri, 30 Oct 2026 00:43:00 +0900",
+      "pubDate": "Fri, 30 Oct 2026 03:59:21 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "45歳母が依頼した素行調査で判明 小6娘が塾帰りにラブホ街にいた理由",
-      "link": "https://news.livedoor.com/article/detail/32664262/",
-      "description": "ざっくり言うと 45歳母の依頼で中学受験をする小6娘の素行調査をした探偵が振り返った 娘は塾帰りにラブホテル街を歩き回り、帰宅するのを繰り返していたという 娘は過去に父の不倫を目撃したため、現場の写真を撮って母に報告しようとしていたそう 記事を読む",
-      "pubDate": "Tue, 27 Oct 2026 07:00:00 +0900",
+      "title": "八田與一容疑者の事件前の顔写真を初公開、大分県警が新チラシ作成",
+      "link": "https://news.livedoor.com/article/detail/32688114/",
+      "description": "記事を読む",
+      "pubDate": "Fri, 30 Oct 2026 00:43:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -527,30 +543,6 @@
       "link": "https://news.livedoor.com/article/detail/32687355/",
       "description": "記事を読む",
       "pubDate": "Thu, 29 Oct 2026 21:19:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "鉄分が不足すると現れる症状 メディカルドック監修管理栄養士が解説",
-      "link": "https://news.livedoor.com/article/detail/32687444/",
-      "description": "ざっくり言うと 鉄分が不足すると現れる症状について監修管理栄養士が解説した めまい・立ちくらみ、動悸・息切れ、倦怠感・集中力低下が挙げられるという 特に月経のある女性や妊婦は不足しやすく、日常的に意識して摂取することが重要だそう 記事を読む",
-      "pubDate": "Thu, 29 Oct 2026 12:30:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "銀座で刺激臭スプレーをまいた疑い、堺市の中国籍の大学生を逮捕",
-      "link": "https://news.livedoor.com/article/detail/32687088/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 29 Oct 2026 20:23:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "福岡県警が36人を指名手配「似た人がいたら迷わず110番を」",
-      "link": "https://news.livedoor.com/article/detail/32686702/",
-      "description": "記事を読む",
-      "pubDate": "Thu, 29 Oct 2026 19:24:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1118,7 +1110,7 @@
       "title": "【定数削減の衝撃】少数政党の議席が実は増加！比例復活の議員は？参議院の削減は？野党はどうなる？（須田慎一郎×宮崎謙介）",
       "link": "https://www.youtube.com/watch?v=Ym0MMGSFdP4",
       "description": "",
-      "pubDate": "2026-10-29T14:09:06+00:00",
+      "pubDate": "2026-10-29T21:12:10+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1126,7 +1118,7 @@
       "title": "【高市総理との約束】※緊急取材※ 国会議員の定数削減をめぐって日本維新の会の藤田文武共同代表に緊急インタビュー（藤田文武 × 須田慎一郎）",
       "link": "https://www.youtube.com/watch?v=OA3rIx-OzN8",
       "description": "",
-      "pubDate": "2026-10-29T16:59:50+00:00",
+      "pubDate": "2026-10-29T21:12:31+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1142,7 +1134,7 @@
       "title": "※フランスどころじゃない※ 外国籍ルーツによって治安が崩壊した首都 , 須田慎一郎 × 川口マーン恵美（虎ノ門ニュース）",
       "link": "https://www.youtube.com/watch?v=nOWHF0I4Efg",
       "description": "",
-      "pubDate": "2026-10-26T10:27:30+00:00",
+      "pubDate": "2026-10-29T03:27:11+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1166,7 +1158,7 @@
       "title": "【虎ノ門ニュース】武田邦彦×三枝玄太郎 2026/10/30(金)",
       "link": "https://www.youtube.com/watch?v=oO1wj6Hp-RY",
       "description": "",
-      "pubDate": "2026-10-26T02:18:01+00:00",
+      "pubDate": "2026-10-29T21:08:34+00:00",
       "source": "虎ノ門ニュース",
       "category": "YouTube"
     },
@@ -1206,7 +1198,7 @@
       "title": "【山本期日前✖今野忍】榛葉賀津也動く「消える魔球」定数削減3党合意の舞台裏に高市吉村「突っ込もう」の決意／中国四国ブロックを早速試算あの人が落選？／選挙ルール変更に期日前ワクワク／あすは吉村代表が出演",
       "link": "https://www.youtube.com/watch?v=U6OCDWg4_94",
       "description": "",
-      "pubDate": "2026-10-29T16:58:17+00:00",
+      "pubDate": "2026-10-29T21:13:58+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1326,7 +1318,7 @@
       "title": "【解説】本日、小笠原諸島西方沖でM7.0 地下470㎞の深発大地震が発生！わかりやすく解説します！",
       "link": "https://www.youtube.com/watch?v=tPhA77aBQ5s",
       "description": "",
-      "pubDate": "2026-10-26T09:29:23+00:00",
+      "pubDate": "2026-10-29T03:30:31+00:00",
       "source": "えいしゅう博士",
       "category": "YouTube"
     },
