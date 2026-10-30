@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 02:20 JST",
+  "updated": "2026-10-31 06:44 JST",
   "total": 169,
   "news": [
     {
@@ -55,6 +55,14 @@
       "link": "https://news.yahoo.co.jp/pickup/6600714?source=rss",
       "description": "",
       "pubDate": "Fri, 30 Oct 2026 11:07:01 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "楽天・石井GM 甲斐獲得巡り説明",
+      "link": "https://news.yahoo.co.jp/pickup/6600735?source=rss",
+      "description": "",
+      "pubDate": "Fri, 30 Oct 2026 14:17:00 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
@@ -419,10 +427,10 @@
       "category": "経済"
     },
     {
-      "title": "ANA、約3万7800人分の顧客情報が流出 約1700人はパスポート番号なども",
-      "link": "https://news.livedoor.com/article/detail/32693576/",
+      "title": "バイナンス共同CEOが、巨額の暗号資産盗難を巡る攻撃手口の概要を公表",
+      "link": "https://news.livedoor.com/article/detail/32696941/",
       "description": "記事を読む",
-      "pubDate": "Fri, 30 Oct 2026 16:47:39 +0900",
+      "pubDate": "Sat, 31 Oct 2026 05:10:00 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -435,14 +443,6 @@
       "category": "経済"
     },
     {
-      "title": "暗号資産大手バイナンスが不正アクセス被害、北朝鮮の関与を指摘する声も",
-      "link": "https://news.livedoor.com/article/detail/32696349/",
-      "description": "記事を読む",
-      "pubDate": "Sat, 31 Oct 2026 00:12:00 +0900",
-      "source": "ライブドアニュース 経済",
-      "category": "経済"
-    },
-    {
       "title": "田中ゆい氏、サロンで起業に向いてないと言われた悔しさを力に月2万円へ",
       "link": "https://news.livedoor.com/article/detail/32695970/",
       "description": "ざっくり言うと YouTuberの田中ゆい氏が、オンラインサロンでの挫折と現在を動画で明かした 「起業向いてない」と宣告された後に退会し、半年で月2万円の収入を得たという 和歌山の山奥で活動を続けており「言葉を受け入れるかは自分で決めていい」と述べた 記事を読む",
@@ -451,10 +451,10 @@
       "category": "経済"
     },
     {
-      "title": "ChatGPT有料プランの利用枠が2倍に、Claudeモバイルも機能を更新",
-      "link": "https://news.livedoor.com/article/detail/32695720/",
-      "description": "ざっくり言うと 10月29日、OpenAIとAnthropicがAIサービスの更新を相次いで発表した ChatGPTのProなど有料プランで、WorkとCodexの利用枠が2倍になった AI行動指針Model Specも改定され、ClaudeはCarPlayに対応した 記事を読む",
-      "pubDate": "Fri, 30 Oct 2026 21:00:09 +0900",
+      "title": "31日3時の為替相場、ドルは157円台半ば、ユーロは175円台後半で推移",
+      "link": "https://news.livedoor.com/article/detail/32696656/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 31 Oct 2026 06:00:31 +0900",
       "source": "ライブドアニュース 経済",
       "category": "経済"
     },
@@ -475,6 +475,22 @@
       "category": "経済"
     },
     {
+      "title": "新宿駅「無断撮影ご遠慮」掲示が波紋 JR東日本が真意を説明",
+      "link": "https://news.livedoor.com/article/detail/32695541/",
+      "description": "ざっくり言うと JR新宿駅の掲示を巡り、Xでは驚きの声や残念がる声などがあがった 掲示では「駅構内における無断での撮影行為はご遠慮ください」と呼びかけ JR東日本は取材に対し、利用客や社員の無断撮影などを対象としていると説明した 記事を読む",
+      "pubDate": "Fri, 30 Oct 2026 20:17:40 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "熊本県警が発表した10月31日の交通取締情報、午前・午後・夜間とも予定なし",
+      "link": "https://news.livedoor.com/article/detail/32696904/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 31 Oct 2026 05:02:00 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "別府ひき逃げ事件、八田與一容疑者の新写真公開",
       "link": "https://news.livedoor.com/article/detail/32689111/",
       "description": "ざっくり言うと 大分・別府市のひき逃げ事件をめぐり、県警が新たなチラシを公開した 重要指名手配中の八田與一容疑者の事件前の顔写真が初めて載った 11月の捜査強化月間に合わせて作成し、海外向けに英文も載せているという 記事を読む",
@@ -483,18 +499,26 @@
       "category": "国内"
     },
     {
-      "title": "文化祭のさなかの都立高校図書室で女子生徒刺され、同級生の16歳女を逮捕",
-      "link": "https://news.livedoor.com/article/detail/32696404/",
+      "title": "日銀 物価2%に到達 13年目の節目",
+      "link": "https://news.livedoor.com/article/detail/32696611/",
       "description": "記事を読む",
-      "pubDate": "Sat, 31 Oct 2026 00:27:00 +0900",
+      "pubDate": "Sat, 31 Oct 2026 02:27:26 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
     {
-      "title": "新宿駅「無断撮影ご遠慮」掲示が波紋 JR東日本が真意を説明",
-      "link": "https://news.livedoor.com/article/detail/32695541/",
-      "description": "ざっくり言うと JR新宿駅の掲示を巡り、Xでは驚きの声や残念がる声などがあがった 掲示では「駅構内における無断での撮影行為はご遠慮ください」と呼びかけ JR東日本は取材に対し、利用客や社員の無断撮影などを対象としていると説明した 記事を読む",
-      "pubDate": "Fri, 30 Oct 2026 20:17:40 +0900",
+      "title": "中野の時計店 試着装い逃走か",
+      "link": "https://news.livedoor.com/article/detail/32696526/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 31 Oct 2026 01:38:20 +0900",
+      "source": "ライブドアニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "文化祭のさなかの都立高校図書室で女子生徒刺され、同級生の16歳女を逮捕",
+      "link": "https://news.livedoor.com/article/detail/32696404/",
+      "description": "記事を読む",
+      "pubDate": "Sat, 31 Oct 2026 00:27:00 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -527,30 +551,6 @@
       "link": "https://news.livedoor.com/article/detail/32695727/",
       "description": "記事を読む",
       "pubDate": "Fri, 30 Oct 2026 21:03:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "50代60代の夫婦が関係を修復した方法 夫婦問題カウンセラーが解説",
-      "link": "https://news.livedoor.com/article/detail/32695396/",
-      "description": "ざっくり言うと 夫婦問題カウンセラーが、関係を修復した夫婦がやめた習慣を紹介した 責めること、沈黙で罰すること、過去の蒸し返し、勝ち負けの話し合い 関係を戻す決め手となったのは「短い温かい言葉」であったと指摘した 記事を読む",
-      "pubDate": "Fri, 30 Oct 2026 20:10:45 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "台風31号は「ちょっと複雑な動きをする」気象予報士が説明",
-      "link": "https://news.livedoor.com/article/detail/32695314/",
-      "description": "ざっくり言うと 気象予報士の竹内青空氏が、週末の天気と台風31号の動向について解説した 台風31号は複雑な動きで、今の段階では日本上陸の可能性は低いと説明した ただし来週後半以降は予報が変わる可能性があるとし、こまめな確認を呼びかけた 記事を読む",
-      "pubDate": "Fri, 30 Oct 2026 19:52:00 +0900",
-      "source": "ライブドアニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "エトミデート密輸の女 不起訴に",
-      "link": "https://news.livedoor.com/article/detail/32695450/",
-      "description": "記事を読む",
-      "pubDate": "Fri, 30 Oct 2026 20:17:20 +0900",
       "source": "ライブドアニュース 国内",
       "category": "国内"
     },
@@ -1238,7 +1238,7 @@
       "title": "【吉村洋文✖高橋洋一✖今野忍】定数削減31に本音は／国民民主党のことどう思っている？吉村代表「玉木さんは信用できない榛葉さんは信用できる」爆弾発言に高橋今野もびっくり⁉／比例独自試算／消費減税・副首都",
       "link": "https://www.youtube.com/watch?v=TpUvjeRZ3WQ",
       "description": "",
-      "pubDate": "2026-10-30T17:06:52+00:00",
+      "pubDate": "2026-10-30T20:55:26+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
