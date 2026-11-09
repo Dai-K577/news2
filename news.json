@@ -1,140 +1,148 @@
 {
-  "updated": "2026-11-09 12:18 JST",
-  "total": 97,
+  "updated": "2026-11-09 23:31 JST",
+  "total": 138,
   "news": [
     {
-      "title": "日経平均 一時2000円以上値上がり",
-      "link": "https://news.yahoo.co.jp/pickup/6601891?source=rss",
+      "title": "地銀サイバー対策に補助金で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6601925?source=rss",
       "description": "",
-      "pubDate": "Mon, 09 Nov 2026 02:36:24 GMT",
+      "pubDate": "Mon, 09 Nov 2026 08:13:31 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "米大統領 戦闘再開「可能性低い」",
-      "link": "https://news.yahoo.co.jp/pickup/6601874?source=rss",
+      "title": "4人戒告処分 自民「看過できず」",
+      "link": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
       "description": "",
-      "pubDate": "Mon, 09 Nov 2026 00:45:33 GMT",
+      "pubDate": "Mon, 09 Nov 2026 12:10:07 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "7/30に過去最大円買い介入7.9兆円",
-      "link": "https://news.yahoo.co.jp/pickup/6601877?source=rss",
+      "title": "麻生コンクリ JIS認証取り消し",
+      "link": "https://news.yahoo.co.jp/pickup/6601959?source=rss",
       "description": "",
-      "pubDate": "Mon, 09 Nov 2026 00:51:51 GMT",
+      "pubDate": "Mon, 09 Nov 2026 12:56:57 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "クマに襲われ5回手術 後悔尽きず",
-      "link": "https://news.yahoo.co.jp/pickup/6601888?source=rss",
+      "title": "大地震エネルギー蓄積か 日本海溝",
+      "link": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
       "description": "",
-      "pubDate": "Mon, 09 Nov 2026 02:45:25 GMT",
+      "pubDate": "Mon, 09 Nov 2026 13:37:17 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "山口県警 賞与など8千万円未払い",
+      "link": "https://news.yahoo.co.jp/pickup/6601960?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 13:08:05 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "270kgの巨大ヒグマ駆除 北海道",
+      "link": "https://news.yahoo.co.jp/pickup/6601965?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 14:12:07 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "コンロキャンセル界隈 なぜ拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 09:29:01 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "1.5億円当せん いまだ換金されず",
+      "link": "https://news.yahoo.co.jp/pickup/6601953?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 12:25:22 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "石破氏 戒告処分厳粛に受け止め",
+      "link": "https://news.yahoo.co.jp/pickup/6601954?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 12:21:00 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "4人戒告処分 自民「看過できず」",
+      "link": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 12:10:07 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "石破前首相ら4人を戒告処分 自民",
+      "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 08:44:45 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "地銀サイバー対策に補助金で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6601925?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 08:13:31 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "G7会議前に首相飲酒せず 木原氏",
+      "link": "https://news.yahoo.co.jp/pickup/6601917?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 07:07:54 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "労基法 女子保護規定の全廃検討へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601927?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 08:14:20 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "コンロキャンセル界隈 なぜ拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6601935?source=rss",
+      "description": "",
+      "pubDate": "Mon, 09 Nov 2026 09:29:01 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "赤ちゃんの名前 男の子1位「朔」",
       "link": "https://news.yahoo.co.jp/pickup/6601885?source=rss",
       "description": "",
       "pubDate": "Mon, 09 Nov 2026 02:13:39 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "ハンズ渋谷「THANKS」看板の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6601889?source=rss",
-      "description": "",
-      "pubDate": "Mon, 09 Nov 2026 02:46:00 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "VIVANT映画化好感 なぜ炎上せず",
-      "link": "https://news.yahoo.co.jp/pickup/6601901?source=rss",
-      "description": "",
-      "pubDate": "Mon, 09 Nov 2026 03:13:01 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "中村ゆり氏「119」続編で出向設定",
-      "link": "https://news.yahoo.co.jp/pickup/6601875?source=rss",
-      "description": "",
-      "pubDate": "Mon, 09 Nov 2026 00:52:34 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "9日 関東-北海道で師走並みの寒さ",
-      "link": "https://news.yahoo.co.jp/pickup/6601858?source=rss",
-      "description": "",
-      "pubDate": "Sun, 08 Nov 2026 21:44:30 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
     {
-      "title": "中国を「脅威」見送りへ 政府方針",
-      "link": "https://news.yahoo.co.jp/pickup/6601872?source=rss",
+      "title": "米大統領 中露首脳と会談の見通し",
+      "link": "https://news.yahoo.co.jp/pickup/6601919?source=rss",
       "description": "",
-      "pubDate": "Mon, 09 Nov 2026 00:00:12 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
+      "pubDate": "Mon, 09 Nov 2026 07:23:55 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
     },
     {
-      "title": "首相 金正恩氏との首脳会談に意欲",
-      "link": "https://news.yahoo.co.jp/pickup/6601806?source=rss",
+      "title": "MAGAから急進左派へ 揺らぐ米国",
+      "link": "https://news.yahoo.co.jp/pickup/6601939?source=rss",
       "description": "",
-      "pubDate": "Sun, 08 Nov 2026 08:02:24 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "自民 消費減税採決棄権で処分検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601782?source=rss",
-      "description": "",
-      "pubDate": "Sun, 08 Nov 2026 05:33:35 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "清貧であるべき? 議員語る違和感",
-      "link": "https://news.yahoo.co.jp/pickup/6601819?source=rss",
-      "description": "",
-      "pubDate": "Sun, 08 Nov 2026 09:25:52 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "迷惑行為ショウリンジ SNS模倣か",
-      "link": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
-      "description": "",
-      "pubDate": "Sun, 08 Nov 2026 21:32:55 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "東大の新学部開設 学生有志猛反発",
-      "link": "https://news.yahoo.co.jp/pickup/6601752?source=rss",
-      "description": "",
-      "pubDate": "Sun, 08 Nov 2026 01:22:44 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "赤ちゃんの名前 男の子1位「朔」",
-      "link": "https://news.yahoo.co.jp/pickup/6601885?source=rss",
-      "description": "",
-      "pubDate": "Mon, 09 Nov 2026 02:13:39 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "欧州右派政党 トランプ氏離れ鮮明",
-      "link": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
-      "description": "",
-      "pubDate": "Sun, 08 Nov 2026 13:13:17 GMT",
+      "pubDate": "Mon, 09 Nov 2026 09:57:24 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -155,14 +163,6 @@
       "category": "国際"
     },
     {
-      "title": "露衛星の軍事利用開始か ウ警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6601779?source=rss",
-      "description": "",
-      "pubDate": "Sun, 08 Nov 2026 04:43:39 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "イスラエル 反首相陣営に組閣指示",
       "link": "https://news.yahoo.co.jp/pickup/6601880?source=rss",
       "description": "",
@@ -179,58 +179,58 @@
       "category": "国際"
     },
     {
-      "title": "カナリアの島に移民 緊急事態宣言",
-      "link": "https://news.yahoo.co.jp/pickup/6601811?source=rss",
+      "title": "アフリカ カルト教団が増える背景",
+      "link": "https://news.yahoo.co.jp/pickup/6601895?source=rss",
       "description": "",
-      "pubDate": "Sun, 08 Nov 2026 08:23:24 GMT",
+      "pubDate": "Mon, 09 Nov 2026 05:00:45 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
     {
-      "title": "ガザで豪雨 避難民のテントが浸水",
-      "link": "https://news.yahoo.co.jp/pickup/6601775?source=rss",
+      "title": "VIVANTで話題 露諜報員の実態は",
+      "link": "https://news.yahoo.co.jp/pickup/6601899?source=rss",
       "description": "",
-      "pubDate": "Sun, 08 Nov 2026 04:03:46 GMT",
+      "pubDate": "Mon, 09 Nov 2026 03:56:53 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
     {
-      "title": "「VIVANT」まだ終わらない　最終回で映画サプライズ発表、SNSは歓喜と戸惑い",
-      "link": "https://www.j-cast.com/2026/11/09519038.html",
-      "description": "ドラマ日曜劇場「VIVANT」（TBS系）第2シーズンの最終回が2026年11月8日夜に放送され、12月4日公開の完全新作映画「VIVANT」がサプライズ発表された。",
-      "pubDate": "Mon, 09 Nov 2026 11:45:00 +0900",
+      "title": "アグネス・チャン71歳、膝丈デニムのスカート姿で神スタイル炸裂　「高校生みたい」「お若い」「めっちゃ可愛い」",
+      "link": "https://www.j-cast.com/2026/11/09519029.html",
+      "description": "歌手でタレントのアグネス・チャンさん（71）が2026年11月3日、自身のインスタグラムを更新。デニムスカート姿を披露した。",
+      "pubDate": "Mon, 09 Nov 2026 21:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "野田元首相、後輩・高市首相に「もうちょっと寝ろよ」　早稲田祭で明かした松下政経塾時代の素顔",
-      "link": "https://www.j-cast.com/2026/11/09519037.html",
-      "description": "野田佳彦元首相が2026年11月8日、母校の早稲田大学の学園祭「早稲田祭」で講演した。松下政経塾の後輩にあたる高市早苗首相について、入塾時から優秀だったと評価する一方、睡眠時間を削って仕事に取り組む姿勢には「もうちょっと寝ろよ」と助言した。",
-      "pubDate": "Mon, 09 Nov 2026 11:30:00 +0900",
+      "title": "「ゴジラ-0.0」池袋のIMAX上映が中止　国内2館のみの方式、再開後もSNSで異変指摘",
+      "link": "https://www.j-cast.com/2026/11/09519061.html",
+      "description": "東京・池袋の映画館「グランドシネマサンシャイン池袋」が2026年11月9日に公式サイトを通じ、前日8日朝に予定していた映画「ゴジラ-0.0」のIMAX上映回を中止したことを発表した。映写関連機材の一部に不具合が起きたためだと説明している。",
+      "pubDate": "Mon, 09 Nov 2026 20:30:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "190万超人気美女YouTuber「誓いのキスで笑いがおきるとは」結婚式を報告　「人生で一番幸せな日になりました」",
-      "link": "https://www.j-cast.com/2026/11/09519022.html",
-      "description": "チャンネル登録者数191万の人気YouTuber「エミリン」こと大松絵美さんが2026年11月3日、自身のインスタグラムを更新。結婚式でのウェディングドレス姿を披露した。",
-      "pubDate": "Mon, 09 Nov 2026 11:15:00 +0900",
+      "title": "無印良品に「リスト型攻撃」　約27万件で不正ログインの可能性、ネットストア再開延期",
+      "link": "https://www.j-cast.com/2026/11/09519060.html",
+      "description": "ライフスタイルブランド「無印良品」を運営する良品計画（東京都文京区）は2026年11月9日、「無印良品ネットストア」で第三者による多数のログイン試行（リスト型攻撃）による不正ログインが行われた可能性があると発表した。",
+      "pubDate": "Mon, 09 Nov 2026 19:51:08 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "登録者228万人YouTuber、美人妻との馴れ初め明かす　「ラウンジで会って」「ご飯行きましょうみたいな感じに」",
-      "link": "https://www.j-cast.com/2026/11/09519019.html",
-      "description": "医師でYouTuberの井たくまさん（33）が、2026年11月4日に公開した動画に、チャンネル登録者数228万超の人気YouTuber、かの／カノックスターさん（30）が登場。「ヨメック」こと妻との出会いや馴れ初めを明かした。",
-      "pubDate": "Mon, 09 Nov 2026 11:00:00 +0900",
+      "title": "「星条旗新聞」が古謝知事に直球質問　日米地位協定、身柄引き渡し・基地立ち入りまで具体論",
+      "link": "https://www.j-cast.com/2026/11/09519059.html",
+      "description": "沖縄県の古謝玄太知事が2026年11月9日、東京・丸の内の日本外国特派員協会で記者会見し、知事選で公約に掲げた県民所得の倍増や、米軍普天間飛行場（宜野湾市）の名護市辺野古への移設などについて説明した。",
+      "pubDate": "Mon, 09 Nov 2026 19:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "「昭和感が出て、とてもステキ！」森口博子がセーラー服を着て　「違和感無さすぎ」ネット大喜び",
-      "link": "https://www.j-cast.com/2026/11/09518816.html",
-      "description": "歌手の森口博子さん（58）が2026年10月31日、自身のインスタグラムを更新。セーラー服姿を披露した。",
-      "pubDate": "Mon, 09 Nov 2026 08:00:00 +0900",
+      "title": "米大統領首席補佐官に強硬派のミラー氏起用　「年内にこれまでにない規模のイラン攻撃に踏み切る可能性」の見方も",
+      "link": "https://www.j-cast.com/2026/11/09519056.html",
+      "description": "米中間選挙で大敗した共和党のトランプ大統領の今後の動きについて2026年11月8日放送の「有働Times」（テレビ朝日系）に出演した明海大学教授の小谷哲男さんは「年内にもこれまでにない規模の攻撃に踏み切る可能性がある」と懸念する。議会の勢力図が変わる年末まで2カ月をきったこの期間に、一体何が起きるというのか。",
+      "pubDate": "Mon, 09 Nov 2026 18:45:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -243,34 +243,34 @@
       "category": "総合"
     },
     {
-      "title": "ミランダ・カー43歳、肩出し＆おなかチラ見えキャミ姿で...神スタイル炸裂　夫は7歳年下イケメン超大物CEO",
-      "link": "https://www.j-cast.com/2026/11/09518970.html",
-      "description": "ファッションモデルのミランダ・カーさん（43）が2026年10月30日（日本時間）に自身のインスタグラムを更新。レースのキャミソール姿を披露した。",
-      "pubDate": "Mon, 09 Nov 2026 07:00:00 +0900",
+      "title": "YOASOBI「一部の国・地域および会場での開催を見送る」だけじゃなかった　国内外ツアーで不思議な発表",
+      "link": "https://www.j-cast.com/2026/11/09519051.html",
+      "description": "音楽ユニット「YOASOBI」が2026年11月9日、公式Xアカウントを通じ、現在開催中のツアー「YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027 \"超惑星\"」をめぐる開催地とツアータイトルの変更を発表した。",
+      "pubDate": "Mon, 09 Nov 2026 18:30:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "紀平梨花＆西山真瑚ペア、煌びやかな衣装で華麗に舞う...演技中のワンシーンがステキ　「りかしんいいね！」",
-      "link": "https://www.j-cast.com/2026/11/08518973.html",
-      "description": "フィギュアスケート・アイスダンスの紀平梨花選手（24）が2026年11月2日、自身のインスタグラムを更新。アイスダンスでペアを組む西山真瑚選手（24）との2ショットを披露した。",
-      "pubDate": "Sun, 08 Nov 2026 20:00:00 +0900",
+      "title": "消費減税採決、石破・小渕らが途中退席　反高市議員ゾロゾロの参議院ではどうなるか",
+      "link": "https://www.j-cast.com/2026/11/09519043.html",
+      "description": "その中身も明確にせず、財源もはっきりしない飲食料品の消費税減税案は、「具のない鍋」と揶揄されながら、2026年11月6日に衆院で可決された。本会議採決では、減税策に納得しない石破茂前首相、小渕優子元経産相、古川禎久元法相、船田元・元経済企画庁長官の4議員が退席、自民党執行部は党議拘束に従わなかったとして、説明を求める文書を送りつけた。ただ、「よくやった」と支持するSNS投稿も多い。",
+      "pubDate": "Mon, 09 Nov 2026 14:45:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "JAL社員37人、横浜園芸博機前で「笑顔封印」ファッションショー　コシノジュンコ氏「プロになるんじゃないか」",
-      "link": "https://www.j-cast.com/2026/11/08519033.html",
-      "description": "日本航空（JAL）が2026年11月7日、特別塗装機「JAL トゥンクトゥンクJET」（ボーイング737-800型機）の運航を始めた。27年3月に横浜市で開幕する国際園芸博覧会「GREEN×EXPO 2027」（横浜園芸博）の公式マスコットキャラクター「トゥンクトゥンク」を機体に描いたもので、開催に向けた機運を高める狙いがある。",
-      "pubDate": "Sun, 08 Nov 2026 19:45:00 +0900",
+      "title": "「経済界まで高市総理の失態の尻ぬぐい」小沢一郎氏、レアアース問題で批判",
+      "link": "https://www.j-cast.com/2026/11/09519048.html",
+      "description": "小沢一郎前衆院議員が2026年11月7日、事務所公式Xアカウントで、中国によるレアアース輸出規制で日本企業の調達不安が強まっているとする毎日新聞の記事を引用し、高市早苗首相を批判した。「ついに経済界までが高市総理の失態の尻ぬぐいを強いられる事態に」と主張した。",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "「全く関係ないことをワーワーワーワー」　斎藤元彦知事、会見や式典の抗議行動に「社会の共感は得られない」",
-      "link": "https://www.j-cast.com/2026/11/08519032.html",
-      "description": "「全く関係ないことをワーワーワーワーとかと言うのは、社会通念上許容されるものじゃない」",
-      "pubDate": "Sun, 08 Nov 2026 19:30:00 +0900",
+      "title": "へずまりゅう氏、「子どもの名前を『へずま』に...」許可求められ猛反対　「最低なキラキラネーム」",
+      "link": "https://www.j-cast.com/2026/11/09519034.html",
+      "description": "元迷惑系YouTuberで奈良市議会議員のへずまりゅう氏が2026年11月9日にXを更新し、子どもの名前を「へずま」にしたいと許可を求められたことを明かした。",
+      "pubDate": "Mon, 09 Nov 2026 13:45:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -281,6 +281,14 @@
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CAST会社ウォッチ",
       "category": "経済"
+    },
+    {
+      "title": "柿安ダイニングから「鬼滅の刃」コラボ　ミニ巾着が付属「黒毛和牛 無限 牛鍋弁当」",
+      "link": "https://www.j-cast.com/trend/2026/11/09519045.html",
+      "description": "肉の老舗・柿安本店（三重県桑名市）は、惣菜ブランド「柿安ダイニング」から、アニメ「鬼滅の刃」とコラボレーションした、数量限定「黒毛和牛 無限 牛鍋弁当」の予約受付を、2026年11月2日～11月23日まで、ウェブ予約サービス「カキヨヤク」および店頭で行っている。",
+      "pubDate": "Mon, 09 Nov 2026 19:00:00 +0900",
+      "source": "J-CASTトレンド",
+      "category": "総合"
     },
     {
       "title": "パナソニック「X97C」シリーズ　「SQD Mini LED」採用の4K液晶テレビ最上位モデル",
@@ -297,6 +305,14 @@
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTトレンド",
       "category": "総合"
+    },
+    {
+      "title": "米雇用者数は大幅加速、失業率も低下",
+      "link": "https://www.dir.co.jp/report/research/economics/usa/20261109_026183.html",
+      "description": "◆2026年10月の米雇用統計は、非農業部門雇用者数が前月差＋16.5万人と大幅に加速し、市場予想（Bloomberg調査：同＋7.0万人）も大幅に上回った。さらに、過去分も上方修正された。雇用者数の増加ペースは他の雇用関連統計とやや乖離があり、単月の強さを過度に重視すべきではないものの、底堅いといえる。また、失業率については、労働供給の改善を伴いながらも同▲0.1％ptと低下し、4.1％となった",
+      "pubDate": "Mon, 09 Nov 2026 13:45:00 +0900",
+      "source": "大和総研 経済分析",
+      "category": "経済"
     },
     {
       "title": "出産年齢から見るChild Penalty①",
@@ -367,14 +383,6 @@
       "link": "https://www.dir.co.jp/report/research/economics/usa/20261030_026167.html",
       "description": "◆2026年7-9月期（以下、7-9月期）の実質GDP成長率は前期比年率＋3.4％と2026年4-6月期（以下、4-6月期）から加速し、市場予想（Bloomberg調査：同＋3.2％）を上回った。屋台骨の個人消費が堅調を維持し、設備投資もAI関連投資を中心に好調だった。その結果、米国経済の自律的な成長を反映する民間最終需要（個人消費、設備投資、住宅投資の和）は同＋4.9％と2四半期連続で加速し、2",
       "pubDate": "Fri, 30 Oct 2026 13:55:00 +0900",
-      "source": "大和総研 経済分析",
-      "category": "経済"
-    },
-    {
-      "title": "中間選挙後の注目点②：「変わらない供給制約」",
-      "link": "https://www.dir.co.jp/report/research/economics/usa/20261030_026166.html",
-      "description": "◆米中間選挙後の米国政治・経済を展望する上では、変化する部分だけでなく、残り続ける米国政治・経済・社会の構造的特徴に目を向ける必要がある。本稿では、とりわけ変わらない供給制約に注目する。 ◆第二次トランプ政権は“America First”の下、関税引き上げや対中規制、移民抑制などを進めてきた。これらは国内生産や雇用の拡大を狙いとする一方、原材料・エネルギー・労働力の円滑な供給を妨げ、供給制約、ひ",
-      "pubDate": "Fri, 30 Oct 2026 13:40:00 +0900",
       "source": "大和総研 経済分析",
       "category": "経済"
     },
@@ -777,6 +785,326 @@
       "pubDate": "Mon, 15 Jun 2026 10:30:00 +0900",
       "source": "大和総研 税制",
       "category": "経済"
+    },
+    {
+      "title": "1620回　フラット35の金利が上昇！住宅ローンは変動か固定を考える時に大事なことはこれ",
+      "link": "https://www.youtube.com/watch?v=m9RLfLJNfFw",
+      "description": "",
+      "pubDate": "2026-11-09T09:00:27+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "11/7LIVE！消費税減税で造反＆米中間選挙＆イスラエル＆辺野古沖事故",
+      "link": "https://www.youtube.com/watch?v=6g08Sjs-H2A",
+      "description": "",
+      "pubDate": "2026-11-09T12:34:26+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1619回　情報漏洩は今のところたいした問題ではない　GMO社長は素人でした",
+      "link": "https://www.youtube.com/watch?v=BjGVkjRPlC8",
+      "description": "",
+      "pubDate": "2026-11-06T21:18:54+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1618回 なぜ今さら？消費税に反対する政党",
+      "link": "https://www.youtube.com/watch?v=faOrXXlOwjo",
+      "description": "",
+      "pubDate": "2026-11-06T04:48:44+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "11/4　速報！アメリカ中間選挙結果",
+      "link": "https://www.youtube.com/watch?v=q9EQM8imjWI",
+      "description": "",
+      "pubDate": "2026-11-07T23:42:59+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1617回　首都圏マンション高騰！千代田区は転売禁止要請【保存版】マンション価格の決まり方",
+      "link": "https://www.youtube.com/watch?v=GDppVBEeDrY",
+      "description": "",
+      "pubDate": "2026-11-07T00:15:04+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1616回　止まらぬ中国株安！そもそも共産主義なんだからなんちゃって市場",
+      "link": "https://www.youtube.com/watch?v=-cKTWXpObcU",
+      "description": "",
+      "pubDate": "2026-11-06T01:50:40+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "10/31 LIVE！　維新吉村代表と昨日共演！今日は【米中間選挙/サイバー防衛/北朝鮮】",
+      "link": "https://www.youtube.com/watch?v=RI61J6PNl3s",
+      "description": "",
+      "pubDate": "2026-11-04T02:19:54+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1615回　日銀が謎の基調物価２％を主張！どうしても利上げしたいのか！",
+      "link": "https://www.youtube.com/watch?v=oi-gBKEJYb0",
+      "description": "",
+      "pubDate": "2026-11-03T03:12:21+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "1614回　TBS報道特集が政府広報予算増を批判って･･･　記者を通すと情報が劣化するからだ！",
+      "link": "https://www.youtube.com/watch?v=eNqeYIE708E",
+      "description": "",
+      "pubDate": "2026-11-02T00:40:38+00:00",
+      "source": "高橋洋一チャンネル",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】片山さつき財務大臣 × 須田慎一郎 , 消費税減税法案 , ３７０兆円投資 , 市場の信頼 , など",
+      "link": "https://www.youtube.com/watch?v=s31xkjXsDFs",
+      "description": "",
+      "pubDate": "2026-11-09T14:22:04+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【減税法案で造反】消費税減税法案の衆院採決で退席した石破茂氏・小渕優子氏・船田元氏・古川禎久氏にまさかの処分。裏側で一体何が！？（須田慎一郎×宮崎謙介）",
+      "link": "https://www.youtube.com/watch?v=3XsNHj1OPdU",
+      "description": "",
+      "pubDate": "2026-11-08T19:18:20+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】髙橋洋一×里崎智也 2026/11/13(金)",
+      "link": "https://www.youtube.com/watch?v=NL94AO3lNaE",
+      "description": "",
+      "pubDate": "2026-11-09T01:16:18+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】須田慎一郎×北村晴男×石橋文登 2026/11/10(火)",
+      "link": "https://www.youtube.com/watch?v=lRXQh7UaCkQ",
+      "description": "",
+      "pubDate": "2026-11-09T01:15:50+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】須田慎一郎×三橋貴明 2026/11/6(金)",
+      "link": "https://www.youtube.com/watch?v=q5x9FMHnNdo",
+      "description": "",
+      "pubDate": "2026-11-08T02:41:13+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【緊急生配信】アメリカ中間選挙 トランプ大統領が完全敗北 須田慎一郎×長尾 賢（虎ノ門ニュース）",
+      "link": "https://www.youtube.com/watch?v=slebUFf1rMQ",
+      "description": "",
+      "pubDate": "2026-11-09T01:27:35+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】米国中間選挙でトランプが敗北したら世界秩序が激変か… 須田慎一郎×長尾 賢×山田敏弘 2026/11/3(火)",
+      "link": "https://www.youtube.com/watch?v=DOP1r29DfC8",
+      "description": "",
+      "pubDate": "2026-11-06T16:14:33+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【日銀の論理破綻】円安の本当の原因と間違った経済ロジックについて会田卓司さんが話してくれました（※日銀会合があったため緊急切り抜き※）",
+      "link": "https://www.youtube.com/watch?v=XqX664XxeDU",
+      "description": "",
+      "pubDate": "2026-11-06T11:18:22+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【虎ノ門ニュース】武田邦彦×三枝玄太郎 2026/10/30(金)",
+      "link": "https://www.youtube.com/watch?v=oO1wj6Hp-RY",
+      "description": "",
+      "pubDate": "2026-10-30T12:05:43+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "【定数削減の衝撃】少数政党の議席が実は増加！比例復活の議員は？参議院の削減は？野党はどうなる？（須田慎一郎×宮崎謙介）",
+      "link": "https://www.youtube.com/watch?v=Ym0MMGSFdP4",
+      "description": "",
+      "pubDate": "2026-11-02T00:38:37+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
+      "title": "復活「河内屋のどら焼き」…天神屋が引き継ぎ味を再現　大将が半年以上も直接指導…大将も太鼓判「ばっちり」　静岡市",
+      "link": "https://www.youtube.com/watch?v=MtwrKds6Cps",
+      "description": "",
+      "pubDate": "2026-11-09T13:14:21+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "静岡県で震度5弱　トイレはいつもの20倍、タンクは8倍…地震翌日防災グッズに注目が　静岡市",
+      "link": "https://www.youtube.com/watch?v=kLZcLfZS7yU",
+      "description": "",
+      "pubDate": "2026-11-09T12:24:08+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "【訓練】「熱海の海は大丈夫」　定期船で火災発生を想定…ヘリコプターから特殊救難隊員3人が船に降下　静岡・熱海市",
+      "link": "https://www.youtube.com/watch?v=kP3dpLDu5bQ",
+      "description": "",
+      "pubDate": "2026-11-09T12:15:44+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "海中の「藻」の状態を把握しCO2削減を　水上ドローンの底に取り付けた超音波計で計測　静岡市",
+      "link": "https://www.youtube.com/watch?v=mOE7IQvM9GU",
+      "description": "",
+      "pubDate": "2026-11-09T12:08:19+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "「盛り土は法律対象外の29cm」と契約　実は3.8mと許可が必要な2mの2倍近く　静岡県が現行法初の「措置命令」",
+      "link": "https://www.youtube.com/watch?v=olwg_5imPxM",
+      "description": "",
+      "pubDate": "2026-11-09T11:30:48+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "〝駿河湾の宝石〟サクラエビの10日遅れの解禁　初日は前年1トン増の3.4トン　水揚げ量は回復傾向　静岡市",
+      "link": "https://www.youtube.com/watch?v=Kx03rNlE4xY",
+      "description": "",
+      "pubDate": "2026-11-09T11:26:32+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "信金元支店長の1億円横領事件　「借金をギャンブルで返済しようとした」検察は懲役7年求刑　弁護側は執行猶予求める　静岡地裁",
+      "link": "https://www.youtube.com/watch?v=L9GXxUjv6U4",
+      "description": "",
+      "pubDate": "2026-11-09T10:55:53+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "「スーパーで7人くらい殺そう」…29歳被告は無差別殺人を計画　「殺害した祖父母らに恨みはなかった」　静岡地裁浜松支部",
+      "link": "https://www.youtube.com/watch?v=k8JIzHcP7t4",
+      "description": "",
+      "pubDate": "2026-11-09T10:55:29+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "【山本期日前✖今野忍】処分！石破氏ブーメラン「さっさと離党して新党を」小渕“姫”を単騎突っ込ませるのか？家老は？番組中に戒告決定／玉木氏「朝日新聞対策」が波紋／細野大臣緊急要請後に82年ぶり浜松震度5",
+      "link": "https://www.youtube.com/watch?v=w5mHXUrLDr0",
+      "description": "",
+      "pubDate": "2026-11-09T14:22:06+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "駿河湾の宝石、サクラエビの秋漁開始　初セリの平均は去年より安く#shorts",
+      "link": "https://www.youtube.com/shorts/rEKeqNa6Qro",
+      "description": "",
+      "pubDate": "2026-11-09T05:36:18+00:00",
+      "source": "静岡朝日テレビ",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】先ほど茨城沖でM5.9の地震が発生！生放送で解説します。（2026年11月9日）",
+      "link": "https://www.youtube.com/watch?v=DPscHmIZop8",
+      "description": "",
+      "pubDate": "2026-11-09T11:03:02+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】熊本県での震度4地震が発生！生放送で解説します。（2026年11月８日）",
+      "link": "https://www.youtube.com/watch?v=Rqsmi8Mh3YM",
+      "description": "",
+      "pubDate": "2026-11-08T19:58:30+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【速報】本日発生した静岡県震度5強地震と南海トラフとの関係について、わかりやすく解説します！",
+      "link": "https://www.youtube.com/watch?v=0LgzrP5jmBU",
+      "description": "",
+      "pubDate": "2026-11-08T22:05:35+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】先ほど、静岡県で震度5強の地震が発生！生放送で解説します。（2026年11月８日）",
+      "link": "https://www.youtube.com/watch?v=G9V2HcAgoDw",
+      "description": "",
+      "pubDate": "2026-11-08T20:56:06+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】先ほど、茨城沖でＭ5.6地震が発生！生放送で解説します。（2026年11月7日）",
+      "link": "https://www.youtube.com/watch?v=BNpDHwNv3Ic",
+      "description": "",
+      "pubDate": "2026-11-08T19:22:21+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【解説】関東沖M8.2巨大地震の可能性について、わかりやすくします！",
+      "link": "https://www.youtube.com/watch?v=D4a3GqugiUQ",
+      "description": "",
+      "pubDate": "2026-11-08T20:46:51+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】先ほど関東沖でM6.1の地震が発生！放送で解説します。（2026年11月6日）",
+      "link": "https://www.youtube.com/watch?v=BLSnZpzaeAQ",
+      "description": "",
+      "pubDate": "2026-11-09T09:12:58+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】南海トラフM９巨大地震の可能性！生放送で解説します。（2026年11月4日）",
+      "link": "https://www.youtube.com/watch?v=nH6MDk8ng88",
+      "description": "",
+      "pubDate": "2026-11-07T06:36:07+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【ライブ】千葉沖でM8.5巨大地震の可能性！生放送で解説します。（2026年11月4日）",
+      "link": "https://www.youtube.com/watch?v=oPl4hHpzBQ0",
+      "description": "",
+      "pubDate": "2026-11-07T23:42:09+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
+    },
+    {
+      "title": "【速報】将来、沖ノ鳥島に発電所ができる可能性が最新の研究により浮上！分かりやすく解説します！",
+      "link": "https://www.youtube.com/watch?v=VkYCiAPydxI",
+      "description": "",
+      "pubDate": "2026-11-07T00:17:33+00:00",
+      "source": "えいしゅう博士",
+      "category": "YouTube"
     }
   ]
 }
