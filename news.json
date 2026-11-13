@@ -1,76 +1,92 @@
 {
-  "updated": "2026-11-13 06:37 JST",
-  "total": 138,
+  "updated": "2026-11-13 12:50 JST",
+  "total": 107,
   "news": [
     {
-      "title": "エヌビディアのフアンCEOが辞任",
-      "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
+      "title": "冬の電気・ガスなど支援 6500億円",
+      "link": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 14:08:14 GMT",
+      "pubDate": "Fri, 13 Nov 2026 02:50:29 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "米ワシントンで銃撃事件 5人負傷",
-      "link": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
+      "title": "土木職員 今春45都道府県定員割れ",
+      "link": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 15:13:03 GMT",
+      "pubDate": "Fri, 13 Nov 2026 02:42:29 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "マイクロソフト「365」大規模障害",
-      "link": "https://news.yahoo.co.jp/pickup/6602357?source=rss",
+      "title": "Microsoft365で障害 SNSの反応",
+      "link": "https://news.yahoo.co.jp/pickup/6602401?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 21:11:23 GMT",
+      "pubDate": "Fri, 13 Nov 2026 03:06:06 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "タマホーム 5年以上前から不正か",
-      "link": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+      "title": "Microsoft障害 日本政府にも影響",
+      "link": "https://news.yahoo.co.jp/pickup/6602393?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 13:34:28 GMT",
+      "pubDate": "Fri, 13 Nov 2026 02:22:13 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "勤務先から21億円超横領疑い 逮捕",
-      "link": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
+      "title": "奈良で妻が行方不明 捜索続け12年",
+      "link": "https://news.yahoo.co.jp/pickup/6602389?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 13:05:20 GMT",
+      "pubDate": "Fri, 13 Nov 2026 02:04:30 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "銭湯侵入疑い 男は国際的犯罪Gか",
-      "link": "https://news.yahoo.co.jp/pickup/6602352?source=rss",
+      "title": "磁気テープ再注目 流出リスク低く",
+      "link": "https://news.yahoo.co.jp/pickup/6602402?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 14:10:37 GMT",
+      "pubDate": "Fri, 13 Nov 2026 03:32:45 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "米国防長官ら 墓地で衛兵から叱責",
-      "link": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
+      "title": "市議兼業 売名と言われたアイドル",
+      "link": "https://news.yahoo.co.jp/pickup/6602404?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 14:26:32 GMT",
+      "pubDate": "Fri, 13 Nov 2026 03:30:54 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "幾田りら 映画で本格俳優デビュー",
-      "link": "https://news.yahoo.co.jp/pickup/6602358?source=rss",
+      "title": "大谷 4年連続のMVP受賞はならず",
+      "link": "https://news.yahoo.co.jp/pickup/6602387?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 21:27:20 GMT",
+      "pubDate": "Fri, 13 Nov 2026 01:37:39 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ポスト高市の首相再選支持 相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
+      "title": "参議院議員の山崎正昭氏が死去",
+      "link": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 03:09:55 GMT",
+      "pubDate": "Fri, 13 Nov 2026 01:00:12 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "思いやり予算 5年3兆円超を米要求",
+      "link": "https://news.yahoo.co.jp/pickup/6602377?source=rss",
+      "description": "",
+      "pubDate": "Fri, 13 Nov 2026 00:02:00 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "首相 防衛費巡る「大幅増税」慎重",
+      "link": "https://news.yahoo.co.jp/pickup/6602369?source=rss",
+      "description": "",
+      "pubDate": "Thu, 12 Nov 2026 22:59:30 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -91,6 +107,14 @@
       "category": "国内"
     },
     {
+      "title": "土木職員 今春45都道府県定員割れ",
+      "link": "https://news.yahoo.co.jp/pickup/6602395?source=rss",
+      "description": "",
+      "pubDate": "Fri, 13 Nov 2026 02:42:29 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "拘束の記者 精力的に北方領土取材",
       "link": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
       "description": "",
@@ -107,34 +131,10 @@
       "category": "国内"
     },
     {
-      "title": "消費税減税の広報動画 公開見送り",
-      "link": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
+      "title": "米首都銃撃5人死傷 容疑者も死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6602368?source=rss",
       "description": "",
-      "pubDate": "Thu, 12 Nov 2026 08:00:20 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "芥川「藪の中」当初は題名違った",
-      "link": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
-      "description": "",
-      "pubDate": "Thu, 12 Nov 2026 10:08:06 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "二重かわいい 女子大学生の違和感",
-      "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
-      "description": "",
-      "pubDate": "Thu, 12 Nov 2026 02:02:36 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "米ワシントンで銃撃事件 5人負傷",
-      "link": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
-      "description": "",
-      "pubDate": "Thu, 12 Nov 2026 15:13:03 GMT",
+      "pubDate": "Thu, 12 Nov 2026 22:44:16 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -179,6 +179,14 @@
       "category": "国際"
     },
     {
+      "title": "米国防長官 自身注意の衛兵に勲章",
+      "link": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
+      "description": "",
+      "pubDate": "Fri, 13 Nov 2026 00:29:49 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "海外からマンジャロ 韓国が容認",
       "link": "https://news.yahoo.co.jp/pickup/6602299?source=rss",
       "description": "",
@@ -187,50 +195,42 @@
       "category": "国際"
     },
     {
-      "title": "「毛沢東」中国若者の間でブーム",
-      "link": "https://news.yahoo.co.jp/pickup/6602251?source=rss",
-      "description": "",
-      "pubDate": "Wed, 11 Nov 2026 23:39:28 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
-      "title": "吉本新喜劇・森田まりこ、モノマネがガチの激似で話題　「本人やん！」「びっくりした」「多分信じちゃう」",
-      "link": "https://www.j-cast.com/2026/11/12519107.html",
-      "description": "吉本新喜劇の森田まりこさんが2026年11月7日、自身のインスタグラムを更新。元フィギュアスケートペア日本代表の高橋成美さんのモノマネ姿を披露した。",
-      "pubDate": "Thu, 12 Nov 2026 21:00:00 +0900",
+      "title": "山添拓氏、防衛産業支援を「死の商人国家」と批判　小泉防衛相の反論に再反論",
+      "link": "https://www.j-cast.com/2026/11/13519163.html",
+      "description": "共産党の山添拓参院議員が2026年11月12日、防衛産業をめぐる小泉進次郎防衛相との国会での応酬を報じた産経新聞の記事にXで反応し、自身が批判したのは防衛産業で働く個人ではなく、国策として軍需産業を支援する「死の商人国家」だと改めて主張した。一方、返信欄では軍事分野で知られるブロガー「JSF」氏から、「武器を売ることが死の商人なのではない」などと反論を受けた。",
+      "pubDate": "Fri, 13 Nov 2026 12:30:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "ふりがなのことをなぜ「ルビ」と言うのか？　「初めて知りました」ネット反響の意外な疑問...印刷博物館が解説",
-      "link": "https://www.j-cast.com/2026/11/12519155.html",
-      "description": "ふりがなを「ルビ」と呼ぶのは宝石の「ルビー」に由来する――。",
-      "pubDate": "Thu, 12 Nov 2026 20:15:07 +0900",
+      "title": "「買わないでください」新刊発売日に著者が訴え　出版社の事業停止で出荷見通せず",
+      "link": "https://www.j-cast.com/2026/11/13519158.html",
+      "description": "「東大卒数学ライター」として活動する永田耕作さんが2026年11月11日、同日発売予定だった自身の新刊について「僕のこの本を、買わないでください」とXで呼びかけた。",
+      "pubDate": "Fri, 13 Nov 2026 12:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "新木優子、ミニ丈×透け感タイツの秋私服コーデ...自撮りショットにドキっ　「秋っぽくて良いね」「可愛すぎます」",
-      "link": "https://www.j-cast.com/2026/11/12519035.html",
-      "description": "俳優の新木優子さんが2026年11月3日、自身のインスタグラムを更新。ロングブーツの私服コーデを披露した。",
-      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0900",
+      "title": "【巨人】なぜ平石洋介を招へい？所属経験なしサプライズ人事の驚き　「一番の魅力は...」元コーチが意図を読み解く",
+      "link": "https://www.j-cast.com/2026/11/13519157.html",
+      "description": "プロ野球巨人の元コーチで野球解説者のデーブ大久保氏（59）が、2026年11月12日にユーチューブを更新し、巨人が野手統括ディレクターとして平石洋介氏（46）を招へいした意図について、自身の見解を示した。",
+      "pubDate": "Fri, 13 Nov 2026 11:45:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "店舗従業員が利用客に「侮辱的な発言」「中指を立てる行為」　雑貨ブランドが謝罪「不快で怖い思いをさせてしまい」",
-      "link": "https://www.j-cast.com/2026/11/12519154.html",
-      "description": "ファッションや雑貨を取り扱うブランド「PIXIUM」は2026年11月11日に公式SNSで、錦糸町PARCO内にある店舗でスタッフが、利用客に対し侮辱的な発言や中指を立てる行為があったことを確認したとして謝罪した。",
-      "pubDate": "Thu, 12 Nov 2026 19:27:56 +0900",
+      "title": "「VIVANTより面白い」町山智浩氏が挙げたドラマの脚本家が苦言「どっちも見りゃいい」　なのに今度は前川喜平氏が",
+      "link": "https://www.j-cast.com/2026/11/13519156.html",
+      "description": "TBS系ドラマ『VIVANT』が最終回を迎えた3日後の2026年11月11日、映画評論家の町山智浩氏がXで、同作より面白いドラマとしてフジテレビ系の『ポリティカルパン』を挙げた。",
+      "pubDate": "Fri, 13 Nov 2026 11:30:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "JALニューヨーク線60周年、日本人客は4割に　外務省幹部「内向き志向」に危機感",
-      "link": "https://www.j-cast.com/2026/11/12519152.html",
-      "description": "日本航空（JAL）は2026年11月12日、東京―ニューヨーク線の開設60周年を記念するイベントを羽田空港で開いた。搭乗ゲートでは就航当時の制服を身に着けた社員らが登場し、乗客に記念品を配った。",
-      "pubDate": "Thu, 12 Nov 2026 18:45:26 +0900",
+      "title": "井上尚弥、次戦対戦相手は？　「バムよりエスピノサの方が噛み合う」元世界王者分析...「バムはやりづらい」",
+      "link": "https://www.j-cast.com/2026/11/13519125.html",
+      "description": "プロボクシングの元世界王者・具志堅用高氏（71）が、2026年11月6日にユーチューブを更新し、スーパーバンタム級4団体統一王者・井上尚弥（大橋、33）対WBO世界フェザー級王者ラファエル・エスピノサ（メキシコ、32）戦を想定して試合内容を予想した。",
+      "pubDate": "Fri, 13 Nov 2026 11:15:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -243,34 +243,34 @@
       "category": "総合"
     },
     {
-      "title": "「公式サイトで説明なしって...」NTTドコモ、34万人の情報無断提供で行政指導　通信障害も相次ぎ信頼揺らぐ",
-      "link": "https://www.j-cast.com/2026/11/12519149.html",
-      "description": "NTTドコモの「安心・安全」が揺らいでいる。契約者約34万人分の情報を本人の同意なくアマゾンジャパンに提供した問題で、総務省から異例の行政指導を受けた。さらに、約14時間に及ぶ全国規模の通信障害や、最大約30万件の顧客情報流出も発生。緊急地震速報のエリアメールが利用者に届かないという問題もあった。",
-      "pubDate": "Thu, 12 Nov 2026 18:30:00 +0900",
+      "title": "辻希美、高校生長男と「ちょっとケンカ」明かす　「この野郎！と思って」作った弁当に反響...「いや愛ある」",
+      "link": "https://www.j-cast.com/2026/11/13519142.html",
+      "description": "タレントの辻希美さんが、2026年11月8日にYouTubeを更新。高校生の長男・青空（せいあ）さんとのケンカのエピソードが明かされた。",
+      "pubDate": "Fri, 13 Nov 2026 11:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "「日本国内で真似する人が出てきたらマズイのでは」　ひろゆき氏の実験がネットをざわつかせた法律上の問題",
-      "link": "https://www.j-cast.com/2026/11/12519130.html",
-      "description": "実業家のひろゆきこと西村博之さんが2026年11月11日、Xで「日本酒造り」のレシピを公開し波紋を広げている。",
-      "pubDate": "Thu, 12 Nov 2026 18:00:00 +0900",
+      "title": "18歳美女フィギュアスケーター、黒ショーパン姿で神スタイル炸裂　「可愛すぎる」氷上と雰囲気変わって",
+      "link": "https://www.j-cast.com/2026/11/13519112.html",
+      "description": "女子フィギュアスケートの韓国代表シン・ジア選手が2026年11月6日、自身のインスタグラムを更新。黒いショーパンとスニーカーを合わせた秋コーデを披露した。",
+      "pubDate": "Fri, 13 Nov 2026 08:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "蓮舫氏、自民党の消費減税に異論　「暮らしをどれだけ支えられるのでしょうか」",
-      "link": "https://www.j-cast.com/2026/11/12519127.html",
-      "description": "立憲民主党の蓮舫参院議員が2026年11月11日にXで、参院審議入りした消費税減税法案について危機感を訴えた。",
-      "pubDate": "Thu, 12 Nov 2026 14:15:00 +0900",
+      "title": "バドミントン志田千陽、キャミ×白シャツ姿で...透き通る美しさ反響　「どこのアイドルかと」「めちゃめちゃ美しい」",
+      "link": "https://www.j-cast.com/2026/11/13519108.html",
+      "description": "バドミントンの志田千陽選手が2026年11月9日、自身のインスタグラムを更新。初のフォトエッセイの表紙を披露した。",
+      "pubDate": "Fri, 13 Nov 2026 07:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
     {
-      "title": "APECでの米中ロ三者会談、大越健介氏の懸念...手負いのトランプ氏は「何を繰り出してくるかわからない」",
-      "link": "https://www.j-cast.com/2026/11/12519121.html",
-      "description": "米中間選挙で歴史的大敗をした共和党のトランプ政権が、残りの任期2年で外交のレガシーづくりに奔走するのではないかという見方が強い。2026年11月11日放送の「報道ステーション」(テレビ朝日系）はそのレガシー外交の大きな柱とも言えるアメリカ、中国、ロシアの3カ国首脳会談の行方についてとりあげた。",
-      "pubDate": "Thu, 12 Nov 2026 13:45:00 +0900",
+      "title": "吉本新喜劇・森田まりこ、モノマネがガチの激似で話題　「本人やん！」「びっくりした」「多分信じちゃう」",
+      "link": "https://www.j-cast.com/2026/11/12519107.html",
+      "description": "吉本新喜劇の森田まりこさんが2026年11月7日、自身のインスタグラムを更新。元フィギュアスケートペア日本代表の高橋成美さんのモノマネ姿を披露した。",
+      "pubDate": "Thu, 12 Nov 2026 21:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -287,14 +287,6 @@
       "link": "https://www.j-cast.com/trend/2026/11/12519139.html",
       "description": "カルビーは、ラーメンチェーン「一風堂」の看板メニューの味わいをイメージした『ポテトチップス 一風堂赤丸新味仕立て』、雪印メグミルクのバターとコラボレーションした『ポテトチップス「雪印北海道バター」味』の2商品を、いずれも2026年11月16日から全国のコンビニエンスストアで期間限定発売する。",
       "pubDate": "Thu, 12 Nov 2026 19:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
-      "title": "内部にアクスタやフィギュア、ぬいぐるみを飾れるBluetoothスピーカー",
-      "link": "https://www.j-cast.com/trend/2026/11/11519040.html",
-      "description": "生活家電などを手がけるライソン（大阪府東大阪市）は、Bluetoothスピーカー「ディスプレイスピーカーSP-120 KAASP-120W」を、2026年11月16日から全国の量販店およびインターネット通販などで順次発売する。",
-      "pubDate": "Wed, 11 Nov 2026 19:00:00 +0900",
       "source": "J-CASTトレンド",
       "category": "総合"
     },
@@ -547,6 +539,14 @@
       "category": "経済"
     },
     {
+      "title": "2040年の金融資本市場、その目指す姿",
+      "link": "https://www.dir.co.jp/report/column/20261113_012507.html",
+      "description": "日本証券業協会は2026年10月21日、「2040年に向けた我が国金融資本市場のビジョンについての懇談会」中間報告を公表した。同報告は、2040年を展望し、「資産運用と資金調達が一体となって活力を生む金融資本市場」の将来像について、2026年7月以降の懇談会での議論をまとめたものである。",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 +0900",
+      "source": "大和総研 コラム",
+      "category": "経済"
+    },
+    {
       "title": "米中間選挙から見る、2028年大統領選挙の注目点",
       "link": "https://www.dir.co.jp/report/column/20261111_012504.html",
       "description": "米中間選挙では、民主党が上下院で多数派を奪取した。下院は254議席／435議席と圧勝し、上院も激戦区とされていた選挙区のほとんどで勝利し、54議席／100議席を確保した（2026年11月8日時点）。",
@@ -615,14 +615,6 @@
       "link": "https://www.dir.co.jp/report/column/20261023_012495.html",
       "description": "スペインのサンチェス首相は2026年10月5日、上下両院の解散と、11月29日の総選挙実施を発表した。前回、2023年の総選挙以降、サンチェス首相率いる中道左派・PSOE（社会労働党）と左派・Sumarによる連立政権は、下院の過半数に満たない少数与党で政策運営に苦労してきた。",
       "pubDate": "Fri, 23 Oct 2026 09:00:00 +0900",
-      "source": "大和総研 コラム",
-      "category": "経済"
-    },
-    {
-      "title": "なぜM&Aは取締役会の「総合力テスト」なのか",
-      "link": "https://www.dir.co.jp/report/column/20261021_012496.html",
-      "description": "取締役会には、投資の実行が企業価値向上につながるかを見極める役割が求められる。企業や事業を買収するM&Aについても、案件を成立させること自体を目的とせず、自社の企業価値向上に資するかを軸に判断すべきだ。",
-      "pubDate": "Wed, 21 Oct 2026 09:00:00 +0900",
       "source": "大和総研 コラム",
       "category": "経済"
     },
@@ -785,246 +777,6 @@
       "pubDate": "Mon, 15 Jun 2026 10:30:00 +0900",
       "source": "大和総研 税制",
       "category": "経済"
-    },
-    {
-      "title": "1623回　どうしても緊縮したい財務省がアホ資料作っておったまげ！イジり倒してやります",
-      "link": "https://www.youtube.com/watch?v=ifAfVlaGASk",
-      "description": "",
-      "pubDate": "2026-11-12T21:33:31+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1622回　小渕優子税調副会長を更迭　姫を助けにはせ参じたら面白い",
-      "link": "https://www.youtube.com/watch?v=1K-80ZLIahg",
-      "description": "",
-      "pubDate": "2026-11-12T10:15:15+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1621回　リフレ派とは一体何か？皆理解してないので説明します",
-      "link": "https://www.youtube.com/watch?v=csxjHTfz62U",
-      "description": "",
-      "pubDate": "2026-11-10T15:25:13+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1620回　フラット35の金利が上昇！住宅ローンは変動か固定を考える時に大事なことはこれ",
-      "link": "https://www.youtube.com/watch?v=m9RLfLJNfFw",
-      "description": "",
-      "pubDate": "2026-11-09T09:00:27+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "11/7LIVE！消費税減税で造反＆米中間選挙＆イスラエル＆辺野古沖事故",
-      "link": "https://www.youtube.com/watch?v=6g08Sjs-H2A",
-      "description": "",
-      "pubDate": "2026-11-10T22:30:27+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1619回　情報漏洩は今のところたいした問題ではない　GMO社長は素人でした",
-      "link": "https://www.youtube.com/watch?v=BjGVkjRPlC8",
-      "description": "",
-      "pubDate": "2026-11-09T23:40:06+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1618回 なぜ今さら？消費税に反対する政党",
-      "link": "https://www.youtube.com/watch?v=faOrXXlOwjo",
-      "description": "",
-      "pubDate": "2026-11-08T22:04:19+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "11/4　速報！アメリカ中間選挙結果",
-      "link": "https://www.youtube.com/watch?v=q9EQM8imjWI",
-      "description": "",
-      "pubDate": "2026-11-07T23:42:59+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1617回　首都圏マンション高騰！千代田区は転売禁止要請【保存版】マンション価格の決まり方",
-      "link": "https://www.youtube.com/watch?v=GDppVBEeDrY",
-      "description": "",
-      "pubDate": "2026-11-07T00:15:04+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "1616回　止まらぬ中国株安！そもそも共産主義なんだからなんちゃって市場",
-      "link": "https://www.youtube.com/watch?v=-cKTWXpObcU",
-      "description": "",
-      "pubDate": "2026-11-06T01:50:40+00:00",
-      "source": "高橋洋一チャンネル",
-      "category": "YouTube"
-    },
-    {
-      "title": "【ドリル更迭】消費税減税法案退席で自民幹部が激怒。石破氏・小渕氏・船田氏・古川氏への甘すぎる処分で参議院審議への影響は！？（須田慎一郎×宮崎謙介）",
-      "link": "https://www.youtube.com/watch?v=byQD0RzIHrE",
-      "description": "",
-      "pubDate": "2026-11-12T21:34:21+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】須田慎一郎×北村晴男×石橋文登 2026/11/10(火)",
-      "link": "https://www.youtube.com/watch?v=lRXQh7UaCkQ",
-      "description": "",
-      "pubDate": "2026-11-12T11:23:58+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【緊急対談】※覚悟の出演※ 榛葉賀津也（国民民主党幹事長） × 須田慎一郎",
-      "link": "https://www.youtube.com/watch?v=2fc-Fg4SuBE",
-      "description": "",
-      "pubDate": "2026-11-11T11:28:39+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】片山さつき財務大臣 × 須田慎一郎 , 消費税減税法案 , ３７０兆円投資 , 市場の信頼 , など",
-      "link": "https://www.youtube.com/watch?v=s31xkjXsDFs",
-      "description": "",
-      "pubDate": "2026-11-10T16:00:38+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【減税法案で造反】消費税減税法案の衆院採決で退席した石破茂氏・小渕優子氏・船田元氏・古川禎久氏にまさかの処分。裏側で一体何が！？（須田慎一郎×宮崎謙介）",
-      "link": "https://www.youtube.com/watch?v=3XsNHj1OPdU",
-      "description": "",
-      "pubDate": "2026-11-09T23:31:58+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】髙橋洋一×里崎智也 2026/11/13(金)",
-      "link": "https://www.youtube.com/watch?v=NL94AO3lNaE",
-      "description": "",
-      "pubDate": "2026-11-12T21:13:08+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】須田慎一郎×三橋貴明 2026/11/6(金)",
-      "link": "https://www.youtube.com/watch?v=q5x9FMHnNdo",
-      "description": "",
-      "pubDate": "2026-11-08T02:41:13+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【緊急生配信】アメリカ中間選挙 トランプ大統領が完全敗北 須田慎一郎×長尾 賢（虎ノ門ニュース）",
-      "link": "https://www.youtube.com/watch?v=slebUFf1rMQ",
-      "description": "",
-      "pubDate": "2026-11-09T01:27:35+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【虎ノ門ニュース】米国中間選挙でトランプが敗北したら世界秩序が激変か… 須田慎一郎×長尾 賢×山田敏弘 2026/11/3(火)",
-      "link": "https://www.youtube.com/watch?v=DOP1r29DfC8",
-      "description": "",
-      "pubDate": "2026-11-06T16:14:33+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "【日銀の論理破綻】円安の本当の原因と間違った経済ロジックについて会田卓司さんが話してくれました（※日銀会合があったため緊急切り抜き※）",
-      "link": "https://www.youtube.com/watch?v=XqX664XxeDU",
-      "description": "",
-      "pubDate": "2026-11-06T11:18:22+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "8000鉢の菊でつくる京都「清水寺」…「清水の舞台」5分の1の大きさで再現　静岡・三島市「楽寿園」で菊まつり",
-      "link": "https://www.youtube.com/watch?v=uNAuY4xnQsQ",
-      "description": "",
-      "pubDate": "2026-11-12T13:45:28+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "「スピードが速くて驚いた」　全国のアーティストやクラフト作家が集結　静岡・御殿場市",
-      "link": "https://www.youtube.com/watch?v=YfDkCWllYzc",
-      "description": "",
-      "pubDate": "2026-11-12T13:22:56+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "おいしい「保存食」を探すのもアリ?　「防災フェア」で保存食の試食も　静岡市",
-      "link": "https://www.youtube.com/watch?v=0mKD4klbwYo",
-      "description": "",
-      "pubDate": "2026-11-12T19:07:25+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "【訓練】「金をくれ、ありったけ」　強盗犯が刃物で脅し現金奪って車で逃走　「人命第一の対応を」",
-      "link": "https://www.youtube.com/watch?v=hnzItMhlHxM",
-      "description": "",
-      "pubDate": "2026-11-12T12:38:06+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "スマホに別の女性の盗撮動画　10代女性を盗撮した容疑で49歳高校教師を再逮捕　静岡県警富士宮署",
-      "link": "https://www.youtube.com/watch?v=R8u_nbsb54Y",
-      "description": "",
-      "pubDate": "2026-11-12T14:39:20+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "浜松商工会議所の新会頭にヤマハの中田卓也会長　製造業出身の会頭は36年ぶり",
-      "link": "https://www.youtube.com/watch?v=k96rw8llUDw",
-      "description": "",
-      "pubDate": "2026-11-12T15:55:05+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "今年から1枚になった全国切符…決勝は藤枝順心VS東海大静岡翔洋　「利き足がヘディング」の選手が活躍　静岡",
-      "link": "https://www.youtube.com/watch?v=roQW3iTiqZo",
-      "description": "",
-      "pubDate": "2026-11-12T12:19:20+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "西武ドラ3・ヤマハ沢山優介投手に指名あいさつ　17日に仮契約へ　長身左腕で掛川西高時代から注目　ブラジル代表でWBC出場",
-      "link": "https://www.youtube.com/watch?v=1wTjwpLZbKg",
-      "description": "",
-      "pubDate": "2026-11-12T11:38:08+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "船を小型化すれば存続可能…新船の建造には公費投入も　来月までに存続か廃止か判断　静岡　駿河湾フェリー",
-      "link": "https://www.youtube.com/watch?v=BGtIaD-rLsA",
-      "description": "",
-      "pubDate": "2026-11-12T11:11:39+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
-    },
-    {
-      "title": "高価な制服から『標準服』へ…1万円安くなるかも　静岡市が3案公開「エスパルスみたいなオレンジ入りも　静岡市",
-      "link": "https://www.youtube.com/watch?v=KS-cwws5bSY",
-      "description": "",
-      "pubDate": "2026-11-12T10:56:42+00:00",
-      "source": "静岡朝日テレビ",
-      "category": "YouTube"
     },
     {
       "title": "【ライブ】雲仙普賢岳の西方の橘湾で活発な地震が発生！生放送で解説します！（2026年11月11日）",
