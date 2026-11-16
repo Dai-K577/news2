@@ -1,70 +1,86 @@
 {
-  "updated": "2026-11-16 19:15 JST",
-  "total": 139,
+  "updated": "2026-11-17 06:20 JST",
+  "total": 138,
   "news": [
     {
-      "title": "文科相のパーティー 会費は9万円",
-      "link": "https://news.yahoo.co.jp/pickup/6602811?source=rss",
+      "title": "3カ国会談巡り中国「戦勝国」強調",
+      "link": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 08:33:57 GMT",
+      "pubDate": "Mon, 16 Nov 2026 14:25:07 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ドコモ「5G SA」で障害 完全復旧",
-      "link": "https://news.yahoo.co.jp/pickup/6602807?source=rss",
+      "title": "はやぶさ2に不具合 目的地を変更",
+      "link": "https://news.yahoo.co.jp/pickup/6602844?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 08:04:49 GMT",
+      "pubDate": "Mon, 16 Nov 2026 14:00:45 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "タイムズカーの会員数 1.4万人減",
-      "link": "https://news.yahoo.co.jp/pickup/6602816?source=rss",
+      "title": "中野死亡 男は女性が勤める店の客",
+      "link": "https://news.yahoo.co.jp/pickup/6602848?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 09:17:39 GMT",
+      "pubDate": "Mon, 16 Nov 2026 14:51:54 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "尖圭コンジローマ 男性患者が増加",
-      "link": "https://news.yahoo.co.jp/pickup/6602812?source=rss",
+      "title": "元eggモデル殺害 過去に警察沙汰",
+      "link": "https://news.yahoo.co.jp/pickup/6602849?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 08:40:46 GMT",
+      "pubDate": "Mon, 16 Nov 2026 21:11:11 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "どう思う 夫婦のセパレート帰省",
-      "link": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
+      "title": "卵サンドつかむ客動画炎上 店説明",
+      "link": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 08:55:28 GMT",
+      "pubDate": "Mon, 16 Nov 2026 13:31:14 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "X-GUNさがね・まさひろ氏市議に",
-      "link": "https://news.yahoo.co.jp/pickup/6602808?source=rss",
+      "title": "矢野ら カープに謝罪求める要請書",
+      "link": "https://news.yahoo.co.jp/pickup/6602841?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 08:53:49 GMT",
+      "pubDate": "Mon, 16 Nov 2026 13:20:14 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "ゴルフ植竹希望 交通事故遭い欠場",
-      "link": "https://news.yahoo.co.jp/pickup/6602818?source=rss",
+      "title": "高橋一生が公演中に負傷 舞台中止",
+      "link": "https://news.yahoo.co.jp/pickup/6602834?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 09:43:34 GMT",
+      "pubDate": "Mon, 16 Nov 2026 12:44:03 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
     },
     {
-      "title": "俳優・中田乃愛さんが死去 23歳",
-      "link": "https://news.yahoo.co.jp/pickup/6602814?source=rss",
+      "title": "中田乃愛さん死去 テレ東など追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6602827?source=rss",
       "description": "",
-      "pubDate": "Mon, 16 Nov 2026 08:56:02 GMT",
+      "pubDate": "Mon, 16 Nov 2026 11:15:16 GMT",
       "source": "Yahoo!ニュース 主要",
       "category": "総合"
+    },
+    {
+      "title": "政府 19日の米中ロ首脳会談を注視",
+      "link": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
+      "description": "",
+      "pubDate": "Mon, 16 Nov 2026 10:16:28 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "コカイン摘発 過去最多更新ペース",
+      "link": "https://news.yahoo.co.jp/pickup/6602825?source=rss",
+      "description": "",
+      "pubDate": "Mon, 16 Nov 2026 11:00:04 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "日韓首脳 17日にフィリピンで会談",
@@ -83,10 +99,10 @@
       "category": "国内"
     },
     {
-      "title": "消費減税「効果小さい」63% 共同",
-      "link": "https://news.yahoo.co.jp/pickup/6602696?source=rss",
+      "title": "立憲 党職員への「退職勧奨」検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602838?source=rss",
       "description": "",
-      "pubDate": "Sun, 15 Nov 2026 08:51:34 GMT",
+      "pubDate": "Mon, 16 Nov 2026 13:20:34 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -107,22 +123,6 @@
       "category": "国内"
     },
     {
-      "title": "生活保護費改定 物価高の反映焦点",
-      "link": "https://news.yahoo.co.jp/pickup/6602714?source=rss",
-      "description": "",
-      "pubDate": "Sun, 15 Nov 2026 11:49:58 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "防衛省AI活用の基本方針 見直しへ",
-      "link": "https://news.yahoo.co.jp/pickup/6602704?source=rss",
-      "description": "",
-      "pubDate": "Sun, 15 Nov 2026 10:00:56 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
       "title": "どう思う 夫婦のセパレート帰省",
       "link": "https://news.yahoo.co.jp/pickup/6602815?source=rss",
       "description": "",
@@ -131,10 +131,10 @@
       "category": "国内"
     },
     {
-      "title": "米中露が会談へ 日本は蚊帳の外か",
-      "link": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
+      "title": "3カ国会談巡り中国「戦勝国」強調",
+      "link": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
       "description": "",
-      "pubDate": "Sun, 15 Nov 2026 04:19:08 GMT",
+      "pubDate": "Mon, 16 Nov 2026 14:25:07 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -195,10 +195,50 @@
       "category": "国際"
     },
     {
+      "title": "NHK Eテレ「いないいないばあっ！」ふうかちゃん、指輪見せ入籍報告　「末永くお幸せに」「ワンワン喜んでそう」",
+      "link": "https://www.j-cast.com/2026/11/16519176.html",
+      "description": "NHK Eテレの子供向け番組「いないいないばあっ！」に2003年4月から07年3月まで出演した、3代目女の子の「ふうかちゃん」こと原風佳さん（30）が26年11月11日、自身のインスタグラムを更新。入籍をしたことを報告した。",
+      "pubDate": "Mon, 16 Nov 2026 20:30:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "コンビニ卵サンドわしづかみ・炎上動画でサンドイッチ店「とばっちり」　客が勝手に撮影、店「指示・許可していない」",
+      "link": "https://www.j-cast.com/2026/11/16519223.html",
+      "description": "ボリュームのあるサンドイッチ店「こんなにデカいサンドイッチは反則だ」（大阪市）を紹介する動画がSNSで拡散し、批判の声が相次いでいる。",
+      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "石破茂前首相、採決退席非難に対し...苦渋の胸中　「自分は何のために議員になったのか」",
+      "link": "https://www.j-cast.com/2026/11/16519209.html",
+      "description": "衆議院本会議で食料品の消費税減税法案の採決を退席した石破茂前首相や小渕優子元経産相らへの非難が続いているが、石破氏は「苦渋の選択」だったことを2026年11月14日放送の「報道特集」（TBS系）で語った。",
+      "pubDate": "Mon, 16 Nov 2026 19:45:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "「日本が最大の被害者になりかねない」峯村健司氏は指摘...史上初の米中ロ首脳会談開催、日本を仲間外れに",
+      "link": "https://www.j-cast.com/2026/11/16519210.html",
+      "description": "中国で開催されるAPECに合わせて、米中ロ首脳会談が行われることになったとホワイトハウスの発表を受けて、2026年11月14日放送の「サタデーLIVE newsジグザグ」(読売テレビ・日本テレビ系）はこの会談が日本にどのような影響を及ぼすかを話題にした。",
+      "pubDate": "Mon, 16 Nov 2026 19:15:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "エヌビディアCEOの女性スパイ・不倫疑惑...中国スパイは、好み・タイプを研究し「わりと身近な人がアプローチする」と峯村健司氏",
       "link": "https://www.j-cast.com/2026/11/16519206.html",
       "description": "半導体大手企業エヌビディアのジェンスン・ファンCEOがスパイと疑われる中国人女性と不倫していたと報道された問題を取り上げた2026年11月12日放送の「ニュースto」(読売テレビ・日本テレビ系）で、出演したキヤノングローバル戦略研究所上席研究員の峯村健司さんが中国スパイの手口の一端を明かした。",
       "pubDate": "Mon, 16 Nov 2026 18:45:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
+      "link": "http://j-town.net/news/localnews/241949.html",
+      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
+      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -239,46 +279,6 @@
       "link": "http://j-town.net/news/localnews/241949.html",
       "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
       "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "「こんな露骨なペーパーは前代未聞」杉尾秀哉氏、TBS時代の「政権文書」振り返る",
-      "link": "https://www.j-cast.com/2026/11/16519202.html",
-      "description": "立憲民主党の杉尾秀哉参院議員が2026年11月15日、かつて自民党側からTBSに出された「選挙時期における報道の公平中立並びに公正の確保についてのお願い」とされる文書をめぐり、Xで当時を振り返った。元TBS記者の杉尾氏は「当時私はTBS報道局内にいました。この文書が発出されたときの衝撃は今でも忘れられません」と投稿。さらに「こんな露骨なペーパーは前代未聞」と評し、その後の放送法をめぐる「総務省文書",
-      "pubDate": "Mon, 16 Nov 2026 14:30:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "進撃のノア、ヒカルと結婚期間中の男性関係に言及　「世間からこのまま誤解されたままでいることが悔しい」",
-      "link": "https://www.j-cast.com/2026/11/16519198.html",
-      "description": "キャバクラ嬢で実業家の進撃のノアさんが2026年11月14日にインスタグラムを更新。元夫で人気YouTuberのヒカルさんとの「結婚期間中の男性関係について」言及した。",
-      "pubDate": "Mon, 16 Nov 2026 14:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "橋下徹氏、国民民主に政治資金規制強化を迫る　「定数削減賛成を人質に実現」か「口だけ番長の仲間入り」か",
-      "link": "https://www.j-cast.com/2026/11/16519203.html",
-      "description": "元大阪府知事の橋下徹氏が2026年11月15日、共同通信の世論調査で「政治とカネ」をめぐり、衆院議員定数の削減より政治資金の規制強化を優先すべきだと答えた人が67.1％に上ったとの記事を引用し、国民民主党の対応に注目した。",
-      "pubDate": "Mon, 16 Nov 2026 13:33:32 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "玉木雄一郎氏、Nスペ「中間層」特集に反応　「普通の人が報われていない」81％に危機感",
-      "link": "https://www.j-cast.com/2026/11/16519196.html",
-      "description": "国民民主党の玉木雄一郎代表が2026年11月15日、この日夜に放送されたNHKスペシャルが取り上げた中間層の暮らしをめぐる調査結果にXで言及した。「真面目に頑張っている普通の人が十分に報われていない」と考える人が約8割に上ったとして、「これは極めて深刻な数字だ」と危機感を示した。",
-      "pubDate": "Mon, 16 Nov 2026 12:45:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
-      "link": "http://j-town.net/news/localnews/241949.html",
-      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
-      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
       "source": "J-CAST会社ウォッチ",
       "category": "経済"
     },
@@ -295,14 +295,6 @@
       "link": "https://www.j-cast.com/trend/2026/11/16519166.html",
       "description": "プロ野球・横浜DeNAベイスターズは2026年11月16日～22日、「B-SIDE HOLIDAYS 2026 YOKOHAMA DeNA BAYSTARS Supported by 横濱ハーバー」を横浜・関内エリア一帯で開催する。従来のファンフェスティバルに代わる新イベントだ。",
       "pubDate": "Mon, 16 Nov 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
-      "title": "ソニー「MDR-3R」　初代ウォークマン付属ヘッドホンのコンセプトで再設計",
-      "link": "https://www.j-cast.com/trend/2026/11/15519145.html",
-      "description": "ソニーは、ヘッドホン「MDR-3R」を2026年11月20日に発売する。初代ウォークマン「TPS-L2」に付属されたヘッドホン「MDR-3」のコンセプトを継承し、現代のライフスタイルに合わせて再設計したという。",
-      "pubDate": "Sun, 15 Nov 2026 12:00:00 +0900",
       "source": "J-CASTトレンド",
       "category": "総合"
     },
@@ -875,6 +867,14 @@
       "category": "YouTube"
     },
     {
+      "title": "【片山さつき大臣が激怒か】※財務省さん、大丈夫ですか？※ 髙橋洋一さんが公共事業に関する財務省の大チョンボを話してくれました（虎ノ門ニュース切り抜き）",
+      "link": "https://www.youtube.com/watch?v=JfaNoDsPG6Q",
+      "description": "",
+      "pubDate": "2026-11-16T10:30:40+00:00",
+      "source": "虎ノ門ニュース",
+      "category": "YouTube"
+    },
+    {
       "title": "【財務省の悪事】オールドメディアや消費減税反対派のウソについて大蔵改革実務者の江田憲司さんが話してくれました。 江田憲司 × 須田慎一郎",
       "link": "https://www.youtube.com/watch?v=mFH-faX9F-A",
       "description": "",
@@ -947,90 +947,82 @@
       "category": "YouTube"
     },
     {
-      "title": "【虎ノ門ニュース】須田慎一郎×三橋貴明 2026/11/6(金)",
-      "link": "https://www.youtube.com/watch?v=q5x9FMHnNdo",
+      "title": "任期満了に伴う来年４月の浜松市長選挙　中野市長は年内にも進退を表明する考え",
+      "link": "https://www.youtube.com/watch?v=g8-HLsgrFUM",
       "description": "",
-      "pubDate": "2026-11-08T02:41:13+00:00",
-      "source": "虎ノ門ニュース",
-      "category": "YouTube"
-    },
-    {
-      "title": "給食センターのボイラー故障でおかず提供中止　静岡市内１１中学校１６日、１７日#shorts",
-      "link": "https://www.youtube.com/shorts/-mpftYvNLeo",
-      "description": "",
-      "pubDate": "2026-11-16T06:04:36+00:00",
+      "pubDate": "2026-11-16T11:32:42+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "秋の全国火災予防運動に合わせて消防フェスタが開かれる　静岡・伊豆の国市",
-      "link": "https://www.youtube.com/watch?v=dVq3_LyR_zA",
+      "title": "被害額は１億１０００万円　浜松市の男性が警察官などをかたる人物にだまし取られる",
+      "link": "https://www.youtube.com/watch?v=VVy0dVf3WaA",
       "description": "",
-      "pubDate": "2026-11-16T06:06:28+00:00",
+      "pubDate": "2026-11-16T10:50:07+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "高速道路での交通事故根絶を願って…高速道路に植えられたひまわりの種を引き継ぐイベントが開かれる　静岡県警",
-      "link": "https://www.youtube.com/watch?v=FAiS3lcWWGk",
+      "title": "全国一斉に和栗を味わうイベントが開かれる　全国３８の会場をオンラインで結び生産者の課題や食文化のつながりなどを共有",
+      "link": "https://www.youtube.com/watch?v=zRfzkU9GJY8",
       "description": "",
-      "pubDate": "2026-11-16T04:09:21+00:00",
+      "pubDate": "2026-11-16T10:54:06+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "学校給食センターでボイラーが故障　中学校で給食のおかずの提供が中止　静岡市が保護者におかずの持参を依頼",
-      "link": "https://www.youtube.com/watch?v=ITJp0bHtrKw",
+      "title": "ジャパンラグビーリーグワン開幕を前に…静岡ブルーレヴズの選手や監督らが磐田市の見付天神で必勝祈願",
+      "link": "https://www.youtube.com/watch?v=XR945Qmtm74",
       "description": "",
-      "pubDate": "2026-11-16T03:34:49+00:00",
+      "pubDate": "2026-11-16T12:25:32+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "車２台にはねられ４０歳男性死亡　富士山スカイライン#shorts",
-      "link": "https://www.youtube.com/shorts/txkwqeQH9tE",
+      "title": "「駿河湾の宝石」サクラエビ漁が解禁　不漁続きから一転今年は豊漁に",
+      "link": "https://www.youtube.com/watch?v=SmtYQs_3_fw",
       "description": "",
-      "pubDate": "2026-11-16T01:44:08+00:00",
+      "pubDate": "2026-11-16T15:40:33+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "キッチンカーで「カンパイ＆マルシェ」　食とスポーツを楽しむ　静岡市駿府城公園",
-      "link": "https://www.youtube.com/watch?v=i9zmSSYbjqg",
+      "title": "【山本期日前✖今野忍】とびっきり福岡⁉静岡から再選挙の現場へ…期日前渾身の福岡市長選ルポ！ここでしか聞けない詳報解説も／初の米中ロ首脳会談で新国際秩序？／公明国民とチキンゲーム？消費減税4つのシナリオ",
+      "link": "https://www.youtube.com/watch?v=_Txfb0uJf48",
       "description": "",
-      "pubDate": "2026-11-15T10:20:08+00:00",
+      "pubDate": "2026-11-16T19:55:47+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "キッチンカーで「カンパイ＆マルシェ」　食とスポーツを楽しむ　静岡市駿府城公園",
-      "link": "https://www.youtube.com/watch?v=GEKR6R2Lw8U",
+      "title": "年に１度の静岡県の総合防災訓練　能登半島地震や熊本地震の教訓を意識　道路の寸断や避難所の環境整備が課題",
+      "link": "https://www.youtube.com/watch?v=FmKJlEHBglM",
       "description": "",
-      "pubDate": "2026-11-15T10:02:29+00:00",
+      "pubDate": "2026-11-16T12:12:05+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "ヤマハがイギリスの映像演出技術会社を４６１億円で買収することを発表　浜松市",
-      "link": "https://www.youtube.com/watch?v=a9k0dHuizK0",
+      "title": "「防災学校は静岡県が非常に適している」鈴木知事が細野防災大臣らに誘致を表明",
+      "link": "https://www.youtube.com/watch?v=pF-_Is2LCbM",
       "description": "",
-      "pubDate": "2026-11-15T09:06:26+00:00",
+      "pubDate": "2026-11-16T14:32:25+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "南海トラフ地震を想定した静岡県の総合防災訓練　磐田市、袋井市、森町を会場に３００団体６万７５００人が参加",
-      "link": "https://www.youtube.com/watch?v=-PnpRsSPeUY",
+      "title": "事故の瞬間をドライブレコーダーが捉えた　静岡市の国道１号で乗用車とトラックが衝突",
+      "link": "https://www.youtube.com/watch?v=S8pe4ZeZFJ0",
       "description": "",
-      "pubDate": "2026-11-15T09:08:18+00:00",
+      "pubDate": "2026-11-16T19:01:16+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
     {
-      "title": "サッカー日本代表元監督のフィリップ・トルシエさんのトークショー＆ワイン「ＦＬＡＴ３」の試飲会 静岡市",
-      "link": "https://www.youtube.com/watch?v=bw-dQ2ebp20",
+      "title": "検察が元自衛官の男に死刑を求刑　静岡県菊川市で祖父母ら３人を殺害した罪に問われている裁判　静岡地裁浜松支部",
+      "link": "https://www.youtube.com/watch?v=4Nttmdo72SY",
       "description": "",
-      "pubDate": "2026-11-15T04:07:08+00:00",
+      "pubDate": "2026-11-16T10:37:12+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
