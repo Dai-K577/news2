@@ -1,108 +1,116 @@
 {
-  "updated": "2026-11-28 00:42 JST",
-  "total": 139,
+  "updated": "2026-11-28 09:45 JST",
+  "total": 138,
   "news": [
     {
+      "title": "気温変化 暖かい雨から冷たい雨へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604269?source=rss",
+      "description": "",
+      "pubDate": "Sat, 28 Nov 2026 00:13:15 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "政治資金パーティーの収入 37%増",
+      "link": "https://news.yahoo.co.jp/pickup/6604259?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 22:58:39 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "2遺体 不明生徒誘拐疑いで男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 23:20:33 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "邦人を売春させた疑い 韓国で捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6604254?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 23:08:30 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "「かっぱ寿司」なぜ赤字に転落",
+      "link": "https://news.yahoo.co.jp/pickup/6604250?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 22:26:15 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "高橋光成Dバックスと合意 米報道",
+      "link": "https://news.yahoo.co.jp/pickup/6604256?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 22:44:00 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "カブスが佐藤輝明と契約 正式発表",
+      "link": "https://news.yahoo.co.jp/pickup/6604265?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 23:41:14 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "北島三郎 白組演歌「0」に理解",
+      "link": "https://news.yahoo.co.jp/pickup/6604257?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 22:42:22 GMT",
+      "source": "Yahoo!ニュース 主要",
+      "category": "総合"
+    },
+    {
+      "title": "文科相の問責案否決 火種消えず",
+      "link": "https://news.yahoo.co.jp/pickup/6604258?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 22:51:18 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "基礎控除上乗せ見直し 先送り方針",
+      "link": "https://news.yahoo.co.jp/pickup/6604266?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 23:53:48 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "政治資金パーティーの収入 37%増",
+      "link": "https://news.yahoo.co.jp/pickup/6604259?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 22:58:39 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
       "title": "関氏18年食事会で300万円収入計上",
       "link": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
       "description": "",
       "pubDate": "Fri, 27 Nov 2026 14:08:54 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
+    },
+    {
+      "title": "気温変化 暖かい雨から冷たい雨へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604269?source=rss",
+      "description": "",
+      "pubDate": "Sat, 28 Nov 2026 00:13:15 GMT",
+      "source": "Yahoo!ニュース 国内",
+      "category": "国内"
     },
     {
       "title": "防衛相ら 献金報道巡り違法性否定",
       "link": "https://news.yahoo.co.jp/pickup/6604248?source=rss",
       "description": "",
       "pubDate": "Fri, 27 Nov 2026 15:15:52 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "露指示とされる破壊工作 欧州激化",
-      "link": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 08:37:30 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "山中に2遺体 1人は不明の高校生か",
-      "link": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 14:27:39 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "舞妓を狙う観光客の迷惑行為 拍車",
-      "link": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 13:00:25 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "米ネトフリ 日本作品への投資拡大",
-      "link": "https://news.yahoo.co.jp/pickup/6604237?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 12:24:12 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "Suicaペンギンの銅像 春にも撤去",
-      "link": "https://news.yahoo.co.jp/pickup/6604221?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 09:49:52 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "森下暢仁 去就巡り「悩んでいる」",
-      "link": "https://news.yahoo.co.jp/pickup/6604240?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 12:37:23 GMT",
-      "source": "Yahoo!ニュース 主要",
-      "category": "総合"
-    },
-    {
-      "title": "問責案否決 重く受け止めると関氏",
-      "link": "https://news.yahoo.co.jp/pickup/6604220?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 09:29:53 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "文科相の問責決議案 紙一重の否決",
-      "link": "https://news.yahoo.co.jp/pickup/6604218?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 09:13:14 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "関氏18年食事会で300万円収入計上",
-      "link": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 14:08:54 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "防衛相ら 献金報道巡り違法性否定",
-      "link": "https://news.yahoo.co.jp/pickup/6604248?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 15:15:52 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "関東など 朝にかけ大雨になる所も",
-      "link": "https://news.yahoo.co.jp/pickup/6604206?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 08:15:34 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -111,14 +119,6 @@
       "link": "https://news.yahoo.co.jp/pickup/6604235?source=rss",
       "description": "",
       "pubDate": "Fri, 27 Nov 2026 12:08:53 GMT",
-      "source": "Yahoo!ニュース 国内",
-      "category": "国内"
-    },
-    {
-      "title": "神崎武法さん死去 語ったCM内幕",
-      "link": "https://news.yahoo.co.jp/pickup/6604224?source=rss",
-      "description": "",
-      "pubDate": "Fri, 27 Nov 2026 10:32:28 GMT",
       "source": "Yahoo!ニュース 国内",
       "category": "国内"
     },
@@ -147,6 +147,14 @@
       "category": "国際"
     },
     {
+      "title": "ロシア 最新鋭の原潜を極東配備へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604264?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 23:47:07 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
       "title": "3カ国と加入交渉へ TPP閣僚会合",
       "link": "https://news.yahoo.co.jp/pickup/6604238?source=rss",
       "description": "",
@@ -163,18 +171,18 @@
       "category": "国際"
     },
     {
-      "title": "北朝鮮が露軍事支援停止か ウ発表",
-      "link": "https://news.yahoo.co.jp/pickup/6604122?source=rss",
-      "description": "",
-      "pubDate": "Thu, 26 Nov 2026 14:22:48 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
-    },
-    {
       "title": "インド最大野党 メタと政府を提訴",
       "link": "https://news.yahoo.co.jp/pickup/6604190?source=rss",
       "description": "",
       "pubDate": "Fri, 27 Nov 2026 06:23:19 GMT",
+      "source": "Yahoo!ニュース 国際",
+      "category": "国際"
+    },
+    {
+      "title": "邦人を売春させた疑い 韓国で捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6604254?source=rss",
+      "description": "",
+      "pubDate": "Fri, 27 Nov 2026 23:08:30 GMT",
       "source": "Yahoo!ニュース 国際",
       "category": "国際"
     },
@@ -187,12 +195,20 @@
       "category": "国際"
     },
     {
-      "title": "ECB総裁にデコス氏 EU首脳が合意",
-      "link": "https://news.yahoo.co.jp/pickup/6604124?source=rss",
-      "description": "",
-      "pubDate": "Thu, 26 Nov 2026 21:06:20 GMT",
-      "source": "Yahoo!ニュース 国際",
-      "category": "国際"
+      "title": "HKT48、1年7か月ぶり新曲で16歳・龍頭綺音を新センターに　満を持して抜擢、「バブ」からグループの顔へ",
+      "link": "https://www.j-cast.com/2026/11/28519463.html",
+      "description": "福岡市を拠点に活動するHKT48が、グループ結成15周年を迎えた2026年11月26日、福岡市民ホール（中央区）で昼夜2公演のコンサートを開いた。昼公演は、7月の大阪を皮切りに全5都市を巡ったツアーの最終公演の位置づけ。夜公演は15周年記念コンサートで、20枚目シングルを27年2月10日に発売すると発表した。25年7月の「半袖天使」以来、約1年7か月ぶりとなる。",
+      "pubDate": "Sat, 28 Nov 2026 09:30:14 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
+      "title": "麻央さんに似てる...？市川團十郎の15歳長女、私服プラベショットが超キュート　「麗禾お買い物...そんな年齢に」",
+      "link": "https://www.j-cast.com/2026/11/28519437.html",
+      "description": "歌舞伎役者の市川團十郎さんが2026年11月23日、自身のインスタグラムを更新。15歳長女・麗禾さん（市川ぼたん）と13歳長男・勸玄さん（市川新之助）の近況を報告した。",
+      "pubDate": "Sat, 28 Nov 2026 08:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
     },
     {
       "title": "hitomi、膝上ミニ丈ワンピ×ブーツで美貌ダダ漏れ　「これはかっこいい」「かっこ可愛いです」神スタイル炸裂",
@@ -219,6 +235,14 @@
       "category": "総合"
     },
     {
+      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
+      "link": "http://j-town.net/news/localnews/241949.html",
+      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
+      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
+      "source": "J-CASTニュース",
+      "category": "総合"
+    },
+    {
       "title": "江野朱美氏、「マンガワン問題」NGワード説を訂正　アプリ運営担当者が誤認",
       "link": "https://www.j-cast.com/2026/11/27519460.html",
       "description": "漫画家の江野朱美さんは2026年11月25日、小学館の漫画配信アプリ「マンガワン」のコメント欄をめぐる自身の投稿を訂正した。前日に「マンガワン問題」「小学館問題」がNGワードに設定されていると編集部から説明を受けたとしていたが、実際には設定されておらず、アプリ運営担当者の誤認に基づく説明だったという。小学館も取材に、「『マンガワン問題』『小学館問題』をNGワードに設定した事実はございません」と回答",
@@ -235,14 +259,6 @@
       "category": "総合"
     },
     {
-      "title": "日本唯一？「折り紙の自動販売機」...愛媛・内子町へ、全国から人がやってくる",
-      "link": "http://j-town.net/news/localnews/241949.html",
-      "description": "「折り紙」を販売する自動販売機がツイッター上で話題となっている。手裏剣やカエル、紙風船などが10～50円で買える。この折り紙を2008年から1人で折り続けている女性に、話を聞いた。レパートリーは数えきれないほど愛媛県内子町… 続きは「Jタウンネット」へ",
-      "pubDate": "Sun, 16 Apr 2017 11:00:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
       "title": "夫急逝の「恋ステ」出身なのかじ・青木菜花、新恋人の噂を真っ向否定　「一度も恋愛はしていません」",
       "link": "https://www.j-cast.com/2026/11/27519456.html",
       "description": "モデルの青木菜花（なのか）さんが、2026年11月21日にYouTubeを更新。新たに恋人ができたというインターネット上の憶測に言及した。",
@@ -255,22 +271,6 @@
       "link": "https://www.j-cast.com/2026/11/27519458.html",
       "description": "2027年3月末で卒業する「Suicaのペンギン」をめぐり、JR新宿駅新南改札前に設置されている「Suicaのペンギン」のブロンズ像の展示が、順次終了する予定であることが分かった。ブロンズ像が立つ「Suicaのペンギン広場」の名称も変わるという。JR東日本が26年11月26日、J-CASTニュースの取材に答えた。",
       "pubDate": "Fri, 27 Nov 2026 18:45:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "エハラマサヒロ「助けてください！！！」　3500万円かけた舞台、チケット150枚しか売れず",
-      "link": "https://www.j-cast.com/2026/11/27519455.html",
-      "description": "お笑いタレントのエハラマサヒロさんが2026年11月26日、自身が手がける舞台公演のチケット販売に苦戦していることをXで明かし、協力を呼びかけた。",
-      "pubDate": "Fri, 27 Nov 2026 18:30:00 +0900",
-      "source": "J-CASTニュース",
-      "category": "総合"
-    },
-    {
-      "title": "奥田芙美代氏、旧統一教会問題で野党にも矛先　「護憲派野党も大茶番」",
-      "link": "https://www.j-cast.com/2026/11/27519453.html",
-      "description": "いのちの党の奥田芙美代参院議員が2026年11月26日、世界平和統一家庭連合（旧統一教会）と政治家との関係をめぐり、Xで他の国会議員の姿勢に疑問を呈した。自民党だけでなく、憲法改正に反対する立場の野党議員にも批判の矛先を向け、「#護憲派野党も大茶番」とのハッシュタグを添えた。",
-      "pubDate": "Fri, 27 Nov 2026 18:00:00 +0900",
       "source": "J-CASTニュース",
       "category": "総合"
     },
@@ -295,14 +295,6 @@
       "link": "https://www.j-cast.com/trend/2026/11/27519422.html",
       "description": "腕時計および香り製品などを扱うウエニ貿易（東京都台東区）は、キャラクターコラボレーション専門「GARRACK（ギャラック）」ブランドから、アニメ「鬼滅の刃」が題材の機械式腕時計4モデルを2026年11月27日に発売。",
       "pubDate": "Fri, 27 Nov 2026 12:00:00 +0900",
-      "source": "J-CASTトレンド",
-      "category": "総合"
-    },
-    {
-      "title": "シャープのスタンダードスマホ「AQUOS sense11」　5000mAhバッテリー内蔵",
-      "link": "https://www.j-cast.com/trend/2026/11/26519391.html",
-      "description": "シャープは、スタンダードモデルという位置づけのスマートフォン「AQUOS sense11」を2026年11月26日に発売。",
-      "pubDate": "Thu, 26 Nov 2026 19:00:00 +0900",
       "source": "J-CASTトレンド",
       "category": "総合"
     },
@@ -958,7 +950,7 @@
       "title": "浜松・中野祐介市長が再選めざし来春の市長選に出馬の意向　12月4日の市議会で正式表明か",
       "link": "https://www.youtube.com/watch?v=_xcODsKKFk0",
       "description": "",
-      "pubDate": "2026-11-27T12:18:47+00:00",
+      "pubDate": "2026-11-27T17:46:51+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
@@ -1022,7 +1014,7 @@
       "title": "【高橋洋一が斬る】問責否決はアレの予行演習／防衛費56兆「あ〇じゃないの」戦争確率で独自試算「防災と防衛は保険であり投資」国債と預金金利の「言っちゃいけないこと」／また予測外した山本期日前をフォロー⁉",
       "link": "https://www.youtube.com/watch?v=D-ECZxBzJCw",
       "description": "",
-      "pubDate": "2026-11-27T13:48:35+00:00",
+      "pubDate": "2026-11-28T00:25:28+00:00",
       "source": "静岡朝日テレビ",
       "category": "YouTube"
     },
